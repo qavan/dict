@@ -1,0 +1,928 @@
+кич:adverb:каçхине
+кич:adverb:каçпа
+кич:adverb:каçалапа
+күк:adverb:пĕрех
+күк:adverb:епле
+күк:adverb:мĕнле
+хәзер:adverb:халĕ
+хәзер:adverb:кĕç
+иртә:adverb:халиччен
+иртә:adverb:унччен
+иртә:adverb:малтан
+иртә:adverb:маларах
+иртә:adverb:ĕлĕк
+кичә:adverb:ĕнер
+нар ни өчен:adverb:мӗншӗн
+нар ни өчен:adverb:мĕн тума
+нар ни өчен:adverb:мĕн пирки
+нар ни өчен:adverb:мĕншĕн
+шулай:adverb:çакнашкал
+шулай:adverb:çав
+шулай:adverb:çапла
+шунлыктан:adverb:çавăнпа
+башкача:adverb:урăхла
+башкача:adverb:унсăрăн
+тәмам:adverb:шалт
+тәмам:adverb:пач
+тәмам:adverb:пат
+тәмам:adverb:йăлт
+күптән түгел:adverb:паçăр
+күптән түгел:adverb:пĕркун
+аннан соң:adverb:унтан
+тирәсендә:adverb:яхăн
+тирәсендә:adverb:тавралла
+болай:adverb:çакнашкал
+болай:adverb:çав
+болай:adverb:çапла
+бервакыт:adverb:тахçан
+диярлек:adverb:пĕрех
+хәзер үк:adverb:çийĕнчех
+мәңгегә:adverb:яланлăха
+артка:adverb:хыçала
+артка:adverb:кутăн
+артка:adverb:каялла
+артка:adverb:кая
+яңадан:adverb:çĕнĕрен
+аска:adverb:аялалла
+аска:adverb:аяла
+өскә:adverb:çиеле
+өскә:adverb:çÿле
+нигә:adverb:мӗншӗн
+нигә:adverb:мĕн тума
+нигә:adverb:мĕн пирки
+нигә:adverb:мĕншĕн
+шаулы:adverb:шавлă
+шаулы:adverb:тĕркĕш
+янәшә:adverb:юнашар
+артта:adverb:хыçалта
+артта:adverb:кайран
+иртә белән:adverb:ирпе
+ләкин:adverb:шакăр
+ләкин:adverb:кăна
+ләкин:adverb:çеç
+ләкин:adverb:çапах
+ләкин:adverb:анчах
+шунда:adverb:унталла
+шунда:adverb:унта
+шунда:adverb:лере
+шунда:adverb:çавăнталла
+шунда:adverb:çавăнта
+шулкадәр:adverb:çав
+яңабаштан:adverb:малтан
+яңабаштан:adverb:çĕнĕрен
+ачуланып:adverb:хаяр
+ачуланып:adverb:çиллес
+ни сәбәптән:adverb:мӗншӗн
+ни сәбәптән:adverb:мĕн тума
+ни сәбәптән:adverb:мĕн пирки
+ни сәбәптән:adverb:мĕншĕн
+аннан:adverb:унтан
+аннан:adverb:лерен
+моннан:adverb:кунтан
+моннан:adverb:çакăнтан
+кечерәк:adverb:кая
+юкка:adverb:харам
+юкка:adverb:сăлтавсăр
+юкка:adverb:пустуй
+юкка:adverb:кăлăх
+түбәндә:adverb:аялта
+аста:adverb:аялта
+зуррак:adverb:ытла
+зуррак:adverb:ÿлĕмрен
+бәлки:adverb:тен
+бәлки:adverb:пулĕ
+астында:adverb:аялта
+гүзәл:adverb:шеп
+гүзәл:adverb:аван
+гүзәл:adverb:чаплă
+гадел:adverb:тÿрĕ
+гадел:adverb:тĕрĕс
+азат:adverb:уççăн
+азат:adverb:ирĕклĕ
+азат:adverb:ирĕк
+азат:adverb:çăмăллăн
+яман:adverb:патвар
+яман:adverb:парка
+яман:adverb:япăх
+ялкау:adverb:наян
+ялкау:adverb:мăран
+эссе:adverb:шăрăх
+эссе:adverb:хĕрÿллĕ
+эссе:adverb:вĕри
+югары:adverb:çÿлте
+шәп:adverb:шеп
+шәп:adverb:чаплă
+чиста:adverb:янкăр
+чиста:adverb:тирпейлĕ
+хәтәр:adverb:хăрушă
+чибәр:adverb:эреветлĕ
+чибәр:adverb:чечен
+чибәр:adverb:хитре
+чибәр:adverb:нĕрлĕ
+чибәр:adverb:капăр
+чибәр:adverb:илемлĕ
+чибәр:adverb:ĕлккен
+хуш:adverb:ырă
+хуш:adverb:савăк
+хуш:adverb:нĕрлĕ
+хосусый:adverb:ятарласа
+хосусый:adverb:ăрасна
+тыгыз:adverb:хĕсĕк
+тыгыз:adverb:тачă
+тыгыз:adverb:тăвăр
+тыгыз:adverb:ансăр
+тыгыз:adverb:шат
+тыгыз:adverb:питĕ
+хәвефле:adverb:хумханчăк
+хәвефле:adverb:канăçсăр
+уңышлы:adverb:ăнăçлă
+уңышлы:adverb:ÿсĕмлĕ
+үткер:adverb:хаяр
+үткер:adverb:çивĕч
+тупас:adverb:чурăс
+тупас:adverb:хăлăхсăр
+тупас:adverb:тÿрккес
+уңайлы:adverb:хăтлă
+уңайлы:adverb:меллĕ
+уңайлы:adverb:майлă
+уңайлы:adverb:канлĕ
+уңай:adverb:хăтлă
+уңай:adverb:меллĕ
+уңай:adverb:майлă
+уңай:adverb:канлĕ
+тыныч:adverb:тăнăç
+тыныч:adverb:тÿлек
+тыныч:adverb:лăпкăн
+тыныч:adverb:канлĕ
+тыныч:adverb:канас
+тыныч:adverb:канăçлă
+тыныч:adverb:мирлĕ
+тыныч:adverb:килĕшÿллĕ
+төгәл:adverb:шăп
+төгәл:adverb:пĕрех
+төгәл:adverb:çапла
+тиз:adverb:хăвăрттăн
+тиз:adverb:кĕç
+тиз:adverb:хытă
+тиз:adverb:сиккипе
+тиз:adverb:палт
+тиз:adverb:капăрах
+тиз:adverb:йăлттам
+тиз:adverb:васкавлăн
+тиз:adverb:васкаварлăн
+тиз:adverb:вăшт
+тиз:adverb:çăмăллăн
+тиз:adverb:йăпăрттăн
+тиз:adverb:йăпăрт
+тиз:adverb:алхапăл
+тигез:adverb:яка
+тигез:adverb:шăп
+тигез:adverb:тикĕс
+төпле:adverb:тарăн
+тирән:adverb:тарăн
+тирән:adverb:ассăн
+тәңгәл:adverb:манерлĕ
+тәңгәл:adverb:евĕрлĕ
+тәңгәл:adverb:евĕр
+тәвәккәл:adverb:татăклă
+тәвәккәл:adverb:пат
+таза:adverb:янкăр
+таза:adverb:тирпейлĕ
+саф:adverb:янкăр
+саф:adverb:тирпейлĕ
+сабыр:adverb:чăтăмлă
+сирәк:adverb:хушăран
+сирәк:adverb:сайраран
+очлы:adverb:хаяр
+очлы:adverb:çивĕч
+озак:adverb:чылайччен
+озак:adverb:темĕнччен
+озак:adverb:таттисĕр
+озак:adverb:пайтахчен
+озак:adverb:пайтах
+озак:adverb:вăрахчен
+сак:adverb:хуллен
+разый:adverb:хавас
+ныклы:adverb:хаяр
+ныклы:adverb:тĕреклĕ
+ныклы:adverb:йĕкер
+нык:adverb:хаяр
+нык:adverb:тĕреклĕ
+нык:adverb:йĕкер
+намуслы:adverb:тÿрĕ
+өзлексез:adverb:таттисĕр
+өзлексез:adverb:вĕçĕмсĕр
+мөлаем:adverb:кăмăллă
+мөлаем:adverb:çепĕç
+мөлаем:adverb:çемçен
+махсус:adverb:ятарласа
+махсус:adverb:ятарлă
+махсус:adverb:юри
+лаеклы:adverb:тивĕçлĕ
+кызу:adverb:шăрăх
+кызу:adverb:хĕрÿллĕ
+кызу:adverb:вĕри
+кыен:adverb:хĕсĕк
+кыен:adverb:тертлĕ
+кыен:adverb:сулмаклă
+кыен:adverb:лÿппер
+кыен:adverb:йывăр
+кыен:adverb:ассăн
+кыен:adverb:кансĕр
+куркыныч:adverb:шутсăр
+куркыныч:adverb:хăрушă
+кызганыч:adverb:шел
+күркәм:adverb:эреветлĕ
+күркәм:adverb:чечен
+күркәм:adverb:хитре
+күркәм:adverb:нĕрлĕ
+күркәм:adverb:капăр
+күркәм:adverb:илемлĕ
+күркәм:adverb:ĕлккен
+кыйбатлы:adverb:хаклă
+кыйбат:adverb:хаклă
+күңелле:adverb:хаваслă
+күңелле:adverb:савăнăçлă
+күңелле:adverb:савăк
+куе:adverb:йăвă
+куе:adverb:çăра
+кулай:adverb:хăтлă
+кулай:adverb:меллĕ
+кулай:adverb:майлă
+кулай:adverb:канлĕ
+кискен:adverb:палт
+кире:adverb:каялла
+кире:adverb:хыçала
+кире:adverb:кутăн
+кире:adverb:кая
+кечек:adverb:кăшт
+караңгы:adverb:тĕттĕм
+канәгать:adverb:хавас
+каты:adverb:патвар
+каты:adverb:парка
+каты:adverb:хаяр
+каты:adverb:тĕреклĕ
+каты:adverb:йĕкер
+кайнар:adverb:шăрăх
+кайнар:adverb:вĕри
+кайнар:adverb:хĕрÿллĕ
+кадерле:adverb:хаклă
+йомшак:adverb:çепĕç
+йомшак:adverb:çемçен
+йомшак:adverb:çемçе
+исән:adverb:час
+исән:adverb:хĕрÿ
+исән:adverb:йăрă
+искитәрлек:adverb:тĕлĕнмелле
+искитмәле:adverb:тĕлĕнмелле
+искиткеч:adverb:тĕлĕнмелле
+җәһәт:adverb:хытă
+җәһәт:adverb:хăвăрттăн
+җәһәт:adverb:сиккипе
+җәһәт:adverb:палт
+җәһәт:adverb:капăрах
+җәһәт:adverb:йăлттам
+җәһәт:adverb:васкавлăн
+җәһәт:adverb:васкаварлăн
+җәһәт:adverb:вăшт
+җәһәт:adverb:çăмăллăн
+җәһәт:adverb:йăпăрттăн
+җәһәт:adverb:йăпăрт
+җәһәт:adverb:алхапăл
+гаҗәп:adverb:тĕлĕнмелле
+бушлай:adverb:тÿлевсĕр
+бушлай:adverb:ахаль
+ачык:adverb:уçăмлă
+ачык:adverb:уçă
+ачык:adverb:уççăн
+ачык:adverb:тÿрех
+ачык:adverb:куçăн
+ачык:adverb:кĕрет
+акрын:adverb:хуллен
+акрын:adverb:вăраххăн
+акрын:adverb:вăрах
+анык:adverb:янкăр
+анык:adverb:янк
+анык:adverb:уяр
+анык:adverb:уççăн
+анык:adverb:паллах
+аерым:adverb:уйрăм
+аерым:adverb:ăрасна
+аерым:adverb:ятарласа
+тын:adverb:шăп
+тын:adverb:хуллен
+тын:adverb:тăнăç
+тын:adverb:тÿлек
+тын:adverb:лăпкăн
+тын:adverb:лăпкă
+тын:adverb:лăп
+тын:adverb:ерипе
+тын:adverb:вăраххăн
+тын:adverb:шăппăн
+кит:adverb:акă
+кит:adverb:авă
+әүвәл:adverb:халиччен
+әүвәл:adverb:унччен
+әүвәл:adverb:малтан
+әүвәл:adverb:маларах
+әүвәл:adverb:ĕлĕк
+былтыр:adverb:пĕлтĕр
+иртән:adverb:ирпе
+янәдән:adverb:çĕнĕрен
+юри:adverb:юри
+быел:adverb:кăçал
+быел:adverb:кăçăл
+бая:adverb:паçăр
+бая:adverb:пĕркун
+шуңа күрә:adverb:çавăнпа
+элгәре:adverb:халиччен
+элгәре:adverb:унччен
+элгәре:adverb:малтан
+элгәре:adverb:маларах
+элгәре:adverb:ĕлĕк
+шунда ук:adverb:тÿрех
+шунда ук:adverb:çийĕнчех
+шунда ук:adverb:харăс
+шунда ук:adverb:кашăл
+шунда ук:adverb:алхапăл
+шактый:adverb:чылай
+шактый:adverb:самай
+һич:adverb:янк
+һич:adverb:пач
+һич:adverb:пат
+һич:adverb:йăлт
+шуннан соң:adverb:унтан
+чынлап:adverb:чăннипе
+чынлап:adverb:чăнласа
+чынлап:adverb:тĕрĕссипе
+һәркайчан:adverb:ялан
+һәркайчан:adverb:пĕрмай
+һәркайчан:adverb:ялан
+һәрвакыт:adverb:тăтăш
+һәрвакыт:adverb:тăршшĕпе
+һәрвакыт:adverb:пĕрмай
+һәрвакыт:adverb:пĕрехмай
+һәрвакыт:adverb:ялан
+һәрвакыт:adverb:ялан
+һәрвакыттагыча:adverb:яланхилле
+кабат:adverb:çĕнĕрен
+нибары:adverb:пурĕ
+кырт:adverb:палт
+гел:adverb:тăтăш
+гел:adverb:тăршшĕпе
+гел:adverb:пĕрмай
+гел:adverb:пĕрехмай
+гадәттәгечә:adverb:яланхилле
+гаять:adverb:ытах
+гаять:adverb:шутсăр
+гаять:adverb:пите
+гаять:adverb:питĕ ii
+гаять:adverb:ăравасăр
+гына:adverb:шакăр
+гына:adverb:кăна
+гына:adverb:çеç
+кайчак:adverb:сайраран
+кайвакыт:adverb:сайраран
+беркадәр:adverb:пăртак
+беркадәр:adverb:кăшт
+бераз:adverb:пăртак
+бераз:adverb:кăшт
+әкрен генә:adverb:майĕпен
+әкрен генә:adverb:ерипе
+әкрен генә:adverb:хуллен
+әкрен генә:adverb:вăраххăн
+әкрен генә:adverb:вăрах
+дыр:adverb:ахăр
+хәзергә:adverb:хальлĕхе
+гаҗәеп:adverb:тĕлĕнмелле
+бөтенләй:adverb:пĕтĕмпе
+бөтенләй:adverb:пĕтĕм
+бөтенләй:adverb:янк
+бөтенләй:adverb:пач
+бөтенләй:adverb:пат
+бөтенләй:adverb:йăлт
+бөтенләй:adverb:шалт
+тиздән:adverb:хăвăрттăн
+тиздән:adverb:кĕç
+бигрәк:adverb:ытлашши
+бигрәк:adverb:ытла
+бигрәк:adverb:ытах
+баштан:adverb:малтан
+баштан:adverb:çĕнĕрен
+алга таба:adverb:малалла
+бишбылтыр:adverb:авал
+бергәләп:adverb:пĕрле
+аннары:adverb:унтан
+аннары:adverb:малалла
+алда:adverb:халиччен
+алда:adverb:унччен
+алда:adverb:малтан
+алда:adverb:маларах
+алда:adverb:ĕлĕк
+алда:adverb:малалла
+алда:adverb:малта
+тик:adverb:шакăр
+тик:adverb:кăна
+тик:adverb:çеç
+соңыннан:adverb:хыççăн
+алдан:adverb:ĕлĕк
+һаман:adverb:ялан
+һаман:adverb:пĕрмай
+һаман:adverb:ялан
+тулысынча:adverb:янк
+тулысынча:adverb:пĕтĕмпе
+тагын:adverb:çĕнĕрен
+тагын:adverb:каллех
+нәкъ:adverb:шăп
+нәкъ:adverb:пĕрех
+нәкъ:adverb:çапла
+күптәннән:adverb:тахçантан
+күптәннән:adverb:самайран
+күптәннән:adverb:нумайранпа
+күптәннән:adverb:авалтан
+күптәннән:adverb:ĕлĕкрен
+кичен:adverb:каçхине
+кичен:adverb:каçпа
+кичен:adverb:каçалапа
+очраклы рәвештә:adverb:ăнсăртран
+күрәсең:adverb:ахăр
+күрәсең:adverb:ахăртнех
+күпләп:adverb:пысăккăн
+кайчакта:adverb:сайраран
+инде:adverb:ĕнтĕ
+аз гына:adverb:чут
+аз гына:adverb:пăртак
+аз гына:adverb:кăшт
+әлегә:adverb:хальлĕхе
+җәяү:adverb:çуран
+кебек:adverb:манерлĕ
+кебек:adverb:евĕрлĕ
+кебек:adverb:евĕр
+кебек:adverb:пĕрех
+кебек:adverb:епле
+кебек:adverb:мĕнле
+ары:adverb:малалла
+ни өчен:adverb:мӗншӗн
+ни өчен:adverb:мĕншĕн
+ник:adverb:мӗншӗн
+ник:adverb:мĕн тума
+ник:adverb:мĕн пирки
+ник:adverb:мĕншĕн
+шикелле:adverb:манерлĕ
+шикелле:adverb:евĕрлĕ
+шикелле:adverb:евĕр
+сыман:adverb:пĕрех
+сыман:adverb:епле
+сыман:adverb:мĕнле
+буларак:adverb:пĕрех
+буларак:adverb:епле
+буларак:adverb:мĕнле
+буенча:adverb:тăрăхла
+буенча:adverb:тăрăх
+буенча:adverb:майăн
+каршы:adverb:хирĕç
+арт:adverb:хыçалта
+арт:adverb:кая
+арт:adverb:кайран
+арт:adverb:кайра
+әйбәт:adverb:юрăхлă
+әйбәт:adverb:ырă
+әйбәт:adverb:путлĕ
+әйбәт:adverb:привет
+әйбәт:adverb:лайăх
+бире:adverb:кунталла
+бире:adverb:кунта
+куәтле:adverb:тĕреклĕ
+куәтле:adverb:патвар
+көчле:adverb:патвар
+көчле:adverb:парка
+ялгыш:adverb:йăнăш
+кайдан:adverb:ӑҫта
+кайдан:adverb:ăçтан
+беркайчан да:adverb:нихçан
+рәхәт:adverb:ырă
+рәхәт:adverb:савăк
+рәхәт:adverb:нĕрлĕ
+ягымлы:adverb:кăмăллă
+ягымлы:adverb:çепĕç
+ягымлы:adverb:çемçен
+матур:adverb:эреветлĕ
+матур:adverb:чечен
+матур:adverb:хитре
+матур:adverb:нĕрлĕ
+матур:adverb:капăр
+матур:adverb:илемлĕ
+матур:adverb:ĕлккен
+якынча:adverb:чуххăм
+горур:adverb:мăнаçлă
+янә:adverb:каллех
+һәркайда:adverb:шав
+кайда:adverb:ӑҫта
+кайда:adverb:ăçтан
+кайда:adverb:ăçталла
+кайда:adverb:ăçта
+әлбәттә:adverb:паллах
+бүген:adverb:dnes
+мәсәлән:adverb:сăмахран
+бик:adverb:ытлашши
+бик:adverb:ытла
+бик:adverb:ытах
+бик:adverb:чылай
+бик:adverb:самай
+бик:adverb:ытах
+бик:adverb:шутсăр
+бик:adverb:пите
+бик:adverb:питĕ ii
+бик:adverb:ăравасăр
+күптән:adverb:чылайранпа
+күптән:adverb:нумайранпа
+күптән:adverb:ĕлĕк
+бергә:adverb:пĕрле
+янында:adverb:çывăхра
+усал:adverb:хаяр
+усал:adverb:çиллес
+усал:adverb:сиен
+усал:adverb:сарăп
+усал:adverb:сăтăр
+kiçä:adverb:ĕнер
+авыр:adverb:хĕсĕк
+авыр:adverb:тертлĕ
+авыр:adverb:кансĕр
+авыр:adverb:йывăр
+авыр:adverb:сулмаклă
+авыр:adverb:лÿппер
+авыр:adverb:ассăн
+ул җирдә:adverb:лере
+ул җирдә:adverb:çавăнта
+ул җирдә:adverb:унта
+җиңел:adverb:уççăн
+җиңел:adverb:çăмăллăн
+җиңел:adverb:çăмăл
+җиңел:adverb:çÿхе
+яхшы:adverb:юрăхлă
+яхшы:adverb:ырă
+яхшы:adverb:путлĕ
+яхшы:adverb:привет
+яхшы:adverb:лайăх
+кая:adverb:ӑҫта
+кая:adverb:ăçта
+уң:adverb:сылтăмран
+буш:adverb:çара
+тегендә:adverb:унталла
+тегендә:adverb:унта
+тегендә:adverb:лере
+тегендә:adverb:çавăнталла
+тегендә:adverb:çавăнта
+яшерен:adverb:вăрттăн
+yarıy:adverb:ахăр
+yarıy:adverb:тен
+үткен:adverb:хаяр
+үткен:adverb:çивĕч
+тар:adverb:хĕсĕк
+тар:adverb:тачă
+тар:adverb:тăвăр
+тар:adverb:ансăр
+әйе:adverb:çакнашкал
+әйе:adverb:çав
+әйе:adverb:çапла
+дөрес:adverb:шăп
+дөрес:adverb:пĕрех
+дөрес:adverb:çапла
+дөрес:adverb:шанчăклă
+дөрес:adverb:тĕрĕс
+bälki:adverb:ахăр
+bälki:adverb:тен
+якын:adverb:юнашар
+якын:adverb:çывахран
+якын:adverb:çывăхра
+якын:adverb:çывăх
+ничек:adverb:мĕнле
+ничек:adverb:епле
+ничек:adverb:пĕрех
+ничек:adverb:епле
+киң:adverb:сарлака
+киң:adverb:анлă
+туры:adverb:яштак
+туры:adverb:тÿрех
+туры:adverb:тÿрĕ
+туры:adverb:йăрст
+туры:adverb:йăрăс
+шул җирдә:adverb:лере
+шул җирдә:adverb:çавăнта
+шул җирдә:adverb:унта
+еш:adverb:тăтăш
+еш:adverb:йăвă
+еш:adverb:çăра
+суык:adverb:сивлек
+суык:adverb:сиввĕн
+суык:adverb:сивĕ
+борын:adverb:ĕлĕк
+монда:adverb:кунталла
+монда:adverb:кунта
+начар:adverb:япăх
+әкрен:adverb:çепĕç
+әкрен:adverb:çемçен
+әкрен:adverb:хуллен
+әкрен:adverb:вăраххăн
+әкрен:adverb:вăрах
+бу:adverb:çакăнта
+бу:adverb:кунта
+кыска:adverb:шакла
+кыска:adverb:кĕске
+коры:adverb:типĕ
+салкын:adverb:сивлек
+салкын:adverb:сиввĕн
+салкын:adverb:сивĕ
+ixtimal:adverb:ахăр
+ixtimal:adverb:тен
+теге:adverb:лере
+теге:adverb:çавăнта
+теге:adverb:унта
+шул:adverb:çакнашкал
+шул:adverb:çав
+шул:adverb:çапла
+шул:adverb:унтан
+шул:adverb:лерен
+биек:adverb:çÿлте
+ерак:adverb:катара
+ерак:adverb:катана
+ерак:adverb:инçе
+анда:adverb:лере
+анда:adverb:çавăнта
+анда:adverb:унта
+аз:adverb:хушăран
+аз:adverb:сайраран
+аз:adverb:кăшт
+уң:nonetype:сылтăмран
+ничек:nonetype:епле
+ничек:nonetype:мĕнле
+кайдан:nonetype:ӑҫта
+кайдан:nonetype:ăçтан
+кайда:adverb:ӑҫта
+кайда:adverb:ăçтан
+хәзер:adverb:халĕ
+башкача:nonetype:унсăрăн
+башкача:nonetype:урăхла
+шунда ук:nonetype:тÿрех
+шунда ук:nonetype:çийĕнчех
+шунда ук:nonetype:кашăл
+шунда ук:nonetype:алхапăл
+шунда ук:nonetype:харăс
+бервакыт:nonetype:тахçан
+хәзер үк:nonetype:çийĕнчех
+мәңгегә:nonetype:яланлăха
+тик:nonetype:кăна
+тик:nonetype:тин
+тик:nonetype:çеç
+бары:nonetype:кăна
+бары:nonetype:тин
+бары:nonetype:çеç
+өскә:nonetype:çÿле
+өскә:nonetype:çиеле
+аска:nonetype:аялалла
+аска:nonetype:аяла
+зуррак:nonetype:ытла
+нар ни өчен:nonetype:мӗншӗн
+нигә:nonetype:мӗншӗн
+моннан:nonetype:кунтан
+моннан:nonetype:çакăнтан
+ниһаять:nonetype:юлашкинчен
+ахырда:nonetype:юлашкинчен
+кечерәк:nonetype:кая
+юкка:nonetype:пустуй
+түбәндә:nonetype:аялта
+астында:nonetype:аялта
+аста:nonetype:аялта
+зуррак:nonetype:ÿлĕмрен
+зуррак:nonetype:ытларах
+ди:nonetype:ӗнер
+хәзер:adverb:кĕç
+былтыр:adverb:пĕлтĕр
+күптән түгел:nonetype:паçăр
+күптән түгел:nonetype:пĕркун
+бая:adverb:паçăр
+бая:adverb:пĕркун
+иртән:adverb:ир
+иртә белән:nonetype:ир
+юри:adverb:юри
+быел:adverb:кăçал
+быел:adverb:кăçăл
+шунда ук:adverb:çийĕнчех
+шактый:adverb:самай
+шактый:adverb:чылай
+бик:adverb:самай
+бик:adverb:чылай
+чынлап:adverb:чăннипе
+чынлап:adverb:чăнласа
+чынлап:adverb:тĕрĕссипе
+һәрвакыттагыча:adverb:яланхилле
+янә:adverb:каллех
+янә:adverb:тата
+тагын:adverb:каллех
+тагын:adverb:тата
+тулысынча:adverb:пĕтĕмпе
+тулысынча:adverb:янк
+күптәннән:adverb:самайран
+күптәннән:adverb:ĕлĕкрен
+күптәннән:adverb:авалтан
+күптәннән:adverb:нумайранпа
+күптәннән:adverb:тахçантан
+күпләп:adverb:пысăккăн
+җәяү:adverb:çуран
+яңадан:nonetype:каллех
+яңадан:nonetype:тепре
+яңадан:nonetype:çĕнĕрен
+яңадан:nonetype:тата
+янәдән:adverb:каллех
+янәдән:adverb:тепре
+янәдән:adverb:çĕнĕрен
+янәдән:adverb:тата
+тагын:adverb:тепре
+тагын:adverb:çĕнĕрен
+кабат:adverb:каллех
+кабат:adverb:тепре
+кабат:adverb:çĕнĕрен
+кабат:adverb:тата
+иртәгә:adverb:ыран
+һәрвакыт:adverb:пĕрмай
+һәрвакыт:adverb:ялан
+гел:adverb:пĕрмай
+гел:adverb:ялан
+гадәттәгечә:adverb:яланхилле
+бик:adverb:ытах
+бик:adverb:ытла
+бик:adverb:ытлашши
+бигрәк:adverb:ытах
+бигрәк:adverb:ытла
+бигрәк:adverb:ытлашши
+тик:adverb:кăна
+тик:adverb:тин
+тик:adverb:çеç
+тик:adverb:шакăр
+ләкин:nonetype:кăна
+ләкин:nonetype:тин
+ләкин:nonetype:çеç
+ләкин:nonetype:шакăр
+бары:nonetype:шакăр
+barı:nonetype:кăна
+barı:nonetype:тин
+barı:nonetype:çеç
+barı:nonetype:шакăр
+аз:adverb:сайраран
+аз:adverb:хушăран
+һич:adverb:йăлт
+һич:adverb:пач
+һич:adverb:пат
+һич:adverb:шалт
+һич:adverb:янк
+бөтенләй:adverb:йăлт
+бөтенләй:adverb:пач
+бөтенләй:adverb:пат
+бөтенләй:adverb:шалт
+бөтенләй:adverb:янк
+кайчакта:adverb:сайраран
+кайчак:adverb:сайраран
+кайвакыт:adverb:сайраран
+яңабаштан:nonetype:çĕнĕрен
+яңабаштан:nonetype:малтан
+баштан:adverb:çĕнĕрен
+баштан:adverb:малтан
+ары:adverb:малалла
+бөтенләй:adverb:пĕтĕмпе
+бөтенләй:adverb:пĕтĕм
+бишбылтыр:adverb:авал
+шуннан соң:adverb:унтан
+аннары:adverb:унтан
+аннан соң:nonetype:унтан
+аннары:adverb:малалла
+алга таба:adverb:малалла
+алда:adverb:малта
+алда:adverb:малалла
+әкрен генә:adverb:ерипе
+әкрен генә:adverb:майĕпен
+аз гына:adverb:чут
+аннан:nonetype:лерен
+аннан:nonetype:унтан
+ник:adverb:мӗншӗн
+ник:adverb:мĕн тума
+ник:adverb:мĕн пирки
+ник:adverb:ма
+ник:adverb:мĕншĕн
+нигә:nonetype:мĕн тума
+нигә:nonetype:мĕн пирки
+нигә:nonetype:ма
+нигә:nonetype:мĕншĕн
+ни сәбәптән:nonetype:мӗншӗн
+ни сәбәптән:nonetype:мĕн тума
+ни сәбәптән:nonetype:мĕн пирки
+ни сәбәптән:nonetype:ма
+ни сәбәптән:nonetype:мĕншĕн
+нар ни өчен:nonetype:мĕн тума
+нар ни өчен:nonetype:мĕн пирки
+нар ни өчен:nonetype:ма
+нар ни өчен:nonetype:мĕншĕн
+шуннан соң:adverb:кайран
+аннары:adverb:кайран
+ни өчен:nonetype:мӗншӗн
+ни өчен:nonetype:ма
+ни өчен:nonetype:мĕншĕн
+әүвәл:adverb:ĕлĕк
+әүвәл:adverb:халиччен
+әүвәл:adverb:маларах
+әүвәл:adverb:унччен
+әүвәл:adverb:малтан
+элгәре:adverb:ĕлĕк
+элгәре:adverb:халиччен
+элгәре:adverb:маларах
+элгәре:adverb:унччен
+элгәре:adverb:малтан
+алда:nonetype:ĕлĕк
+алда:nonetype:халиччен
+алда:nonetype:маларах
+алда:nonetype:унччен
+алда:nonetype:малтан
+yarıy:nonetype:ахăр
+ixtimal:nonetype:ахăр
+bälki:nonetype:ахăр
+беркайчан да:adverb:нихçан
+һәркайда:nonetype:шав
+һәркайчан:adverb:пĕрмай
+һәркайчан:adverb:ялан
+һаман:adverb:пĕрмай
+һаман:adverb:ялан
+имуруз:nonetype:dnes
+имуруз:nonetype:паян
+бүген:adverb:dnes
+бүген:adverb:паян
+гаять:adverb:пите
+гаять:adverb:шутсăр
+гаять:adverb:ăравасăр
+гаять:adverb:ытах
+гаять:adverb:питĕ ii
+гаять:adverb:ытла
+бик:adverb:пите
+бик:adverb:шутсăр
+бик:adverb:ăравасăр
+бик:adverb:питĕ ii
+күптән:adverb:ĕлĕк
+күптән:adverb:чылайранпа
+күптән:adverb:нумайранпа
+шунлыктан:nonetype:çавăнпа
+şuña kürä:nonetype:çавăнпа
+şunıñ öçen:nonetype:çавăнпа
+monıñ öçen:nonetype:çавăнпа
+ярар:nonetype:аван
+ярар:nonetype:лайăх
+читен:nonetype:йывăр
+шунда:nonetype:çавăнта
+шунда:nonetype:унта
+шунда:nonetype:лере
+шунда:nonetype:унталла
+шунда:nonetype:çавăнталла
+тегендә:nonetype:çавăнта
+тегендә:nonetype:унта
+тегендә:nonetype:лере
+тегендә:nonetype:унталла
+тегендә:nonetype:çавăнталла
+тыгыз:nonetype:ансăр
+бире:adverb:кунталла
+монда:nonetype:кунталла
+әкрен генә:adverb:хуллен
+дөрес:nonetype:тĕрĕс
+кичә:adverb:ӗнер
+kiçä:adverb:ӗнер
+кайда:adverb:ăçталла
+ohoteka:nonetype:пайтах
+ohon:nonetype:пайтах
+беркадәр:adverb:пăртак
+бераз:adverb:пăртак
+аз гына:adverb:пăртак
+монда:nonetype:çакăнта
+бу җирдә:nonetype:çакăнта
+биредә:nonetype:çакăнта
+tokenaq:nonetype:чух
+yaq:nonetype:çавăнта
+yaq:nonetype:унта
+yaq:nonetype:лере
+kowa:nonetype:çавăнта
+kowa:nonetype:унта
+kowa:nonetype:лере
+hewa:nonetype:çавăнта
+hewa:nonetype:унта
+hewa:nonetype:лере
+ney:nonetype:çакăнта
+newa:nonetype:çакăнта
+ley:nonetype:çакăнта
+yarıy:nonetype:тен
+ixtimal:nonetype:тен
+bälki:nonetype:тен
+кайчан:adverb:чух
+шул җирдә:nonetype:çавăнта
+шул җирдә:nonetype:унта
+шул җирдә:nonetype:лере
+ул җирдә:nonetype:çавăнта
+ул җирдә:nonetype:унта
+ул җирдә:nonetype:лере
+анда:nonetype:çавăнта
+анда:nonetype:унта
+анда:nonetype:лере

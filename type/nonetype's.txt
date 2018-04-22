@@ -1,0 +1,1325 @@
+тәүлек:nonetype:кун
+фил:nonetype:пил йышшисем
+singarmonizm:nonetype:сингармонизм
+баштагы функция:nonetype:функцин умсăнарĕ
+билгеләмә:nonetype:палăртав
+иртәнге аш:nonetype:ирхи апат
+лава:nonetype:лава
+котыру авыруы:nonetype:тилĕрӳ
+томан:nonetype:янкар
+томан:nonetype:лăм
+томан:nonetype:тĕтре
+әйләнә:nonetype:ункă
+әйләнә:nonetype:кăшăл
+әйләнә:nonetype:çаврашка
+әйләнә:nonetype:çавра
+relikt nurlanış:nonetype:реликт пайăрки
+бөртекле культуралар:nonetype:кĕрпе
+тенессин:nonetype:унунсепти
+сары авыруы:nonetype:сарамак
+өстәлгән кыйммәткә салым:nonetype:хушма хак çине хуракан налук
+келәт:nonetype:кĕлет
+карабалык:nonetype:хура карас
+абагасыманнар:nonetype:упа курăк йышĕ
+комбинаторика:nonetype:комбинаторика
+үле тел:nonetype:çухалнă чĕлхе
+күзлек:nonetype:куçлăх
+поши:nonetype:пăши
+яшен:nonetype:çиçĕм
+президент:nonetype:патшалăх пуçлăхĕ
+räsmi tel:nonetype:патшалăх чĕлхи
+көн:nonetype:кун
+дары:nonetype:тар
+классик механика:nonetype:классикăлла механика
+әргәник химия:nonetype:органикăллă хими
+хакыйкать:nonetype:чăнлăх
+хакыйкать:nonetype:чăн
+хакыйкать:nonetype:тĕрĕслĕх
+күз:nonetype:куç
+гөмбәләр:nonetype:кăмпа
+армспорт:nonetype:армрестлинг
+etnoxoronim:nonetype:этнохороним
+туплы хокее:nonetype:пӳскеллĕ хоккей
+агломерация:nonetype:хула агломерацийĕ
+һанария:nonetype:гонорея
+экзопланета:nonetype:экзопланета
+балчык:nonetype:тăм
+алкалы һоккей:nonetype:шайбăллă хоккей
+сидек:nonetype:шăк
+ğälämi apparat:nonetype:космос карапĕ
+җанисәп:nonetype:çырав
+көзге:nonetype:тĕкĕр
+ондатра:nonetype:ондатра
+ekvator:nonetype:экватор
+вилаять:nonetype:вилоят
+селтеле металлар:nonetype:сĕлтĕ металсем
+рим папасы:nonetype:рим паппи
+бидс:nonetype:еидп
+söt:nonetype:сĕт
+кеше анатумиясе:nonetype:çын анатомийĕ
+ут:nonetype:çутă
+московий:nonetype:унунпенти
+сыер:nonetype:ĕне
+сыер:nonetype:nʉmʉ
+аракы:nonetype:водка
+сугыш:nonetype:вăрçă
+сугыш:nonetype:война
+әбиләр чуагы:nonetype:ват ăшши
+ак куян:nonetype:шурă мулкач
+диалектология:nonetype:диалектологи
+дальтонизм:nonetype:дальтонизм
+диҗей:nonetype:диджей
+таба:nonetype:çатма
+сандал (җиһаз):nonetype:сунтал
+үпкә яман шеше:nonetype:ӳпке ракĕ
+оекбаш:nonetype:чăлха
+борынгы дөнья:nonetype:авалхи тĕнче
+тургай кошлар:nonetype:тăри йышшисем
+функция чыгарылмасы:nonetype:функцин тухсатăранĕ
+парсек:nonetype:парçек
+бал:nonetype:пыл
+хокук:nonetype:тивĕçлĕ ирĕклĕх
+хокук:nonetype:тивĕç
+үзәк эшкәрткеч җайланма:nonetype:процессор
+комета:nonetype:комета
+комета:nonetype:вутлă хӳре
+ниһоний:nonetype:нихоний
+шәһәр округы:nonetype:хулари тăрăх
+мөгезле эре терлек:nonetype:ĕне
+ачылмалы күпер:nonetype:уçăлакан кĕпер
+торак пункт:nonetype:пурăнан вырăн
+галәмнең инфляциясе:nonetype:космос инфляцийĕ
+җилембалык:nonetype:çыпçăнчăк пулă
+таможня:nonetype:тăмха çурчĕ
+эскич:nonetype:очерк
+намаз:nonetype:намаз
+ротацизм:nonetype:ротацизм
+кыйммәтле кәгазьләр базары:nonetype:тĕплĕх пасарĕ
+мәзһәб:nonetype:мазхабĕ
+этикет:nonetype:нисеп
+кывант химиясе:nonetype:квантăллă хими
+шыртлака:nonetype:кăртăш
+чабак:nonetype:чапак
+додекаэдр:nonetype:додекаэдр
+агглүтинатив тел:nonetype:аллюгативлă чĕлхесем
+кыйммәтле кәгазь:nonetype:хаклă хут
+баба:nonetype:кукамай
+келәм:nonetype:кавир
+интеграль хисап:nonetype:интеграллă шутлав
+корбан балыгы:nonetype:çупах
+кара тилгән:nonetype:хура хĕрен
+гривна:nonetype:гривна
+кызамык:nonetype:хĕрлĕхен
+harmonika:nonetype:тута купăсĕ
+ярымтаркалу периоды:nonetype:çурма аркану тапхăрĕ
+җәйге вакыт:nonetype:çуллахи вăхăт
+евклид фәзасы:nonetype:евклид уçлăхĕ
+югары дәрәҗәле домен:nonetype:çӳллĕ шайри домен
+танк:nonetype:танк
+шикәр авыруы:nonetype:сахăрлă диабет
+күгәрченнәр:nonetype:кăвакарчăн евĕрлисем
+менделеевның периодик таблицасы:nonetype:элементсен периодикăллă системи
+гади тиен:nonetype:пакша
+оганессон:nonetype:унунокти
+арыслан:nonetype:арăслан
+ат:nonetype:лаша
+arxeologik mädäniät:nonetype:археологи культури
+акшар:nonetype:акшар
+майма:nonetype:касанкă
+октаэдр:nonetype:октаэдр
+ашказаны яман шеше:nonetype:хырăмлăх ракĕ
+ашказаны җәрәхәте:nonetype:хырăмлăх çĕрни
+әтәлге:nonetype:этелĕк
+açlıq:nonetype:аслă выçăлăх
+зәңгелә:nonetype:цинга
+ак тишек:nonetype:шурă хăвăл
+чык:nonetype:лăм
+чык:nonetype:сывлăм
+армия:nonetype:çар
+ябалаксыманнар:nonetype:тăмана евĕррисем
+микалугия:nonetype:микологи
+квант физикасы:nonetype:квант физики
+теоретик механика:nonetype:теориллĕ механика
+архивис:nonetype:архивçă
+радияхимия:nonetype:радиохими
+strategik bombağa totuçı:nonetype:стратеги авиацийĕ
+үтүк:nonetype:утюг
+кәшеф:nonetype:ăслай
+балдыз:nonetype:акай
+янарал:nonetype:çар генералĕ
+халык:nonetype:халăх
+çoqır:nonetype:вар
+çoqır:nonetype:çыр
+çoqır:nonetype:çырма
+çoqır:nonetype:çыран
+әдәби тел:nonetype:литература чĕлхи
+дирбия:nonetype:лаша таврашĕ
+дирбия:nonetype:хырăмайлăх
+каенана:nonetype:хуняма
+варваризм:nonetype:варваризм
+яңа вакыт:nonetype:çĕнĕ самана
+әрме янаралы:nonetype:çар генералĕ
+орфоэпия:nonetype:орфоэпи
+ланч:nonetype:кăнтăр апачĕ
+җирле үзидарә:nonetype:вырăнти хăй тытăмлăх
+венесуэла:nonetype:венесуэла
+таҗикстан:nonetype:таджикистан
+урта азия:nonetype:тĕп ази
+таиланд:nonetype:таиланд
+польша:nonetype:польша
+парагвай:nonetype:парагвай
+фәлистыйн:nonetype:палестина
+люксембург:nonetype:люксембург
+каспий диңгезе:nonetype:каспий тинĕсĕ
+каспий диңгезе:nonetype:каспи тинĕсĕ
+камбоҗа:nonetype:камбоджа
+канберра:nonetype:канберра
+исраил:nonetype:израиль
+нидерландлар:nonetype:нидерланды
+нидерландлар:nonetype:нидерландсем
+гайана:nonetype:гайана
+фольклористика:nonetype:фольклористику
+эквадор:nonetype:эквадор
+борынгы рим:nonetype:авалхи рим
+чили:nonetype:чили
+истанбул:nonetype:стамбул
+бангладеш:nonetype:бангладеш
+әфганстан:nonetype:афганистан
+булса да:nonetype:хăть
+бусы:nonetype:леш
+бусы:nonetype:вǎл
+уку:nonetype:вĕренÿ
+яз:nonetype:ҫыран
+яз:nonetype:çыран
+яз:nonetype:çыр
+җиң:nonetype:юпă
+җиң:nonetype:çанă
+йөз:nonetype:çӗр
+йөз:nonetype:çĕр
+йөз:nonetype:ҫӗр
+марокко:nonetype:марокко
+ливан:nonetype:ливан
+йәмән:nonetype:йемен
+иран:nonetype:иран
+иран:nonetype:ислам республики иран
+иерусалим:nonetype:иерусалим
+җир:nonetype:çĕр
+җир:nonetype:ҫӗре
+җир:nonetype:тĕнче
+җир:nonetype:тăпра
+африка:nonetype:африка
+afrika:nonetype:африка
+гәүдә:nonetype:вилĕ ӳт
+гәүдә:nonetype:ÿт
+корпус:nonetype:вилĕ ӳт
+корпус:nonetype:ÿт
+мәет:nonetype:вилĕ ӳт
+мәет:nonetype:ÿт
+küz:nonetype:куç
+авыз:nonetype:çăвар
+awız:nonetype:çăвар
+сатурн:nonetype:сатурн
+стокгольм:nonetype:стокгольм
+ангола:nonetype:ангола
+пәрәвез:nonetype:тетел
+аурупа:nonetype:европӑ
+аурупа:nonetype:европа
+варшава:nonetype:варшава
+яңа зеландия:nonetype:çĕнĕ зеланди
+куба:nonetype:куба
+гана:nonetype:гана
+рәис:nonetype:патшалăх пуçлăхĕ
+галим:nonetype:тĕпчевçĕ
+рим:nonetype:рим
+нил:nonetype:нил
+гүзәл:nonetype:чипер
+гүзәл:nonetype:нĕрлĕ
+гүзәл:nonetype:кĕрнеклĕ
+япония:nonetype:япони
+швеция:nonetype:швеци
+монтенегро:nonetype:черногори
+төрекмәнстан:nonetype:туркмени
+нигерия:nonetype:нигери
+шотландия:nonetype:шотланди
+швейцария:nonetype:швейцари
+танзания:nonetype:танзани
+словакия:nonetype:словаки
+колумбия:nonetype:колумби
+малайзия:nonetype:малайзи
+мавритания:nonetype:мавритани
+исландия:nonetype:исланди
+үрдүн:nonetype:иордани
+молдавия:nonetype:молдави
+ливия:nonetype:ливи
+бөекбритания:nonetype:великобритани
+бөекбритания:nonetype:аслӑ британи
+бөекбритания:nonetype:аслă британи
+болгария:nonetype:болгари
+австрия:nonetype:австри
+венеция:nonetype:венеци
+боливия:nonetype:боливи
+бельгия:nonetype:бельги
+греция:nonetype:греци
+гренландия:nonetype:гренланди
+тартык:nonetype:хупă сасăсем
+ныклы:nonetype:татăклă
+ныклы:nonetype:хытă
+нык:nonetype:татăклă
+киеренке:nonetype:хĕрÿ
+каты:nonetype:хĕсĕк
+каты:nonetype:тертлĕ
+каты:nonetype:сулмаклă
+каты:nonetype:нушаллă
+каты:nonetype:лÿппер
+каты:nonetype:йывăр
+каты:nonetype:татăклă
+каты:nonetype:хытă
+гарәбстан ярымутравы:nonetype:арави çурутравĕ
+флеровий:nonetype:флерови
+ялта:nonetype:ялта
+берләшкән милләтләр оешмасы:nonetype:пӗрлешнӗ нацисен организацийӗ
+берләшкән милләтләр оешмасы:nonetype:пĕрлешнĕ нацисен организацийĕ
+урта көнчыгыш:nonetype:малти хĕвелтухăç
+ерак көнчыгыш:nonetype:инçетри хĕвелтухаç
+ерак көнчыгыш:nonetype:инçет хĕвелтухăç
+ерак көнчыгыш:nonetype:инçет тухăç
+андорра:nonetype:андорра
+амстердам:nonetype:амстердам
+керпе:nonetype:чĕрĕп
+таракан:nonetype:таракан
+структура:nonetype:структура
+структура:nonetype:тытăм
+төзелеш:nonetype:структура
+төзелеш:nonetype:тытăм
+йокы бүлмәсе:nonetype:çывăрмалли пӳлĕм
+йокы бүлмәсе:nonetype:ыйхă пӳлĕмĕ
+язучы:nonetype:çыравçă
+ир кеше:nonetype:ар ҫын
+ир кеше:nonetype:упăшка
+сөт:nonetype:сĕт
+галәм:nonetype:çут тĕнче
+сыйыр:nonetype:ĕне
+сыйыр:nonetype:nʉmʉ
+матур:nonetype:чипер
+матур:nonetype:нĕрлĕ
+матур:nonetype:кĕрнеклĕ
+musa cälil:nonetype:муса джалиль
+kurów:nonetype:курув
+adolf hitler:nonetype:адольф китлĕр
+timişoara:nonetype:тимишоара
+katowice:nonetype:катовица
+almazán:nonetype:алмасан
+uetersen:nonetype:uetersen
+gagra:nonetype:гагра
+curitiba:nonetype:куритиба
+филиппиннар:nonetype:чӑвашла
+филиппиннар:nonetype:филиппин
+пенза өлкәсе:nonetype:пенза облаçě
+тамбов өлкәсе:nonetype:тамбов облаçĕ
+amerika quşma ştatları:nonetype:америкăри пĕрлешӳллĕ штатсем
+португалия:nonetype:португали
+норвегия:nonetype:норвеги
+сүрия:nonetype:сири
+мукшы теле:nonetype:мăкшă чĕлхи
+тимер казык йолдызы:nonetype:çӳрçĕр çăлтăрĕ
+испания:nonetype:испани
+latviä:nonetype:латви
+уругвай:nonetype:уругвай
+сингапур:nonetype:сингапур
+төркия:nonetype:турци
+пакьстан:nonetype:пакистан
+лондон:nonetype:лондон
+әлҗәзаир:nonetype:алжир
+finlândiä:nonetype:финлянди
+албания:nonetype:албани
+һималай таулары:nonetype:гималай тăвĕсем
+фарсы култыгы:nonetype:перси заливĕ
+фарсы култыгы:nonetype:перс кӳлмекĕ
+мексика:nonetype:мексика
+febräl:nonetype:кӗҫӗн кӑрлач
+febräl:nonetype:нарӑс
+febräl:nonetype:нарăс
+may:nonetype:çу уйăхĕ
+may:nonetype:ҫу
+öktäber:nonetype:юпа уйăхĕ
+öktäber:nonetype:юпа
+венгрия:nonetype:венгри
+будапешт:nonetype:будапешт
+багамалар:nonetype:пахам утравĕсем
+дунай:nonetype:танай
+дунай:nonetype:дунай
+дунай:nonetype:тăнай шывĕ
+haiti:nonetype:гаити
+yül:nonetype:утӑ
+yül:nonetype:утă уйăхе
+yül:nonetype:утă уйăхĕ
+yül:nonetype:uta утă
+yül:nonetype:ҫӗртме
+yül:nonetype:uta
+yül:nonetype:утă
+ästerxan:nonetype:аҫтӑрхан
+ästerxan:nonetype:аçтăрхан
+bayern:nonetype:бавари
+hunnar:nonetype:хунсем
+mart:nonetype:пуш
+mart:nonetype:пуш уйăхĕ
+gennadi ayğí:nonetype:айхи геннадий николаевич
+бәхрәйн:nonetype:бахрейн
+эльба:nonetype:эльба
+индонезия:nonetype:индонези
+румыния:nonetype:румыни
+äpril:nonetype:ака уйăхĕ
+äpril:nonetype:ака
+монголия:nonetype:монголи
+күл:nonetype:кÿлĕ
+күл:nonetype:кӱлĕ
+күл:nonetype:кӳлĕ
+братислава:nonetype:братислава
+канада:nonetype:канада
+киев:nonetype:кейӳ
+тәһран:nonetype:тегеран
+xristianlıq:nonetype:христианлăх
+yapon tele:nonetype:япон чĕлхи
+хәбәшстан:nonetype:эфиопи
+хорват теле:nonetype:хорват чĕлхи
+бөек британия:nonetype:великобритани
+бөек британия:nonetype:аслӑ британи
+бөек британия:nonetype:аслă британи
+кипр республикасы:nonetype:кипр республики
+урта гасырлар:nonetype:вăтам ĕмĕрсем
+мәгълүматлы график:nonetype:ÿкерчĕк
+театр:nonetype:театр
+төньяк боз океаны:nonetype:çурçĕр пăрлă океан
+төньяк боз океаны:nonetype:çурçĕр пăрлă океанĕ
+азәрбайҗан:nonetype:азербайджан
+чех:nonetype:чех чĕлхи
+yün:nonetype:çěртме
+yün:nonetype:çĕртме уйăхĕ
+yün:nonetype:ҫӗртме
+yün:nonetype:çĕртме
+comğa:nonetype:эрне кун
+comğa:nonetype:эрнекун
+әрмәнстан:nonetype:эрмени
+yäkşämbe:nonetype:вырсарникун
+arça:nonetype:арча
+судан:nonetype:судан
+ğínwar:nonetype:кăрлач уйăхĕ
+ğínwar:nonetype:янвӑрь
+ğínwar:nonetype:кӑрлач
+ğínwar:nonetype:кăрлач
+зур җидегән йолдызлыгы:nonetype:алтăр çăлтăр
+платон:nonetype:платон
+urıs xalqı:nonetype:вырӑс
+urıs xalqı:nonetype:вырăссем
+ritsa:nonetype:рица
+он:nonetype:хĕн
+он:nonetype:çăнăх
+киек каз юлы:nonetype:хуркайӑк çулӗ
+киек каз юлы:nonetype:хуркайăк çулĕ
+камерун:nonetype:камерун
+афиннар:nonetype:афин
+xalıqara yañğırış älifbası:nonetype:тӗнче фонетикӑллӑ алфавичӗ
+xalıqara yañğırış älifbası:nonetype:пĕтĕм тĕнчери фонетика алфавичĕ
+арканзас:nonetype:арканзас
+íslam:nonetype:ислам
+мин:nonetype:эпĕ
+минск:nonetype:минск
+гомер:nonetype:гомер
+русия:nonetype:раççей патшалăхě or раҫҫей патшалӑхӗ
+русия:nonetype:раççей
+русия:nonetype:раççей патшалăхĕ
+луизиана:nonetype:луизиана
+мали:nonetype:мали
+мьянма:nonetype:мьянма
+көньяк африка җөмһүрияте:nonetype:кăнтăр африка республики
+словения:nonetype:словени
+cornell universitetı:nonetype:корнелл университечĕ
+roman abramoviç:nonetype:абрамович роман аркадьевич
+çağatay tele:nonetype:чагатай чĕлхи
+багдад:nonetype:пахтат
+дублин:nonetype:дублин
+kulikovo suğışı:nonetype:куликово патĕнчи çапăçу
+pänceşämbe:nonetype:кӗҫнерни
+pänceşämbe:nonetype:кĕçнерни кун
+pänceşämbe:nonetype:кӗҫнерникун
+pänceşämbe:nonetype:кĕçнерникун
+бенин:nonetype:бенин кӳлмекĕ
+бенин:nonetype:бенин
+эт:nonetype:анчăк
+канзас:nonetype:канзас
+берлин:nonetype:берлин
+копенгаген:nonetype:копенгаген
+фән:nonetype:ăслăлăх
+фән:nonetype:ăслăх
+флорида:nonetype:флорида
+лиссабон:nonetype:лиссабон
+миссури:nonetype:миссури
+төньяк ирландия:nonetype:çурçĕр ирланди
+ulan bator:nonetype:улан батор
+виргиния:nonetype:вирджини
+табигать:nonetype:çутçанталăк
+табигать:nonetype:уҫт ҫанталӑк
+табигать:nonetype:çут çанталăк
+балкан ярымутравы:nonetype:балкан çурутравĕ
+босфор бугазы:nonetype:босфор
+чуаш теле:nonetype:чăваш чěлхи
+чуаш теле:nonetype:чăваш чĕлхи
+ботсвана:nonetype:ботсвана
+пифагор:nonetype:пифагор
+крит:nonetype:крит
+казак теле:nonetype:казах чĕлхи
+sişämbe:nonetype:ытлари кун
+sişämbe:nonetype:ытларикун
+istiklâl marşı:nonetype:турци патшалăхĕн гимнĕ
+непал:nonetype:непал
+һинд океаны:nonetype:инди океанĕ
+бөек карл:nonetype:аслă карл
+qaşan bäklege:nonetype:кашан кнеçлĕхĕ
+fódor tútçev:nonetype:тютчев фёдор иванович
+белергә:nonetype:пĕлме
+гавайлар:nonetype:гавайи
+sofia:nonetype:софия
+sofia:nonetype:софи
+сидней:nonetype:сидней
+лесото:nonetype:лесото
+хошимин:nonetype:хошимин
+аризона:nonetype:аризона
+sentäber:nonetype:авăн
+sentäber:nonetype:авӑн
+törkiä bayrağı:nonetype:турци ялавĕ
+үзәк аурупа:nonetype:вăтам европа
+çärşämbe:nonetype:юн кун
+çärşämbe:nonetype:хушă
+çärşämbe:nonetype:юнкун
+кече азия:nonetype:анатоли çурутравĕ
+кызыл диңгез:nonetype:хĕрлĕ тинĕс
+ауруппа огузы:nonetype:европа пӗрлешӗвӗ
+ауруппа огузы:nonetype:европа пĕрлешĕвĕ
+qazansu:nonetype:хусан
+bolğarlar:nonetype:пăлхарсем
+гималайлар:nonetype:гималай тăвĕсем
+nöyäber:nonetype:чӳк уйăхĕ
+nöyäber:nonetype:чӳк
+тын океан:nonetype:лăпкă океан
+түгел:nonetype:çук
+түгел:nonetype:мар
+ул җирдә:nonetype:лере
+ул җирдә:nonetype:çавăнта
+ул җирдә:nonetype:унта
+ğäräp tele:nonetype:арап чĕлхи
+латин америкасы:nonetype:латин америки
+toki pona:nonetype:токи пона
+планета:nonetype:планета
+төньяк диңгез:nonetype:çурçĕр тинĕс
+төньяк диңгез:nonetype:çурçĕр тинĕсĕ
+рейн:nonetype:рейн
+ğaysanıñ çın çirkäwe:nonetype:иссусăн чăн чиркĕвĕ
+гибралтар:nonetype:гибралтар
+бурунди:nonetype:бурунди
+балтыйк диңгезе:nonetype:балти тинӗсӗ
+балтыйк диңгезе:nonetype:балтика тинĕсĕ
+балтыйк диңгезе:nonetype:балти тинĕсĕ
+törki xalıqlar:nonetype:тĕрĕк хаканлăхĕ
+şimbä:nonetype:шӑмат кун
+şimbä:nonetype:шăмат кун
+şimbä:nonetype:шăматкун
+урта диңгез:nonetype:вăтаçĕр тинĕс
+урта диңгез:nonetype:вăтаçĕр тинĕсĕ
+aziə:nonetype:ази
+евро:nonetype:евро
+başqort xalqı:nonetype:пушкăртсем
+оман:nonetype:оман
+huntar:nonetype:хунсем
+хартум:nonetype:хартум
+мичиган:nonetype:мичиган
+мехико:nonetype:мехико
+ышанычлылык:nonetype:шанчăклăх
+düşämbe:nonetype:toenti koen
+düşämbe:nonetype:тунти кун
+düşämbe:nonetype:тунтикун
+итальян теле:nonetype:итал чĕлхи
+украина:nonetype:украина
+кара диңгез:nonetype:хура тинӗс
+кара диңгез:nonetype:хура тинĕс
+vladimir putin:nonetype:путин владимир владимирович
+пенсильвания:nonetype:пенсильвани
+көнбатыш аурупа:nonetype:хĕвеланăç енчи европа
+ğaysa:nonetype:иисус христос
+төньяк америка:nonetype:çӳрçěр америка
+төньяк америка:nonetype:çурçĕр америка
+австралия:nonetype:австрали
+яфрак:nonetype:ҫулҫӑ
+яфрак:nonetype:листа
+яфрак:nonetype:çеçке
+яфрак:nonetype:çулçа
+яфрак:nonetype:çулçă
+tatar xalqı:nonetype:тутарсем
+марс:nonetype:марс
+вермонт:nonetype:вермонт
+осло:nonetype:осло
+волгоград:nonetype:волгоград
+мэн:nonetype:мэн
+берн:nonetype:берн
+валлетта:nonetype:валлетта
+сократ:nonetype:сократ
+хельсинки:nonetype:хельсинки
+lev gumilóv:nonetype:гумилёв лев николаевич
+гыйрак:nonetype:ирак
+литва:nonetype:литва
+awıl:nonetype:сала
+awıl:nonetype:ял
+ташкент:nonetype:ташкент
+вьетнам:nonetype:вьетнам
+kön:nonetype:кун
+аттила:nonetype:аттил
+айдахо:nonetype:айдахо
+көньяк ярымшар:nonetype:кăнтăр çур чăмăрĕ
+кытай:nonetype:китай халăх республики
+тырнарга:nonetype:шăйăрма
+тырнарга:nonetype:чав
+тырнарга:nonetype:чǎрмала
+үзәк америка:nonetype:тĕп америка
+көньяк америка:nonetype:кăнтăр америка
+ли бай:nonetype:ли бо
+тегендә:nonetype:лере
+тегендә:nonetype:çавăнта
+тегендә:nonetype:унта
+евклид:nonetype:евклид
+harvard universitetı:nonetype:харвăрт университечĕ
+квадрат:nonetype:тăваткал
+лаос:nonetype:лаос
+аляска:nonetype:аляска
+португал теле:nonetype:португал чĕлхи
+çirmeş tele:nonetype:çармăс чĕлхи
+ilo:nonetype:ilo
+бруней:nonetype:бруней
+saban tuyı:nonetype:акатуй
+кентукки:nonetype:кентукки
+кечкенә:nonetype:пĕчĕк
+меланезия:nonetype:меланези
+piter i:nonetype:пётр i
+qazaqstan respublikası:nonetype:казахстан
+габон:nonetype:габон
+awrupa berlege:nonetype:европа пӗрлешӗвӗ
+awrupa berlege:nonetype:европа пĕрлешĕвĕ
+прага:nonetype:прага
+грузия:nonetype:грузи
+англия:nonetype:англи
+невада:nonetype:невада
+kuybışev susaqlağıçı:nonetype:куйбышев шывуправĕ
+аз:nonetype:кăшт
+көнчыгыш аурупа:nonetype:хĕвел тухăç европа
+dekäber:nonetype:раштав уйăхĕ
+dekäber:nonetype:раштав raštav
+dekäber:nonetype:декабрь
+dekäber:nonetype:раштав
+дания:nonetype:дани
+париж:nonetype:париж
+париж:nonetype:парис
+kamil isxaqov:nonetype:исхаков камиль шамильевич
+boris yeltsin:nonetype:ельцин борис николаевич
+mäskäw:nonetype:москва
+estoniä:nonetype:эстони
+хорват:nonetype:хорват чĕлхи
+оклахома:nonetype:оклахома
+ташларга:nonetype:ывǎтма
+ташларга:nonetype:перме
+ташларга:nonetype:пăрахма
+idel buyı bolğar däwläte:nonetype:атăлçи пăлхар
+çuaş tele:nonetype:чăваш чěлхи
+çuaş tele:nonetype:чăваш чĕлхи
+çuaş tele:nonetype:чӑвашла
+çuaş tele:nonetype:чăвашла
+çuaş tele:nonetype:чăваш
+çuaş tele:nonetype:чӑваш
+тәртип:nonetype:касă
+тәртип:nonetype:ĕрет
+син:nonetype:эс
+син:nonetype:эсĕ
+май:nonetype:çу уйăхĕ
+май:nonetype:ҫу
+аристотель:nonetype:аристотель
+конфуций:nonetype:конфуци
+италия:nonetype:итали
+белиз:nonetype:белиз
+сез:nonetype:эс
+сез:nonetype:эсĕр
+мәче:nonetype:кушак
+fódor şalápin:nonetype:шаляпин фёдор иванович
+яңа ел:nonetype:çӗнӗ çул
+яңа ел:nonetype:çĕнĕ çул
+pótr ilyiç çaykovski:nonetype:чайковский пётр ильич
+pótr ilyiç çaykovski:nonetype:пётр чайковский
+pótr ilyiç çaykovski:nonetype:пётр ильич чайковский
+миссисипи:nonetype:миссисипи
+bögelmä:nonetype:пĕкĕлме
+мельбурн:nonetype:мельбурн
+ниагара шарлавыгы:nonetype:ниагара
+naxçıvan:nonetype:начихевань автономлă республики
+пекин:nonetype:пекин
+сербия:nonetype:серби
+грек теле:nonetype:грек чĕлхи
+qazan xanlığı:nonetype:хусан ханлăхĕ
+мальта:nonetype:мальта утравĕ
+мальта:nonetype:мальта
+vladimir ilyiç lenin:nonetype:ленин
+монтана:nonetype:монтана
+ир:nonetype:ар ҫын
+ир:nonetype:упăшка
+көньяк аурупа:nonetype:кăнтăр европа
+антарктида:nonetype:антарктида
+әдрән диңгез:nonetype:адриатически тинĕс
+әдрән диңгез:nonetype:адриатика тинĕсĕ
+агач:nonetype:йывăç
+без:nonetype:эпĕр
+балык:nonetype:пулӑ
+монако:nonetype:монако
+mintimer şäymiev:nonetype:шаймиев минтимер шарипович
+кече:nonetype:пĕчĕк
+xäzärlär:nonetype:хасарсем
+анда:nonetype:лере
+анда:nonetype:çавăнта
+анда:nonetype:унта
+венера:nonetype:венера
+колорадо:nonetype:колорадо
+иллинойс:nonetype:иллинойс
+джорджия:nonetype:джорджи
+күвәйт:nonetype:кувейт
+алар:nonetype:вĕсем
+эдинбург:nonetype:эдинбург
+mäskäw däwlät universitetı:nonetype:м. в. ломоносов ячĕллĕ мускав патшалăх университечĕ
+массачусетс:nonetype:массачусетс
+белград:nonetype:белград
+атлантик океан:nonetype:атлантика океанĕ
+китап:nonetype:кĕнеке
+китап:nonetype:çĕтел синчи кĕнеке
+эгей диңгезе:nonetype:эгей тинĕсĕ
+iqtisat:nonetype:экономика
+орегон:nonetype:орегон
+sovet sosialist cömhüriätlär berlege:nonetype:социаллӑ совет республикисен союзӗ
+sovet sosialist cömhüriätlär berlege:nonetype:ссср
+күп:nonetype:пайтах
+тыш:nonetype:хуплашка
+тыш:nonetype:тул
+шул җирдә:nonetype:лере
+шул җирдә:nonetype:çавăнта
+шул җирдә:nonetype:унта
+кабык:nonetype:хупă
+кабык:nonetype:хуйăр
+кабык:nonetype:хупǎ
+кабык:nonetype:хуйǎр
+океанлык:nonetype:океани
+каһирә:nonetype:каир
+damask:nonetype:дамаск
+роттердам:nonetype:роттердам
+zöyä yılğası:nonetype:сĕве
+чәнчергә:nonetype:чикме
+чәнчергә:nonetype:тирме
+словак:nonetype:словак чĕлхи
+qazan gubernası:nonetype:хусан кĕпернийĕ
+небраска:nonetype:небраска
+сингармонизм:nonetype:сингармонизм
+singarmonizm:nonetype:сингармонизм
+баштагы функция:nonetype:функцин умсăнарĕ
+билгеләмә:nonetype:палăртав
+иртәнге аш:nonetype:ирхи апат
+лава:nonetype:лава
+котыру авыруы:nonetype:тилĕрӳ
+томан:nonetype:тĕтре
+relikt nurlanış:nonetype:реликт пайăрки
+бөртекле культуралар:nonetype:кĕрпе
+тенессин:nonetype:унунсепти
+сары авыруы:nonetype:сарамак
+өстәлгән кыйммәткә салым:nonetype:хушма хак çине хуракан налук
+келәт:nonetype:кĕлет
+абагасыманнар:nonetype:упа курăк йышĕ
+карабалык:nonetype:хура карас
+комбинаторика:nonetype:комбинаторика
+үле тел:nonetype:çухалнă чĕлхе
+күзлек:nonetype:куçлăх
+он:nonetype:çăнăх
+поши:nonetype:пăши
+яшен:nonetype:çиçĕм
+дары:nonetype:тар
+классик механика:nonetype:классикăлла механика
+әргәник химия:nonetype:органикăллă хими
+армспорт:nonetype:армрестлинг
+армрестлинг:nonetype:армрестлинг
+etnoxoronim:nonetype:этнохороним
+туплы хокее:nonetype:пӳскеллĕ хоккей
+агломерация:nonetype:хула агломерацийĕ
+һанария:nonetype:гонорея
+экзопланета:nonetype:экзопланета
+балчык:nonetype:тăм
+сидек:nonetype:шăк
+ğälämi apparat:nonetype:космос карапĕ
+җанисәп:nonetype:çырав
+тартык:nonetype:хупă сасăсем
+ондатра:nonetype:ондатра
+ekvator:nonetype:экватор
+вилаять:nonetype:вилоят
+рим папасы:nonetype:рим паппи
+aids:nonetype:еидп
+бидс:nonetype:еидп
+кеше анатумиясе:nonetype:çын анатомийĕ
+московий:nonetype:унунпенти
+водка:nonetype:водка
+аракы:nonetype:водка
+әбиләр чуагы:nonetype:ват ăшши
+ак куян:nonetype:шурă мулкач
+диалектология:nonetype:диалектологи
+дальтонизм:nonetype:дальтонизм
+диҗей:nonetype:диджей
+таба:nonetype:çатма
+сандал (җиһаз):nonetype:сунтал
+үпкә яман шеше:nonetype:ӳпке ракĕ
+оекбаш:nonetype:чăлха
+борынгы дөнья:nonetype:авалхи тĕнче
+тургай кошлар:nonetype:тăри йышшисем
+функция чыгарылмасы:nonetype:функцин тухсатăранĕ
+парсек:nonetype:парçек
+бал:nonetype:пыл
+хокук:nonetype:тивĕçлĕ ирĕклĕх
+ниһоний:nonetype:нихоний
+шәһәр округы:nonetype:хулари тăрăх
+ачылмалы күпер:nonetype:уçăлакан кĕпер
+торак пункт:nonetype:пурăнан вырăн
+галәмнең инфляциясе:nonetype:космос инфляцийĕ
+җилембалык:nonetype:çыпçăнчăк пулă
+таможня:nonetype:тăмха çурчĕ
+эскич:nonetype:очерк
+саләт:nonetype:намаз
+намаз:nonetype:намаз
+ротацизм:nonetype:ротацизм
+кыйммәтле кәгазьләр базары:nonetype:тĕплĕх пасарĕ
+мәзһәб:nonetype:мазхабĕ
+йокы бүлмәсе:nonetype:ыйхă пӳлĕмĕ
+этикет:nonetype:нисеп
+кывант химиясе:nonetype:квантăллă хими
+шыртлака:nonetype:кăртăш
+чабак:nonetype:чапак
+додекаэдр:nonetype:додекаэдр
+агглүтинатив тел:nonetype:аллюгативлă чĕлхесем
+кыйммәтле кәгазь:nonetype:хаклă хут
+баба:nonetype:кукамай
+келәм:nonetype:кавир
+интеграль хисап:nonetype:интеграллă шутлав
+корбан балыгы:nonetype:çупах
+кара тилгән:nonetype:хура хĕрен
+гривна:nonetype:гривна
+кызамык:nonetype:хĕрлĕхен
+ярымтаркалу периоды:nonetype:çурма аркану тапхăрĕ
+җәйге вакыт:nonetype:çуллахи вăхăт
+евклид фәзасы:nonetype:евклид уçлăхĕ
+югары дәрәҗәле домен:nonetype:çӳллĕ шайри домен
+шикәр авыруы:nonetype:сахăрлă диабет
+күгәрченнәр:nonetype:кăвакарчăн евĕрлисем
+гади тиен:nonetype:пакша
+оганессон:nonetype:унунокти
+arxeologik mädäniät:nonetype:археологи культури
+акшар:nonetype:акшар
+майма:nonetype:касанкă
+ашказаны яман шеше:nonetype:хырăмлăх ракĕ
+октаэдр:nonetype:октаэдр
+ашказаны җәрәхәте:nonetype:хырăмлăх çĕрни
+әтәлге:nonetype:этелĕк
+açlıq:nonetype:аслă выçăлăх
+зәңгелә:nonetype:цинга
+ак тишек:nonetype:шурă хăвăл
+чык:nonetype:сывлăм
+армия:nonetype:çар
+ябалаксыманнар:nonetype:тăмана евĕррисем
+iqtisat:nonetype:экономика
+микалугия:nonetype:микологи
+яңа вакыт:nonetype:çĕнĕ самана
+квант физикасы:nonetype:квант физики
+теоретик механика:nonetype:теориллĕ механика
+радияхимия:nonetype:радиохими
+strategik bombağa totuçı:nonetype:стратеги авиацийĕ
+үтүк:nonetype:утюг
+кәшеф:nonetype:ăслай
+балдыз:nonetype:акай
+çoqır:nonetype:çыран
+әдәби тел:nonetype:литература чĕлхи
+дирбия:nonetype:хырăмайлăх
+каенана:nonetype:хуняма
+варваризм:nonetype:варваризм
+янарал:nonetype:çар генералĕ
+әрме янаралы:nonetype:çар генералĕ
+орфоэпия:nonetype:орфоэпи
+ланч:nonetype:кăнтăр апачĕ
+җирле үзидарә:nonetype:вырăнти хăй тытăмлăх
+quyan:nonetype:куян ами
+кабак:nonetype:хупах
+мөгезле эре терлек:nonetype:ĕне
+рәис:nonetype:патшалăх пуçлăхĕ
+рәсем:nonetype:ÿкерчĕк
+рәсем:nonetype:сăн ÿкерчĕк
+фольклористика:nonetype:фольклористику
+каты:nonetype:хытă
+ныклы:nonetype:хытă
+ныклы:nonetype:татăклă
+каты:nonetype:татăклă
+киеренке:nonetype:хĕрÿ
+савз:nonetype:ешĕл
+булса да:nonetype:хăть
+уку:nonetype:вĕренÿ
+нык:nonetype:татăклă
+тагын:nonetype:тата
+тагы:nonetype:тата
+галим:nonetype:тĕпчевçĕ
+сазланырга:nonetype:шурлăхлан
+сазланырга:nonetype:лачакалан
+сазлану:nonetype:шурлăхлан
+сазлану:nonetype:лачакалан
+сазга әйләнү:nonetype:шурлăхлан
+сазга әйләнү:nonetype:лачакалан
+пәрәвез:nonetype:тетел
+чех:nonetype:чех чĕлхи
+керпе:nonetype:чĕрĕп
+флеровий:nonetype:флерови
+таракан:nonetype:таракан
+нумерлау:nonetype:номерле
+номерлау:nonetype:номерле
+номерларга:nonetype:номерле
+musa cälil:nonetype:муса джалиль
+kurów:nonetype:курув
+adolf hitler:nonetype:адольф китлĕр
+timişoara:nonetype:тимишоара
+katowice:nonetype:катовица
+almazán:nonetype:алмасан
+uetersen:nonetype:uetersen
+gagra:nonetype:гагра
+curitiba:nonetype:куритиба
+пенза өлкәсе:nonetype:пенза облаçě
+тамбов өлкәсе:nonetype:тамбов облаçĕ
+мин сине яратам:nonetype:эпĕ сана юрататăп
+хәерчеләнү:nonetype:чухăнлан
+фәкыйрьләнү:nonetype:чухăнлан
+фәкыйрьләнергә:nonetype:чухăнлан
+мукшы теле:nonetype:мăкшă чĕлхи
+каты:nonetype:лÿппер
+каты:nonetype:нушаллă
+каты:nonetype:сулмаклă
+каты:nonetype:тертлĕ
+каты:nonetype:хĕсĕк
+будапешт:nonetype:будапешт
+багамалар:nonetype:пахам утравĕсем
+дунай:nonetype:тăнай шывĕ
+haiti:nonetype:гаити
+öktäber:nonetype:юпа
+yül:nonetype:утă
+äfğänstan:nonetype:афганистан
+әфганстан:nonetype:афганистан
+әстерхан:nonetype:аçтăрхан
+ästerxan:nonetype:аçтăрхан
+mart:nonetype:пуш
+gennadi ayğí:nonetype:айхи геннадий николаевич
+эльба:nonetype:эльба
+индонезия:nonetype:индонези
+rumıniya:nonetype:румыни
+rumınia:nonetype:румыни
+румыния:nonetype:румыни
+aprel:nonetype:ака
+äpril:nonetype:ака
+португал:nonetype:португали
+португалия:nonetype:португали
+монголия:nonetype:монголи
+братислава:nonetype:братислава
+киев:nonetype:кейӳ
+ерак көнчыгыш:nonetype:инçет хĕвелтухăç
+тәһран:nonetype:тегеран
+xristianlıq:nonetype:христианлăх
+христианлык:nonetype:христианлăх
+yapon tele:nonetype:япон чĕлхи
+борынгы рим:nonetype:авалхи рим
+хәбәшстан:nonetype:эфиопи
+хорват теле:nonetype:хорват чĕлхи
+кипр республикасы:nonetype:кипр республики
+урта гасырлар:nonetype:вăтам ĕмĕрсем
+төньяк боз океаны:nonetype:çурçĕр пăрлă океанĕ
+ливия:nonetype:ливи
+comğa:nonetype:эрнекун
+ärmänstan:nonetype:эрмени
+әрмәнстан:nonetype:эрмени
+yäkşämbe:nonetype:вырсарникун
+awrupa:nonetype:европа
+аурупа:nonetype:европа
+arça:nonetype:арча
+berleshken milletler oeshmasi:nonetype:пĕрлешнĕ нацисен организацийĕ
+берләшкән милләтләр оешмасы:nonetype:пĕрлешнĕ нацисен организацийĕ
+греция:nonetype:греци
+зур җидегән йолдызлыгы:nonetype:алтăр çăлтăр
+urıs xalqı:nonetype:вырăссем
+ritsa:nonetype:рица
+каз юлы:nonetype:хуркайăк çулĕ
+киек каз юлы:nonetype:хуркайăк çулĕ
+камерун:nonetype:камерун
+nöyäber:nonetype:чӳк
+albaniä:nonetype:албани
+албания:nonetype:албани
+арканзас:nonetype:арканзас
+ислам:nonetype:ислам
+íslam:nonetype:ислам
+бельгия belgiä بېلگىيە:nonetype:бельги
+belgiä:nonetype:бельги
+бельгия:nonetype:бельги
+италия:nonetype:итали
+каспий диңгезе:nonetype:каспи тинĕсĕ
+канберра:nonetype:канберра
+үзәк эшкәрткеч җайланма:nonetype:процессор
+үзәк процессор:nonetype:процессор
+чили:nonetype:чили
+гомер:nonetype:гомер
+луизиана:nonetype:луизиана
+мали:nonetype:мали
+мьянма:nonetype:мьянма
+көньяк африка:nonetype:кăнтăр африка республики
+көньяк африка җөмһүрияте:nonetype:кăнтăр африка республики
+cornell universitetı:nonetype:корнелл университечĕ
+roman abramoviç:nonetype:абрамович роман аркадьевич
+çağatay tele:nonetype:чагатай чĕлхи
+башка:nonetype:тепри
+башка:nonetype:урăхла
+багдад:nonetype:пахтат
+дублин:nonetype:дублин
+башкорт теле:nonetype:пушкăрт чĕлхи
+kulikovo suğışı:nonetype:куликово патĕнчи çапăçу
+швеция:nonetype:швеци
+бенин:nonetype:бенин
+канзас:nonetype:канзас
+берлин:nonetype:берлин
+копенгаген:nonetype:копенгаген
+флорида:nonetype:флорида
+ташларга:nonetype:пăрахма
+ташларга:nonetype:ывǎтма
+ташларга:nonetype:перме
+лиссабон:nonetype:лиссабон
+миссури:nonetype:миссури
+төньяк ирландия:nonetype:çурçĕр ирланди
+ulaanbaatar:nonetype:улан батор
+ulan bator:nonetype:улан батор
+виргиния:nonetype:вирджини
+балкан ярымутравы:nonetype:балкан çурутравĕ
+молдавия:nonetype:молдави
+чуаш теле:nonetype:чăваш чěлхи
+чуаш теле:nonetype:чăваш чĕлхи
+çuaş tele:nonetype:чăваш чěлхи
+çuaş tele:nonetype:чăваш чĕлхи
+ботсвана:nonetype:ботсвана
+төрекмәнстан:nonetype:туркмени
+ялта:nonetype:ялта
+пифагор:nonetype:пифагор
+стокгольм:nonetype:стокгольм
+крит:nonetype:крит
+казак теле:nonetype:казах чĕлхи
+istiklâl marşı:nonetype:турци патшалăхĕн гимнĕ
+nepal:nonetype:непал
+непал:nonetype:непал
+һинд океаны:nonetype:инди океанĕ
+qaşan bäklege:nonetype:кашан кнеçлĕхĕ
+бөек карл:nonetype:аслă карл
+fódor tútçev:nonetype:тютчев фёдор иванович
+филиппиннар:nonetype:филиппин
+белергә:nonetype:пĕлме
+гавайлар:nonetype:гавайи
+sofia:nonetype:софи
+сидней:nonetype:сидней
+лесото:nonetype:лесото
+хошимин:nonetype:хошимин
+аризона:nonetype:аризона
+sentäber:nonetype:авăн
+рим:nonetype:рим
+törkiä bayrağı:nonetype:турци ялавĕ
+колумбия:nonetype:колумби
+үзәк аурупа:nonetype:вăтам европа
+минск:nonetype:минск
+украина:nonetype:украина
+кече азия:nonetype:анатоли çурутравĕ
+кызыл диңгез:nonetype:хĕрлĕ тинĕс
+урта көнчыгыш:nonetype:малти хĕвелтухăç
+qazansu:nonetype:хусан
+венеция:nonetype:венеци
+пакьстан:nonetype:пакистан
+һималай таулары:nonetype:гималай тăвĕсем
+гималайлар:nonetype:гималай тăвĕсем
+bolğarlar:nonetype:пăлхарсем
+yün:nonetype:çĕртме
+варшава:nonetype:варшава
+тын океан:nonetype:лăпкă океан
+räsmi tel:nonetype:патшалăх чĕлхи
+финландия:nonetype:финлянди
+finlandiä:nonetype:финлянди
+finlândiä:nonetype:финлянди
+вьетнам:nonetype:вьетнам
+латин америкасы:nonetype:латин америки
+әлҗәзаир:nonetype:алжир
+íspanía:nonetype:испани
+испания:nonetype:испани
+марокко:nonetype:марокко
+сатурн:nonetype:сатурн
+huk:nonetype:пĕтĕм кун
+huk:nonetype:яра куна
+hok:nonetype:пĕтĕм кун
+hok:nonetype:яра куна
+иран:nonetype:ислам республики иран
+toki pona:nonetype:токи пона
+төньяк диңгез:nonetype:çурçĕр тинĕсĕ
+рейн:nonetype:рейн
+фарсы култыгы:nonetype:перс кӳлмекĕ
+ğaysanıñ çın çirkäwe:nonetype:иссусăн чăн чиркĕвĕ
+шайбалы хоккей:nonetype:шайбăллă хоккей
+алкалы һоккей:nonetype:шайбăллă хоккей
+latviä:nonetype:латви
+latvia:nonetype:латви
+боливия:nonetype:боливи
+гибралтар:nonetype:гибралтар
+малайзия:nonetype:малайзи
+бурунди:nonetype:бурунди
+исландия:nonetype:исланди
+сингапур:nonetype:сингапур
+балтыйк диңгезе:nonetype:балти тинĕсĕ
+harmonika:nonetype:тута купăсĕ
+törki xalıqlar:nonetype:тĕрĕк хаканлăхĕ
+cäläl:nonetype:шăматкун
+şimbä:nonetype:шăматкун
+урта диңгез:nonetype:вăтаçĕр тинĕсĕ
+урта азия:nonetype:тĕп ази
+tabiği:nonetype:юнкун
+möhit:nonetype:юнкун
+çärşämbe:nonetype:юнкун
+aziə:nonetype:ази
+başqort xalqı:nonetype:пушкăртсем
+оман:nonetype:оман
+азәрбайҗан:nonetype:азербайджан
+huntar:nonetype:хунсем
+hunnar:nonetype:хунсем
+судан:nonetype:судан
+эквадор:nonetype:эквадор
+хартум:nonetype:хартум
+мичиган:nonetype:мичиган
+мехико:nonetype:мехико
+ышанычлылык:nonetype:шанчăклăх
+دۈشەمبې:nonetype:тунтикун
+дүшәмбе düşämbe دۈشەمبې:nonetype:тунтикун
+kämal:nonetype:тунтикун
+düşämbe:nonetype:тунтикун
+япон:nonetype:япони
+япония:nonetype:япони
+итальян теле:nonetype:итал чĕлхи
+бангладеш:nonetype:бангладеш
+onshpe:nonetype:пĕлме
+vladimir putin:nonetype:путин владимир владимирович
+пенсильвания:nonetype:пенсильвани
+кара диңгез:nonetype:хура тинĕс
+фәлистыйн:nonetype:палестина
+көнбатыш аурупа:nonetype:хĕвеланăç енчи европа
+польша:nonetype:польша
+кодүс:nonetype:иерусалим
+коддес:nonetype:иерусалим
+иерусалим:nonetype:иерусалим
+төньяк америка:nonetype:çурçĕр америка
+венесуэла:nonetype:венесуэла
+tatar xalqı:nonetype:тутарсем
+вермонт:nonetype:вермонт
+pänceşämbe:nonetype:кĕçнерникун
+осло:nonetype:осло
+волгоград:nonetype:волгоград
+мэн:nonetype:мэн
+берн:nonetype:берн
+валлетта:nonetype:валлетта
+хельсинки:nonetype:хельсинки
+сократ:nonetype:сократ
+lev gumilóv:nonetype:гумилёв лев николаевич
+чәнчергә:nonetype:тирме
+чәнчергә:nonetype:чикме
+ğíraq:nonetype:ирак
+гыйрак:nonetype:ирак
+litua:nonetype:литва
+литва:nonetype:литва
+ташкент:nonetype:ташкент
+кїн:nonetype:кун
+kön:nonetype:кун
+süriä:nonetype:сири
+сүрия:nonetype:сири
+аттила:nonetype:аттил
+айдахо:nonetype:айдахо
+көньяк ярымшар:nonetype:кăнтăр çур чăмăрĕ
+гана:nonetype:гана
+тырнарга:nonetype:шăйăрма
+тырнарга:nonetype:чǎрмала
+тырнарга:nonetype:чав
+үзәк америка:nonetype:тĕп америка
+көньяк америка:nonetype:кăнтăр америка
+ли бай:nonetype:ли бо
+гарәбстан ярымутравы:nonetype:арави çурутравĕ
+лондон:nonetype:лондон
+евклид:nonetype:евклид
+мексика:nonetype:мексика
+мавритания:nonetype:мавритани
+may:nonetype:çу
+лаос:nonetype:лаос
+аляска:nonetype:аляска
+ilo:nonetype:ilo
+португал теле:nonetype:португал чĕлхи
+çirmeş tele:nonetype:çармăс чĕлхи
+бруней:nonetype:бруней
+saban tuyı:nonetype:акатуй
+кентукки:nonetype:кентукки
+словения:nonetype:словени
+меланезия:nonetype:меланези
+танзания:nonetype:танзани
+piter i:nonetype:пётр i
+қазақстан:nonetype:казахстан
+qazaqstan:nonetype:казахстан
+qazaqstan respublikası:nonetype:казахстан
+габон:nonetype:габон
+невада:nonetype:невада
+босфор бугазы:nonetype:босфор
+швейцария:nonetype:швейцари
+таҗикстан:nonetype:таджикистан
+kuybışev susaqlağıçı:nonetype:куйбышев шывуправĕ
+парагвай:nonetype:парагвай
+австрия:nonetype:австри
+көнчыгыш аурупа:nonetype:хĕвел тухăç европа
+sişämbe:nonetype:ытларикун
+törkiä:nonetype:турци
+төркия:nonetype:турци
+платон:nonetype:платон
+йәмән:nonetype:йемен
+нил:nonetype:нил
+daniä:nonetype:дани
+дания:nonetype:дани
+америка кушма штатлары:nonetype:америкăри пĕрлешӳллĕ штатсем
+amerika quşma ştatları:nonetype:америкăри пĕрлешӳллĕ штатсем
+монтенегро:nonetype:черногори
+париж:nonetype:парис
+dekäber:nonetype:раштав
+kamil isxaqov:nonetype:исхаков камиль шамильевич
+boris yeltsin:nonetype:ельцин борис николаевич
+éstoniä:nonetype:эстони
+estoniä:nonetype:эстони
+rusiä:nonetype:раççей патшалăхĕ
+räsäy:nonetype:раççей патшалăхĕ
+русия:nonetype:раççей патшалăхĕ
+оклахома:nonetype:оклахома
+уругвай:nonetype:уругвай
+ливан:nonetype:ливан
+idel buyı bolğar däwläte:nonetype:атăлçи пăлхар
+çuaş tele:nonetype:чӑваш
+прага:nonetype:прага
+аристотель:nonetype:аристотель
+грузия:nonetype:грузи
+конфуций:nonetype:конфуци
+таиланд:nonetype:таиланд
+beliz:nonetype:белиз
+белиз:nonetype:белиз
+истанбул:nonetype:стамбул
+канада:nonetype:канада
+нигерия:nonetype:нигери
+afrika:nonetype:африка
+африка:nonetype:африка
+fódor şalápin:nonetype:шаляпин фёдор иванович
+яңа ел:nonetype:çĕнĕ çул
+pótr ilyiç çaykovski:nonetype:чайковский пётр ильич
+pótr ilyiç çaykovski:nonetype:пётр ильич чайковский
+pótr ilyiç çaykovski:nonetype:пётр чайковский
+миссисипи:nonetype:миссисипи
+bögelmä:nonetype:пĕкĕлме
+камбоджа:nonetype:камбоджа
+камбоҗа:nonetype:камбоджа
+мельбурн:nonetype:мельбурн
+febräl:nonetype:нарăс
+словакия:nonetype:словаки
+шотландия:nonetype:шотланди
+ниагара шарлавыгы:nonetype:ниагара
+нидерландлар:nonetype:нидерландсем
+голландия:nonetype:нидерландсем
+naxçıvan:nonetype:начихевань автономлă республики
+пекин:nonetype:пекин
+грек теле:nonetype:грек чĕлхи
+яңа зеландия:nonetype:çĕнĕ зеланди
+qazan xanlığı:nonetype:хусан ханлăхĕ
+bulgaria:nonetype:болгари
+болгария:nonetype:болгари
+мальта:nonetype:мальта
+менделеевның периодик таблицасы:nonetype:элементсен периодикăллă системи
+vladimir ilyiç lenin:nonetype:ленин
+ангола:nonetype:ангола
+люксембург:nonetype:люксембург
+монтана:nonetype:монтана
+гренландия:nonetype:гренланди
+көньяк аурупа:nonetype:кăнтăр европа
+әдрән диңгез:nonetype:адриатика тинĕсĕ
+антарктида:nonetype:антарктида
+венгрия:nonetype:венгри
+монако:nonetype:монако
+mintimer şäymiev:nonetype:шаймиев минтимер шарипович
+nekin:nonetype:çав
+neke:nonetype:çав
+lewa:nonetype:çав
+harvard universitetı:nonetype:харвăрт университечĕ
+konaqlota:nonetype:шăйăрма
+konaqlota:nonetype:чǎрмала
+konaqlota:nonetype:чав
+ilachke:nonetype:шăйăрма
+ilachke:nonetype:чǎрмала
+ilachke:nonetype:чав
+амстердам:nonetype:амстердам
+xäzärlär:nonetype:хасарсем
+колорадо:nonetype:колорадо
+иллинойс:nonetype:иллинойс
+джорджия:nonetype:джорджи
+küwäit:nonetype:кувейт
+күвәйт:nonetype:кувейт
+bayern:nonetype:бавари
+эдинбург:nonetype:эдинбург
+mäskäw däwlät universitetı:nonetype:м. в. ломоносов ячĕллĕ мускав патшалăх университечĕ
+ğäräp tele:nonetype:арап чĕлхи
+массачусетс:nonetype:массачусетс
+бәхрәйн:nonetype:бахрейн
+белград:nonetype:белград
+норвегия:nonetype:норвеги
+атлантик океан:nonetype:атлантика океанĕ
+эгей диңгезе:nonetype:эгей тинĕсĕ
+икътисад:nonetype:экономика
+иктисат:nonetype:экономика
+аурупа берлеге:nonetype:европа пĕрлешĕвĕ
+аурупа берлеге awrupa berlege:nonetype:европа пĕрлешĕвĕ
+аврупы берлеге:nonetype:европа пĕрлешĕвĕ
+awroberlek:nonetype:европа пĕрлешĕвĕ
+awrupa berlege:nonetype:европа пĕрлешĕвĕ
+awrupı berlege:nonetype:европа пĕрлешĕвĕ
+ауруппа огузы:nonetype:европа пĕрлешĕвĕ
+andorra:nonetype:андорра
+андорра:nonetype:андорра
+гыйсә мәсих:nonetype:иисус христос
+ğaysa:nonetype:иисус христос
+орегон:nonetype:орегон
+sovetlar berlege:nonetype:ссср
+sovet sosialist cömhüriätlär berlege:nonetype:ссср
+сербия:nonetype:серби
+тыш:nonetype:хуплашка
+тыш:nonetype:тул
+ğinwar:nonetype:кăрлач
+ğínwar:nonetype:кăрлач
+һәммә:nonetype:пĕтĕм кун
+һәммә:nonetype:яра куна
+бөтен:nonetype:пĕтĕм кун
+бөтен:nonetype:яра куна
+австралия:nonetype:австрали
+океанлык:nonetype:океани
+каһирә:nonetype:каир
+читтәге:nonetype:катари
+бөекбритания:nonetype:аслă британи
+бөек британия:nonetype:аслă британи
+афиннар:nonetype:афин
+үрдүн:nonetype:иордани
+селтеле металлар:nonetype:сĕлтĕ металсем
+роттердам:nonetype:роттердам
+англия:nonetype:англи
+zöyä yılğası:nonetype:сĕве
+гайана:nonetype:гайана
+исраил:nonetype:израиль
+qazan gubernası:nonetype:хусан кĕпернийĕ
+небраска:nonetype:небраска

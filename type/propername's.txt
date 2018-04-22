@@ -1,0 +1,1037 @@
+көньяк осетия:proper feminine:кăнтăр осети
+үзбәкстан:proper masculine:ӳспекстан
+көньяк африка:proper feminine:кăнтăр африка республики
+көньяк африка:proper feminine:кăнтăр африка
+тунис:proper masculine:тунис
+татарста́н:proper masculine:тутарстан
+тайвань:proper masculine:тайвань
+таҗикстан:nonetype:таджикистан
+таҗикстан:proper masculine:таджикистан
+урта азия:proper feminine:вăтам ази
+үзәк азия:proper feminine:вăтам ази
+кояш системасы:proper feminine:хĕвел системи
+кояш системасы:proper feminine:хӗвел системи
+себер:proper feminine:çĕпĕр
+себер:proper feminine:çӗпӗр
+польша:proper feminine:польша
+парагвай:proper masculine:парагвай
+фәлистыйн:proper feminine:палестина
+палестина:proper feminine:палестина
+пакистан:proper masculine:пакистан
+каз юлы:proper masculine:хуркайăк çулĕ
+каз юлы:proper masculine:хуркайӑк çулӗ
+люксембург:proper masculine:люксембург
+лихтенштейн:proper masculine:лихтенштейн
+куба:proper feminine:куба
+киев русе:proper feminine:кейӳ руçӗ
+камбоҗа:proper feminine:камбоджа
+канберра:proper feminine:канберра
+исраил:proper masculine:израиль
+иртеш:proper masculine:иртыш
+һитлер:proper masculine:китлӗр
+нидерландлар:proper feminine:голанди
+гайана:proper feminine:гайана
+аурупа берлеге:proper masculine:европа пӗрлешӗвӗ
+аурупа берлеге:proper masculine:европа пĕрлешĕвĕ
+чехия җөмһүрият:proper feminine:чехи
+истанбул:proper masculine:стамбул
+истанбул:proper masculine:кустантин
+босния һәм герцеговина:proper feminine:босни тата герцеговина
+бишкәк:proper masculine:бишкек
+библия:proper feminine:библи
+башкортстан:proper masculine:пушкăрт республики
+әфганстан:nonetype:афганистан
+әфганстан:proper masculine:афганистан
+törekçä:proper masculine:турккă
+qırım törekçäse:proper:крым тутарĕсен чĕлхи
+finlandiä:proper feminine:финлянди
+älmäniä:proper feminine:германи
+älmäniä:proper feminine:أهًىàيè
+isa:proper masculine:иисус
+алла:proper masculine:турă
+алла:proper masculine:турӑ
+ходай:proper masculine:турă
+ходай:proper masculine:турӑ
+африка:proper feminine:африка
+afrika:proper feminine:африка
+ivrit tele:proper masculine:арап чĕлхи
+ivrit tele:proper masculine:иврит
+иврит теле:proper masculine:арап чĕлхи
+иврит теле:proper masculine:иврит
+başqort tele:proper:пушкăрт
+başqortça:proper:пушкăрт
+diclä:proper masculine:тигр
+tigr:proper masculine:тигр
+vanuatu:proper feminine:вануату
+русия федерациясе:proper feminine:раççей патшалӑхě
+суринам:proper masculine:суринам
+surinam:proper masculine:суринам
+сатурн:proper masculine:сатурн
+nepal:proper masculine:непал
+мүнхен:proper masculine:мюнхен
+küwäit:proper masculine:кувейт
+югославия:proper feminine:югослави
+yugoslaviä:proper feminine:югослави
+tayvan:proper feminine:тайвань
+tayvan:proper masculine:тайвань
+awrupa:proper feminine:европа
+awrupa:proper feminine:европӑ
+стокгольм:proper masculine:стокгольм
+дагстан:proper masculine:дагестан республики
+дагстан:proper masculine:дагестан
+харьков:proper masculine:харьков
+beliz:proper masculine:белиз
+ангола:proper feminine:ангола
+albaniä:proper feminine:албани
+тәңре:proper masculine:турă
+тәңре:proper masculine:турӑ
+аурупа:nonetype:европа
+варшава:proper feminine:варшава
+аурупа берлеге awrupa berlege:proper masculine:европа пӗрлешӗвӗ
+бельгия belgiä بېلگىيە:proper feminine:бельги
+яңа зеландия:proper feminine:çĕнĕ зеланди
+гана:proper feminine:гана
+урыс:proper masculine:вырӑсла
+урыс:proper masculine:вырăс чĕлхи
+урыс:proper masculine:вырăс
+урыс:proper masculine:вырӑс
+коръән:proper masculine:коран
+нестеров:proper:нестеров
+киров:proper:киров
+львов:proper:львов
+гусев:proper:гусев
+салават:proper:салават
+рим:proper masculine:рим
+марсель:proper:марсель
+марс:proper masculine:марс
+лена:proper:лена
+ислам:proper:ислам
+диана:proper:диана
+гали:proper:гали
+гайсә:proper masculine:иисус
+венера:proper feminine:венера
+япония:nonetype:япони
+япония:proper feminine:япони
+эфиопия:proper:эфиопи
+швеция:proper feminine:швеци
+эстония:proper feminine:эстони
+монтенегро:nonetype:черногори
+монтенегро:proper feminine:черногори
+софия:proper:софи
+софия:proper:софия
+нигерия:proper feminine:нигери
+франция:proper:франци
+барый:proper:бари
+банат:proper:банат
+шотландия:proper feminine:шотланди
+швейцария:nonetype:швейцари
+швейцария:proper feminine:швейцари
+чуашстан:proper:чăваш ен
+чуашстан:proper:чăваш республики
+финляндия:proper:финлянди
+удмуртия:proper:удмурт республики
+словакия:proper feminine:словаки
+россия:proper feminine:раççей патшалăхĕ
+россия:proper feminine:раççей патшалăхě or раҫҫей патшалӑхӗ
+россия:proper feminine:раççей
+македония:proper feminine:македони
+либерия:proper feminine:либери
+колумбия:proper feminine:колумби
+якутия:proper:якути
+мордовия:proper:мордва
+малайзия:proper feminine:малайзи
+латвия:proper feminine:латви
+сирия:proper:сири
+калмыкия:proper:калмыки республики
+калмыкия:proper:калмыки
+үрдүн:proper feminine:иордани
+һиндстан:proper feminine:инди
+голландия:proper feminine:голанди
+калифорния:proper:калифорни
+молдавия:proper feminine:молдави
+ливия:proper feminine:ливи
+бөекбритания:nonetype:аслă британи
+бөекбритания:proper feminine:аслă британи
+бөекбритания:proper feminine:великобритани
+бөекбритания:proper feminine:аслӑ британи
+бурятия:proper feminine:буряти
+бурятия:proper feminine:буря́ти республики
+абхазия:proper feminine:абхази
+бразилия:proper feminine:бразили
+бразилия:proper feminine:бразилия
+болгария:nonetype:болгари
+болгария:proper feminine:болгари
+австрия:nonetype:австри
+австрия:proper feminine:австри
+венеция:proper feminine:венеци
+британия:proper feminine:британи
+боливия:proper feminine:боливи
+бельгия:nonetype:бельги
+бельгия:proper:бельги
+азия:proper feminine:ази
+кыргызстан:proper masculine:киргизи
+кыргызстан:proper feminine:киргизи
+ирландия:proper:ирланди
+иордания:proper feminine:иордани
+гөрҗистан:proper:грузи
+греция:proper feminine:греци
+гренландия:proper feminine:гренланди
+маҗарстан:proper feminine:венгри
+гарәбстан ярымутравы:proper masculine:арави çурутравĕ
+инсан:proper masculine:тăнлă çын
+инсан:proper masculine:эдем
+инсан:proper masculine:этем
+инсан:proper masculine:çын
+тәмугъ:proper masculine:тамăк
+ялта:nonetype:ялта
+ялта:proper feminine:ялта
+чулпан:proper feminine:венера
+кытай җөмһүрияте:proper feminine:тайвань
+putin:proper masculine:путин
+берләшкән милләтләр оешмасы:proper feminine:пĕрлешнĕ нацисен организацийĕ
+берләшкән милләтләр оешмасы:proper feminine:пӗрлешнӗ нацисен организацийӗ
+омск:proper masculine:омск
+урта көнчыгыш:proper masculine:малти хĕвелтухăç
+ерак көнчыгыш:proper masculine:инçет хĕвелтухăç
+ерак көнчыгыш:proper masculine:инçетри хĕвелтухаç
+ерак көнчыгыш:proper masculine:инçет тухăç
+éstoniä:proper feminine:эстони
+днепр:proper masculine:тăнăвар
+днепр:proper masculine:тӑнӑвар
+камбоджа:proper feminine:камбоджа
+андорра:nonetype:андорра
+андорра:proper feminine:андорра
+амстердам:proper masculine:амстердам
+япон:proper feminine:япони
+texas:proper masculine:техас
+яр чаллы:proper masculine:чаллă
+якын көнчыгыш:proper masculine:çывăхри хĕвелтухаç
+түбән новгород:proper:чулхула
+rusiä imperiäse:proper:раççей империйĕ
+азак диңгезе:proper:азов тинĕс
+азак диңгезе:proper:азов тинĕсĕ
+berleshken milletler oeshmasi:proper:пĕрлешнĕ нацисен организацийĕ
+berleshken milletler oeshmasi:proper:пӗрлешнӗ нацисен организацийӗ
+amerika quşma ştatları:proper masculine:америкăри пĕрлешӳллĕ штатсем
+испания:nonetype:испани
+гыйсә мәсих:proper masculine:иисус христос
+лондон:nonetype:лондон
+лондон:proper masculine:лондон
+арыслан:proper masculine:арăслан
+بىبلىيە:proper feminine:библи
+bibliä:proper feminine:библи
+әлҗәзаир:proper masculine:алжир
+finlândiä:nonetype:финлянди
+finlândiä:proper feminine:финлянди
+албания:nonetype:албани
+албания:proper feminine:албани
+ğinwar:proper masculine:кăрлач
+ğinwar:proper masculine:кăрлач уйăхĕ
+ğinwar:proper masculine:янвӑрь
+ğinwar:proper masculine:кӑрлач
+көръән:proper masculine:коран
+фарсы култыгы:proper masculine:перс кӳлмекĕ
+фарсы култыгы:proper masculine:перси заливĕ
+къырымтатар тили:proper:крым тутарĕсен чĕлхи
+мексика:proper feminine:мексика
+madrid:proper masculine:мадрид
+febräl:nonetype:нарăс
+febräl:proper masculine:нарăс
+febräl:proper masculine:кӗҫӗн кӑрлач
+febräl:proper masculine:нарӑс
+may:nonetype:çу
+may:nonetype:şu
+may:proper masculine:çу уйăхĕ
+may:proper masculine:ҫу
+öktäber:proper masculine:юпа
+öktäber:proper masculine:юпа уйăхĕ
+aprel:proper masculine:ака
+aprel:proper masculine:ака уйăхĕ
+америка кушма штатлары:proper masculine:америкăри пĕрлешӳллĕ штатсем
+мәскәү:proper feminine:москва
+almança:proper:нимĕç чĕлхи
+almança:proper:нимĕç
+жир:proper feminine:ҫӗре
+жир:proper feminine:тĕнче
+жир:proper feminine:тăпра
+жир:proper feminine:çĕр
+венгрия:nonetype:венгри
+венгрия:proper feminine:венгри
+haiti:proper feminine:гаити
+yül:proper masculine:утă
+yül:proper masculine:утӑ
+yül:proper masculine:утă уйăхе
+yül:proper masculine:утă уйăхĕ
+yül:proper masculine:uta утă
+yül:proper masculine:ҫӗртме
+yül:proper masculine:uta
+yül:nonetype:утă
+äfğänstan:proper masculine:афганистан
+avgust:proper masculine:çурла
+avgust:proper masculine:çурла уйăхĕ
+avgust:proper masculine:ҫурла
+инглиз теле:proper masculine:акӑлчан чӗлхи
+инглиз теле:proper masculine:акăлчан чĕлхи
+mart:nonetype:пуш
+qörʼän:proper masculine:коран
+индонезия:proper feminine:индонези
+daniä:proper feminine:дани
+румыния:proper feminine:румыни
+äpril:proper masculine:ака
+äpril:proper masculine:ака уйăхĕ
+монголия:proper feminine:монголи
+yar çallı:proper masculine:чаллă
+venera:proper feminine:венера
+братислава:nonetype:братислава
+братислава:nonetype:братиславӑ
+канада:nonetype:канада
+канада:proper feminine:канада
+päräwez:proper masculine:тетел
+jordan:proper feminine:иордани
+немец:proper:нимĕç чĕлхи
+немец:proper:нимĕç
+бөек британия:nonetype:аслă британи
+andorra:proper feminine:андорра
+august:proper masculine:çурла
+august:proper masculine:çурла уйăхĕ
+august:proper masculine:ҫурла
+азәрбайҗан:nonetype:азербайджан
+хиндостан:proper feminine:инди
+yün:nonetype:śěrtme
+yün:nonetype:çĕртме
+yün:proper masculine:çĕртме
+yün:proper masculine:çěртме
+yün:proper masculine:çĕртме уйăхĕ
+yün:proper masculine:ҫӗртме
+abxazía:proper feminine:абхази
+bakı:proper masculine:баку
+comğa:proper feminine:эрнекун
+comğa:proper feminine:эрне кун
+israel:proper masculine:израиль
+әрмәнстан:nonetype:армени
+әрмәнстан:nonetype:эрмени
+başqortstan:proper masculine:пушкăрт республики
+ğínwar:nonetype:кăрлач
+ğínwar:proper masculine:кăрлач
+ğínwar:proper masculine:кăрлач уйăхĕ
+ğínwar:proper masculine:янвӑрь
+ğínwar:proper masculine:кӑрлач
+испан теле:proper masculine:испан чĕлхи
+kuwait:proper masculine:кувейт
+merkuri:proper masculine:меркури
+вена шәһәре:proper feminine:вена
+kirill älifbası:proper feminine:кириллица
+афиннар:nonetype:афин
+афиннар:proper feminine:афин
+informal урыс:proper masculine:вырăс
+informal урыс:proper masculine:вырӑсла
+informal урыс:proper masculine:вырӑс
+xalıqara yañğırış älifbası:proper masculine:пĕтĕм тĕнчери фонетика алфавичĕ
+xalıqara yañğırış älifbası:proper masculine:тӗнче фонетикӑллӑ алфавичӗ
+xalıqara yañğırış älifbası:nonetype:тĕнче фонетикăллă алфавичĕ
+canada:proper feminine:канада
+русия:nonetype:раҫҫей патшалӑхӗ
+русия:nonetype:раççей патшалăхě
+русия:proper feminine:раççей патшалăхĕ
+русия:proper feminine:раççей патшалăхě or раҫҫей патшалӑхӗ
+русия:proper feminine:раççей
+niderland:proper masculine:нидерландсем
+niderland:proper masculine:нидерланды
+словения:proper feminine:словени
+беларусия:proper feminine:belorusi
+беларусия:proper feminine:белоруси
+kípır:proper masculine:кипр
+kípır:proper masculine:кипр республики
+башкорт теле:nonetype:пушкăрт чĕлхи
+копенгаген:nonetype:копенгаген
+tele:proper masculine:чĕлхе
+tele:proper masculine:венгр чĕлхи
+латин теле:proper masculine:латин чĕлхи
+латин теле:proper masculine:латтин чĕлхи
+босфор бугазы:nonetype:босфор
+босфор бугазы:proper masculine:босфор
+alman tele:proper masculine:нимĕç чĕлхи
+француз теле:proper masculine:франци чĕлхи
+африканц:proper masculine:африкаанс
+sovetlar berlege:proper masculine:ссср
+sovetlar berlege:proper masculine:социаллӑ совет республикисен союзӗ
+урысча:proper masculine:вырӑсла
+урысча:proper masculine:вырăс чĕлхи
+урысча:proper masculine:вырăс
+урысча:proper masculine:вырӑс
+sofia:proper feminine:софи
+sofia:proper feminine:софия
+рус:proper masculine:вырӑсла
+рус:proper masculine:вырăс чĕлхи
+рус:proper masculine:вырăс
+рус:proper masculine:вырӑс
+sentäber:proper masculine:авăн
+sentäber:proper masculine:авӑн
+советлар союзы:proper masculine:совет союзӗ
+قازان:proper feminine:хусан
+кызыл диңгез:nonetype:хĕрлĕ тинĕс
+ауруппа огузы:nonetype:европа пĕрлешĕвĕ
+ukraina:proper feminine:украина
+nöyäber:proper masculine:чӳк
+nöyäber:proper masculine:чӳк уйăхĕ
+nöyäber:nonetype:чӳк
+тын океан:nonetype:лăпкă океан
+qazaqstan:proper masculine:казахстан
+корея:proper feminine:корея
+hindostan:proper feminine:инди
+belgiä:proper feminine:бельги
+paris:proper masculine:парис
+paris:proper masculine:париж
+bosnia wä herzegovina:proper feminine:босни тата герцеговина
+сенегал:proper masculine:сенегал
+pakistan:proper masculine:пакистан
+алман теле:proper masculine:нимĕç чĕлхи
+алман теле:proper:нимĕç чĕлхи
+алман теле:proper:нимĕç
+idel:proper feminine:атăл
+fransia:proper feminine:франци
+маҗар теле:proper masculine:венгр чĕлхи
+éstonia:proper feminine:эстони
+aziə:nonetype:ази
+азербайджан:proper masculine:азербайджан чĕлхи
+хартум:proper masculine:хартум
+azerbaycan:proper masculine:азербайджан чĕлхи
+saturn:proper masculine:сатурн
+qawqaz:proper masculine:арамаçи
+украина:proper masculine:украин чĕлхи
+украина:proper feminine:украина
+angola:proper feminine:ангола
+кара диңгез:nonetype:хура тинĕс
+көнбатыш аурупа:nonetype:хĕвеланăç енчи европа
+özbäkstan:proper masculine:ӳспекстан
+ğaysa:proper masculine:иисус христос
+ğaysa:proper masculine:иисус
+австралия:nonetype:австрали
+hollandia:proper feminine:голанди
+чулман:proper feminine:чулман атăл
+qazan:proper feminine:хусан
+вьетнам:proper masculine:вьетнам
+new orleans:proper masculine:çĕнĕ орлеан
+new orleans:proper masculine:çěнě орлеан
+алабама:proper:алабама
+сембер:proper masculine:чĕмпĕр
+кытай:proper masculine:китай
+кытай:nonetype:китай халăх республики
+ärmänstan:proper feminine:эрмени
+arıslan:proper masculine:арăслан
+informal urıs:proper masculine:вырăс
+informal urıs:proper masculine:вырӑсла
+informal urıs:proper masculine:вырӑс
+albania:proper feminine:албани
+rusiä:proper feminine:раççей патшалӑхě
+rusiä:proper feminine:раççей патшалăхĕ
+rusiä:proper feminine:раççей патшалăхě or раҫҫей патшалӑхӗ
+rusiä:proper feminine:раççей
+чехия:proper feminine:чехи
+таш дәвере:proper masculine:чуллă ĕмĕр
+qazaqstan respublikası:nonetype:казахстан
+урду:proper masculine:урду
+awrupa berlege:nonetype:европа пĕрлешĕвĕ
+awrupa berlege:proper masculine:европа пӗрлешӗвӗ
+belarus:proper feminine:белоруси
+belarus:proper feminine:belorusi
+uran:proper masculine:уран
+прага:nonetype:прага
+прага:proper feminine:прага
+törek:proper masculine:турккă
+англия:nonetype:англи
+англия:proper masculine:акӑлчан чӗлхи
+англия:proper masculine:акăлчан чĕлхи
+англия:proper masculine:акӑлчан
+англия:proper masculine:акăлчан
+англия:proper feminine:англи
+قزان:proper feminine:хусан
+tatarstan:proper masculine:тутарстан
+португал:proper feminine:португали
+көнчыгыш аурупа:nonetype:хĕвелтухăç енчи европа
+ай:proper masculine:уйăх
+ай:proper masculine:уйӑх
+dekäber:nonetype:раштав
+dekäber:proper masculine:раштав
+dekäber:proper masculine:раштав уйăхĕ
+dekäber:proper masculine:раштав raštav
+dekäber:proper masculine:декабрь
+cir:proper feminine:ҫӗре
+cir:proper feminine:тĕнче
+cir:proper feminine:тăпра
+cir:proper feminine:çĕр
+tehran:proper masculine:тегеран
+дания:proper feminine:дани
+дания:nonetype:дани
+париж:proper masculine:парис
+париж:proper masculine:париж
+париж:nonetype:парис
+törkiä:proper feminine:турци
+mäskäw:nonetype:мускав
+estoniä:proper feminine:эстони
+estoniä:nonetype:эстони
+rumınia:proper feminine:румыни
+совет социалистик республикалар союзы:proper masculine:ссср
+совет социалистик республикалар союзы:proper masculine:социаллӑ совет республикисен союзӗ
+çuaş tele:proper masculine:чӑваш
+çuaş tele:proper masculine:чӑвашла
+çuaş tele:proper masculine:чăвашла
+çuaş tele:proper masculine:чăваш
+çuaş tele:proper masculine:чăваш чěлхи
+çuaş tele:nonetype:чăваш чĕлхи
+räsäy:proper feminine:раççей патшалӑхě
+räsäy:proper feminine:раççей патшалăхĕ
+räsäy:proper feminine:раççей патшалăхě or раҫҫей патшалӑхӗ
+räsäy:proper feminine:раççей
+май:nonetype:çу
+май:nonetype:şu
+almania:proper feminine:германи
+almania:proper feminine:أهًىàيè
+bulgaria:proper feminine:болгари
+африкаанс:proper masculine:африкаанс
+мухши:proper:мăкшă
+дамаск:proper masculine:дамаск
+италия:proper feminine:итали
+кытай халык җөмһүрияте:proper feminine:китай халăх республики
+хорватия:proper feminine:хорвати
+íspanía:proper feminine:испани
+izge yazu:proper feminine:библи
+иврид:proper masculine:арап чĕлхи
+иврид:proper masculine:иврит
+washington:proper masculine:вашингтон
+räsäy imperiäse:proper feminine:раççей империйĕ
+сербия:proper masculine:серб
+сербия:proper feminine:серби
+hindstan:proper feminine:инди
+әрмән теле:proper masculine:чĕлхе
+әрмән теле:proper masculine:венгр чĕлхи
+көньяк аурупа:nonetype:кăнтăр европа
+äzärbaycan:proper masculine:азербайджан
+räsäyle:proper masculine:вырăс
+räsäyle:proper masculine:вырӑсла
+räsäyle:proper masculine:вырӑс
+истанбул бугазы:proper masculine:босфор
+rumıniya:proper feminine:румыни
+urıs tele:proper masculine:вырӑсла
+urıs tele:proper masculine:вырăс чĕлхи
+xrowatia:proper feminine:хорвати
+рәсәй:proper feminine:раççей патшалăхĕ
+рәсәй:proper feminine:раççей патшалăхě or раҫҫей патшалӑхӗ
+рәсәй:proper feminine:раççей
+çallı:proper masculine:чаллă
+austria:proper feminine:австри
+süriä:proper feminine:сири
+татарстан:proper masculine:тутарстан
+беларус:proper feminine:белоруси
+беларус:proper feminine:belorusi
+baqı:proper masculine:баку
+london:proper masculine:лондон
+sovet sosialist cömhüriätlär berlege:nonetype:ссср
+sovet sosialist cömhüriätlär berlege:nonetype:социаллă совет республикисен союзĕ
+nederland:proper feminine:голанди
+nederland:proper masculine:нидерландсем
+nederland:proper masculine:нидерланды
+berlin:proper masculine:берлин
+senegal:proper masculine:сенегал
+latvia:proper feminine:латви
+damask:nonetype:дамаск
+ğíraq:proper masculine:ирак
+tallinn:nonetype:таллин
+litua:proper feminine:литва
+ulaanbaatar:proper masculine:улан батор
+praga:proper feminine:прага
+көньяк африка җөмһүрияте:nonetype:кăнтăр африка республики
+көньяк африка:nonetype:кăнтăр африка республики
+көньяк осетия:nonetype:кăнтăр осети
+көньяк африка:nonetype:кăнтăр африка
+украина:nonetype:украин чĕлхи
+таҗикстан:nonetype:таджикистан
+финландия:nonetype:финлянди
+истанбул:nonetype:стамбул
+үзәк азия:nonetype:вăтам ази
+урта азия:nonetype:вăтам ази
+кояш системасы:nonetype:хӗвел системи
+себер:nonetype:çӗпӗр
+себер:nonetype:çĕпĕр
+парагвай:nonetype:парагвай
+фәлистыйн:nonetype:палестина
+киек каз юлы:nonetype:хуркайӑк çулӗ
+каз юлы:nonetype:хуркайӑк çулӗ
+люксембург:nonetype:люксембург
+куба:nonetype:куба
+киев русе:nonetype:кейӳ руçӗ
+каспий диңгезе:nonetype:каспий тинĕсĕ
+каракалпак теле:nonetype:каракалпак
+канберра:nonetype:канберра
+һитлер:nonetype:китлӗр
+һитлер:nonetype:китлĕр
+гайана:nonetype:гайана
+ауруппа огузы:nonetype:европа пĕрлешĕвĕ
+awrupa berlege:nonetype:европа пĕрлешĕвĕ
+аурупа берлеге awrupa berlege:nonetype:европа пĕрлешĕвĕ
+аурупа берлеге:nonetype:европа пĕрлешĕвĕ
+аврупы берлеге:nonetype:европа пĕрлешĕвĕ
+awroberlek:nonetype:европа пĕрлешĕвĕ
+awrupı berlege:nonetype:европа пĕрлешĕвĕ
+чехия җөмһүрият:nonetype:чехи
+чехия җөмһүрият:nonetype:чех республики
+бишкәк:nonetype:бишкек
+худо:nonetype:турӑ
+апрель:nonetype:ака уйăхĕ
+август:nonetype:çурла
+август:nonetype:çурла уйăхĕ
+ливан:nonetype:ливан
+иран:nonetype:иран
+африка:nonetype:африка
+afrika:nonetype:африка
+юлбарыс:nonetype:тигр
+tigr:nonetype:тигр
+diclä:nonetype:тигр
+vanuatu:nonetype:вануату
+суринам:nonetype:суринам
+surinam:nonetype:суринам
+непал:nonetype:непал
+nepal:nonetype:непал
+мүнхен:nonetype:мюнхен
+югославия:nonetype:югослави
+yugoslaviä:nonetype:югослави
+tayvan:nonetype:тайвань
+tayvan:nonetype:тайвань
+стокгольм:nonetype:стокгольм
+дагстан:nonetype:дагестан
+дагстан:nonetype:дагестан республики
+харьков:nonetype:харьков
+белиз:nonetype:белиз
+beliz:nonetype:белиз
+ходай:nonetype:турӑ
+тәңре:nonetype:турӑ
+алла:nonetype:турӑ
+варшава:nonetype:варшава
+русия федерациясе:nonetype:раççей патшалӑхě
+русия федерациясе:nonetype:раççей патшалăхě
+räsäy:nonetype:раççей патшалӑхě
+räsäy:nonetype:раççей патшалăхě
+rusiä:nonetype:раççей патшалӑхě
+rusiä:nonetype:раççей патшалăхě
+яңа зеландия:nonetype:çĕнĕ зеланди
+гана:nonetype:гана
+хрущёв:nonetype:хрущёв
+нестеров:proper:нестеров
+гусев:proper:гусев
+салават:proper:салават
+рим:nonetype:рим
+гали:proper:гали
+isa:nonetype:иисус
+ğaysa:nonetype:иисус
+хәбәшстан:nonetype:эфиопи
+швеция:nonetype:швеци
+монтенегро:nonetype:черногори
+нигерия:nonetype:нигери
+сербия:nonetype:серби
+банат:proper:банат
+швейцария:nonetype:швейцари
+словения:nonetype:словени
+словакия:nonetype:словаки
+колумбия:nonetype:колумби
+малайзия:nonetype:малайзи
+калифорния:nonetype:калифорни
+индонезия:nonetype:индонези
+молдавия:nonetype:молдави
+ливия:nonetype:ливи
+бөекбритания:nonetype:аслӑ британи
+бөекбритания:nonetype:аслă британи
+бөек британия:nonetype:аслӑ британи
+бөек британия:nonetype:аслă британи
+бразилия:nonetype:бразилия
+бразилия:nonetype:бразили
+англия:nonetype:англи
+венеция:nonetype:венеци
+боливия:nonetype:боливи
+aziə:nonetype:ази
+греция:nonetype:греци
+гренландия:nonetype:гренланди
+гарәбстан ярымутравы:nonetype:арави çурутравĕ
+җәһәннәм:nonetype:тамăк
+тәмугъ:nonetype:тамăк
+ялта:nonetype:ялта
+кытай җөмһүрияте:nonetype:тайвань
+putin:nonetype:путин
+урта көнчыгыш:nonetype:малти хĕвелтухăç
+ерак көнчыгыш:nonetype:инçет хĕвелтухăç
+ерак көнчыгыш:nonetype:инçетри хĕвелтухаç
+ерак көнчыгыш:nonetype:инçет тухăç
+днепр:nonetype:тăнăвар
+днепр:nonetype:тӑнӑвар
+камбоҗа:nonetype:камбоджа
+камбоджа:nonetype:камбоджа
+амстердам:nonetype:амстердам
+январь:nonetype:кăрлач уйăхĕ
+январь:nonetype:кăрлач
+январь:nonetype:кӑрлач
+январь:nonetype:янвӑрь
+сентябрь:nonetype:авăн
+октябрь:nonetype:юпа уйăхĕ
+октябрь:nonetype:юпа
+ноябрь:nonetype:чӳк
+ноябрь:nonetype:чӳк уйăхĕ
+мегь:nonetype:уйăх
+июнь:nonetype:ҫӗртме
+июнь:nonetype:śěrtme
+июнь:nonetype:çĕртме
+июнь:nonetype:çěртме
+июль:nonetype:uta утă
+июль:nonetype:ҫӗртме
+июль:nonetype:uta
+июль:nonetype:утă
+июль:nonetype:утӑ
+июль:nonetype:утă уйăхĕ
+texas:nonetype:техас
+якын көнчыгыш:nonetype:çывăхри хĕвелтухаç
+түбән новгород:nonetype:чулхула
+азак диңгезе:nonetype:азов тинĕс
+берләшкән милләтләр оешмасы:nonetype:пӗрлешнӗ нацисен организацийӗ
+берләшкән милләтләр оешмасы:nonetype:пĕрлешнĕ нацисен организацийĕ
+berleshken milletler oeshmasi:nonetype:пӗрлешнӗ нацисен организацийӗ
+berleshken milletler oeshmasi:nonetype:пĕрлешнĕ нацисен организацийĕ
+филиппиннар:nonetype:чӑвашла
+норвегия:nonetype:норвеги
+әлҗәзаир:nonetype:алжир
+аурупа берлеге:nonetype:европа пӗрлешӗвӗ
+аурупа берлеге awrupa berlege:nonetype:европа пӗрлешӗвӗ
+awrupa berlege:nonetype:европа пӗрлешӗвӗ
+фарсы култыгы:nonetype:перси заливĕ
+фарсы култыгы:nonetype:перс кӳлмекĕ
+мексика:nonetype:мексика
+febräl:nonetype:нарӑс
+febräl:nonetype:нарăс
+amerika quşma ştatları:nonetype:америкăри пĕрлешӳллĕ штатсем
+америка кушма штатлары:nonetype:америкăри пĕрлешӳллĕ штатсем
+кара диңгез:proper:хура тинĕс
+öktäber:proper:юпа
+haiti:nonetype:гаити
+yül:proper:утă
+әфганстан:proper:афганистан
+әфганстан:nonetype:афганистан
+äfğänstan:nonetype:афганистан
+mart:proper:пуш
+индонезия:proper:индонези
+дания:nonetype:дани
+daniä:nonetype:дани
+румыния:proper:румыни
+äpril:proper:ака
+португалия:proper:португали
+монголия:proper:монголи
+венера:nonetype:венера
+техран:proper:тегеран
+tehran:proper:тегеран
+үрдүн:nonetype:иордани
+başqortça:nonetype:пушкăрт
+başqortça:nonetype:пушкăрт чĕлхи
+başqort tele:nonetype:пушкăрт
+başqort tele:nonetype:пушкăрт чĕлхи
+эфиопия:proper:эфиопи
+хорват:proper:хорват чĕлхи
+андорра:nonetype:андорра
+andorra:nonetype:андорра
+ливия:proper:ливи
+yün:nonetype:ҫӗртме
+yün:nonetype:śěrtme
+yün:nonetype:çĕртме
+yün:nonetype:çěртме
+исраил:nonetype:израиль
+әрмәнстан:proper:эрмени
+başqortstan:nonetype:пушкăрт республики
+аурупа:proper:европа
+греция:proper:греци
+испан теле:nonetype:испан чĕлхи
+урыс:proper:вырăссем
+рус:proper:вырăссем
+күвәйт:nonetype:кувейт
+küwäit:nonetype:кувейт
+меркурий:nonetype:меркурий
+вена шәһәре:nonetype:вена
+nöyäber:proper:чӳк
+афиннар:nonetype:афин
+albania:proper:албани
+албания:proper:албани
+xalıqara yañğırış älifbası:proper:пĕтĕм тĕнчери фонетика алфавичĕ
+ислам:proper:ислам
+бельгия:proper:бельги
+италия:proper:итали
+wîkîpedîä:nonetype:википеди
+канада:nonetype:канада
+чили:proper:чили
+kípır:nonetype:кипр республики
+швеция:proper:швеци
+берлин:proper:берлин
+berlin:proper:берлин
+латин теле:nonetype:латин чĕлхи
+латин теле:nonetype:латтин чĕлхи
+молдавия:proper:молдави
+библия:nonetype:библи
+بىبلىيە:nonetype:библи
+bibliä:nonetype:библи
+izge yazu:nonetype:библи
+төрекмәнстан:proper:туркмени
+стокгольм:proper:стокгольм
+француз теле:nonetype:франци чĕлхи
+филиппиннар:proper:филиппин
+софия:proper:софи
+рим:proper:рим
+колумбия:proper:колумби
+минск:proper:минск
+tallinn:proper:таллин
+украина:proper:украина
+ukraina:proper:украина
+испан:nonetype:испан чĕлхи
+урта көнчыгыш:proper:малти хĕвелтухăç
+венеция:proper:венеци
+пакистан:proper:пакистан
+pakistan:proper:пакистан
+yün:proper:çĕртме
+варшава:proper:варшава
+финляндия:proper:финлянди
+вьетнам:proper:вьетнам
+испания:proper:испани
+марокко:proper:марокко
+saturn:proper:сатурн
+ästerxan:nonetype:аҫтӑрхан
+әстерхан:nonetype:аҫтӑрхан
+иран:proper:ислам республики иран
+босния һәм герцеговина:nonetype:босни тата герцеговина
+bosnia wä herzegovina:nonetype:босни тата герцеговина
+alman tele:nonetype:нимĕç чĕлхи
+латвия:proper:латви
+боливия:proper:боливи
+idel:nonetype:атӑл
+малайзия:proper:малайзи
+исландия:proper:исланди
+сингапур:proper:сингапур
+маҗар теле:nonetype:венгр чĕлхи
+азия:proper:ази
+ğínwar:nonetype:кăрлач уйăхĕ
+ğínwar:nonetype:кăрлач
+ğínwar:nonetype:кӑрлач
+ğínwar:nonetype:янвӑрь
+ğinwar:nonetype:кăрлач уйăхĕ
+ğinwar:nonetype:кăрлач
+ğinwar:nonetype:кӑрлач
+ğinwar:nonetype:янвӑрь
+азәрбайҗан:proper:азербайджан
+äzärbaycan:proper:азербайджан
+эквадор:proper:эквадор
+ecuador:proper:эквадор
+belarus:nonetype:беларуç
+belarus:nonetype:belorusi
+belarus:nonetype:белоруси
+хартум:proper:хартум
+япония:proper:япони
+сатурн:nonetype:сатурн
+бангладеш:proper:бангладеш
+bangladesh:proper:бангладеш
+украина:nonetype:украина
+ангола:nonetype:ангола
+палестина:proper:палестина
+özbäkstan:nonetype:ӳспекстан
+özbäkstan:nonetype:узбекистан
+польша:proper:польша
+иерусалим:proper:иерусалим
+ğaysa:nonetype:иисус христос
+гыйсә мәсих:nonetype:иисус христос
+august:nonetype:çурла
+august:nonetype:çурла уйăхĕ
+avgust:nonetype:çурла
+avgust:nonetype:çурла уйăхĕ
+нидерландлар:nonetype:голанди
+венесуэла:proper:венесуэла
+venezuela:proper:венесуэла
+лондон:nonetype:лондон
+инглиз теле:nonetype:акăлчан чĕлхи
+англия:nonetype:акăлчан чĕлхи
+сирия:proper:сири
+сүрия:proper:сири
+алабама:nonetype:алабама
+сембер:nonetype:чĕмпĕр
+гана:proper:гана
+кытай халык җөмһүрияте:proper:китай халăх республики
+qırım törekçäse:nonetype:крым тутарĕсен чĕлхи
+әрмәнстан:nonetype:армени
+ärmänstan:nonetype:армени
+арыслан:nonetype:арăслан
+arıslan:nonetype:арăслан
+minosaʼ:nonetype:уйăх
+mimahe:nonetype:уйăх
+лондон:proper:лондон
+london:proper:лондон
+мексика:proper:мексика
+мавритания:proper:мавритани
+may:proper:çу
+yül:nonetype:uta утă
+yül:nonetype:ҫӗртме
+yül:nonetype:uta
+yül:nonetype:утă
+yül:nonetype:утӑ
+yül:nonetype:утă уйăхĕ
+албания:nonetype:албани
+albaniä:nonetype:албани
+словения:proper:словени
+танзания:proper:танзани
+таш дәвере:nonetype:чуллă ĕмĕр
+kirill älifbası:nonetype:кириллица
+истанбул бугазы:proper:босфор
+босфор бугазы:proper:босфор
+швейцария:proper:швейцари
+татарста́н:nonetype:тутарстан
+tatarstan:nonetype:тутарстан
+таҗикстан:proper:таджикистан
+парагвай:proper:парагвай
+австрия:proper:австри
+austria:proper:австри
+ay:nonetype:уйăх
+төркия:proper:турци
+жир:nonetype:çĕр
+монголия:nonetype:монголи
+йәмән:proper:йемен
+тәһран:nonetype:тегеран
+нил:proper:нил
+дания:proper:дани
+монтенегро:proper:черногори
+paris:proper:парис
+париж:proper:парис
+dekäber:proper:раштав
+эстония:proper:эстони
+éstonia:proper:эстони
+рәсәй:proper:раççей патшалăхĕ
+россия:proper:раççей патшалăхĕ
+русия:proper:раççей патшалăхĕ
+уругвай:proper:уругвай
+азербайджан:nonetype:азербайджан чĕлхи
+азербайджан теле:nonetype:азербайджан чĕлхи
+azerbaycan:nonetype:азербайджан чĕлхи
+sovet sosialist cömhüriätlär berlege:nonetype:социаллӑ совет республикисен союзӗ
+sovet sosialist cömhüriätlär berlege:nonetype:социаллă совет республикисен союзĕ
+sovet sosialist cömhüriätlär berlege:nonetype:ссср
+sovetlar berlege:nonetype:социаллӑ совет республикисен союзӗ
+sovetlar berlege:nonetype:социаллă совет республикисен союзĕ
+sovetlar berlege:nonetype:ссср
+ливан:proper:ливан
+прага:proper:прага
+praga:proper:прага
+русия:nonetype:раççей патшалăхě or раҫҫей патшалӑхӗ
+rusiä:nonetype:раççей патшалăхě or раҫҫей патшалӑхӗ
+räsäy:nonetype:раççей патшалăхě or раҫҫей патшалӑхӗ
+алмания:nonetype:أهًىàيè
+älmäniä:nonetype:أهًىàيè
+almania:nonetype:أهًىàيè
+гөрҗистан:proper:грузи
+грузия:proper:грузи
+африканц:nonetype:африкаанс
+африкаанс:nonetype:африкаанс
+damask:nonetype:дамаск
+таиланд:proper:таиланд
+канада:proper:канада
+canada:proper:канада
+нигерия:proper:нигери
+may:nonetype:şu
+may:nonetype:çу
+may:nonetype:ҫу
+may:nonetype:çу уйăхĕ
+африка:proper:африка
+инсан:nonetype:этем
+инсан:nonetype:эдем
+инсан:nonetype:çын
+инсан:nonetype:ҫын
+камбоҗа:proper:камбоджа
+febräl:proper:нарăс
+словакия:proper:словаки
+шотландия:proper:шотланди
+niderland:proper:нидерландсем
+hollandia:proper:нидерландсем
+nederland:proper:нидерландсем
+иврит теле:nonetype:иврит
+ivrit tele:nonetype:иврит
+иврид:nonetype:иврит
+вашингтон:nonetype:вашингтон
+rusiä imperiäse:nonetype:раççей империйĕ
+räsäy imperiäse:nonetype:раççей империйĕ
+сербия:nonetype:серб
+һиндстан:nonetype:инди
+hindstan:nonetype:инди
+болгария:proper:болгари
+ангола:proper:ангола
+angola:proper:ангола
+люксембург:proper:люксембург
+әлифба:nonetype:алфавит
+әлифба:nonetype:кириллица
+гренландия:proper:гренланди
+sentäber:nonetype:авăн
+mart:nonetype:пуш
+mart:nonetype:пуш уйăхĕ
+маҗарстан:proper:венгри
+венгрия:proper:венгри
+босфор бугазы:nonetype:босфор
+румыния:nonetype:румыни
+rumıniya:nonetype:румыни
+rumınia:nonetype:румыни
+урыс теле:nonetype:вырăс чĕлхи
+урыс:nonetype:вырăс чĕлхи
+рус:nonetype:вырăс чĕлхи
+urıs tele:nonetype:вырăс чĕлхи
+sofia:nonetype:софия
+амстердам:proper:амстердам
+хорватия:nonetype:хорвати
+xrowatia:nonetype:хорвати
+çallı:nonetype:чаллă
+yar çallı:nonetype:чаллă
+wayuwaʼ:nonetype:этем
+wayuwaʼ:nonetype:эдем
+wayuwaʼ:nonetype:çын
+wayuwaʼ:nonetype:ҫын
+nona:nonetype:этем
+nona:nonetype:эдем
+nona:nonetype:çын
+nona:nonetype:ҫын
+kuwait:proper:кувейт
+çuaş tele:nonetype:чӑвашла
+çuaş tele:nonetype:чăваш чěлхи
+çuaş tele:nonetype:чăваш чĕлхи
+öktäber:nonetype:юпа уйăхĕ
+öktäber:nonetype:юпа
+аурупа:nonetype:европа
+awrupa:nonetype:европа
+норвегия:proper:норвеги
+dekäber:nonetype:раштав raštav
+dekäber:nonetype:раштав уйăхĕ
+андорра:proper:андорра
+совет социалистик республикалар союзы:proper:ссср
+сербия:proper:серби
+nöyäber:nonetype:чӳк
+nöyäber:nonetype:чӳк уйăхĕ
+äpril:nonetype:ака уйăхĕ
+aprel:nonetype:ака уйăхĕ
+ğínwar:proper:кăрлач
+париж:nonetype:парис
+париж:nonetype:париж
+австралия:proper:австрали
+mäskäw:nonetype:москва
+хартум:nonetype:хартум
+бөекбритания:proper:аслă британи
+афиннар:proper:афин
+үрдүн:proper:иордани
+иордания:proper:иордани
+jordan:proper:иордани
+гыйрак:nonetype:ирак
+ğíraq:nonetype:ирак
+англия:proper:англи
+интернет:nonetype:тетел
+веб:nonetype:тетел
+päräwez:nonetype:тетел
+пәрәвез:nonetype:тетел
+гайана:proper:гайана
+литва:nonetype:литва
+litua:nonetype:литва
+ulan bator:nonetype:улан батор
+ulaanbaatar:nonetype:улан батор
+исраил:proper:израиль
+israel:proper:израиль
+прага:nonetype:прага

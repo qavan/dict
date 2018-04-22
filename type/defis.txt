@@ -1,0 +1,1137 @@
+транспырт-noun.nonetype-çул-йĕр
+йорт-noun masculine.nonetype-кил-çурт
+ризык-noun feminine.nonetype-апат-çимӗç
+ризык-noun feminine.nonetype-апат-çимĕç
+ризык-noun feminine.nonetype-çăкăр-тăвар
+ризык-noun particle feminine.nonetype-апат-çимӗç
+ризык-noun particle feminine.nonetype-апат-çимĕç
+ризык-noun particle feminine.nonetype-çăкăр-тăвар
+акча-noun p.nonetype-укçа-тенкĕ
+акча-noun.nonetype-укçа-тенкĕ
+үсемлекләр-noun.nonetype-йывăç-курăк
+үсемлекләр-noun neuter.nonetype-ӳсен-тăран
+үсемлекләр-noun neuter.nonetype-йывăç-курăк
+үсемлекләр-noun neuter.nonetype-ÿсен-тăран
+аш-noun neuter.nonetype-апат-çимӗç
+аш-noun masculine.nonetype-апат-çимӗç
+аш-noun feminine.nonetype-апат-çимӗç
+аш-noun feminine.nonetype-апат-çимĕç
+аш-noun feminine.nonetype-çăкăр-тăвар
+сүз-noun masculine.nonetype-сăмах-юмах
+valüta-noun.nonetype-укçа-тенкĕ
+кошчылык-nonetype.nonetype-чăх-чĕп
+колак-noun n-p.noun-хӑлха
+колак-noun n-p.nonetype-хăлха
+ут-noun masculine.nonetype-вут-кăвар
+ут-noun masculine.nonetype-вут-çулăм
+төзелеш-noun neuter.nonetype-çурт-йĕр тăваслăх
+төзелеш-noun.nonetype-çурт-йĕр тăваслăх
+язмыш-noun feminine.nonetype-кун-çул
+язмыш-noun.nonetype-кун-çул
+акыл-noun masculine.nonetype-ăс-тăн
+давыл-noun feminine.nonetype-çил-тăвăл
+давыл-noun verb feminine.nonetype-çил-тăвăл
+ит-noun neuter.nonetype-аш-какай
+өй-noun masculine.nonetype-кил-çурт
+кошлар-noun.nonetype-кайăк-кĕшĕк
+бөҗәкләр-noun.nonetype-хурт-кăпшанкă
+тормыш-noun feminine.nonetype-кун-çул
+кыр-noun neuter.nonetype-уй-хир
+кыр-adjective.nonetype-уй-хир
+утар-noun masculine.nonetype-пÿрт-çурт
+утар-noun masculine.nonetype-кил-çурт
+вөҗдан-noun feminine.nonetype-намăс-симĕс
+уй-noun masculine.nonetype-ăс-тăн
+намус-noun feminine.nonetype-намăс-симĕс
+яшьләр-nonetype.nonetype-яш-кĕрĕм
+икътисад-noun neuter.nonetype-пÿрт-çурт
+лингва-франка-nonetype.nonetype-лингва-франка
+сан-noun neuter.nonetype-им-сум
+юань-noun masculine.nonetype-юань йăх-несĕлĕ
+армия-noun n-p.nonetype-хĕçпăшаллă вăйсем
+армия-noun n-p.nonetype-çар
+атом-төш коралы-nonetype.nonetype-йĕтре хĕçпăшалĕ
+köç-noun.nonetype-вăй-хал
+гарасат-nonetype.nonetype-çил-тăвăл
+җимеш-noun p.nonetype-улма-çырла
+киҗе-мамык-noun masculine.nonetype-мамăк
+киҗе-мамык-noun masculine.nonetype-хут
+корсак куышлыгы-noun.nonetype-вар-хырăм хăвăлĕ
+тәкъдир-noun feminine.nonetype-кун-çул
+--noun.nonetype--
+йорт иясе-adjective noun.nonetype-хĕрт-сурт
+шри-ланка-proper feminine.nonetype-шри-ланка
+скелет-noun masculine.nonetype-шăм-шак
+мебель-noun feminine.nonetype-сĕтел-пукан
+мебел-noun feminine.nonetype-сĕтел-пукан
+чабата-noun m-p.nonetype-çăпата
+таўлу тил-adjective masculine.nonetype-карачай-палкар чĕлхи
+карачай-балкар теле-adjective masculine.nonetype-карачай-палкар чĕлхи
+къарачай-малкъар тил-adjective masculine.nonetype-карачай-палкар чĕлхи
+семья-noun feminine.nonetype-кил-йыш
+башмак-noun feminine.nonetype-атă-пушмак
+чирү-noun n-p.nonetype-хĕçпăшаллă вăйсем
+чирү-noun n-p.nonetype-çар
+тирәсендә-adverb.nonetype--те
+тирәсендә-adverb.nonetype--та
+тирәсендә-adverb.nonetype-йĕри-тавралла
+тирәсендә-adverb.nonetype-йĕри-тавра
+савыт-саба-noun feminine.nonetype-чашăк-тирĕк
+савыт-саба-noun feminine.nonetype-савăт-сапа
+савыт-саба-noun feminine.nonetype-савăт
+савыт-саба-noun feminine.nonetype-кашăк-чашăк
+утын-noun p.nonetype-вут-шанкă
+янәшә-adverb.nonetype-çума-çумăн
+туп-туры-adverb.nonetype-яштак
+туп-туры-adverb.nonetype-тÿрех
+туп-туры-adverb.nonetype-тÿрĕ
+туп-туры-adverb.nonetype-йăрст
+туп-туры-adverb.nonetype-йăрăс
+-дан-adposition.nonetype--ç
+каршыда-adposition.nonetype-хире-хирĕç
+каршыда-adposition.nonetype-тĕлме-тĕл
+-мы-conjunction.conjunction-тата
+-ма-prefix.nonetype-çук
+-ма-prefix.nonetype-мар
+вак акча-noun feminine.nonetype-шăкар-макăр
+сай-adjective.nonetype-шăкар-макăр
+ир-ат-noun.nonetype-ар ҫын
+ир-ат-noun.nonetype-арçын
+ир-ат-noun.verb-ар
+ир-ат-adjective.nonetype-арçын
+ир-ат-adjective.verb-ар
+балалар-noun.nonetype-ывăл-хĕр
+балалар-noun.nonetype-ача-пăча
+тирә-юньдә-adposition.nonetype-тавралла
+тирә-юньдә-adposition.noun-тавра
+тирә-юньдә-adposition.nonetype-йĕри-тавралла
+тирә-юньдә-adposition.nonetype-йĕри-тавра
+yalqaw-adjective.nonetype-ÿрĕк-сÿрĕк
+буран-noun masculine.nonetype-çил-тăвăл
+буран-noun feminine.nonetype-çил-тăман
+буран-noun verb feminine.nonetype-çил-тăвăл
+хатын-кыз-noun feminine.nonetype-арăм
+хатын-кыз-noun feminine.nonetype-хĕрарăм
+хатын-кыз-noun feminine.noun-хӗрарӑм
+уйла-рга-verb.nonetype-шухǎшлама
+уйла-рга-verb.nonetype-шутлама
+уйла-рга-verb.verb-шухӑшла
+уйла-рга-verb.nonetype-шухăшла
+уйла-рга-verb.verb-уйла
+уйла-рга-verb.verb-шутла
+баткак-noun feminine.nonetype-лапра-çĕпре
+талаучылар-adjective.nonetype-вăрă-хурахла
+чүп-чәр-noun masculine.nonetype-тапăр
+чүп-чәр-noun masculine.nonetype-çÿпĕ
+чүп-чәр-noun masculine.nonetype-çÿп-çап
+аша-рга-verb pf.nonetype-çисе яр
+аша-рга-verb impf.nonetype-тăран
+аша-рга-verb impf.nonetype-апат çи
+аша-рга-verb impf.nonetype-апатлан
+аша-рга-verb impf.nonetype-çи
+аша-рга-verb impf.nonetype-çиме
+аша-рга-verb impf.nonetype-сып
+аша-рга-verb impf.adjective-пур
+ими-noun f-p.nonetype-чĕчĕ
+ими-noun f-p.nonetype-чĕжĕ
+ими-noun f-p.nonetype-кăкăр
+-стан-noun feminine.nonetype-çĕршыв
+-стан-noun feminine.nonetype-çĕр
+-стан-noun feminine.nonetype-ҫӗре
+-стан-noun feminine.nonetype-тĕнче
+-стан-noun feminine.nonetype-тăпра
+яңалык-noun f-p.nonetype-хыпарсем
+яңалык-verb noun f-p.nonetype-савăт
+яңалык-verb noun f-p.nonetype-ертсе пыр
+явым-төшем-noun.nonetype-лĕкĕ
+явым-төшем-noun.nonetype-çĕпре
+юнәлеш-noun neuter.nonetype-çул-йĕр
+ятак-noun feminine.nonetype-тÿшек-минтер
+янгын-noun masculine.nonetype-вут-кăвар
+ызгыш-noun feminine.nonetype-шăв-шав
+чырай-noun.nonetype-сйн-пит
+чырай-noun.nonetype-сăн-сăпат
+чырай-noun.nonetype-пит-куç
+чырай-noun.nonetype-куç-пуç
+чырай-noun neuter.nonetype-сйн-пит
+чырай-noun neuter.nonetype-сăн-сăпат
+чырай-noun neuter.nonetype-пит-куç
+чырай-noun neuter.nonetype-куç-пуç
+хуҗалык-noun neuter.nonetype-пÿрт-çурт
+хөрмәт-noun neuter.nonetype-ят-сум
+хәл-noun.nonetype-вăй-хал
+хәл-noun feminine.nonetype-лару-тăру
+хаҗәт-noun feminine.nonetype-хĕн-хур
+чана-noun f-p.nonetype-çунашка
+чана-f-p.nonetype-çунашка
+фигура-noun feminine.nonetype-ÿт-пÿ
+транспорт-noun masculine.nonetype-çул-йĕр
+традиция-noun feminine.nonetype-йăла-йĕрке
+терлек-noun masculine.nonetype-выльăх-чĕрлĕх
+тереклек-noun feminine.nonetype-кун-çул
+тирә-як-noun.nonetype-пĕтĕмĕшлĕ топологи терминĕсен сăмахсарĕ
+тирә-як-noun.nonetype-тавралăх
+тирә-як-noun.noun-тавра
+тирә-як-noun.nonetype-йĕри-тавралăх
+тән-noun neuter.nonetype-шăм-шак
+тән-noun neuter.nonetype-ÿт-пÿ
+ташу-noun.nonetype-шыв-шур
+сөйләм-noun feminine.nonetype-сăмах-юмах
+сөйләшү-noun masculine.nonetype-сăмах-юмах
+ситуация-noun.nonetype-лару-тăру
+сәүдә-noun feminine.nonetype-суту-илÿ
+оят-noun masculine.nonetype-намăс-симĕс
+начарлык-adjective.nonetype-пули-пулми
+начарлык-adjective.nonetype-йăх-ях
+минус-noun masculine.nonetype--
+күңел-noun neuter.nonetype-кăмăл-туйăм
+корылыш-noun neuter.nonetype-çурт-йĕр тăваслăх
+көч-noun feminine.nonetype-вăй-хал
+кәеф-noun neuter.nonetype-кăмăл-туйăм
+кайгы-noun neuter.nonetype-хуйхă-суйхă
+ишетү-noun.noun-сас-хура
+ихтирам-noun neuter.nonetype-ят-сум
+ихата-noun masculine.nonetype-пÿрт-çурт
+ихата-noun masculine.nonetype-кил-çурт
+зиһен-noun.nonetype-ăс-тăн
+җисем-noun neuter.nonetype-шăм-шак
+җисем-noun neuter.nonetype-ÿт-пÿ
+җиһаз-noun feminine.nonetype-лару-тăру
+җим-noun.nonetype-апат-çимӗç
+дәрман-noun feminine.nonetype-вăй-хал
+гәүдә-noun neuter.nonetype-шăм-шак
+гәүдә-noun neuter.nonetype-ÿт-пÿ
+гаскәр-noun n-p.nonetype-хĕçпăшаллă вăйсем
+гаскәр-noun n-p.nonetype-çар
+валюта-noun feminine.nonetype-укçа-тенкĕ
+баскыч-noun f-p.noun-картлашка
+ахыр-noun masculine.nonetype-вĕçĕ-хĕрри
+ашлама-noun neuter.nonetype-им-çам
+азак-noun masculine.nonetype-вĕçĕ-хĕрри
+азык-noun feminine.nonetype-апат-çимӗç
+азык-noun feminine.nonetype-апат-çимĕç
+азык-noun feminine.nonetype-çăкăр-тăвар
+абруй-noun.nonetype-ят-сум
+дәүләт-noun masculine.nonetype-вĕçĕ-хĕрри
+кабарда-балкария-proper.nonetype-кабардино-балкари республики
+ярлы-adjective masculine.nonetype-пурлă-çуклă
+ялангач-adjective.nonetype-çаппа-çарамас
+яман-adverb.nonetype-йăх-ях
+яман-adjective.nonetype-пули-пулми
+яман-adjective.nonetype-йăх-ях
+ялкау-adjective.nonetype-ÿрĕк-сÿрĕк
+ялкау-adverb.nonetype-ÿрĕк-сÿрĕк
+якты-noun masculine.nonetype-вут-кăвар
+якты-noun masculine.nonetype-вут-çулăм
+шәрә-adjective.nonetype-çаппа-çарамас
+фәкыйрь-adjective masculine.nonetype-пурлă-çуклă
+төрле-төрле-adjective.nonetype-ăрасна
+төрле-төрле-adjective.nonetype-тĕрлĕ
+үле-adjective m-p.adjective-виле
+үле-adjective m-p.nonetype-ÿт
+тере-adjective.nonetype-хăпăл-хапăл
+тиз-adverb.nonetype-кĕç-вĕç
+тиз-adjective.nonetype-хăпăл-хапăл
+тиз-adjective.nonetype-вăр-вар
+тиз-adverb.nonetype-хăпăл-хапăл
+тиз-adverb.nonetype-йăпăр-япăр
+тиз-adverb.nonetype-йăкăл-якăл
+тиз-adverb.nonetype-вăш-ваш
+тиз-adverb.nonetype-вăр-варрăн
+тиз-adverb.nonetype-вăр-вар
+тигез-adjective.adjective-кал-кал
+тигез-adverb.nonetype-кал-кал
+таулы-adjective.nonetype-сăрт-ту
+сирәк-adverb.nonetype-хутран-ситрен
+сирәк-adverb.nonetype-пăт-пат
+исән-adjective.nonetype-хăпăл-хапăл
+исән-adverb.nonetype-хăпăл-хапăл
+имин-adjective.nonetype-тĕрĕс-тĕкел
+җәһәт-adjective.nonetype-хăпăл-хапăл
+җәһәт-adjective.nonetype-вăр-вар
+җәһәт-adverb.nonetype-хăпăл-хапăл
+җәһәт-adverb.nonetype-йăпăр-япăр
+җәһәт-adverb.nonetype-йăкăл-якăл
+җәһәт-adverb.nonetype-вăш-ваш
+җәһәт-adverb.nonetype-вăр-варрăн
+җәһәт-adverb.nonetype-вăр-вар
+җанлы-adjective.nonetype-хăпăл-хапăл
+вак-adjective.nonetype-шăкар-макăр
+буйлы-adjective.nonetype-йăрăм-йăрăм
+төзе-noun.nonetype-çурт-йĕр тăваслăх
+талаш-noun feminine.nonetype-шăв-шав
+кер-noun feminine.nonetype-лапра-çĕпре
+һәркайчан-adverb.nonetype-ĕмĕр-ĕмĕр
+һәрвакыт-adverb.nonetype-ĕмĕр-ĕмĕр
+гел-adverb.nonetype-ĕмĕр-ĕмĕр
+кайчак-adverb.nonetype-кассăн-кассăн
+кайчак-adverb.nonetype-вăхăтăн-вăхăтăн
+кайвакыт-adverb.nonetype-кассăн-кассăн
+кайвакыт-adverb.nonetype-вăхăтăн-вăхăтăн
+бәйнә-бәйнә-adverb.nonetype-тĕпĕ-йĕрĕпе
+тиздән-adverb.nonetype-кĕç-вĕç
+берәм-сәрәм-adverb.nonetype-хушăран
+берәм-сәрәм-adverb.nonetype-хутран-ситрен
+берәм-сәрәм-adverb.nonetype-сайраран
+ара-тирә-adverb.nonetype-хутран-ситрен
+һаман-adverb.nonetype-ĕмĕр-ĕмĕр
+акрын-акрын-adverb.nonetype-майĕпен
+акрын-акрын-adverb.adverb-ерипе
+кайчакта-adverb.nonetype-кассăн-кассăн
+кайчакта-adverb.nonetype-вăхăтăн-вăхăтăн
+аз гына-pronoun adverb.nonetype-хăш-пер
+әрле-бирле-adverb.nonetype-унта-кунта
+әрле-бирле-adverb.nonetype-каллĕ-маллĕ
+соң-noun masculine.nonetype-вĕçĕ-хĕрри
+илә-adposition.nonetype--пе
+илә-adposition.nonetype--па
+бирле-adposition.nonetype--пе
+бирле-adposition.nonetype--па
+каршы-adjective.nonetype-хире-хирĕç
+каршы-adposition.nonetype-хире-хирĕç
+каршы-adposition.nonetype-тĕлме-тĕл
+бүтән-adjective.nonetype-хăш-пĕр
+лы-adposition.nonetype--пе
+лы-adposition.nonetype--па
+белән-adposition.nonetype--пе
+белән-adposition.nonetype--па
+өст-adposition.nonetype--пе
+өст-adposition.nonetype--па
+ирен-noun n-p.nonetype-çăвар
+ирен-noun n-p.noun-ҫӑвар
+кайчы-noun f-p.nonetype-хачă
+корал-noun neuter.nonetype-хĕç-пăшал
+андорра-ла-велья-proper feminine.nonetype-андорра-ла-вьеха
+колмак-noun masculine.nonetype-мухмăр-сухмăр
+әкәм-төкәм-noun feminine.nonetype-шуйсем
+тукыма-noun feminine.nonetype-пир-авăр
+сын-noun feminine.nonetype-ÿт-пÿ
+насыйп-noun.nonetype-кун-çул
+урнаш-ырга-verb.nonetype-тăр
+урнаш-ырга-verb.verb-лар
+урнаш-ырга-verb.verb-тӑр
+урнаш-ырга-verb.nonetype-тăма
+урнаш-ырга-verb.nonetype-япăх
+урнаш-ырга-verb.nonetype-тупăн
+урнаш-ырга-verb.nonetype-лар
+савыт-noun feminine.nonetype-чашăк-тирĕк
+савыт-noun feminine.nonetype-савăт-сапа
+савыт-noun feminine.nonetype-кашăк-чашăк
+төньяк-көнбатыш-noun.nonetype-çурçĕр-анăç
+кырый-noun masculine.nonetype-вĕçĕ-хĕрри
+үлек-noun m-p.nonetype-вилĕ
+үлек-noun m-p.adjective-виле
+үлек-adjective m-p.adjective-виле
+үлек-adjective m-p.nonetype-ÿт
+гадәт-noun feminine.nonetype-йăла-йĕрке
+карават-noun feminine.nonetype-тÿшек-минтер
+оч-noun masculine.nonetype-вĕçĕ-хĕрри
+колак өзәңгесе - урта колакта сандал белән эчке колак арасындагы сөякчек.-noun neuter.nonetype-пускăч
+якынча-adposition.nonetype--те
+якынча-adposition.nonetype--та
+бандитлар-adjective.nonetype-вăрă-хурахла
+ќил-ергђ-verb.nonetype-ыткăн
+ќил-ергђ-verb.nonetype-мăкăрлантар
+ќил-ергђ-verb.nonetype-виркĕн
+ќил-ергђ-verb.nonetype-çĕмĕрттер
+чаб-арга-verb.nonetype-ыткăн
+чаб-арга-verb.nonetype-мăкăрлантар
+чаб-арга-verb.nonetype-виркĕн
+чаб-арга-verb.nonetype-çĕмĕрттер
+ќилдер-ергђ-verb.nonetype-ыткăн
+ќилдер-ергђ-verb.nonetype-мăкăрлантар
+ќилдер-ергђ-verb.nonetype-виркĕн
+ќилдер-ергђ-verb.nonetype-çĕмĕрттер
+үзара-adjective.nonetype-хире-хирĕç
+ти-ергә-verb.verb-тив
+ти-ергә-verb.nonetype-сĕртĕн
+ти-ергә-verb.nonetype-перĕн
+ти-ергә-verb.nonetype-лек
+кил-ергә-verb impf.verb-пул
+кил-ергә-verb.verb-пыр
+кил-ергә-verb.nonetype-килсе кай
+кил-ергә-verb.nonetype-кильме
+кил-ергә-verb.verb-кил
+кил-ергә-verb.nonetype-килсе çит
+яшә-ргә-verb.nonetype-пурăн
+яшә-ргә-verb.verb-пурӑн
+яшә-ргә-verb.nonetype-пурăнма
+яшә-ргә-verb.verb-пул
+сатып ал-ырга-verb.nonetype-туян
+сатып ал-ырга-verb.nonetype-сутăн ил
+гомер-гомергә-adverb.nonetype-ялан
+гомер-гомергә-adverb.nonetype-ĕмĕр-ĕмĕр
+гомер-гомергә-adverb.nonetype-пĕрмай
+гомер-гомергә-adverb.adverb-ялан
+мохтаҗ-adjective masculine.nonetype-пурлă-çуклă
+мескен-adjective masculine.nonetype-пурлă-çуклă
+тор-ырга-verb.nonetype-пурăн
+тор-ырга-verb.verb-пурӑн
+тор-ырга-verb.nonetype-пурăнма
+тор-ырга-verb.nonetype-тăр
+тор-ырга-verb.verb-лар
+тор-ырга-verb.verb-тӑр
+тор-ырга-verb.nonetype-тăма
+ян-adposition.nonetype--те
+ян-adposition.nonetype--та
+сулар-noun.noun-шыв-шур
+янында-adposition.nonetype--те
+янында-adposition.nonetype--та
+янында-verb adposition.nonetype--те
+янында-verb adposition.nonetype--та
+янында-adverb.nonetype--те
+янында-adverb.nonetype--та
+чалбар-noun m-p.nonetype-йĕм
+чалбар-noun m-p.nonetype-шăлавар
+чалбар-noun f-p.nonetype-шăлавар
+sankt-peterburg-proper masculine.nonetype-питӗрпурк
+sankt-peterburg-proper masculine.nonetype-санкт-петербург
+тулы-adjective.nonetype-тĕрĕс-тĕкел
+aşlama-noun neuter.nonetype-им-çам
+пуэрто-рико-nonetype.nonetype-пуэрто-рико
+әңгәмә-noun masculine.nonetype-сăмах-юмах
+karawat-noun feminine.nonetype-тÿшек-минтер
+гомер-noun feminine.nonetype-кун-çул
+башка-determiner.nonetype-хăш-пĕр
+тигес-noun.adjective-кал-кал
+äylänä-tirä-noun feminine.nonetype-юнкун
+äylänä-tirä-noun feminine.nonetype-юн кун
+äylänä-tirä-noun feminine.nonetype-хушă
+äylänä-tirä-noun feminine.noun-юнкун
+тау-adjective.nonetype-сăрт-ту
+ut-noun masculine.nonetype-вут-кăвар
+ut-noun masculine.nonetype-вут-çулăм
+ил-noun masculine.nonetype-вĕçĕ-хĕрри
+yäşenle yañğır-noun feminine.nonetype-çил-тăвăл
+эч-noun feminine.nonetype-ăш-чик
+эч-adposition.nonetype--те
+эч-adposition.nonetype--та
+тел-noun feminine.nonetype-сăмах-юмах
+бие-ргә-verb.verb-ташла
+бие-ргә-noun f;.nonetype-ташă
+бие-ргә-noun masculine.nonetype-ташă
+төтен-noun masculine.nonetype-тĕтĕм-сĕрĕм
+төтен-noun masculine.nonetype-йăс-пăс
+чад-noun.nonetype-тĕтĕм-сĕрĕм
+өлеш-noun feminine.nonetype-кун-çул
+куәт-noun feminine.nonetype-вăй-хал
+йөз-noun.nonetype-сйн-пит
+йөз-noun.nonetype-сăн-сăпат
+йөз-noun.nonetype-пит-куç
+йөз-noun.nonetype-куç-пуç
+йөз-noun neuter.nonetype-сйн-пит
+йөз-noun neuter.nonetype-сăн-сăпат
+йөз-noun neuter.nonetype-пит-куç
+йөз-noun neuter.nonetype-куç-пуç
+якын-adposition.nonetype--те
+якын-adposition.nonetype--та
+агым-noun neuter.nonetype-çул-йĕр
+пычрак-noun feminine.nonetype-лапра-çĕпре
+-сә-conjunction.nonetype-эхер
+-сә-noun.nonetype-пулсан
+-сә-noun.nonetype-енчен
+-сә-noun.nonetype-ытах
+-сә-noun.nonetype-эхер
+-сә-conjunction.nonetype-пулсан
+aqça-noun p.nonetype-укçа-тенкĕ
+су-noun feminine.noun-шыв-шур
+ялкын-noun neuter.nonetype-вут-çулăм
+ялкын-noun masculine.nonetype-вут-кăвар
+ялкын-noun masculine.nonetype-вут-çулăм
+берничә-determiner.nonetype-хăш-пер
+урын-noun feminine.nonetype-тÿшек-минтер
+мультимедиа сессия-noun masculine.nonetype-сăмах-юмах
+еш-adverb.nonetype-çине-çине
+antoine de saint-exupéry-nonetype.nonetype-антуан де сент-экзюпери
+хәбәр-noun f-p.nonetype-хыпарсем
+хәбәр-verb noun f-p.nonetype-савăт
+хәбәр-verb noun f-p.nonetype-ертсе пыр
+эчендә-adposition.nonetype--те
+эчендә-adposition.nonetype--та
+эчендә-noun.nonetype--те
+эчендә-noun.nonetype--та
+-са-conjunction.nonetype-эхер
+-са-noun.nonetype-пулсан
+-са-noun.nonetype-енчен
+-са-noun.nonetype-ытах
+-са-noun.nonetype-эхер
+-са-conjunction.nonetype-пулсан
+гаилә-noun feminine.nonetype-кил-йыш
+начар-adjective.nonetype-пули-пулми
+начар-adjective.nonetype-йăх-ях
+начар-adverb.nonetype-йăх-ях
+dns-исем-noun feminine.nonetype-паллă
+dns-исем-noun feminine.nonetype-карт
+кечкенә-noun.nonetype-шăкар-макăр
+эчәк-noun.nonetype-пыршă-аршă
+үсемлек-noun neuter.nonetype-ӳсен-тăран
+үсемлек-noun neuter.nonetype-йывăç-курăк
+үсемлек-noun neuter.nonetype-ÿсен-тăран
+ла-манш-nonetype.nonetype-ла-манш
+веб-бит-noun feminine.nonetype-страницӑ
+өстендә-noun.nonetype--те
+өстендә-noun.nonetype--та
+өстендә-adposition.nonetype--те
+өстендә-adposition.nonetype--та
+өстендә-adverb.nonetype--те
+өстендә-adverb.nonetype--та
+кеше-noun neuter.nonetype-сйн-пит
+кеше-noun neuter.nonetype-сăн-сăпат
+кеше-noun neuter.nonetype-пит-куç
+кеше-noun neuter.nonetype-куç-пуç
+юл-noun masculine.nonetype-çул-йĕр
+бизәк-noun masculine.nonetype-çул-йĕр
+бөтен-adjective.nonetype-тĕрĕс-тĕкел
+белəн-adposition.nonetype--пе
+белəн-adposition.nonetype--па
+белəн-noun.nonetype--пе
+белəн-noun.nonetype--па
+шома-noun.adjective-кал-кал
+бәдән-noun neuter.nonetype-шăм-шак
+бәдән-noun neuter.nonetype-ÿт-пÿ
+форма-noun feminine.nonetype-ÿт-пÿ
+-да-noun.nonetype--те
+-да-noun.nonetype--та
+-да-adposition.nonetype--ç
+-да-adposition.nonetype-яхăн
+-да-adposition.noun-тавра
+-да-adposition.nonetype--те
+-да-adposition.nonetype--та
+-да-adverb.nonetype--те
+-да-adverb.nonetype--та
+-да-noun.nonetype-чух
+-да-noun.nonetype-пуҫламӑшенче
+бит-noun neuter.nonetype-сйн-пит
+бит-noun neuter.nonetype-сăн-сăпат
+бит-noun neuter.nonetype-пит-куç
+бит-noun neuter.nonetype-куç-пуç
+-дә-noun.nonetype--те
+-дә-noun.nonetype--та
+-дә-adposition.nonetype-яхăн
+-дә-adposition.noun-тавра
+-дә-adposition.nonetype--те
+-дә-adposition.nonetype--та
+-дә-adverb.nonetype--те
+-дә-adverb.nonetype--та
+-дә-noun.nonetype-чух
+-дә-noun.nonetype-пуҫламӑшенче
+чик-noun masculine.nonetype-вĕçĕ-хĕрри
+астар-noun masculine.nonetype-вĕçĕ-хĕрри
+irekle-ireksez-adverb.nonetype-ирĕксĕртен
+яфрак-noun m-p.nonetype-çеçке
+өй шакмагы-noun masculine.nonetype-кил-çурт
+аз-adjective adverb.nonetype-пăт-пат
+аз-adverb.nonetype-хутран-ситрен
+аз-pronoun adverb.nonetype-хăш-пер
+санкт-петербург-proper masculine.nonetype-питӗрпурк
+санкт-петербург-proper masculine.nonetype-санкт-петербург
+кошчылык-nonetype.nonetype-чăх-чĕп
+бөҗәкләр-nonetype.noun-хурт-кăпшанкă
+лингва-франка-nonetype.nonetype-лингва-франка
+атом-төш коралы-nonetype.nonetype-йĕтре хĕçпăшалĕ
+гарасат-nonetype.nonetype-çил-тăвăл
+корсак куышлыгы-nonetype.noun feminine-вар-хырăм хăвăлĕ
+корсак куышлыгы-nonetype.noun-вар-хырăм хăвăлĕ
+йорт иясе-nonetype.adjective noun-хĕрт-сурт
+чирү-nonetype.noun n-p-çар
+гаскәр-noun.noun n-p-çар
+армия-nonetype.noun n-p-çар
+буран-nonetype.noun-çил-тăман
+гуш-nonetype.noun n-p-хӑлха
+колак-noun.noun n-p-хӑлха
+шри-ланка-proper.proper feminine-шри-ланка
+скелет-nonetype.noun masculine-шăм-шак
+буран-nonetype.noun feminine-çил-тăман
+бие-ргә-nonetype.noun-ташă
+аш-nonetype.noun neuter-апат-çимӗç
+башмак-nonetype.noun feminine-атă-пушмак
+чүп-чәр-nonetype.noun-çÿп-çап
+чүп-чәр-nonetype.noun-çÿпĕ
+мебель-nonetype.noun-сĕтел-пукан
+мебел-nonetype.noun-сĕтел-пукан
+таўлу тил-nonetype.adjective masculine-карачай-палкар чĕлхи
+къарачай-малкъар тил-nonetype.adjective masculine-карачай-палкар чĕлхи
+карачай-балкар теле-nonetype.adjective masculine-карачай-палкар чĕлхи
+җимеш-noun.noun-улма-çырла
+эили-noun.noun-ача-пăча
+эили-noun.noun-ывăл-хĕр
+урнаш-ырга-nonetype.verb-япăх
+урнаш-ырга-nonetype.verb-тупăн
+урнаш-ырга-nonetype.noun-лар
+тигез-nonetype.adjective conjunction adverb-кал-кал
+җиһаз-nonetype.noun-лару-тăру
+хәл-noun.noun-лару-тăру
+акыл-nonetype.noun-ăс-тăн
+зиһен-nonetype.noun-ăс-тăн
+кил-ергә-nonetype.verb-килсе çит
+утын-nonetype.noun-вут-шанкă
+бие-ргә-nonetype.verb-ташла
+янәшә-nonetype.noun adverb-çума-çумăн
+кил-ергә-nonetype.verb-пыр
+кил-ергә-nonetype.verb-кил
+каршыда-nonetype.adposition-тĕлме-тĕл
+каршыда-nonetype.adposition-хире-хирĕç
+каршы-adposition.adposition-тĕлме-тĕл
+каршы-adposition.adposition-хире-хирĕç
+-мы-nonetype.conjunction-тата
+яшьләр-nonetype.nonetype-яш-кĕрĕм
+вак акча-nonetype.noun feminine-шăкар-макăр
+ир-ат-nonetype.adjective-ар
+ир-ат-nonetype.adjective-арçын
+балалар-nonetype.noun-ача-пăча
+балалар-nonetype.noun-ывăл-хĕр
+тирәсендә-nonetype.adposition-йĕри-тавралла
+тирәсендә-nonetype.adposition-йĕри-тавра
+тирә-юньдә-nonetype.adposition-тавралла
+тирә-юньдә-nonetype.adposition-йĕри-тавралла
+тирә-юньдә-nonetype.adposition-йĕри-тавра
+тирә-юньдә-nonetype.adposition-тавра
+кил-ергә-nonetype.verb-пул
+чырай-nonetype.noun-сăн-сăпат
+чырай-nonetype.noun-сйн-пит
+чырай-nonetype.noun-куç-пуç
+чырай-nonetype.noun-пит-куç
+йөз-numeral.noun-сăн-сăпат
+йөз-numeral.noun-сйн-пит
+йөз-numeral.noun-куç-пуç
+йөз-numeral.noun-пит-куç
+буран-nonetype.noun masculine-çил-тăвăл
+ภาษา-nonetype.noun feminine-сăмах-юмах
+чүп-чәр-nonetype.noun-тапăр
+аша-рга-nonetype.verb-çисе яр
+โรค-nonetype.noun-чир-чĕр
+янгын-noun.noun masculine-вут-кăвар
+ялкын-noun.noun-вут-çулăм
+эч-noun.noun-ăш-чик
+явым-төшем-noun.noun-çĕпре
+явым-төшем-noun.noun-лĕкĕ
+юнәлеш-noun.noun-çул-йĕр
+агым-noun.noun-çул-йĕр
+хаҗәт-noun.noun-хĕн-хур
+транспырт-nonetype.noun masculine-çул-йĕр
+транспырт-nonetype.noun-çул-йĕр
+транспорт-noun.noun masculine-çул-йĕр
+транспорт-noun.noun-çул-йĕр
+традиция-noun.noun-йăла-йĕрке
+традиция-noun.noun feminine-йăла-йĕрке
+гадәт-noun.noun-йăла-йĕрке
+гадәт-noun.noun feminine-йăла-йĕрке
+терлек-noun.noun masculine-выльăх-чĕрлĕх
+тирә-як-noun.noun-йĕри-тавралăх
+тирә-як-noun.noun-тавралăх
+тирә-як-noun.noun-тавра
+ташу-noun.nonetype-шыв-шур
+ызгыш-noun.noun-шăв-шав
+талаш-noun.noun-шăв-шав
+ситуация-noun.noun-лару-тăру
+сәүдә-noun.noun feminine-суту-илÿ
+савыт-саба-nonetype.noun feminine-савăт-сапа
+савыт-саба-nonetype.noun feminine-кашăк-чашăк
+савыт-саба-nonetype.noun feminine-савăт
+савыт-саба-nonetype.noun feminine-чашăк-тирĕк
+савыт-noun.noun feminine-савăт-сапа
+савыт-noun.noun feminine-кашăк-чашăк
+савыт-noun.noun feminine-чашăк-тирĕк
+оят-noun.noun-намăс-симĕс
+минус-noun.noun--
+--nonetype.noun--
+кырый-noun.noun masculine-вĕçĕ-хĕрри
+ил-noun.noun masculine-вĕçĕ-хĕрри
+дәүләт-noun.noun masculine-вĕçĕ-хĕрри
+кәеф-noun.noun-кăмăл-туйăм
+күңел-noun.noun-кăмăл-туйăм
+кайгы-noun.noun adverb-хуйхă-суйхă
+ишетү-noun.noun-сас-хура
+хөрмәт-noun.noun-ят-сум
+ихтирам-noun.noun-ят-сум
+утар-noun.noun masculine-кил-çурт
+утар-noun.noun masculine-пÿрт-çурт
+ихата-noun.noun masculine-кил-çурт
+ихата-noun.noun masculine-пÿрт-çурт
+җим-noun.noun masculine-апат-çимӗç
+аш-nonetype.noun masculine-апат-çимӗç
+гомер-noun.noun-кун-çул
+тормыш-noun.noun-кун-çул
+тереклек-noun.noun-кун-çул
+valüta-nonetype.noun feminine-укçа-тенкĕ
+валюта-noun.noun feminine-укçа-тенкĕ
+аш-noun.noun feminine-апат-çимӗç
+аш-noun.noun feminine-çăкăр-тăвар
+акыл-noun.noun masculine-ăс-тăн
+уй-nonetype.noun masculine-ăс-тăн
+ризык-noun.noun feminine-апат-çимĕç
+ризык-noun.noun particle feminine-апат-çимĕç
+ризык-noun.noun particle feminine-апат-çимӗç
+ризык-noun.noun particle feminine-çăкăр-тăвар
+азык-noun.noun feminine-апат-çимĕç
+азык-noun.noun particle feminine-апат-çимĕç
+азык-noun.noun particle feminine-апат-çимӗç
+азык-noun.noun particle feminine-çăкăр-тăвар
+ризык-nonetype.noun feminine-апат-çимĕç
+ризык-nonetype.noun particle feminine-апат-çимĕç
+ризык-nonetype.noun particle feminine-апат-çимӗç
+ризык-nonetype.noun particle feminine-çăкăр-тăвар
+аш-noun.noun feminine-апат-çимĕç
+аш-noun.noun particle feminine-апат-çимĕç
+аш-noun.noun particle feminine-апат-çимӗç
+аш-noun.noun particle feminine-çăкăр-тăвар
+абруй-noun.noun-ят-сум
+кабарда-балкария-proper.noun-кабардино-балкари республики
+ялкау-adjective.adjective adverb-ÿрĕк-сÿрĕк
+ялкау-adjective.adjective-ÿрĕк-сÿрĕк
+yalqaw-nonetype.adjective-ÿрĕк-сÿрĕк
+ялангач-adjective.adjective-çаппа-çарамас
+шәрә-adjective.adjective-çаппа-çарамас
+төрле-төрле-adjective.adjective-ăрасна
+төрле-төрле-adjective.adjective-тĕрлĕ
+таулы-adjective.nonetype-сăрт-ту
+аз-adverb.adjective adverb-пăт-пат
+сирәк-adjective.adjective adverb-пăт-пат
+каршы-adjective.adjective-хире-хирĕç
+исән-adjective.adjective adverb-хăпăл-хапăл
+имин-adjective.adjective-тĕрĕс-тĕкел
+җәһәт-adjective.adjective-вăр-вар
+җәһәт-adjective.adjective-хăпăл-хапăл
+тиз-adjective.adjective-вăр-вар
+тиз-adjective.adjective-хăпăл-хапăл
+буйлы-adjective.adjective-йăрăм-йăрăм
+җәһәт-adjective.adverb-йăкăл-якăл
+җәһәт-adjective.adverb-вăр-варрăн
+җәһәт-adjective.adverb-вăш-ваш
+җәһәт-adjective.adjective adverb-йăпăр-япăр
+җәһәт-adjective.adverb-вăр-вар
+җәһәт-adjective.adjective adverb-хăпăл-хапăл
+тиз-adjective.adverb-йăкăл-якăл
+тиз-adjective.adverb-вăр-варрăн
+тиз-adjective.adverb-вăш-ваш
+тиз-adjective.adjective adverb-йăпăр-япăр
+тиз-adjective.adverb-вăр-вар
+тиз-adjective.adjective adverb-хăпăл-хапăл
+җанлы-adjective.adjective-хăпăл-хапăл
+тере-adjective.adjective-хăпăл-хапăл
+исән-adjective.adjective-хăпăл-хапăл
+аша-рга-nonetype.verb-апат çи
+аша-рга-nonetype.verb-тăран
+төзелеш-noun.noun neuter-çурт-йĕр тăваслăх
+төзелеш-noun.noun-çурт-йĕр тăваслăх
+төзе-verb.noun neuter-çурт-йĕр тăваслăх
+төзе-verb.noun-çурт-йĕр тăваслăх
+корылыш-nonetype.noun neuter-çурт-йĕр тăваслăх
+корылыш-nonetype.noun-çурт-йĕр тăваслăх
+төзелеш-nonetype.noun neuter-çурт-йĕр тăваслăх
+төзелеш-nonetype.noun-çурт-йĕр тăваслăх
+сатып ал-ырга-nonetype.verb-туян
+сатып ал-ырга-nonetype.verb-сутăн ил
+тиздән-adverb.adjective adverb-кĕç-вĕç
+тиз-nonetype.adjective adverb-кĕç-вĕç
+әрле-бирле-adverb.adverb-каллĕ-маллĕ
+әрле-бирле-adverb.adverb-унта-кунта
+һәрвакыт-adverb.adjective adverb-ĕмĕр-ĕмĕр
+гел-adverb.adjective adverb-ĕмĕр-ĕмĕр
+сирәк-adjective.adverb-хутран-ситрен
+берәм-сәрәм-adverb.adverb-сайраран
+берәм-сәрәм-adverb.adverb-хутран-ситрен
+берәм-сәрәм-adverb.adverb-хушăран
+аз-adverb.adverb-хутран-ситрен
+бәйнә-бәйнә-adverb.adjective adverb-тĕпĕ-йĕрĕпе
+кайчакта-adverb.adverb-кассăн-кассăн
+кайчакта-adverb.adverb-вăхăтăн-вăхăтăн
+кайчак-adverb.adverb-кассăн-кассăн
+кайчак-adverb.adverb-вăхăтăн-вăхăтăн
+кайвакыт-adverb.adverb-кассăн-кассăн
+кайвакыт-adverb.adverb-вăхăтăн-вăхăтăн
+ара-тирә-adverb.adverb-хутран-ситрен
+акрын-акрын-adverb.adverb-ерипе
+акрын-акрын-adverb.adverb-майĕпен
+акрын-акрын-adverb.adjective adverb-майĕпен
+корал-noun.noun neuter-хĕç-пăшал
+андорра-ла-велья-proper.proper feminine-андорра-ла-вьеха
+колмак-nonetype.noun masculine-мухмăр-сухмăр
+әкәм-төкәм-noun.noun feminine-шуйсем
+тукыма-nonetype.noun feminine-пир-авăр
+өлеш-nonetype.noun-кун-çул
+язмыш-nonetype.noun-кун-çул
+язмыш-noun.noun-кун-çул
+тәкъдир-noun.noun-кун-çул
+насыйп-noun.noun-кун-çул
+кифлет-nonetype.noun feminine-кил-йыш
+төньяк-көнбатыш-nonetype.noun-çурçĕр-анăç
+атош-nonetype.noun masculine-вут-çулăм
+атош-nonetype.noun masculine-вут-кăвар
+сифэт-u0441u0443u0449.noun neuter-сăн-сăпат
+сифэт-u0441u0443u0449.noun neuter-сйн-пит
+сифэт-u0441u0443u0449.noun neuter-куç-пуç
+сифэт-u0441u0443u0449.noun neuter-пит-куç
+руй-nonetype.noun neuter-сăн-сăпат
+руй-nonetype.noun neuter-сйн-пит
+руй-nonetype.noun neuter-куç-пуç
+руй-nonetype.noun neuter-пит-куç
+соң-noun.noun masculine-вĕçĕ-хĕрри
+оч-nonetype.noun masculine-вĕçĕ-хĕрри
+ахыр-noun.noun masculine-вĕçĕ-хĕрри
+азак-noun.noun masculine-вĕçĕ-хĕрри
+вөҗдан-nonetype.noun-намăс-симĕс
+намус-noun.noun-намăс-симĕс
+вөҗдан-noun.noun-намăс-симĕс
+колак өзәңгесе - урта колакта сандал белән эчке колак арасындагы сөякчек.-noun.noun neuter-пускăч
+еш-adjective.adjective adverb-çине-çине
+йошкар ола-proper.noun masculine-йошкар-ола
+юань-nonetype.noun masculine-юань йăх-несĕлĕ
+талаучылар-nonetype.adjective-вăрă-хурахла
+бандитлар-nonetype.adjective-вăрă-хурахла
+үзара-adjective.adjective-хире-хирĕç
+ќилдер-ергђ-nonetype.verb-виркĕн
+ќилдер-ергђ-nonetype.verb-ыткăн
+ќилдер-ергђ-nonetype.verb-мăкăрлантар
+ќилдер-ергђ-nonetype.verb-çĕмĕрттер
+ќил-ергђ-nonetype.verb-виркĕн
+ќил-ергђ-nonetype.verb-ыткăн
+ќил-ергђ-nonetype.verb-мăкăрлантар
+ќил-ергђ-nonetype.verb-çĕмĕрттер
+чаб-арга-nonetype.verb-виркĕн
+чаб-арга-nonetype.verb-ыткăн
+чаб-арга-nonetype.verb-мăкăрлантар
+чаб-арга-nonetype.verb-çĕмĕрттер
+ти-ергә-nonetype.verb-лек
+ти-ергә-nonetype.verb-тив
+ти-ергә-nonetype.verb-перĕн
+ти-ергә-nonetype.verb-сĕртĕн
+яшә-ргә-nonetype.verb-пул
+һәркайчан-adverb.adverb-ĕмĕр-ĕмĕр
+һәрвакыт-adverb.adverb-ĕмĕр-ĕмĕр
+һаман-adverb.adverb-ĕмĕр-ĕмĕр
+гомер-гомергә-nonetype.adverb-ĕмĕр-ĕмĕр
+гомер-гомергә-nonetype.adverb-пĕрмай
+гомер-гомергә-nonetype.adverb-ялан
+фәкыйрь-adjective.adjective-пурлă-çуклă
+ярлы-adjective.adjective-пурлă-çуклă
+мохтаҗ-nonetype.adjective-пурлă-çуклă
+мескен-adjective.adjective-пурлă-çуклă
+җисем-noun.noun neuter-ÿт-пÿ
+җисем-noun.noun neuter-шăм-шак
+гәүдә-noun.noun neuter-ÿт-пÿ
+гәүдә-noun.noun neuter-шăм-шак
+тән-noun.noun neuter-ÿт-пÿ
+тән-noun.noun neuter-шăм-шак
+бәдән-noun.noun neuter-ÿт-пÿ
+бәдән-noun.noun neuter-шăм-шак
+тулы-nonetype.adjective-тĕрĕс-тĕкел
+бөтен-adjective.adjective-тĕрĕс-тĕкел
+хәл-nonetype.noun-вăй-хал
+көч-noun.noun-вăй-хал
+дәрман-noun.noun-вăй-хал
+köç-nonetype.noun-вăй-хал
+куәт-noun.noun-вăй-хал
+сөйләм-noun.noun feminine-сăмах-юмах
+тел-noun.noun feminine-сăмах-юмах
+туп-туры-nonetype.adjective adverb-йăрст
+туп-туры-nonetype.adjective adverb-йăрăс
+туп-туры-nonetype.adjective adverb-яштак
+туп-туры-nonetype.adjective adverb-тÿрех
+туп-туры-nonetype.adjective adverb-тÿрĕ
+яман-adjective.adjective adverb-йăх-ях
+начар-adjective.adjective adverb-йăх-ях
+кыр-nonetype.adjective-уй-хир
+-дан-nonetype.adposition--ç
+-да-nonetype.adposition--ç
+сай-nonetype.adjective-шăкар-макăр
+вак-adjective.adjective-шăкар-макăр
+кечкенә-adjective.adjective-шăкар-макăр
+чырай-noun.noun neuter-сăн-сăпат
+чырай-noun.noun neuter-сйн-пит
+чырай-noun.noun neuter-куç-пуç
+чырай-noun.noun neuter-пит-куç
+кеше-nonetype.noun neuter-сăн-сăпат
+кеше-nonetype.noun neuter-сйн-пит
+кеше-nonetype.noun neuter-куç-пуç
+кеше-nonetype.noun neuter-пит-куç
+йөз-noun.noun neuter-сăн-сăпат
+йөз-noun.noun neuter-сйн-пит
+йөз-noun.noun neuter-куç-пуç
+йөз-noun.noun neuter-пит-куç
+бит-noun.noun neuter-сăн-сăпат
+бит-noun.noun neuter-сйн-пит
+бит-noun.noun neuter-куç-пуç
+бит-noun.noun neuter-пит-куç
+сан-noun.noun neuter-им-сум
+кер-noun.noun feminine-лапра-çĕпре
+баткак-nonetype.noun feminine-лапра-çĕпре
+пычрак-noun.noun feminine-лапра-çĕпре
+тау-noun.adjective-сăрт-ту
+ит-nonetype.noun neuter-аш-какай
+ит-noun.noun neuter-аш-какай
+pʼech-nonetype.noun masculine-вут-çулăм
+pʼech-nonetype.noun masculine-вут-кăвар
+ятак-nonetype.noun feminine-тÿшек-минтер
+урын-nonetype.noun feminine-тÿшек-минтер
+карават-noun.noun feminine-тÿшек-минтер
+karawat-nonetype.noun feminine-тÿшек-минтер
+су-noun.noun-шыв-шур
+сулар-nonetype.noun-шыв-шур
+-ya-nonetype.adposition--пе
+-ya-nonetype.adposition--па
+урнаш-ырга-nonetype.verb-тӑр
+урнаш-ырга-nonetype.verb-тăма
+урнаш-ырга-nonetype.verb-тăр
+урнаш-ырга-nonetype.verb-лар
+тор-ырга-nonetype.verb-тӑр
+тор-ырга-nonetype.verb-тăма
+тор-ырга-nonetype.verb-тăр
+тор-ырга-nonetype.verb-лар
+li--nonetype.conjunction-пулсан
+li--nonetype.conjunction-эхер
+-ya-nonetype.noun--пе
+-ya-nonetype.noun--па
+давыл-noun.noun feminine-çил-тăвăл
+буран-nonetype.noun feminine-çил-тăвăл
+давыл-nonetype.noun feminine-çил-тăвăл
+yäşenle yañğır-nonetype.noun feminine-çил-тăвăл
+астар-nonetype.noun-вĕçĕ-хĕрри
+чик-noun.noun-вĕçĕ-хĕрри
+ашлама-noun.noun-им-çам
+aşlama-nonetype.noun-им-çам
+ишек-noun.noun f-p-алӑк
+пуэрто-рико-nonetype.nonetype-пуэрто-рико
+хуҗалык-noun.noun-пÿрт-çурт
+икътисад-noun.noun-пÿрт-çурт
+яшә-ргә-nonetype.verb impf-пурӑн
+яшә-ргә-nonetype.verb impf-пурăнма
+яшә-ргә-nonetype.verb-пурăн
+тор-ырга-nonetype.verb impf-пурӑн
+тор-ырга-nonetype.verb impf-пурăнма
+тор-ырга-nonetype.verb-пурăн
+форма-noun.noun-ÿт-пÿ
+фигура-noun.noun-ÿт-пÿ
+сын-noun.noun-ÿт-пÿ
+хатын-кыз-nonetype.noun feminine-хĕрарăм
+хатын-кыз-nonetype.noun feminine-арăм
+хатын-кыз-nonetype.noun feminine-хӗрарӑм
+бүтән-adjective.nonetype-хăш-пĕр
+башка-nonetype.nonetype-хăш-пĕр
+-ya-nonetype.noun--те
+-ya-nonetype.noun--та
+кыр-nonetype.noun particle-уй-хир
+бизәк-nonetype.noun masculine-çул-йĕр
+юл-noun.noun masculine-çул-йĕр
+аша-рга-nonetype.verb-апатлан
+аша-рга-nonetype.verb-çиме
+аша-рга-nonetype.verb-çи
+веб-бит-nonetype.noun feminine-страницӑ
+санкт-петербург-proper.proper masculine-питӗрпурк
+санкт-петербург-proper.proper masculine-санкт-петербург
+sankt-peterburg-nonetype.proper masculine-питӗрпурк
+sankt-peterburg-nonetype.proper masculine-санкт-петербург
+-стан-nonetype.noun feminine-çĕршыв
+äylänä-tirä-nonetype.noun feminine-юн кун
+äylänä-tirä-nonetype.noun feminine-юнкун
+äylänä-tirä-nonetype.noun-хушă
+рәсәйле-noun.noun m-p-вырӑс
+уйла-рга-nonetype.verb impf-шухǎшлама
+уйла-рга-nonetype.verb impf-шутлама
+agine-nonetype.noun--те
+agine-nonetype.noun--та
+эчәк-nonetype.noun-пыршă-аршă
+янында-nonetype.adposition--те
+янында-nonetype.adposition--та
+якынча-nonetype.adposition--те
+якынча-nonetype.adposition--та
+якын-adposition.adposition--те
+якын-adposition.adposition--та
+тирәсендә-nonetype.adposition--те
+тирәсендә-nonetype.adposition--та
+өстендә-adposition.adposition--те
+өстендә-adposition.adposition--та
+-дә-nonetype.adposition-яхăн
+-дә-nonetype.adposition-тавра
+-дә-nonetype.adposition--те
+-дә-nonetype.adposition--та
+-да-nonetype.adposition-яхăн
+-да-nonetype.adposition-тавра
+-да-nonetype.adposition--те
+-да-nonetype.adposition--та
+эчендә-nonetype.adposition--те
+эчендә-nonetype.adposition--та
+тигез-nonetype.adjective-кал-кал
+шома-nonetype.adjective-кал-кал
+тигес-nonetype.adjective-кал-кал
+äylänä-tirä-nonetype.nonetype-юнкун
+ир-ат-nonetype.noun masculine-ар ҫын
+ир-ат-nonetype.noun masculine-ар
+ир-ат-nonetype.noun masculine-арçын
+intkus-nonetype.adjective-кал-кал
+бие-ргә-nonetype.noun masculine-ташă
+agine-nonetype.adposition--те
+agine-nonetype.adposition--та
+төтен-noun.noun masculine-йăс-пăс
+төтен-noun.noun masculine-тĕтĕм-сĕрĕм
+inina-gine-nonetype.verb impf-пурӑн
+inina-gine-nonetype.verb impf-пурăнма
+inina-gine-nonetype.verb-пурăн
+чад-nonetype.noun-тĕтĕм-сĕрĕм
+төтен-noun.noun-тĕтĕм-сĕрĕм
+-hne-nonetype.pronoun-вĕсем
+-hne-nonetype.pronoun-вӗсем
+-hle-nonetype.pronoun-вĕсем
+-hle-nonetype.pronoun-вӗсем
+-hla-nonetype.pronoun-вĕсем
+-hla-nonetype.pronoun-вӗсем
+hentkoq-nonetype.noun masculine-çул-йĕр
+-сә-nonetype.conjunction-енчен
+-сә-nonetype.conjunction-ытах
+-сә-nonetype.conjunction-пулсан
+-сә-nonetype.noun-эхер
+-са-nonetype.conjunction-енчен
+-са-nonetype.conjunction-ытах
+-са-nonetype.conjunction-пулсан
+-са-nonetype.noun-эхер
+акча-nonetype.noun p-укçа-тенкĕ
+aqça-noun.noun p-укçа-тенкĕ
+акча-noun.noun p-укçа-тенкĕ
+ki-...-na-nonetype.noun-мар
+ki-...-na-nonetype.noun-çук
+якты-nonetype.noun masculine-вут-çулăм
+якты-nonetype.noun masculine-вут-кăвар
+ут-nonetype.noun masculine-вут-çулăм
+ут-nonetype.noun masculine-вут-кăвар
+ut-noun.noun masculine-вут-çулăм
+ut-noun.noun masculine-вут-кăвар
+ялкын-nonetype.noun masculine-вут-çулăм
+ялкын-nonetype.noun masculine-вут-кăвар
+ут-noun.noun masculine-вут-çулăм
+ут-noun.noun masculine-вут-кăвар
+аз гына-nonetype.numeral-хăш-пер
+аз-adverb.numeral-хăш-пер
+берничә-determiner.numeral-хăш-пер
+кил-ергә-nonetype.verb-килсе кай
+кил-ергә-nonetype.verb-кильме
+әңгәмә-nonetype.noun masculine-сăмах-юмах
+сөйләшү-noun.noun masculine-сăмах-юмах
+сүз-nonetype.noun masculine-сăмах-юмах
+мультимедиа сессия-nonetype.noun masculine-сăмах-юмах
+өстендә-adposition.adverb--те
+өстендә-adposition.adverb--та
+янында-nonetype.adverb--те
+янында-nonetype.adverb--та
+-дә-nonetype.adverb--те
+-дә-nonetype.adverb--та
+-да-nonetype.adverb--те
+-да-nonetype.adverb--та
+antoine de saint-exupéry-nonetype.nonetype-антуан де сент-экзюпери
+-ya-nonetype.adposition-яхăн
+-ya-nonetype.adposition-тавра
+-ya-nonetype.adposition--те
+-ya-nonetype.adposition--та
+-сә-nonetype.conjunction-эхер
+-са-nonetype.conjunction-эхер
+-стан-nonetype.proper feminine-çĕр
+-стан-nonetype.noun feminine-çĕр
+семья-nonetype.noun feminine-кил-йыш
+гаилә-noun.noun feminine-кил-йыш
+начарлык-noun.adjective-йăх-ях
+начарлык-noun.adjective-пули-пулми
+яман-adjective.adjective-йăх-ях
+яман-adjective.adjective-пули-пулми
+начар-adjective.adjective-йăх-ях
+начар-adjective.adjective-пули-пулми
+-ya-nonetype.adverb--те
+-ya-nonetype.adverb--та
+waʼe--nonetype.pronoun-эпир
+waʼe--nonetype.pronoun-эпĕр
+maʼe--nonetype.pronoun-эпир
+maʼe--nonetype.pronoun-эпĕр
+ла-манш-nonetype.nonetype-ла-манш
+аша-рга-nonetype.verb interjection-апатлан
+аша-рга-nonetype.verb interjection-апат çи
+аша-рга-nonetype.verb impf-çиме
+аша-рга-nonetype.verb interjection-сып
+аша-рга-nonetype.verb interjection-пур
+аша-рга-nonetype.verb interjection-çи
+өст-noun.noun--пе
+өст-noun.noun--па
+лы-adposition.noun--пе
+лы-adposition.noun--па
+илә-adposition.noun--пе
+илә-adposition.noun--па
+бирле-adposition.noun--пе
+бирле-adposition.noun--па
+белән-adposition.noun--пе
+белән-adposition.noun--па
+белəн-nonetype.noun--пе
+белəн-nonetype.noun--па
+kohinank-he-nonetype.verb-çапма
+kohinank-he-nonetype.verb-шаккама
+эч-noun.noun--те
+эч-noun.noun--та
+эчендә-nonetype.noun--те
+эчендә-nonetype.noun--та
+-дә-nonetype.letter noun adposition-пуҫламӑшенче
+-дә-nonetype.noun--те
+-дә-nonetype.noun--та
+-дә-nonetype.letter noun adposition-чух
+-да-nonetype.letter noun adposition-пуҫламӑшенче
+-да-nonetype.noun--те
+-да-nonetype.noun--та
+-да-nonetype.letter noun adposition-чух
+-pui-nonetype.pronoun-эсĕр
+-pui-nonetype.pronoun p-эсир
+-pua-nonetype.pronoun-эсĕр
+-pua-nonetype.pronoun p-эсир
+кошлар-nonetype.noun-кайăк-кĕшĕк
+үсемлекләр-noun p.noun-йывăç-курăк
+үсемлекләр-nonetype.noun-йывăç-курăк
+okayek-nonetype.adjective-йăх-ях
+okayek-nonetype.adjective-пули-пулми
+kayik-nonetype.adjective-йăх-ях
+kayik-nonetype.adjective-пули-пулми
+*isiʼ-nonetype.adjective-йăх-ях
+*isiʼ-nonetype.adjective-пули-пулми
+орлык-noun.noun n-p-вӑрӑ
+бөртек-nonetype.noun n-p-вӑрӑ
+li--nonetype.conjunction-енчен
+li--nonetype.conjunction-ытах
+li--nonetype.noun-эхер
+белəн-nonetype.adposition--пе
+белəн-nonetype.adposition--па
+ya--nonetype.pronoun s-эс
+ya--nonetype.pronoun s-эсӗ
+ya--nonetype.pronoun s-эсĕ
+do-nonetype.noun n-p-вӑрӑ
+*su-nonetype.noun n-p-вӑрӑ
+янында-nonetype.noun--те
+янында-nonetype.noun--та
+өстендә-adposition.noun--те
+өстендә-adposition.noun--та
+үсемлекләр-noun p.noun neuter-ӳсен-тăран
+үсемлекләр-noun p.noun neuter-йывăç-курăк
+үсемлекләр-noun p.noun neuter-ÿсен-тăран
+үсемлек-noun.noun neuter-ӳсен-тăран
+үсемлек-noun.noun neuter-йывăç-курăк
+үсемлек-noun.noun neuter-ÿсен-тăран
+ян-noun.noun--те
+ян-noun.noun--та
+dns-исем-nonetype.noun feminine-карт
+dns-исем-nonetype.noun feminine-паллă
+irekle-ireksez-nonetype.adverb-ирĕксĕртен
+wi--nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпĕ
+wi--nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпӗ
+wa--nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпĕ
+wa--nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпӗ
+ma--nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпĕ
+ma--nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпӗ
+уйла-рга-nonetype.verb impf-уйла
+уйла-рга-nonetype.verb impf-шухӑшла
+уйла-рга-nonetype.verb impf-шутла
+уйла-рга-nonetype.verb-шухăшла
+киҗе-мамык-nonetype.noun masculine-хут
+киҗе-мамык-nonetype.noun masculine-мамăк
+өй шакмагы-nonetype.noun masculine-кил-çурт
+өй-nonetype.noun masculine-кил-çурт
+йорт-noun.noun masculine-кил-çурт
+өй-noun.noun masculine-кил-çурт
+wayuqtik-nonetype.noun neuter-аш-какай
+gwayutik-nonetype.noun neuter-аш-какай
+-ма-nonetype.noun-мар
+-ма-nonetype.noun-çук
+-стан-nonetype.noun feminine-ҫӗре
+-стан-nonetype.noun feminine-тĕнче
+-стан-nonetype.noun feminine-тăпра
