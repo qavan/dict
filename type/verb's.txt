@@ -25,6 +25,7 @@
 ат:verb:пер
 чык:verb:тух
 язу:verb impf:çыр
+язу:verb impf:ҫыр
 күч:verb:куç
 күч:verb:каç
 җыя:verb:тирпейле
@@ -32,6 +33,7 @@
 җыя:verb:пуçтар
 җыя:verb:пĕр
 җыя:verb:тат
+иснәү:verb impf:кар
 иснәү:verb impf:анасла
 тыңларга:verb impf:итле
 югалту:verb impf:çухат
@@ -45,7 +47,10 @@
 аңларга:verb impf:ăнкар
 аңларга:verb impf:ăнлан
 түләргә:verb impf:тÿле
+түләргә:verb impf:сапла
+табарга:verb impf:туп
 табарга:verb pf:туп
+башларга:verb impf:тапран
 башларга:verb impf:пуçлан
 башларга:verb impf:тытăн
 башларга:verb impf:тух
@@ -53,6 +58,7 @@
 башларга:verb impf:пуçла
 башларга:verb impf:пуçар
 башларга:verb impf:тытӑн
+башларга:verb impf:пуҫла
 башларга:verb pf:çĕклен
 себерергә:verb impf:шăл
 сындырырга:verb:салат
@@ -88,33 +94,46 @@
 кычкырырга:verb impf:çуйăх
 кычкырырга:verb pf:кăшкăрса яр
 эзләргә:verb impf:ухтар
+эзләргә:verb impf:шыра
 сөйләшергә:verb impf:шарла
 сөйләшергә:verb impf:сăмахла
 сөйләшергә:verb impf:калаç
+сөйләшергә:verb impf:те
 сөйләшергә:verb impf:пупле
 сөйләшергә:verb impf:пакăлтат
 сөйләшергә:verb impf:теме
 сөйләшергә:verb impf:калама
+сөйләшергә:verb impf:кала
 сөйләргә:verb impf:шарла
 сөйләргә:verb impf:сăмахла
 сөйләргә:verb impf:калаç
+сөйләргә:verb impf:те
 сөйләргә:verb impf:пупле
 сөйләргә:verb impf:пакăлтат
 сөйләргә:verb impf:теме
 сөйләргә:verb impf:калама
+сөйләргә:verb impf:кала
 багарга:verb:пӑх
 сизәргә:verb:шăшлама
 сизәргә:verb impf:туй
+сизәргә:verb impf:сис
+сизәргә:verb impf:туй
 тоярга:verb:шăшлама
+тоярга:verb impf:туй
+тоярга:verb impf:сис
 тоярга:verb impf:туй
 хис итәргә:verb:шăшлама
 хис итәргә:verb impf:туй
+хис итәргә:verb impf:сис
+хис итәргә:verb impf:туй
 төчкерү:verb impf:сунасла
+үбәргә:verb impf:чупту
 үбәргә:verb impf:чупту
 үбәргә:verb pf:чупту
 көчәйтү:verb:тĕреклет
 көчәйтү:verb:вăйлат
 сакларга:verb impf:хÿтĕле
+сакларга:verb impf:сыхла
 атарга:verb:пер
 атарга:verb:йыхравла
 атарга:verb:йыхăр
@@ -173,6 +192,7 @@
 сайларга:verb:суйла
 ezläw:verb impf:шыра
 ezläw:verb impf:ухтар
+ezläw:verb impf:шыра
 көтәргә:verb impf:тăхта
 көтәргә:verb impf:кĕт
 очу:verb:вĕçме
@@ -842,11 +862,13 @@ ezläw:verb impf:ухтар
 ди:verb pf:калама
 ди:verb pf:те
 ди:verb impf:шарла
+ди:verb impf:те
 ди:verb impf:пупле
 ди:verb impf:пакăлтат
 ди:verb impf:калаç
 ди:verb impf:теме
 ди:verb impf:калама
+ди:verb impf:кала
 гомер ит:verb:пурăн
 гомер ит:verb:пурӑн
 гомер ит:verb:пурăнма
@@ -1013,6 +1035,7 @@ ezläw:verb impf:ухтар
 алда:verb:ултала
 алда:verb:суй
 рәхим итегез:verb impf:хапăлла
+рәхим итегез:verb impf:саламла
 аша:verb:апатлан
 аша:verb:çи
 аша:verb:апат çи
@@ -1291,6 +1314,7 @@ yasherge:verb:пурăнма
 adaşırğa:verb:аташ
 adaşırğa:verb:çĕт
 язарга:verb impf:çыр
+язарга:verb impf:ҫыр
 язарга:verb pf:ҫыр
 булдырырга:verb:пултар
 булдыра алырга:verb:пултар
@@ -1300,6 +1324,8 @@ adaşırğa:verb:çĕт
 инанырга:verb:ĕнен
 эшләргә:verb:тăрăш
 эшләргә:verb:ĕçле
+эшләргә:verb impf:ту
+эшләргә:verb impf:ĕçле
 эшләргә:verb:ӗҫле
 алырга:verb:тыт
 алырга:verb impf:ил
@@ -1330,13 +1356,16 @@ adaşırğa:verb:çĕт
 чистарту:verb impf:уçăлтар
 чистарту:verb impf:тасамарлăх
 эзләү:verb impf:ухтар
+эзләү:verb impf:шыра
 торырга:verb:тăр
 торырга:verb:лар
 торырга:verb:тӑр
 торырга:verb:тăма
 идарә итү:verb:çÿрет
 санарга:verb pf:суса кăлар
+санарга:verb impf:шутла
 санарга:verb impf:хисепле
+санарга:verb impf:су
 санарга:verb impf:шутлама
 авыр:verb:чирлесе ÿк
 авыр:verb:сывмарлан
@@ -1350,6 +1379,7 @@ adaşırğa:verb:çĕт
 керү:verb:килсе кĕр
 кисеп алу:verb:касса кăлар
 тартырга:verb impf:туртса пыр
+тартырга:verb impf:турт
 тартырга:verb impf:тăс
 тартырга:verb impf:илĕрт
 тартырга:verb impf:туртма
@@ -1371,6 +1401,7 @@ adaşırğa:verb:çĕт
 яшәргә:verb pf:пурăнса ирттер
 яшәргә:verb pf:каç
 яшәргә:verb impf:пурăн
+яшәргә:verb impf:пурӑн
 яшәргә:verb impf:пурăнма
 агарга:verb impf:юх
 агарга:verb impf:йăпăртат
@@ -1398,6 +1429,7 @@ adaşırğa:verb:çĕт
 күрергә:verb:курма
 күрергә:verb:кур
 yazarğa:verb impf:çыр
+yazarğa:verb impf:ҫыр
 күчерү:verb:ылмаштар
 күчерү:verb:куçар
 эчәргә:verb:сып
@@ -1437,8 +1469,11 @@ keşnäw:verb impf:кĕçен
 барырга:verb impf:çӳреме
 барырга:verb impf:çӱреме
 барырга:verb impf:шăван
+барырга:verb impf:ут
+барырга:verb impf:пыр
 барырга:verb impf:аш
 барырга:verb impf:ÿк
+барырга:verb impf:кай
 үләргә:verb pf:вил
 үләргә:verb:пĕт
 үләргә:verb:вильме
@@ -1479,10 +1514,12 @@ keşnäw:verb impf:кĕçен
 әйтергә:verb pf:те
 әйтергә:verb:теме
 әйтергә:verb:калама
+әйтергә:verb impf:те
 әйтергә:verb impf:пупле
 әйтергә:verb impf:пакăлтат
 әйтергә:verb impf:теме
 әйтергә:verb impf:калама
+әйтергә:verb impf:кала
 тегәргә:verb impf:çĕлет
 тегәргә:verb impf:тĕрлеме
 тегәргә:verb impf:çĕлеме
@@ -1493,6 +1530,7 @@ keşnäw:verb impf:кĕçен
 йөз:verb:иш
 костырырга:verb impf:чĕр
 костырырга:verb impf:хăс
+костырырга:verb impf:тат
 костырырга:verb impf:çур
 костырырга:verb impf:çĕт
 костырырга:verb impf:хĕсме
@@ -1503,18 +1541,22 @@ keşnäw:verb impf:кĕçен
 аралашу:verb impf:шарла
 аралашу:verb impf:сăмахла
 аралашу:verb impf:калаç
+тотарга:verb impf:усра
+тотарга:verb impf:тыт
 тотарга:verb impf:тытма
 туңырга:verb pf:шăнса вил
 туңырга:verb pf:шăнма
 тырнарга:verb impf:хыç
 тырнарга:verb impf:тура
 тырнарга:verb impf:шăйăрма
+тырнарга:verb impf:чав
 тырнарга:verb impf:чǎрмала
 тырнарга:verb impf:шăйăр
 тырнарга:verb impf:чĕркеле
 тырнарга:verb impf:чĕр
 тырнарга:verb impf:чăрмала
 табу:verb pf:туп
+табу:verb impf:туп
 шалтырату:verb impf:чĕн
 кисәргә:verb:пура
 кисәргә:verb:качлаттар
@@ -1529,6 +1571,7 @@ keşnäw:verb impf:кĕçен
 тешләргә:verb:çырт
 тешләргә:verb:çыртма
 тешләргә:verb:кăшла
+төшәргә:verb impf:чак
 төшәргә:verb impf:хаплат
 төшәргә:verb impf:тăкăн
 төшәргә:verb impf:тÿн
@@ -1598,8 +1641,11 @@ keşnäw:verb impf:кĕçен
 йөрергә:verb impf:çӳреме
 йөрергә:verb impf:çӱреме
 йөрергә:verb impf:шăван
+йөрергә:verb impf:ут
+йөрергә:verb impf:пыр
 йөрергә:verb impf:аш
 йөрергә:verb impf:ÿк
+йөрергә:verb impf:кай
 йөрергә:verb:вылляма
 имәргә:verb:ĕм
 имәргә:verb:ĕмме
@@ -1631,6 +1677,7 @@ keşnäw:verb impf:кĕçен
 сугарга:verb:çапма
 картада табу:verb:танлаштар
 ата:verb:чĕн
+егылырга:verb impf:чак
 егылырга:verb impf:хаплат
 егылырга:verb impf:тăкăн
 егылырга:verb impf:тÿн
@@ -1660,6 +1707,7 @@ keşnäw:verb impf:кĕçен
 җырларга:verb impf:авăт
 җырларга:verb impf:юрлама
 саклау:verb impf:хÿтĕле
+саклау:verb impf:сыхла
 ышкырга:verb impf:сĕр
 ышкырга:verb impf:сăтăр
 ышкырга:verb impf:сĕрме
@@ -1681,8 +1729,11 @@ keşnäw:verb impf:кĕçен
 атлау:verb impf:çӳреме
 атлау:verb impf:çӱреме
 атлау:verb impf:шăван
+атлау:verb impf:ут
+атлау:verb impf:пыр
 атлау:verb impf:аш
 атлау:verb impf:ÿк
+атлау:verb impf:кай
 ишетергә:verb impf:илтме
 ишетергә:verb impf:илт
 өрергә:verb impf:варкăш
@@ -1696,7 +1747,10 @@ keşnäw:verb impf:кĕçен
 уйларга:verb:шутлама
 уйларга:verb impf:шухǎшлама
 уйларга:verb impf:шутлама
+уйларга:verb impf:шухӑшла
 уйларга:verb impf:шухăшла
+уйларга:verb impf:уйла
+уйларга:verb impf:шутла
 кысарга:verb:чăмăрта
 кысарга:verb:чăмăртма
 кысарга:verb:хĕсме
@@ -1711,6 +1765,8 @@ keşnäw:verb impf:кĕçен
 кысарга:verb impf:пǎчǎрта
 тын алга:verb impf:сывла
 тын алга:verb impf:сывлама
+килергә:verb impf:пыр
+килергә:verb impf:кил
 килергә:verb:пыр
 килергә:verb:килсе кай
 килергә:verb:кильме
@@ -1786,6 +1842,8 @@ ezläw:nonetype:шыра
 ян:verb:хăмсар
 ял ит:verb:кан
 ялган:verb:хутшăн
+юк иттер:verb:пĕтер
+юк ит:verb:пĕтер
 эч:verb:ĕçсе яр
 якынлаш:verb:çывăхлан
 якынлаш:verb:çывхар
@@ -1874,8 +1932,12 @@ ezläw:nonetype:шыра
 түлә:verb:тÿле
 сора:verb:ыйт
 соңга кал:verb:кая юл
+түк:verb:тумлат
+түк:verb:тăк
 түк:verb:лÿшке
 түк:verb:шăрат
+түк:verb:юхтар
+түк:verb:яр
 төшер:verb:антар
 төшер:verb:ус
 тукта:verb:тăр
@@ -2273,6 +2335,7 @@ ezläw:nonetype:шыра
 җавап бир:verb:тавăр
 җавап бир:verb:чĕн
 ела:verb:йĕр
+ела:verb:йӗр
 ела:verb:йĕрмĕш
 ела:verb:макăр
 ела:verb:ÿле
@@ -2334,6 +2397,7 @@ ezläw:nonetype:шыра
 башла:verb:пуçла
 башла:verb:тапрат
 башла:verb:тух
+башла:verb:тытӑн
 башла:verb:пуçар
 башла:verb:тытăн
 тор:verb:тăр
@@ -2660,6 +2724,7 @@ ezläw:nonetype:шыра
 укырга:verb:вула
 ян:verb:йăмăх
 ян:verb:йăлкăш
+ян:verb:çунма
 ян:verb:пĕçер
 ян:verb:çун
 янарга:nonetype:йăмăх
@@ -2690,8 +2755,12 @@ ezläw:nonetype:шыра
 алырга:nonetype:хып
 әйт:verb:пупле
 әйт:verb:калаç
+әйт:verb:кала
 әйт:verb:шарла
+әйт:verb:калама
+әйт:verb:те
 әйт:verb:пакăлтат
+әйт:verb:теме
 сөйләшергә:nonetype:пупле
 сөйләшергә:nonetype:калаç
 сөйләшергә:nonetype:кала
@@ -2702,8 +2771,12 @@ ezläw:nonetype:шыра
 сөйләшергә:nonetype:теме
 сөйләш:verb:пупле
 сөйләш:verb:калаç
+сөйләш:verb:кала
 сөйләш:verb:шарла
+сөйләш:verb:калама
+сөйләш:verb:те
 сөйләш:verb:пакăлтат
+сөйләш:verb:теме
 сөйләргә:nonetype:пупле
 сөйләргә:nonetype:калаç
 сөйләргә:nonetype:кала
@@ -2714,12 +2787,20 @@ ezläw:nonetype:шыра
 сөйләргә:nonetype:теме
 сөйлә:verb:пупле
 сөйлә:verb:калаç
+сөйлә:verb:кала
 сөйлә:verb:шарла
+сөйлә:verb:калама
+сөйлә:verb:те
 сөйлә:verb:пакăлтат
+сөйлә:verb:теме
 ди:verb:пупле
 ди:verb:калаç
+ди:verb:кала
 ди:verb:шарла
+ди:verb:калама
+ди:verb:те
 ди:verb:пакăлтат
+ди:verb:теме
 әйтергә:nonetype:пупле
 әйтергә:nonetype:калаç
 әйтергә:nonetype:кала
@@ -2741,13 +2822,25 @@ adaşırğa:nonetype:çĕт
 ышан:verb:шан
 инанырга:nonetype:ĕнен
 инанырга:nonetype:шан
+яса:verb:ĕçле
+яса:verb:ту
+эшлә:verb:ĕçле
+эшлә:verb:ту
+кыл:verb:ĕçле
+кыл:verb:ту
+ит:verb:ĕçле
+ит:verb:ту
 эшләргә:nonetype:ĕçле
 эшләргә:nonetype:ту
+хезмәт ит:verb:ĕçле
 хезмәт ит:verb:тăрăш
 эшләргә:nonetype:тăрăш
+эшлә:verb:ӗҫле
 эшләргә:nonetype:ӗҫле
 йоклау:nonetype:çăвăрма
 йоклау:nonetype:ҫăвăрма
+йокла:verb:çăвăрма
+йокла:verb:ҫăвăрма
 йокларга:nonetype:çăвăрма
 йокларга:nonetype:ҫăвăрма
 йокларга:nonetype:ҫăвăрма
@@ -2768,6 +2861,12 @@ ohinhne:nonetype:тĕк
 казырга:nonetype:хусǎклама
 казырга:nonetype:чавма
 казырга:nonetype:чав
+көрәш:verb:кĕреш
+көрәш:verb:вăрçма
+көрәш:verb:çапǎç
+бил алыш:verb:кĕреш
+бил алыш:verb:вăрçма
+бил алыш:verb:çапǎç
 сугышырга:nonetype:кĕреш
 сугышырга:nonetype:вăрçма
 сугышырга:nonetype:çапǎç
@@ -2812,10 +2911,14 @@ ezläw:nonetype:ухтар
 кисәргә:nonetype:кас
 кисәргә:nonetype:çур
 кисәргә:nonetype:касма
+сана:verb:шутла
 сана:verb:хисепле
 сана:verb:су
+сана:verb:шутлама
+исәплә:verb:шутла
 исәплә:verb:хисепле
 исәплә:verb:су
+исәплә:verb:шутлама
 санарга:nonetype:шутла
 санарга:nonetype:хисепле
 санарга:nonetype:су
@@ -2875,6 +2978,8 @@ hahe:nonetype:теме
 ятарга:nonetype:выртма
 бор:verb:пăр
 бор:verb:пăрăн
+бор:verb:пăрма
+бор:verb:çавăрма
 бор:verb:çаврăн
 борырга:nonetype:пăр
 борырга:nonetype:пăрăн
@@ -2902,7 +3007,11 @@ kuluja:nonetype:çума
 яратырга:nonetype:кăмăлла
 яратырга:nonetype:сав
 яратырга:nonetype:юрат
+яшә:verb:пурӑн
+яшә:verb:пурăнма
 яшә:verb:пурăн
+гомер ит:verb:пурӑн
+гомер ит:verb:пурăнма
 гомер ит:verb:пурăн
 yasherge:nonetype:пурӑн
 yasherge:nonetype:пурăнма
@@ -2922,6 +3031,8 @@ yasherge:nonetype:пурăн
 ди:verb:калама
 ди:verb:те
 ди:verb:теме
+агыл:verb:юхма
+агыл:verb:юх
 агарга:nonetype:юхма
 агарга:nonetype:юх
 чык:verb:тух
@@ -2936,6 +3047,7 @@ ludi:nonetype:турт
 өз:verb:хăс
 өз:verb:тат
 өз:verb:чĕр
+өз:verb:хĕсме
 өз:verb:çĕт
 өз:verb:çур
 костырырга:nonetype:хăс
@@ -2967,6 +3079,7 @@ yilanaha:nonetype:шутлама
 ярырга:nonetype:чĕл
 ярырга:nonetype:пайлама
 ярырга:nonetype:çур
+тап:verb:туп
 табырга:nonetype:туп
 табарга:nonetype:туп
 табу:nonetype:туп
@@ -2979,6 +3092,7 @@ yilanaha:nonetype:шутлама
 шешәргә:nonetype:тăртан
 шешәргә:nonetype:шÿ
 шешәргә:nonetype:шыçма
+яз:verb:ҫыр
 яз:verb:çыр
 yazarğa:nonetype:ҫыр
 yazarğa:nonetype:çыр
@@ -3086,12 +3200,15 @@ konspe:nonetype:шутлама
 чәнчергә:nonetype:чикме
 әйләндер:verb:пăр
 әйләндер:verb:çавăр
+әйләндер:verb:пăрма
+әйләндер:verb:çавăрма
 тырнарга:nonetype:шăйăрма
 тырнарга:nonetype:хыç
 тырнарга:nonetype:тура
 тырнарга:nonetype:чǎрмала
 тырнарга:nonetype:чав
 ю:verb:çу
+ю:verb:çума
 юарга:nonetype:çу
 юарга:nonetype:çума
 kiksuq:nonetype:хăс
@@ -3290,7 +3407,11 @@ olohi:nonetype:сыпма
 бугазла:verb:кас
 бугазла:verb:касма
 кисәргә:nonetype:пус
+йөр:verb:çӳреме
+йөр:verb:çӱреме
+йөр:verb:пырма
 йөр:verb:çÿре
+йөр:verb:утма
 йөрергә:nonetype:çӳреме
 йөрергә:nonetype:çӱреме
 йөрергә:nonetype:пырма
@@ -3334,7 +3455,10 @@ go:nonetype:пама
 *ske:nonetype:усра
 *ske:nonetype:тыт
 сугыш:verb:çапкалан
+сугыш:verb:кĕреш
+сугыш:verb:вăрçма
 сугыш:verb:тап
+сугыш:verb:çапǎç
 сугышырга:nonetype:çапăç
 сугышырга:nonetype:çапкалан
 сугышырга:nonetype:тап
@@ -3387,6 +3511,7 @@ hala:nonetype:кил
 имәргә:nonetype:ĕм
 имәргә:nonetype:ĕмме
 борырга:nonetype:авăс
+аша:verb:çиме
 ашарга:nonetype:çиме
 ауларга:nonetype:тытма??
 ауларга:nonetype:тытма çÿре
@@ -3410,15 +3535,23 @@ kite:nonetype:шаккама
 яу:verb:тăкăн
 яу:verb:йăван
 яу:verb:ан
+яу:verb:такǎнма
+яу:verb:тÿнме
+яу:verb:ӳкме
 яу:verb:тÿн
 яу:verb:хаплат
+яу:verb:ӱкме
 яу:verb:ÿк
 яу:verb:чак
 ау:verb:тăкăн
 ау:verb:йăван
 ау:verb:ан
+ау:verb:такǎнма
+ау:verb:тÿнме
+ау:verb:ӳкме
 ау:verb:тÿн
 ау:verb:хаплат
+ау:verb:ӱкме
 ау:verb:ÿк
 ау:verb:чак
 төшәргә:nonetype:тăкăн
@@ -3446,7 +3579,10 @@ kite:nonetype:шаккама
 чыгарылыш:nonetype:пушат
 чыгарылыш:nonetype:хăтар
 чыгарылыш:nonetype:çарат
+йөз:verb:ишсе ҫӳре
+йөз:verb:иш
 йөз:verb:ҫӳре
+йөз:verb:ишме
 йөзәргә:nonetype:ишсе ҫӳре
 йөзәргә:nonetype:ҫӳре
 этәргә:nonetype:тĕрт
@@ -3454,8 +3590,10 @@ kite:nonetype:шаккама
 этәргә:nonetype:тăрăнтар
 этәргә:nonetype:тĕк
 йөрергә:nonetype:вылляма
+җырла:verb:юрлама
 җырла:verb:авăт
 җырла:verb:юрла
+җырларга:verb:юрлама
 җырларга:verb:авăт
 җырларга:verb:юрла
 olashke:nonetype:сăх
@@ -3481,19 +3619,31 @@ kati:nonetype:çур
 яу:verb:пыр
 яу:verb:кай
 яу:verb:аш
+яу:verb:çӳреме
+яу:verb:çӱреме
+яу:verb:пырма
 яу:verb:шăван
+яу:verb:утма
 яу:verb:ут
 кил:verb:пыр
 кил:verb:кай
 кил:verb:аш
+кил:verb:çӳреме
+кил:verb:çӱреме
+кил:verb:пырма
 кил:verb:шăван
 кил:verb:ÿк
+кил:verb:утма
 кил:verb:ут
 бар:verb:пыр
 бар:verb:кай
 бар:verb:аш
+бар:verb:çӳреме
+бар:verb:çӱреме
+бар:verb:пырма
 бар:verb:шăван
 бар:verb:ÿк
+бар:verb:утма
 бар:verb:ут
 йөрергә:nonetype:пыр
 йөрергә:nonetype:кай
@@ -3512,6 +3662,7 @@ kati:nonetype:çур
 барырга:nonetype:ÿк
 барырга:nonetype:ут
 ишет:verb:илт
+ишет:verb:илтме
 ишетергә:nonetype:илт
 ишетергә:nonetype:илтме
 кыс:verb:пăв
@@ -3532,8 +3683,10 @@ kati:nonetype:çур
 кысарга:nonetype:хĕстер
 өр:verb:вĕр
 өр:verb:варкăш
+өр:verb:вĕрме
 ис:verb:вĕр
 ис:verb:варкăш
+ис:verb:вĕрме
 өрергә:nonetype:вĕр
 өрергә:nonetype:варкăш
 өрергә:nonetype:вĕрме
@@ -3548,12 +3701,18 @@ kati:nonetype:çур
 уйлау:nonetype:шухăшла
 уйлау:nonetype:шухǎшлама
 уйлау:nonetype:шутлама
+уйла:verb:уйла
+уйла:verb:шухӑшла
+уйла:verb:шутла
 уйла:verb:шухăшла
+уйла:verb:шухǎшлама
+уйла:verb:шутлама
 уйларга:nonetype:уйла
 уйларга:nonetype:шухӑшла
 уйларга:nonetype:шутла
 olohi:nonetype:çыхăнтар
 кер:verb:кĕр
+сула:verb:сывлама
 сула:verb:сывла
 тын алга:nonetype:сывлама
 тын алга:nonetype:сывла

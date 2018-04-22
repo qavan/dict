@@ -1,4 +1,6 @@
 ул:determiner:вĕсене
+ул:determiner feminine:леш
+ул:determiner feminine:вǎл
 бүтән:determiner:ытти
 бүтән:determiner:хирĕç
 бүтән:determiner:урăхла
@@ -69,6 +71,10 @@
 берничә:determiner:хăш
 берничә:determiner:темиçе
 сиксән:determiner:сакăрвуннăмĕш
+теге:determiner feminine:леш
+теге:determiner feminine:вǎл
+шул:determiner feminine:леш
+шул:determiner feminine:вǎл
 күп:nonetype:нумай
 утыз:determiner:вăтăр
 утыз:determiner:вӑтӑр
@@ -81,6 +87,20 @@
 ул:determiner:çав
 ошбу:determiner:çав
 бу:determiner:çав
+yukan:nonetype:вǎл
+yukan:nonetype:леш
+hekin:nonetype:вǎл
+hekin:nonetype:леш
+heke:nonetype:вǎл
+heke:nonetype:леш
+ena:nonetype:вǎл
+ena:nonetype:леш
+шул:nonetype:вǎл
+шул:nonetype:леш
+ул:nonetype:вǎл
+ул:nonetype:леш
+теге:nonetype:вǎл
+теге:nonetype:леш
 барлык:determiner:пĕтĕм кун
 барлык:determiner:яра куна
 бар:determiner:пĕтĕм кун

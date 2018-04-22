@@ -117,6 +117,7 @@
 психология:noun feminine:психологи
 психология:noun feminine:психологи
 җан:noun feminine:чун
+җан:noun particle:чун
 яктылык:noun masculine:тĕнче
 яктылык:noun masculine:çутă
 җәмгыять:noun neuter:этем пĕрлĕхĕ
@@ -277,6 +278,7 @@ wiki:noun:вики
 бугаз:noun neuter:карланкă
 бугаз:noun neuter:пыр
 бугаз:noun neuter:пыр
+бугаз:noun particle:пыр
 шырпы:noun feminine:шăрпăк
 күзлек:noun neuter:куçлăх
 туган тел:noun masculine:тăван чĕлхе
@@ -405,6 +407,7 @@ valüta:noun:укçа
 гөмбәләр:nonetype:кăмпа
 гөмбәләр:noun:кăмпа
 гөмбәләр:noun:кăмпа
+бакыр:masculine:пăхăр
 бакыр:noun feminine:пӑхӑр
 бакыр:noun feminine:йĕс
 бакыр:noun feminine:пăхăр
@@ -466,6 +469,7 @@ gönah:noun masculine:çылăх
 яңалыклар:noun:хыпарсем
 диаметр:noun masculine:диаметр
 диаметр:noun:диаметр
+көзге:neuter:тӗкӗр
 көзге:noun neuter:куҫкӗски
 көзге:noun neuter:тĕкĕр
 көзге:noun neuter:тӗкӗр
@@ -565,7 +569,10 @@ kömeş:noun neuter:кӗмӗл
 исем:noun:япала ячĕ
 молибден:noun masculine:молибден
 таллий:noun masculine:талли
+алтын:neuter:ылтӑн
+алтын:neuter:ылтăн
 алтын:noun neuter:ылтăн
+алтын:masculine:ылтăн
 алтын:noun neuter:ылтӑн
 алтын:noun neuter:ылтăн
 сыер:nonetype:ӗне
@@ -609,6 +616,7 @@ kömeş:noun neuter:кӗмӗл
 сугыш:noun:вăрçă
 сугыш:noun:вӑрҫӑ
 сугыш:nonetype:вӑрҫӑ
+диңгез:neuter:тинӗс
 диңгез:noun neuter:тинӗс
 диңгез:noun neuter:тинĕс
 диңгез:noun:тинӗс
@@ -1367,6 +1375,7 @@ eremçek:noun masculine:чăкăт
 әлхимик:noun:алхимик
 бодай:noun feminine:тулă
 көрәк:feminine:кĕреçе
+көрәк:masculine:кĕреçе
 көрәк:noun feminine:калак
 көрәк:noun feminine:кĕреçе
 көрәк:noun:ăскăч
@@ -1787,6 +1796,8 @@ cäy:noun neuter:çу
 баткак:noun neuter:шур
 баткак:noun neuter:шурлăх
 болгар:noun masculine:болгар
+алла:masculine:турӑ
+алла:masculine:турă
 блюминг:noun masculine:блюминг
 белен:noun masculine:икерчĕ
 белен:noun masculine:икерчӗ
@@ -1814,6 +1825,10 @@ cäy:noun neuter:çу
 алла:noun masculine:турӑ
 алла:noun masculine:турӑ
 алла:noun masculine:турă
+тәңре:masculine:турӑ
+тәңре:masculine:турă
+ходай:masculine:турӑ
+ходай:masculine:турă
 афоризм:noun masculine:афоризм
 хикмәтле сүз:noun masculine:афоризм
 çiru:noun feminine:çap
@@ -1859,6 +1874,8 @@ cäy:noun neuter:çу
 әстерхан:noun feminine:аçтăрхан
 әстерхан:noun feminine:аҫтӑрхан
 opera:noun feminine:опера
+курку:masculine:шик
+курку:masculine:сехре
 shаhmat:noun p:шахмат
 shаhmat:noun p:шахмат
 cilkän:noun masculine:парăс
@@ -1943,6 +1960,7 @@ tıçqan:noun feminine:шăши
 сычан:noun feminine:шӑши
 сычан:noun feminine:шаши
 сычан:noun feminine:шăши
+һава:masculine:сывлӑш
 авыз:nonetype:ҫӑвар
 awız:nonetype:ҫӑвар
 biologí:noun feminine:биологи
@@ -4122,6 +4140,7 @@ muzıqa:noun feminine:кĕвĕ
 дошман:noun feminine:тӑшман
 дошман:noun masculine:тӑшман
 дошман:noun masculine:тăшман
+дошман:masculine:тӑшман
 сөт:noun neuter:сĕт
 сөт:noun neuter:сӗт
 православие:noun:православи
@@ -5227,6 +5246,7 @@ latín älifba:noun feminine:алфавит
 авыз:noun masculine:çăвар
 авыз:noun masculine:ҫӑвар
 kältä:noun feminine:калта
+чәй:masculine:чей
 mendär:noun feminine:минтер
 mendär:noun feminine:çытар
 галогеннар:noun:галогенсем
@@ -6289,6 +6309,7 @@ iʃuk:nonetype:мăшăр
 энҗе:nonetype:ĕнчĕ
 тимер юл:nonetype:чукун çул
 тимер юллар:nonetype:чукун çул
+йозак:noun:çăра
 йозак:noun:сăлăп
 бик:nonetype:çăра
 бик:nonetype:сăлăп
@@ -6303,6 +6324,8 @@ quyan:nonetype:мулкач
 галәм:noun:çут тĕнче
 ğaläm:nonetype:çут тĕнче
 галәм:noun:çут тĕнче
+яка:noun:çуха
+дошман:noun:тӑшман
 җырчы:nonetype:вокалист
 вакалис:nonetype:вокалист
 чирү:nonetype:хĕçпăшаллă вăйсем
@@ -6348,7 +6371,10 @@ bädräf:nonetype:нушник
 теннис:nonetype:теннис
 таракан:nonetype:таракан
 биюче:nonetype:ташăçă
+әти:noun:атте
 атай:nonetype:атте
+ата:noun:атте
+ул:noun:ывӑл
 чөгендер:noun:кăшман
 исем:noun:япала ячĕ
 чуртан:nonetype:çӑрттан
@@ -6370,6 +6396,8 @@ koyaş:nonetype:хӗвел
 хьэйвон:nonetype:выльăх
 хьэйвон:nonetype:чĕрчун
 тәмәке:noun:сигарет
+үрдәк:noun:кавакал аçи
+үрдәк:noun:кӑвакал
 авыл хуҗалыгы:nonetype:ял хуçалăхĕ
 кәрәфес:nonetype:сельдерей
 балта:noun:пуртӑ
@@ -6379,6 +6407,7 @@ koyaş:nonetype:хӗвел
 чалбар:noun:шăлавар
 шайтан:noun:шуйттан
 иблис:nonetype:шуйттан
+балалар бакчасы:noun:ача панчи
 чана:noun:çунашка
 сәлам:noun:привет
 балыкчы:nonetype:пулăçă
@@ -6405,6 +6434,7 @@ tön urtası:nonetype:çур çĕр
 яр:noun:ҫыран
 яр буе:nonetype:хӗрӗ
 яр буе:nonetype:ҫыран
+яулык:noun:тутӑр
 кулъяулык:nonetype:тутӑр
 ไก่:nonetype:автан
 กุฏโฏ:nonetype:автан
@@ -6419,6 +6449,7 @@ tön urtası:nonetype:çур çĕр
 үкчә:noun:ура кĕли
 тәмәке:noun:сигарет
 хаҗ:noun:чунçӳрев
+патша:noun:патша
 падишаһ:nonetype:патша
 килеш:nonetype:падеж
 килеш:nonetype:падеж
@@ -6436,6 +6467,7 @@ tön urtası:nonetype:çур çĕр
 ялганчы:noun:суеçĕ
 เซีย:nonetype:хачă
 กระไต:nonetype:хачă
+нәүрүз:noun:нарӑс
 яңа ел:nonetype:çӗнӗ çул
 яңа ел:nonetype:çĕнĕ çул
 роман:noun:новелла
@@ -6444,6 +6476,7 @@ tön urtası:nonetype:çур çĕр
 кол:noun:чура
 күгəрчен күзе:nonetype:кăваркарчăн куçĕ
 күгəрчен күзе:nonetype:кăвакарчăн куçĕ
+дошман:noun:тӑшман
 дошман:noun:тăшман
 โรค:nonetype:амак
 โรค:nonetype:хĕн
@@ -6458,7 +6491,10 @@ tön urtası:nonetype:çур çĕр
 мөселман:noun:мӑсӑльман
 мөселман:noun:мусульман
 ир кеше:nonetype:ар ҫын
+ир:noun:ар ҫын
 игенче:nonetype:ар ҫын
+мөселман:noun:мӑсӑльман
+мөселман:noun:мусульман
 мужинэ:nonetype:кӑткӑ
 чүкеч:nonetype:мӑлатук
 чүкеч:nonetype:мăлатук
@@ -6476,16 +6512,24 @@ tön urtası:nonetype:çур çĕр
 чик:noun:йăран
 чик:noun:чикĕ
 буран:nonetype:тăман
+мәет:noun:виле
+мәет:noun:ÿт
+мәет:noun:виле
+мәет:noun:ÿт
 корпус:nonetype:виле
 корпус:nonetype:ÿт
 гәүдә:nonetype:виле
 гәүдә:nonetype:ÿт
+мәет:noun:виле
+мәет:noun:ÿт
 шәһәр:noun:хула евĕрлĕ посёлок
 шәһәр:noun:хула
 кала:noun:хула евĕрлĕ посёлок
 кала:noun:хула
 әни:noun:анне
 ана:noun:анне
+мөселман:noun:мӑсӑльман
+мөселман:noun:мусульман
 яфрак:noun:çеçке
 карагач:nonetype:çемçе чăрăш
 хәреф:noun:саспалли
@@ -6518,22 +6562,31 @@ tön urtası:nonetype:çур çĕр
 กงจักร:nonetype:кустăрма
 กงจักร:nonetype:кусатăран
 กงจักร:nonetype:урапа
+төс:noun:тӗс
 ปึ้ง:nonetype:кӗнеке
 ปึ้ง:nonetype:çĕтел синчи кĕнеке
 ปึ้ง:nonetype:кĕнеке
 карават:noun:кравать
+taş:noun:чул
 үрдәк:noun:кӑвакал
 иртеш:nonetype:иртыш
 энә:nonetype:йĕп
 инә:noun:йĕп
 хуҗа:nonetype:хуçа
+хуҗа:noun:хоçа
+хуҗа:noun:хуçа
+каз:noun:хур
 грамматика:nonetype:грамматика
 грамматика:nonetype:грамматика
 киләчәк:noun:малашнехи
 тарак:noun:киккирик
 водка:nonetype:водка
 аракы:noun:водка
+шәһәр:noun:хула
+кала:noun:хула
 президент:noun:патшалăх пуçлăхĕ
+шайтан:noun:мур
+шайтан:noun:шуйттан
 иблис:nonetype:мур
 иблис:nonetype:шуйттан
 игезәк:nonetype:йĕкĕреш
@@ -6542,6 +6595,7 @@ tön urtası:nonetype:çур çĕр
 дор:nonetype:йывӑҫ
 агач:noun:йывӑҫ
 кыз:noun:хӗр
+балалар бакчасы:noun:ача панчи
 балалар бакчасы:nonetype:ача панчи
 чили:nonetype:чили
 เทียม:nonetype:ыхра
@@ -6580,12 +6634,15 @@ bot:nonetype:пӗҫӗ
 хатын:noun:хӗрарӑм
 кат:noun:хут
 кәлтә:noun:калта
+кәлтә:noun:калта
 малах:nonetype:пирĕшти
 авыл хуҗалыгы:nonetype:ял хуҫалӑх
 жуьгь:nonetype:урпа
 абажур:nonetype:абажур
 эили:noun:ачасем
 эшләпә:nonetype:шлепке
+дошман:noun:тăшман
+мизгел:noun:самант
 гадәт:noun:хăнăху
 бүлмә:nonetype:пÿлĕм
 бина:nonetype:пÿлĕм
@@ -6691,6 +6748,9 @@ bot:nonetype:пӗҫӗ
 һава:nonetype:сывлăш
 һава:nonetype:сывлӑш
 һава:noun:сывлăш
+һава:noun:сывлăш
+һава:noun:сывлӑш
+укучы:noun:вĕренекен
 туьлки:nonetype:тилӗ
 уку:nonetype:вĕренÿ
 тәгълимат:nonetype:вĕренÿ
@@ -6709,6 +6769,9 @@ bot:nonetype:пӗҫӗ
 елан балык:nonetype:пÿрлешке
 сал:nonetype:ҫул
 сал:nonetype:çул
+стена:noun:хÿме
+дулкын:noun:хÿме
+дивар:noun:хÿме
 кулчатыр:nonetype:сунчăк
 кулчатыр:nonetype:сунчăк
 แข้ว:nonetype:шӑл
@@ -6726,6 +6789,8 @@ bot:nonetype:пӗҫӗ
 кайгы:nonetype:салху
 кайгы:nonetype:кичемлĕх
 кайгы:nonetype:хурланчăк
+туфрак:noun:çĕр
+туфрак:noun:тăпра
 หยิบ:nonetype:тăвар
 หยิบ:nonetype:тӑвар
 энҗе:nonetype:мерчен
@@ -6734,6 +6799,7 @@ solı:nonetype:сӗлӗ
 solı:nonetype:сĕлĕ
 солы:nonetype:сӗлӗ
 солы:nonetype:сĕлĕ
+төньяк:noun:çурçĕр
 кендек:nonetype:кăвана
 авыз:noun:çăвар
 авыз:noun:ҫӑвар
@@ -6876,6 +6942,8 @@ solı:nonetype:сĕлĕ
 ülçäw:nonetype:тараса
 ülçäw:nonetype:виçе
 үлчәү:noun:тараса
+үлчәү:noun:тараса
+үлчәү:noun:виçе
 вэсал:nonetype:çуркунне
 вэсал:nonetype:ҫур
 вэсал:nonetype:ҫуркунне
@@ -6887,6 +6955,7 @@ solı:nonetype:сĕлĕ
 мамык:noun:ваткă
 ванадий:nonetype:ванади
 вакцинация:nonetype:вакцинаци
+вазелин:noun:вазелин
 уяткыч сәгать:nonetype:вăраткăç
 уяткыч сәгать:nonetype:будильник
 будильник:nonetype:вăраткăç
@@ -6894,6 +6963,8 @@ solı:nonetype:сĕлĕ
 руш:nonetype:сухал
 дорд:nonetype:ырату
 болгар:nonetype:болгар
+сугыш:noun:саланчăк
+сугыш:noun:ванчăк
 худо:nonetype:турӑ
 блюминг:nonetype:блюминг
 рушк:nonetype:пӑрҫа
@@ -6905,12 +6976,15 @@ solı:nonetype:сĕлĕ
 фатыйха:nonetype:пил
 фатыйха:nonetype:пехил
 фатыйха:nonetype:халал
+биатлон:noun:биатлон
 биатлон:nonetype:биатлон
 үлемсезлек:nonetype:вилĕмсĕрлĕх
+кабер:noun:тупăк
 дәф:nonetype:параппан
 давылбаз:nonetype:параппан
 барабан:nonetype:параппан
 думбак:nonetype:параппан
+давыл:noun:параппан
 бальнеология:nonetype:бальнеологи
 бактериолог:nonetype:бактериолог
 пэльпэлэк:nonetype:лĕпĕш
@@ -6975,12 +7049,14 @@ irenü:nonetype:кахал
 чум:nonetype:куҫ
 карама:nonetype:хурама
 elma:nonetype:хурама
+каләм:noun:кӑранташ
 qaläm:nonetype:кӑранташ
 чиркәу:nonetype:чиркӳ
 เก้าอี้:nonetype:пукан
 чылбыр:nonetype:сăнчăр
 себерке:nonetype:шӑпӑр
 қайық:nonetype:кимӗ
+көймә:noun:кимӗ
 кол:nonetype:чура
 бөҗәк:nonetype:нăрă
 хьэйвон:nonetype:чĕр чун
@@ -6988,6 +7064,7 @@ qaläm:nonetype:кӑранташ
 хьэйвон:nonetype:кайǎк
 хьэйвон:nonetype:выльăх
 хьэйвон:nonetype:чĕрчун
+кондыз:noun:хӑнтӑр
 kondız:nonetype:хӑнтӑр
 şota:nonetype:шота
 русия федерациясе:nonetype:раççей патшалӑхě
@@ -6996,9 +7073,15 @@ kondız:nonetype:хӑнтӑр
 ходай:nonetype:турă
 тәңре:nonetype:турă
 алла:nonetype:турă
+ходай:noun:турă
+тәңре:noun:турă
+аллаһ:noun:турă
+алла:noun:турă
 баскыч:nonetype:картлашка
 аккургаш:noun:тăхлан
 аккургаш:nonetype:тăхлан
+аккургаш:noun:тăхлан
+авыл:noun:ял
 тишек:noun:çăрта
 тишек:noun:шăтăк
 тишек:noun:хăвăл
@@ -7013,6 +7096,8 @@ kondız:nonetype:хӑнтӑр
 яшьлек:noun:çамрăклăх
 яхшылык:noun:ырлăх
 кулъяулык:nonetype:тутăр
+яулык:noun:тутăр
+яшүсмер:noun:ача
 яшүсмер:noun:каччă
 яшүсмер:noun:йĕкĕт
 ятим:nonetype:тăлăх
@@ -7026,8 +7111,11 @@ kondız:nonetype:хӑнтӑр
 яшәеш:noun:asd
 яшәү:nonetype:asd
 яшелчә культуралары:nonetype:пахча çимĕç
+яшелчә:noun:пахча çимĕç
+янгын:noun:пушар
 ялкын:noun:вут
 ялкын:noun:çулам
+ял:noun:кану
 ярык:noun:хушăк
 ярык:noun:шăтăк
 эшчәнлек:noun:ĕçченлĕх
@@ -7035,13 +7123,20 @@ kondız:nonetype:хӑнтӑр
 эч:noun:ăш
 этнография:noun:этнографи
 этнография:nonetype:этнографи
+яр:noun:çыран
+яр:noun:хӗрӗ
+яр:noun:ҫыран
 эссе:noun:эссе
 эссе:noun:эссе
+эремчек:noun:тăпăрчă
 яңалык:noun:хыпар
 эшермә:noun:кĕле
 эшермә:noun:сăлăп
 юнәлеш:noun:май
 агым:noun:май
+ютәл:noun:ӳслĕк
+ютәл:noun:ӳсĕрни
+ютәл:noun:ÿслĕк
 электр:noun:электричество
 иликтер:nonetype:электричество
 эпопея:noun:эпопея
@@ -7064,24 +7159,31 @@ kondız:nonetype:хӑнтӑр
 шөбһә:noun:шик
 курку:noun:шиклентер
 курку:noun:шик
+шигырь:noun:сăвă
 шешә:noun:кĕленче
 шеш:noun:мăкăль
 шәраб:nonetype:эрех
 шәраб:noun:эрех
 шик:noun:шик
 шахта:noun:çĕр управĕ
+шар:noun:чăмăр
 шар:nonetype:чăмăр
 шаман:noun:шаман
 чыра:noun:чĕлпĕк
 чакырылыш:noun:чĕнÿ
 чакрым:noun:çухрăм
+цемент:noun:цемент
 хыял:noun:ĕмĕт
 чыгым:noun:тăкак
 чук:noun:сапака
 чук:noun:ярапа
 чук:noun:çупкăм
+ия:noun:хуçа
+храм:noun:чиркÿ
 гыйбадәтханә:nonetype:чиркÿ
 хәйлә:noun:чеелĕх
+чишмә:noun:çăл
+чишмә:noun:çăлкуç
 хезмәтче:noun:тарçă
 хәвеф:noun:канăçсăрлăх
 курку:nonetype:канăçсăрлăх
@@ -7092,10 +7194,12 @@ kondız:nonetype:хӑнтӑр
 чиркәу:nonetype:чиркÿ
 чирек:noun:чĕрĕк
 хаос:noun:йĕркесĕрлĕх
+һөнәрче:noun:ремесленник
 холык:noun:характер
 холык:noun:кăмăл
 характер:noun:характер
 характер:noun:кăмăл
+чемодан:noun:чăматан
 чебен:noun:шăна
 чана:noun:çуна
 хикәя:noun:калав
@@ -7106,9 +7210,15 @@ kondız:nonetype:хӑнтӑр
 хаҗәт:noun:нуша
 фундамент:nonetype:никĕс
 фундамент:nonetype:никĕсле
+фундамент:noun:никĕс
+фундамент:noun:никĕсле
+фосфор:noun:фосфор
 фосфор:nonetype:фосфор
 форсат:noun:канлĕх
 форсат:noun:хăт
+фонтан:noun:пĕрхĕнчĕк
+фонтан:noun:пӗрхӗнчӗк
+фонарь:noun:хунар
 фатиха:noun:пехил
 фамилия:noun:хушамаг
 фамилия:noun:хушамат
@@ -7129,6 +7239,7 @@ kondız:nonetype:хӑнтӑр
 училище:noun:шкул
 мәктәбе:nonetype:шкул
 учак:noun:вучах
+үсмер:noun:ача
 уңышлык:nonetype:ăнăçу
 уңышлык:nonetype:ăнăçлăх
 уңышлык:nonetype:ÿсĕм
@@ -7140,15 +7251,23 @@ kondız:nonetype:хӑнтӑр
 ул:nonetype:ывăл
 ул:nonetype:ача
 ул:nonetype:ывӑл
+ул:noun:ывăл
+ул:noun:ача
+учак:noun:ӳхлĕм
+учак:noun:кăвайт
 үч:noun:тавăру
 утырыш:noun:лару
 утыргыч:noun:ларкăч
 утлык:noun:такана
+утыргыч:noun:пукан
 урындык:nonetype:пукан
+урындык:noun:пукан
 урталык:noun:вăта
 урталык:noun:вар
 урта:noun:вăта
 урта:noun:вар
+шәкерт:noun:вĕренекен
+укучы:noun:вĕренекен
 фикер:noun:шухăш
 уй:noun:шухăш
 үпкә:noun:ÿпкев
@@ -7162,6 +7281,8 @@ kondız:nonetype:хӑнтӑр
 үзгәреш:noun:улшăну
 тыш:noun:çипуç
 трактор:noun:трактор
+трактор:noun:трактор
+төшке аш:noun:кăнтăр апачĕ
 төшенчә:noun:ăнланни
 төшенчә:noun:ăнлав
 тырышлык:noun:тимлĕх
@@ -7180,13 +7301,18 @@ kondız:nonetype:хӑнтӑр
 йорт:nonetype:çурт
 тол хатын:noun:тăлăх
 тол хатын:noun:хусах
+түшәм:noun:путалӑх
+түшәм:noun:путалăх
+түшәм:noun:мачча
 помидор:nonetype:помидор
+томат:noun:помидор
 түтәл:noun:йăран
 тун:noun:кĕрĕк
 тубык:noun:пакăлчак
 тубык:noun:ура сыпни
 тубиркулүз:nonetype:туберкулёз
 тубиркулүз:nonetype:туберкулёз
+туберкулез:noun:туберкулёз
 туберкулез:noun:туберкулёз
 түбә:noun:ҫи
 түбә:noun:ҫивитти
@@ -7196,6 +7322,7 @@ kondız:nonetype:хӑнтӑр
 түбә:noun:тăрă
 түбә:noun:тÿпе
 түбә:noun:çи
+тренер:noun:тренер
 тренер:noun:тренер
 теринир:nonetype:тренер
 теринир:nonetype:тренер
@@ -7214,11 +7341,16 @@ kondız:nonetype:хӑнтӑр
 тәртип:noun:йĕрке
 термин:noun:термин
 термин:nonetype:термин
+терлек:noun:nʉmʉ
+терлек:noun:выльӑх
+терлек:noun:выльăх
+тәрҗемә:noun:тăлмач
 тәрҗемә:noun:тăлмач
 терәк:noun:тĕрек
 терәк:noun:юпа
 тирес:noun:тислĕк
 тирә:noun:хушă
+тир:noun:тар
 тимерчыбык:noun:пралук
 тикшеренү:noun:тĕпчев
 тәрбия:noun:витерев
@@ -7233,10 +7365,12 @@ kondız:nonetype:хӑнтӑр
 температура:nonetype:температура
 темп:noun:хăвăртлăх
 тилифун:nonetype:телефон
+телефон:noun:телефон
 дәрт:nonetype:ĕмĕт
 дәрт:nonetype:шут
 теләк:noun:ĕмĕт
 теләк:noun:шут
+текст:noun:текст
 тәҗрибә:noun:сăнав
 тәҗрибә:noun:тĕпчев
 тегүче:noun:çĕвĕçĕ
@@ -7247,12 +7381,22 @@ kondız:nonetype:хӑнтӑр
 такта:noun:хăма
 тавыш:noun:сасă
 тавыш:noun:шав
+аваз:noun:сасă
 аваз:nonetype:сасă
+тавыш:noun:сасă
 табыш:noun:тупăш
 табыш:noun:пайта
 табыш:noun:тухăç
 табыш:noun:услам
+ящек:noun:ещӗк
+ящек:noun:арча
+ящек:noun:сунтăх
+тартма:noun:ещӗк
+тартма:noun:арча
+тартма:noun:сунтăх
+сугышчы:noun:салтак
 салдат:nonetype:салтак
+солдат:noun:салтак
 табан:noun:тупан
 табан:noun:ура лаппи
 табан:noun:тупан
@@ -7260,6 +7404,8 @@ kondız:nonetype:хӑнтӑр
 таба:nonetype:çатма
 таба:noun:çатма
 сөлге:noun:алшăлли
+сызым:noun:чертёж
+тарихчы:noun:историк
 тарихчы:noun:историк
 тараф:noun:аяк
 тараф:noun:айăк
@@ -7293,6 +7439,8 @@ kondız:nonetype:хӑнтӑр
 талаш:noun:тĕркĕш
 талаш:noun:чăркăш
 тал:noun:çÿçе
+сок:noun:сĕткен
+сок:noun:сĕтек
 сут:nonetype:сĕткен
 сут:nonetype:сĕтек
 скрипка:nonetype:сĕрме купăс
@@ -7302,10 +7450,13 @@ kondız:nonetype:хӑнтӑр
 сәләт:noun:пултарулăх
 сәламләү:noun:салам
 исәнләшү:nonetype:салам
+сарай:noun:лупас
 тотка:noun:авăр
 тотка:noun:хăлăп
 сап:noun:авăр
 сап:noun:хăлăп
+сандык:noun:арча
+сандык:noun:сунтăх
 салам:noun:улăм
 сак:noun:хурал
 сайлаучы:noun:суйлавçă
@@ -7350,13 +7501,22 @@ kondız:nonetype:хӑнтӑр
 каләм:noun:хăлăп
 рота:noun:рота
 роман:nonetype:роман
+роман:noun:роман
 рәхим:noun:каçару
 рәхәт:noun:рехет
+саф:noun:касă
+саф:noun:ĕрет
+саф:noun:рет
+рәт:noun:касă
+рәт:noun:ĕрет
+рәт:noun:рет
 резерв:noun:сыхлăх
 публицистика:noun:публицистика
 радио:nonetype:радио
 радио:noun:радио
 процент:noun:процент
+процент:noun:процент
+протон:noun:протон
 proton:nonetype:протон
 прибор:noun:хатĕр
 шигырь:noun:поэма
@@ -7364,6 +7524,9 @@ proton:nonetype:протон
 чат:nonetype:кӗтес
 чат:nonetype:кĕтес
 чат:nonetype:сăмсах
+почмак:noun:кӗтес
+почмак:noun:кĕтес
+почмак:noun:сăмсах
 почмак:nonetype:кӗтес
 почмак:nonetype:кĕтес
 почмак:nonetype:сăмсах
@@ -7373,9 +7536,13 @@ sänäğät:nonetype:промăçлăх
 проза:noun:проза
 проза:noun:проза
 провинция:noun:ил
+портрет:noun:сăнарлă ӳнер
+портрет:noun:сăн ÿкерчĕк
+полк:noun:полк
 полк:noun:полк
 алай:nonetype:полк
 алай:nonetype:полк
+помидор:noun:помидор
 платина:noun:платина
 агалтын:nonetype:платина
 плотина:noun:пĕвĕ
@@ -7385,6 +7552,7 @@ sänäğät:nonetype:промăçлăх
 пәйгамбәр:nonetype:пӳлĕхçĕ
 пәйгамбәр:nonetype:пӳлӗхçӗ
 пәйгамбәр:noun:пӳлĕхçĕ
+пәйгамбәр:noun:пӳлӗхçӗ
 пәһлеван:noun:паттăр
 баһадир:nonetype:паттăр
 батыр:noun:паттăр
@@ -7393,10 +7561,13 @@ sänäğät:nonetype:промăçлăх
 падишаһ:nonetype:патша
 падишаһ:nonetype:король
 король:noun:патша
+король:noun:патша
+король:noun:король
 патша:nonetype:патша
 патша:nonetype:патша
 патша:nonetype:король
 патша:noun:патша
+патша:noun:король
 өммәт:noun:тăхăм
 ышаныч:nonetype:шанчăк
 ышаныч:nonetype:шанăç
@@ -7405,8 +7576,11 @@ sänäğät:nonetype:промăçлăх
 өем:noun:кăшăл
 өем:noun:купа
 өем:noun:тĕмеске
+нур:noun:пайăрка
+нур:noun:шевле
 нур:nonetype:пайăрка
 нур:nonetype:шевле
+оят:noun:намăс
 оят:noun:намăссăрлан
 оят:noun:мăшкăл
 оя:noun:йăва
@@ -7418,6 +7592,8 @@ sänäğät:nonetype:промăçлăх
 өс:noun:çиел
 өс:noun:çи
 орыш:noun:çапăçу
+онык:noun:мăнук
+никель:noun:никĕль
 никель:nonetype:никĕль
 opera:nonetype:опера
 опера:noun:опера
@@ -7430,8 +7606,12 @@ opera:nonetype:опера
 одеял:noun:утиял
 нумизматика:noun:нумизматика
 нумизматика:noun:нумизматика
+оек:noun:чăлха
+түрә:noun:пуç
 түрә:noun:пуçлăх
+начальник:noun:пуç
 начальник:noun:пуçлăх
+башлык:noun:пуç
 башлык:noun:пуçлăх
 нәфислек:noun:чечен
 ният:noun:шут
@@ -7448,6 +7628,8 @@ opera:nonetype:опера
 морфология:noun:морфологи
 марфалугия:nonetype:морфологи
 марфалугия:nonetype:морфологи
+мыек:noun:мăйăх
+молибден:noun:молибден
 молибден:nonetype:молибден
 мөһер:noun:пичет
 труба:noun:мăрье
@@ -7456,13 +7638,18 @@ opera:nonetype:опера
 торба:noun:пăрăх
 морҗа:noun:мăрье
 морҗа:noun:пăрăх
+микроскоп:noun:микроскоп
 метро:noun:метрополитен
 метро:noun:метро
 момент:noun:хăш тĕлте?
+момент:noun:самант
 вакыт:noun:хăш тĕлте?
+вакыт:noun:самант
 мич:noun:кăмака
 фурун:nonetype:кăмака
+минерал:noun:минерал
 хуҗа:nonetype:хуçа
+милекче:noun:хуçа
 министрлык:noun:министерство
 мөлкәт:noun:еткерлĕх
 мөлкәт:noun:мул
@@ -7476,6 +7663,7 @@ opera:nonetype:опера
 суд:noun:сут
 мәхкәмә:noun:сут
 металл:noun:металл
+мәрҗән:noun:мерчен
 мәрҗән:noun:мерчен
 шаярту:noun:мыскара
 мәзәк:noun:мыскара
@@ -7497,6 +7685,7 @@ opera:nonetype:опера
 мактаныч:noun:мăнаçлăх
 горурлык:nonetype:мăнкăмăллăх
 горурлык:nonetype:мăнаçлăх
+ләлә:noun:тюльпан
 хозур:nonetype:савăк
 хозур:nonetype:рехет
 хозур:nonetype:хавас
@@ -7507,18 +7696,29 @@ opera:nonetype:опера
 ләззәт:noun:рехет
 ләззәт:noun:хавас
 лимун:nonetype:лимон
+лимон:noun:лимон
 лига:noun:лига (хушă виçи)
 кылыч:noun:сабля
 кылыч:noun:хĕç
 кылган:noun:кăлкан
 кыяташ:noun:хысак
 кыя:noun:хысак
+кырый:noun:çĕршыв
+кырый:noun:çĕр
+кырый:noun:хĕрĕ
+ил:noun:çĕршыв
+ил:noun:çĕр
+ил:noun:хĕрĕ
+дәүләт:noun:çĕршыв
+дәүләт:noun:çĕр
+дәүләт:noun:хĕрĕ
 кыргыз:noun:кăркăс
 кыенлык:noun:йывăрлăх
 кыенлык:noun:чăрмав
 авырлык:nonetype:йывăрлăх
 авырлык:nonetype:чăрмав
 кыек:noun:чалăш
+магнит:noun:магнит
 логика:noun:логика
 логика:noun:логика
 мантыйк:nonetype:логика
@@ -7526,7 +7726,10 @@ opera:nonetype:опера
 куртка:noun:куртка
 хәтәр:noun:хăрушлăх
 куркыныч:noun:хăрушлăх
+күрше:noun:кÿршĕ
+күрше:noun:пускил
 лимфа:noun:лимфа
+кура:noun:хăмăш
 мосафирханә:noun:хăна килĕ
 кунакханә:noun:хăна килĕ
 кура:noun:карта
@@ -7538,13 +7741,16 @@ opera:nonetype:опера
 бик күп:nonetype:нумай
 мәнфәгать:noun:кăсăк
 кызыксыну:noun:кăсăк
+кунак:noun:хăна
 яшь:noun:куççуль
 күз яше:noun:куççуль
 кремль:noun:карман
+куак:noun:тĕм
 крестьян:noun:хресчен
 игенче:nonetype:хресчен
 күрсәткеч:noun:кăтарту
 күренеш:noun:пулăм
+көтүче:noun:кĕтÿç
 күпчелек:noun:ытларахăш
 күпчелек:noun:нумайăшĕ
 күбесе:noun:ытларахăш
@@ -7577,14 +7783,19 @@ opera:nonetype:опера
 бәхет:noun:савăк
 бәхет:noun:хавас
 бәхет:noun:хаваслăх
+көчек:noun:анчăк
+көчек:noun:йытă çури
+костюм:noun:тумтир
 корым:noun:хăрăм
 корылык:noun:типĕ
 көрәш:noun:кĕрешÿ
 корал:noun:тупă
 корал:noun:тупӑ
 көпшә:noun:чĕлĕм
+контроль:noun:тĕрĕслев
 шаһ:nonetype:патша
 шаһ:nonetype:король
+кораб:noun:карап
 кораб:nonetype:карап
 тәгәрмәч:noun:кустăрма
 тәгәрмәч:noun:кусатăран
@@ -7595,11 +7806,16 @@ opera:nonetype:опера
 тәгәрмәч:nonetype:кустăрма
 тәгәрмәч:nonetype:кусатăран
 тәгәрмәч:nonetype:урапа
+конкурс:noun:ăмăрту
 kondız:nonetype:хăнтăр
+кондыз:noun:хăнтăр
 колонна:noun:юпа
+компас:noun:компас
 компас:nonetype:компас
+койма:noun:хÿме
 кияү:noun:йысна
 кияү:noun:кĕрÿ
+колхоз:noun:колхоз
 моң:noun:кĕвĕ
 моң:noun:çемĕ
 көй:noun:кĕвĕ
@@ -7642,6 +7858,7 @@ kiäw:nonetype:кĕрÿ
 булачак:nonetype:малашнехи
 киләчәк:noun:малашлăх
 киләчәк:noun:пуласлăх
+кол:noun:чура
 уңай:noun:лат
 көй:noun:лат
 киңлек:noun:уçлăх
@@ -7658,22 +7875,34 @@ kiäw:nonetype:кĕрÿ
 кисәк:noun:касăк
 кисәк:noun:çăвар
 кисәк:noun:чĕлĕ
+кеш:noun:кăш
 кәсеп:noun:ĕнер
 кәсеп:noun:ремесла
 кәсеп:nonetype:ĕнер
 кәсеп:nonetype:ремесла
 катлау:nonetype:сий
 катлам:nonetype:сий
+кат:noun:сий
 карыш:noun:шит
 каһарман:noun:паттăр
+кат:noun:хут
+угры:noun:вăрă
+карак:noun:вăрă
 килешү:noun:кавар
+киез:noun:кĕççе
 торба:nonetype:михĕ
 торба:nonetype:хутаç
+капчык:noun:михĕ
+капчык:noun:хутаç
 капка:noun:хапха
 капитал:noun:мул
 капитал:nonetype:мул
 тартма:noun:арча
 кап:noun:арча
+кәүсә:noun:йывăç вулли
+кәүсә:noun:кĕпçе
+кәүсә:noun:кут
+кесә:noun:кĕсье
 керосин:noun:краççын
 каш:noun:куҫ харши
 каш:noun:куç харши
@@ -7687,15 +7916,21 @@ kiäw:nonetype:кĕрÿ
 караңгылык:noun:тĕттĕм
 караңгылык:noun:сĕм
 кара карга:noun:курак
+кара карга:noun:хура курак
+камыш:noun:хăмăш
 камчы:noun:пушă
 камчы:noun:чăпăркка
 йон:noun:çăм
 калынлык:noun:хулăнăш
 йөкләмә:noun:сăмах
 бурыч:nonetype:сăмах
+йөзем:noun:иҫӗм
 калкулык:noun:сăрт
 калкулык:noun:тÿпем
 калдык:noun:юлашки
+йомгак:noun:çăмха
+йодрык:noun:чышкă
+йодрык:noun:чăмăр
 шаукым:nonetype:витĕм
 шаукым:nonetype:вăйăм
 тәэсир:noun:витĕм
@@ -7706,18 +7941,41 @@ kiäw:nonetype:кĕрÿ
 казаныш:noun:ÿсĕм
 казаныш:noun:çитĕнÿ
 камыр:noun:чуста
+авырлык:noun:çăк
+авырлык:noun:туртăм
+авырлык:noun:груз
+авырлык:noun:пусарлăк
 авырлык:noun:çĕклем
+авырлык:noun:тиев
+йөк:noun:çăк
+йөк:noun:туртăм
+йөк:noun:груз
+йөк:noun:пусарлăк
 йөк:noun:çĕклем
+йөк:noun:тиев
+кадак:noun:кĕренке
 кадак:noun:кĕренке
 йотым:noun:çăвар
 йотым:noun:сыпкăм
+кадак:noun:пăта
 кадаклар:nonetype:пăта
 кабак:noun:кавăн
 ия:noun:подлежащи
+ия:noun:подлежащи
+ишетү:noun:хăлха
 ишетү:noun:хавха
+итек:noun:атă
 итәк:noun:аркă
 хөрмәт:noun:хисеп
 ихтирам:noun:хисеп
+утар:noun:кил карти
+утар:noun:картиш
+ихата:noun:кил карти
+ихата:noun:картиш
+малай:noun:ача
+малай:noun:ывăл ача
+ир бала:noun:ача
+ир бала:noun:ывăл ача
 ихтыяр:noun:ирӗкӳ
 ихтыяр:noun:ирĕклĕх
 ихтыяр:noun:ирĕк
@@ -7740,7 +7998,9 @@ kiäw:nonetype:кĕрÿ
 хикмәт:nonetype:ăсхаллăх
 хикмәт:nonetype:ăслăлăх
 замандаш:noun:тантăш
+тәм:noun:тутă
 татым:nonetype:тутă
+зәвык:noun:тутă
 зыян:noun:сăтăр
 зыян:noun:сиен
 зыян:noun:сарăп
@@ -7749,12 +8009,25 @@ kiäw:nonetype:кĕрÿ
 зарар:noun:сиен
 зарар:noun:сарăп
 зарар:noun:усал
+закон:noun:саккун
+канун:noun:саккун
+фабрика:noun:завод
+завод:noun:завод
 журналистика:noun:хыпар
 җыерчык:noun:пĕркеленчĕк
+җырчы:noun:юрăçă
 җитмәү:nonetype:кăлтăк
 җитмәү:nonetype:çитменлĕх
 җитмәү:nonetype:пăсăк
 җитмәү:nonetype:шăйрăк
+җитешсезлек:noun:кăлтăк
+җитешсезлек:noun:çитменлĕх
+җитешсезлек:noun:пăсăк
+җитешсезлек:noun:шăйрăк
+кимчелек:noun:кăлтăк
+кимчелек:noun:çитменлĕх
+кимчелек:noun:пăсăк
+кимчелек:noun:шăйрăк
 жирәбә:noun:шăпа
 җиңүче:noun:çĕнтерÿçĕ
 җеп:noun:ҫип
@@ -7765,6 +8038,7 @@ kiäw:nonetype:кĕрÿ
 җөмлә:noun:сĕнӳ
 җөмлә:noun:сĕнӳ
 җөмлә:noun:сĕнÿ
+җитәкче:noun:пуç
 җитәкче:noun:пуçлăх
 җирлек:noun:никĕс
 нигез:noun:никĕс
@@ -7777,10 +8051,17 @@ kiäw:nonetype:кĕрÿ
 идән:noun:урай
 җиһан:noun:çут çанталăк
 җәйләү:noun:уй
+җим:noun:апат
 аш:nonetype:апат
 әрнү:noun:йĕксÿ
 өстәл:nonetype:сӗтел
 өстәл:nonetype:сĕтел
+табын:noun:сӗтел
+табын:noun:сĕтел
+өстәл:noun:сӗтел
+өстәл:noun:сĕтел
+җен:noun:мур
+җен:noun:шуйттан
 җәмгыять:nonetype:этем пĕрлĕхĕ
 җәмгыять:nonetype:этем пĕрлĕхĕ
 җәмгыять:nonetype:халăх
@@ -7794,6 +8075,9 @@ kiäw:nonetype:кĕрÿ
 җәмгыять:noun:этем пĕрлĕхĕ
 җәмгыять:noun:халăх
 әйбер:noun:япала
+егет:noun:ача
+егет:noun:каччă
+егет:noun:йĕкĕт
 дуслык:nonetype:туслăх
 дуслык:noun:туслăх
 дулкын:noun:хум
@@ -7813,8 +8097,19 @@ kiäw:nonetype:кĕрÿ
 дивар:noun:стена
 дивар:noun:хÿме
 диаметр:noun:диаметр
+диаметр:noun:диаметр
 диаметр:nonetype:диаметр
 диаметр:nonetype:диаметр
+түгәрәк:noun:çавра
+түгәрәк:noun:ункă
+түгәрәк:noun:ҫавра
+түгәрәк:noun:кăшăл
+түгәрәк:noun:çаврашка
+даирә:noun:çавра
+даирә:noun:ункă
+даирә:noun:ҫавра
+даирә:noun:кăшăл
+даирә:noun:çаврашка
 түгәрәк:nonetype:çавра
 түгәрәк:nonetype:ункă
 түгәрәк:nonetype:ҫавра
@@ -7869,6 +8164,8 @@ kiäw:nonetype:кĕрÿ
 граф:noun:граф
 граф:nonetype:граф
 гражданин:nonetype:гражданин
+граждан:noun:гражданин
+ватандаш:noun:гражданин
 дәрт:noun:хаваслăх
 гомер:noun:ĕмĕр
 гомер:noun:пурнӑҫ
@@ -7883,10 +8180,13 @@ kiäw:nonetype:кĕрÿ
 тереклек:noun:чĕрĕлĕх
 губерна:noun:кĕперне
 гелий:noun:гели
+гелий:noun:гели
 хәрәм:nonetype:ҫылӑх
 хәрәм:nonetype:çылăх
 gönah:nonetype:ҫылӑх
 gönah:nonetype:çылăх
+гөнаһ:noun:ҫылӑх
+гөнаһ:noun:çылăх
 геометрия:noun:геометри
 геометрия:noun:геометри
 җәнҗал:noun:тĕркĕш
@@ -7931,6 +8231,8 @@ gönah:nonetype:çылăх
 вилаять:noun:район
 valüta:nonetype:укçа
 валюта:noun:укçа
+һәдия:noun:парне
+бүләк:noun:парне
 венгр:noun:мадьяр
 венгр:noun:венгр
 чор:noun:вăхăт
@@ -7941,6 +8243,10 @@ valüta:nonetype:укçа
 вакыт:noun:тапхăр
 үсү:nonetype:пÿ
 үсү:nonetype:ÿсĕм
+үсеш:noun:пÿ
+үсеш:noun:ÿсĕм
+буй:noun:пÿ
+буй:noun:ÿсĕм
 акшар:nonetype:акшар
 бур:noun:акшар
 буын:noun:ăру
@@ -7956,11 +8262,23 @@ valüta:nonetype:укçа
 бригада:noun:бригада
 бригада:nonetype:бригада
 бригада:nonetype:бригада
+буа:noun:пĕве
 буа:nonetype:пĕве
+борыч:noun:пăрăç
+борчак:noun:пăрçа
 ботка:noun:пăтă
 ботка:nonetype:пăтă
+борыс:noun:кашта
+борыс:noun:пăрăс
 хафа:noun:канăçсăрлăх
 борчу:noun:канăçсăрлăх
+кыр:noun:уй
+кыр:noun:çаран
+кыр:noun:улăх
+болын:noun:уй
+болын:noun:çаран
+болын:noun:улăх
+союз:noun:союз
 союз:noun:союз
 союз:noun:пĕрлешÿ
 бердәмлек:nonetype:союз
@@ -7970,15 +8288,19 @@ valüta:nonetype:укçа
 теркәгеч:nonetype:союз
 теркәгеч:nonetype:пĕрлешÿ
 берлек:noun:союз
+берлек:noun:союз
 берлек:noun:пĕрлешÿ
 богау:noun:сăнчăр
 бияләй:noun:алсиш
 шәһәр:noun:паççулкă
 поселок:noun:паççулкă
+поселок:noun:хула
 кала:noun:паççулкă
 бистә:noun:паççулкă
+бистә:noun:хула
 бистә:nonetype:паççулкă
 бистә:nonetype:хула
+билге:noun:паллă
 бәхетсезлек:noun:инкек
 бәхетсезлек:noun:хурлăх
 бәхетсезлек:noun:хĕн
@@ -7987,6 +8309,7 @@ valüta:nonetype:укçа
 бәхетсезлек:noun:шар
 бәхетсезлек:noun:синкер
 бәхетсезлек:noun:усал
+бик:noun:çăра
 үр:noun:çÿллĕш
 үр:noun:çÿл
 югарылык:nonetype:çÿллĕш
@@ -8000,6 +8323,7 @@ birja:nonetype:биржа
 билгеләү:noun:палăртав
 билгеләмә:nonetype:палăртав
 бизәк:noun:эреш
+бәхәс:noun:тавлашу
 берәмлек:noun:пӗрре
 берәмлек:noun:пӗр
 игълан:noun:пĕлтерÿ
@@ -8046,6 +8370,8 @@ birja:nonetype:биржа
 баскыч:noun:пусма
 һава аланы:nonetype:сывлăш порчĕ
 һава аланы:nonetype:аэропорт
+аэропорт:noun:сывлăш порчĕ
+аэропорт:noun:аэропорт
 белгеч:noun:ăстаçă
 ашамлык:noun:апат
 ашамлык:noun:çимĕç
@@ -8059,8 +8385,13 @@ birja:nonetype:биржа
 ачлык:noun:выçлăх
 атчабар:noun:йыхравçă
 кабак:nonetype:бар
+бар:noun:бар
+бал:noun:пыл
 бактерия:noun:бактери
 аршын:noun:аршăн
+арт:noun:кай
+арт:noun:кут
+арт:noun:хыçал
 чирү:nonetype:çар
 чирү:nonetype:ҫар
 гаскәр:noun:çар
@@ -8072,9 +8403,20 @@ birja:nonetype:биржа
 армия:noun:ҫар
 армия:noun:çap
 бай:noun:пуян
+карт әти:noun:кукаҫи
+карт әти:noun:кукаçи
+карт әти:noun:асатте
+бабакай:noun:кукаҫи
+бабакай:noun:кукаçи
+бабакай:noun:асатте
 бабай:nonetype:кукаҫи
 бабай:nonetype:кукаçи
 бабай:nonetype:асатте
+дәү әти:noun:кукаҫи
+дәү әти:noun:кукаçи
+дәү әти:noun:асатте
+нәүрәп:noun:нÿхреп
+бaз:noun:нÿхреп
 ачу:noun:вĕчĕ
 ачу:noun:çилĕ
 каза:noun:усал
@@ -8087,13 +8429,20 @@ birja:nonetype:биржа
 апа:noun:кинемей
 апа:noun:инке
 апа:noun:мăн акка
+асфальт:noun:асфальт
 арыш:noun:ыраш
 мигъмар:nonetype:архитектор
+архитектор:noun:архитектор
+архипелаг:noun:архипелаг
+аммиак:noun:аммиак
 алъяпкыч:nonetype:саппун
+алъяпкыч:noun:саппун
+алмаз:noun:алмаз
 аст:noun:аял
 аст:noun:ай
 артиллерия:noun:артиллери
 келәт:nonetype:кĕлет
+амбар:noun:кĕлет
 аралык:noun:хушă
 ара:noun:хушă
 кыз кардәш:nonetype:йӑмӑк
@@ -8131,27 +8480,43 @@ birja:nonetype:биржа
 аң:nonetype:ăн
 аң:nonetype:тăн
 аң:nonetype:сĕм
+ампер:noun:ампер
+алюминий:noun:алюмини
 алюминий:nonetype:алюмини
 алпавыт:noun:улпут
+ходай:noun:турӑ
+тәңре:noun:турӑ
 ходай:nonetype:турӑ
 тәңре:nonetype:турӑ
 алла:nonetype:турӑ
+аллаһ:noun:турӑ
+алла:noun:турӑ
+акыл:noun:пуç
+акыл:noun:ăс
+акыл:noun:тăн
 уй:nonetype:пуç
 уй:nonetype:ăс
 уй:nonetype:тăн
 актёр:nonetype:актёр
+актер:noun:актёр
 ризык:noun:апат
 ризык:noun:çиме
 азык:noun:апат
 азык:noun:çиме
 ризык:nonetype:апат
 ризык:nonetype:çиме
+адмирал:noun:адмирал
 аерма:noun:уйрăмлăх
 аерма:noun:уйрăм
 адым:noun:утăм
 адым:noun:пусăм
 бур:noun:пурă
+бур:noun:пурă
+бур:noun:пурӑ
 акбур:noun:пурă
+акбур:noun:пурă
+акбур:noun:пурӑ
+агроном:noun:агроном
 агроном:noun:агроном
 агранум:nonetype:агроном
 агранум:nonetype:агроном
@@ -8167,9 +8532,15 @@ birja:nonetype:биржа
 сызлау:noun:ырату
 ачы:nonetype:ырату
 авырту:noun:ырату
+абзый:noun:кукка
+абзый:noun:пичче
+абзый:noun:мучи
 абзый:nonetype:кукка
 абзый:nonetype:пичче
 абзый:nonetype:мучи
+абый:noun:кукка
+абый:noun:пичче
+абый:noun:мучи
 авиация:noun:авиаци
 авиация:noun:авиаци
 шотландия:nonetype:шотланди
@@ -8181,28 +8552,58 @@ birja:nonetype:биржа
 чаңгы:noun:йĕлтĕр
 чиләк:noun:витре
 чиләк:noun:витрĕ
+төш:noun:ыйха
+төш:noun:ыйхӑ
+төш:noun:тӗлӗк
+төш:noun:тĕлĕк
+төш:noun:ыйхă
+йокы:noun:ыйха
+йокы:noun:ыйхӑ
+йокы:noun:тӗлӗк
+йокы:noun:тĕлĕк
+йокы:noun:ыйхă
 дөге:nonetype:рис
+дөге:noun:рис
 төньяк боланнарын:nonetype:çурçĕр пăлан
 төньяк боланнарын:nonetype:пăлан
 ярымутрау:nonetype:çурутрав
 ярымутрау:nonetype:çур утрав
 борча:nonetype:пӑрҫа
 борча:nonetype:пăрçа
+тай:noun:тиха
+колын:noun:тиха
 күпер:nonetype:кĕпер
 күпер:nonetype:кĕпер
 күпер:nonetype:кӗпер
 күпер:noun:кĕпер
+күпер:noun:кĕпер
+күпер:noun:кӗпер
 бүлмә:noun:пӳлĕм
 бүлмә:noun:пÿлĕм
 бүлмә:noun:пӳлӗм
+тарак:noun:киккирик
+тарак:noun:тура
+сарай:noun:кермен
 кендек:nonetype:кăвапа
+магазин:noun:лавкка
 кибет:nonetype:лавкка
+кибет:noun:лавкка
 ирен:noun:тута
 күзлек:nonetype:куçлăх
 бүре баласы:nonetype:кашкăр çури
 ливерморий:nonetype:ливермори
 энә карагы:nonetype:йĕп вăрри
 эчәк:noun:пыршă
+балта:noun:пуртă
+балта:noun:пуртӑ
+ир туган:noun:ар тӑван
+ир туган:noun:шӑллӑм
+ир туган:noun:шăллăм
+ир туган:noun:пичче
+агай:noun:ар тӑван
+агай:noun:шӑллӑм
+агай:noun:шăллăм
+агай:noun:пичче
 ага:nonetype:ар тӑван
 ага:nonetype:шӑллӑм
 ага:nonetype:шăллăм
@@ -8210,6 +8611,13 @@ birja:nonetype:биржа
 абзый:nonetype:ар тӑван
 абзый:nonetype:шӑллӑм
 абзый:nonetype:шăллăм
+эне:noun:ар тӑван
+эне:noun:шӑллӑм
+эне:noun:шăллăм
+эне:noun:пичче
+абый:noun:ар тӑван
+абый:noun:шӑллӑм
+абый:noun:шăллăм
 флеровий:nonetype:флерови
 ук:noun:çĕмрен
 ук:noun:ҫӗмрен
@@ -8220,6 +8628,8 @@ birja:nonetype:биржа
 тимер:noun:тимӗр
 мөдәррис:noun:вĕрентекен
 укытучы:noun:вĕрентекен
+әләм:noun:ялав
+байрак:noun:ялав
 кәккүк:nonetype:куккук
 күке:nonetype:куккук
 кайчы:noun:хачă
@@ -8231,6 +8641,8 @@ birja:nonetype:биржа
 çalaş:nonetype:ÿпле
 каеш:nonetype:пиçиххи
 тәкә:nonetype:така
+кучкар:noun:така
+куй:noun:така
 qayın:nonetype:хурӑн
 qayın:nonetype:хурăн
 алка:nonetype:алка
@@ -8242,6 +8654,7 @@ qayın:nonetype:хурăн
 әйрән:nonetype:уйран
 äyrän:nonetype:уйран
 сабан тургае:nonetype:тăри
+тургай:noun:тăри
 бәрән:nonetype:путек
 бәрән:nonetype:путек
 сыйфат:nonetype:паллă ячĕ
@@ -8251,6 +8664,7 @@ qayın:nonetype:хурăн
 керпе:nonetype:чӗрӗп
 керпе:nonetype:чĕрĕп
 бүдәнә карчыгасы:nonetype:çерçи хурчки
+карчыга:noun:хурчка
 хойэ:nonetype:çăмарта
 хойэ:nonetype:çăмарта
 хойэ:nonetype:ҫӑмарта
@@ -8274,10 +8688,12 @@ ciläk:nonetype:ҫырла
 кайтаваз:noun:ахрӑм
 эрцгерцог:nonetype:эрцгерцог
 электролиз:nonetype:электролиз
+имтихан:noun:экзамен
 купшыл:nonetype:шăкăлчи
 эвруьшуьм:nonetype:пурçăн
 эвруьшуьм:nonetype:пурҫӑн
 мәктәп баласы:nonetype:шкул ачи
+укучы:noun:шкул ачи
 шарф:nonetype:шарф
 ясмык:nonetype:ясмăк
 пэнжшобот:nonetype:кĕçнерни кун
@@ -8287,6 +8703,7 @@ ciläk:nonetype:ҫырла
 каралык:nonetype:хура
 молихь:nonetype:хурт
 молихь:nonetype:ӑман
+чемпион:noun:чемпион
 сәгатьче:nonetype:сехет юсакан
 сәгатьче:nonetype:сехет ăсти
 чой:nonetype:чей
@@ -8302,15 +8719,20 @@ ciläk:nonetype:ҫырла
 фортепьяно:nonetype:фортепьяно
 фонология:nonetype:фонологи
 фонология:nonetype:фонологи
+остаз:noun:вĕрентекен
+остаз:noun:учитель
 остаз:noun:вĕрентӳçĕ
 мөгаллим:nonetype:вĕрентекен
 мөгаллим:nonetype:учитель
 мөгаллим:nonetype:вĕрентӳçĕ
+укытучы:noun:вĕрентекен
+укытучы:noun:учитель
 укытучы:noun:вĕрентӳçĕ
 гуш:nonetype:хăлха
 гуш:nonetype:хӑлха
 югары уку йорты:nonetype:университет
 югары уку йорты:nonetype:университет
+университет:noun:университет
 университет:noun:университет
 кљлемсерђњ:nonetype:кулă
 кучэ:nonetype:касă
@@ -8331,10 +8753,14 @@ ciläk:nonetype:ҫырла
 әшнә:nonetype:юлташ
 әшнә:nonetype:тус
 әшнә:nonetype:педик
+дус:noun:юлташ
+дус:noun:тус
 дус:noun:педик
 аркадаш:nonetype:юлташ
 аркадаш:nonetype:тус
 аркадаш:nonetype:педик
+иптәш:noun:юлташ
+иптәш:noun:тус
 иптәш:noun:педик
 тукыма:nonetype:пир
 арба:noun:урапа
@@ -8402,6 +8828,8 @@ ciläk:nonetype:ҫырла
 дәһшәт:nonetype:шик
 дђџшђт:nonetype:сехре
 дђџшђт:nonetype:шик
+курку:noun:сехре
+курку:noun:шик
 тэрс:nonetype:сехре
 тэрс:nonetype:шик
 вэлг:nonetype:страницӑ
@@ -8413,6 +8841,7 @@ ciläk:nonetype:ҫырла
 чоршобот:nonetype:юнкун
 чоршобот:nonetype:хушă
 спортсмен:nonetype:спортсмен
+спортчы:noun:спортсмен
 тынычлык:noun:канлĕх
 тынычлык:noun:канăç
 тынычлык:noun:тăнăç
@@ -8420,6 +8849,7 @@ ciläk:nonetype:ҫырла
 маза:nonetype:канăç
 маза:nonetype:тăнăç
 йокы бүлмәсе:nonetype:çывăрмалли пӳлĕм
+социализм:noun:социализм
 социализм:noun:социализм
 сатсиялизем:nonetype:социализм
 сатсиялизем:nonetype:социализм
@@ -8495,8 +8925,12 @@ ciläk:nonetype:ҫырла
 гъурзум:nonetype:пулӑ
 җиңсә:nonetype:çанă
 җиңсә:nonetype:юпă
+тармак:noun:çанă
+тармак:noun:юпă
 ерым:nonetype:çанă
 ерым:nonetype:юпă
+җиң:noun:çанă
+җиң:noun:юпă
 дэс:nonetype:алă
 дэс:nonetype:алӑ
 дэс:nonetype:ал туни
@@ -8505,6 +8939,7 @@ ciläk:nonetype:ҫырла
 базу:nonetype:алӑ
 базу:nonetype:ал туни
 базу:nonetype:хул
+ресторан:noun:ресторан
 дин:nonetype:тĕн
 дин:nonetype:тĕн
 дин:nonetype:тӗн
@@ -8524,6 +8959,7 @@ ciläk:nonetype:ҫырла
 кырый:nonetype:хысак
 кабырга:noun:аяк пĕрчи
 кабырга:noun:хысак
+рапс:noun:рапсă
 яра:noun:суран
 рай:nonetype:çăтмах
 җәннәт:noun:çăтмах
@@ -8559,12 +8995,19 @@ bistә:nonetype:хулаçум
 чыбыкча:nonetype:сапан
 чыбыкча:nonetype:сыпмалли йывăç
 чыбыкча:nonetype:авăр
+пута:noun:пиçиххи
 пояс:nonetype:пиçиххи
+бил:noun:пиçиххи
+билбау:noun:пиçиххи
+шагыйрь:noun:сăвăç
 шагыйрь:noun:сăвăç
 шагыйрь:noun:сăвăçă
 язу рәвеше:nonetype:алă
 язу рәвеше:nonetype:почерк
 язу рәвеше:nonetype:çыру
+язу:noun:алă
+язу:noun:почерк
+язу:noun:çыру
 почерк:nonetype:алă
 почерк:nonetype:почерк
 почерк:nonetype:çыру
@@ -8574,10 +9017,13 @@ bistә:nonetype:хулаçум
 атлам:nonetype:утă
 адым:noun:уткаларăш
 адым:noun:утă
+мәет:noun:вилĕ
 гүр иясе:nonetype:вилĕ
 гүр иясе:nonetype:виле
 пуез:nonetype:пуйӑс
 пуез:nonetype:поезд
+поезд:noun:пуйӑс
+поезд:noun:поезд
 култык асты:nonetype:хул айĕ
 култык:noun:хул айĕ
 ияк:nonetype:янах
@@ -8606,6 +9052,7 @@ bistә:nonetype:хулаçум
 күбек:nonetype:кӑпӑк
 cilkän:nonetype:парăс
 җилкән:nonetype:парăс
+паровоз:noun:паровоз
 энгуьшд:nonetype:пӳрне
 энгуьшд:nonetype:пÿрне
 палеозой:nonetype:палеозой
@@ -8665,8 +9112,13 @@ cilkän:nonetype:парăс
 атош:nonetype:çулам
 йола:nonetype:вере
 йола:nonetype:йăла
+йола:noun:вере
+йола:noun:йăла
+гадәт:noun:вере
+гадәт:noun:йăла
 үлчәм:nonetype:калăпăш
 үлчәм:nonetype:калăпăш
+күләм:noun:калăпăш
 күләм:noun:калăпăш
 зурлык:nonetype:калăпăш
 зурлык:nonetype:калăпăш
@@ -8741,9 +9193,14 @@ cilkän:nonetype:парăс
 кырмыска иләве:nonetype:кăткă тĕми
 мужинэ:nonetype:кӑткӑ
 мужинэ:nonetype:кăткă
+кырмыска:noun:кӑткӑ
+кырмыска:noun:кăткă
 нарнэ:nonetype:ар ҫын
 нарнэ:nonetype:ар
 нарнэ:nonetype:арçын
+мэрд:noun:ар ҫын
+мэрд:noun:ар
+мэрд:noun:арçын
 йөрткеч:nonetype:мотор
 мотор:nonetype:мотор
 куьрпи:nonetype:кĕпер
@@ -8812,16 +9269,25 @@ cilkän:nonetype:парăс
 буяу:noun:писев
 буяу:noun:сăрă
 фәза:nonetype:космос
+космос:noun:космос
+галәм:noun:космос
 тагарак:noun:такана
 тагарак:noun:валашка
 сыер абзары:nonetype:ĕне вити
 сөнге:nonetype:сăнă
 тиен:noun:пус
 бер тиен:nonetype:пус
+соң:noun:вĕç
+соң:noun:пĕтмĕш
 оч:nonetype:вĕç
 оч:nonetype:пĕтмĕш
+ахыр:noun:вĕç
+ахыр:noun:пĕтмĕш
+азак:noun:вĕç
+азак:noun:пĕтмĕш
 черки:nonetype:вăрăмтуна
 черки:nonetype:вăрăм туна
+озынборын:noun:вăрăмтуна
 озынборын:noun:вăрăм туна
 сугърэзани:nonetype:чӗркуҫҫи
 сугърэзани:nonetype:чĕр куççи
@@ -8830,6 +9296,7 @@ cilkän:nonetype:парăс
 могҗиза:nonetype:тухату
 сихер:noun:тухату
 келәм:nonetype:кавир
+келәм:noun:кавир
 бия:noun:кĕсре
 байтал:noun:кĕсре
 кобальт:nonetype:кобальт
@@ -8861,12 +9328,22 @@ cilkän:nonetype:парăс
 вөҗдан:nonetype:намăс
 намус:noun:намăс
 вөҗдан:noun:намăс
+шәфталу:noun:персик
+персик:noun:персик
+ефәк:noun:пурçăн
+ефәк:noun:пурҫӑн
 квартир:nonetype:хваттер
 фатир:noun:хваттер
 дару:noun:эмел
+кирпеч:noun:кирпĕч
+кирпеч:noun:кирпӗч
 кәҗә тәкәсе:nonetype:качака таки
+кәҗә:noun:качака таки
 кәҗә:noun:качака
+тай:noun:ăйăр
+айгыр:noun:ăйăр
 сөлек:noun:сĕлĕх
+әтәч:noun:автан
 чак:noun:вăхăт
 чак:noun:вăхăт
 чак:noun:вӑхӑт
@@ -8895,8 +9372,11 @@ cilkän:nonetype:парăс
 дәвер:noun:самана
 дәвер:noun:тапхăр
 вакыт:noun:самана
+дары:noun:тар
 әрем:noun:армути
 өзәңге:nonetype:пускăч
+кое:noun:çăл
+кое:noun:пусă
 сүрә:nonetype:сăр
 сура:nonetype:сăр
 рига:nonetype:рига
@@ -8911,6 +9391,7 @@ ortodoks xristianlıq:nonetype:православи
 православие:noun:православи
 намаз:nonetype:намаз
 саләт:nonetype:намаз
+намаз:noun:намаз
 балан:nonetype:палан
 җиңү көне:nonetype:çěнтерӳ кунĕ
 хурлык:nonetype:хур
@@ -8925,6 +9406,7 @@ ortodoks xristianlıq:nonetype:православи
 тыш:nonetype:çипуç
 перу:nonetype:перу
 уругвай:nonetype:уругвай
+башкорт:noun:пушкăрт
 төймә:noun:тÿме
 төймө:nonetype:тÿме
 сингапур:nonetype:сингапур
@@ -8941,11 +9423,15 @@ ortodoks xristianlıq:nonetype:православи
 алан:nonetype:ĕшне
 yuq:nonetype:çук
 басым:noun:пусăм
+як:noun:аяк
 як:noun:айăк
+як:noun:ен
 чит:nonetype:аяк
 чит:nonetype:айăк
 чит:nonetype:ен
+ян:noun:аяк
 ян:noun:айăк
+ян:noun:ен
 вэ:nonetype:та
 вэ:nonetype:тата
 вэ:nonetype:те
@@ -8957,6 +9443,8 @@ yuq:nonetype:çук
 керфек:noun:куç тĕкĕ
 kerfek:nonetype:хăрпăк
 kerfek:nonetype:куç тĕкĕ
+табиб:noun:тухтăр
+доктор:noun:тухтăр
 doktor:nonetype:тухтăр
 төссез:nonetype:кăвак
 төссез:nonetype:сăрă
@@ -8974,9 +9462,13 @@ ala:nonetype:сăрă
 кыз:noun:хĕр
 qız:nonetype:хĕр
 чаңгы:nonetype:йĕлтĕр
+paniaminte:noun:çамка
 себерке:nonetype:шăпăр
 көзге:noun:тӗкӗр
 közge:noun:тӗкӗр
+tuhangrua:noun:аслати
+sarımsaq:noun:ыхра
+сарымсак:noun:ыхра
 сыйыр:nonetype:ĕне
 сыйыр:nonetype:nʉmʉ
 сыйыр:nonetype:ӗне
@@ -8986,13 +9478,22 @@ sıyır:nonetype:ӗне
 сыер:noun:ĕне
 сыер:noun:nʉmʉ
 сыер:noun:ӗне
+tersäk:noun:чавса
+терсәк:noun:чавса
 arpa:nonetype:урпа
+арпа:noun:урпа
 yözem:noun:иҫӗм
+тылмач:noun:тăлмач
+тылмач:noun:куçаруçă
+тәрҗемәче:noun:тăлмач
+тәрҗемәче:noun:куçаруçă
 sakal:noun:сухал
 тутык:nonetype:тутăх
 тутык:nonetype:хуйăр
 tutıq:noun:тутăх
 tutıq:noun:хуйăр
+мөгезборын:noun:носорог
+торна:noun:тăрна
 күк:nonetype:тӳпе
 күк:nonetype:тӱпе
 күк:nonetype:пĕлĕт
@@ -9003,12 +9504,20 @@ tutıq:noun:хуйăр
 күк:noun:тÿпе
 febräl:nonetype:кӗҫӗн кӑрлач
 febräl:nonetype:февраль
+февраль:noun:кӗҫӗн кӑрлач
+февраль:noun:февраль
 кич:nonetype:каç
 кич:nonetype:каҫ
 kiç:nonetype:каç
 kiç:nonetype:каҫ
+кич:noun:каç
+кич:noun:каҫ
 көньяк:nonetype:кăнтăр
 көньяк:nonetype:кӑнтӑр
+көньяк:noun:кăнтăр
+көньяк:noun:кӑнтӑр
+könyaq:noun:кăнтăр
+könyaq:noun:кӑнтӑр
 тычкан:noun:шӑши
 сычан:nonetype:шӑши
 сычан:nonetype:шаши
@@ -9034,6 +9543,8 @@ tıçqan:nonetype:шăши
 арыслан:nonetype:арăслан
 arıslan:nonetype:арӑслан
 arıslan:nonetype:арăслан
+арыслан:noun:арӑслан
+арыслан:noun:арăслан
 калак:noun:кашăк
 калак:noun:кашӑк
 qaşıq:noun:кашăк
@@ -9042,6 +9553,15 @@ qaşıq:noun:кашӑк
 кашык:noun:кашӑк
 секунд:noun:çеккунт
 сәгать:noun:сехет
+сәгать:noun:сехет
+pıçaq:noun:ҫӗҫӗ пекӗ
+pıçaq:noun:çĕçĕ
+pıçaq:noun:ҫӗҫӗ
+pıçaq:noun:пекӗ
+пычак:noun:ҫӗҫӗ пекӗ
+пычак:noun:çĕçĕ
+пычак:noun:ҫӗҫӗ
+пычак:noun:пекӗ
 kanahampuai:noun:ир
 иртә:nonetype:ир
 иртә:noun:ир
@@ -9049,23 +9569,38 @@ irtä:noun:ир
 сарык:noun:сурăх
 сарык:noun:сурӑх
 төлке:noun:тилӗ
+төлке:noun:тилӗ
+barmaq:noun:пӳрне
+barmaq:noun:пÿрне
+бармак:noun:пӳрне
+бармак:noun:пÿрне
 бәбәй:noun:хĕлхем
 бәбәй:noun:ванчăк
 бәбәй:noun:тĕпренчĕк
 бәби:noun:хĕлхем
 бәби:noun:ванчăк
 бәби:noun:тĕпренчĕк
+фил:noun:пил йышшисем
+фил:noun:слон
+фил:noun:пил
 банк:nonetype:банк
+банк:noun:банк
 шәм:noun:çурта
 җил:nonetype:çил
 җил:nonetype:ҫил
 жил:nonetype:çил
 жил:nonetype:ҫил
+җил:noun:çил
+җил:noun:ҫил
 шикәр:nonetype:сахăр
 шикәр:nonetype:сахăр
 шикәр:nonetype:сахӑр
 şikär:noun:сахăр
+şikär:noun:сахăр
+şikär:noun:сахӑр
 шикәр:noun:сахăр
+шикәр:noun:сахăр
+шикәр:noun:сахӑр
 мәйдан:noun:лаптăк
 елан:noun:çелен
 елан:noun:çĕлен
@@ -9077,10 +9612,13 @@ muzıqa:nonetype:кĕвĕ
 музыка:noun:кĕвĕ
 музыка:noun:кĕвĕ
 хастаханәсе:nonetype:пульница
+боз:noun:хула
 томан:nonetype:тĕтре
 томан:nonetype:тӗтре
 томан:nonetype:лăм
 томан:nonetype:янкар
+томан:noun:тĕтре
+томан:noun:тӗтре
 томан:noun:лăм
 томан:noun:янкар
 болыт:noun:пӗлӗт
@@ -9089,8 +9627,11 @@ bolıt:noun:пӗлӗт
 bolıt:noun:пĕлĕт
 автобус:nonetype:автобус
 autobus:nonetype:автобус
+автобус:noun:автобус
 селям:nonetype:авани
 селям:nonetype:салам
+сәлам:noun:авани
+сәлам:noun:салам
 сәгать:nonetype:сехет
 сәгать:nonetype:сехет
 сәгать:noun:сехет
@@ -9108,10 +9649,19 @@ autobus:nonetype:автобус
 бүлек:nonetype:пай
 бүлек:nonetype:сыпăк
 бүлек:nonetype:тÿпе
+суык:noun:сивĕ
+салкын:noun:сивĕ
 фоторәсем:noun:фотографи
 фотография:noun:фотографи
 сурәт:nonetype:фотографи
 рәсем:noun:фотографи
+күмер:noun:кăмрăк
+әсәр:noun:ĕç
+әсәр:noun:ӗҫ
+эш:noun:ĕç
+эш:noun:ӗҫ
+хезмәт:noun:ĕç
+хезмәт:noun:ӗҫ
 халык:noun:эшкер
 халык:noun:ушкăн
 юнәлеш:nonetype:юхăм
@@ -9133,6 +9683,19 @@ autobus:nonetype:автобус
 юл:nonetype:мел
 чара:noun:меслет
 чара:noun:мел
+юнь:noun:май
+юнь:noun:меслет
+юнь:noun:мел
+ысул:noun:май
+ысул:noun:меслет
+ысул:noun:мел
+алым:noun:май
+алым:noun:меслет
+алым:noun:мел
+юл:noun:май
+юл:noun:меслет
+юл:noun:мел
+багана:noun:юпа
 карт:noun:ватă
 очрак:noun:ăнсăрт
 вакыйга:nonetype:ăнсăрт
@@ -9158,6 +9721,8 @@ köç:nonetype:хал
 куәт:noun:хал
 чикләре:nonetype:чикĕ
 чик:nonetype:чикĕ
+сурәт:noun:ÿкерчĕк
+рәсем:noun:ÿкерчĕк
 сөйләм:noun:сăмах
 сөйләм:noun:калаçу
 сөйләм:noun:чӗлхе
@@ -9174,6 +9739,8 @@ köç:nonetype:хал
 урын:noun:хушă
 тәртип:noun:йĕркелĕх
 тәртип:noun:рет
+тәртип:noun:тирпей
+тәртип:noun:лат
 булышлык:noun:пулăшÿ
 ярдәм:noun:пулăшÿ
 үткән:nonetype:кивĕ
@@ -9204,6 +9771,7 @@ köç:nonetype:хал
 иш:nonetype:йĕкĕр
 иш:nonetype:мăшăр
 тукталыш:nonetype:чарăну
+әткә:noun:атте
 бурыч:nonetype:тивĕç
 хезмәт:nonetype:тивĕç
 халык:nonetype:халăх йышĕ
@@ -9226,6 +9794,7 @@ näft:nonetype:ҫу
 суык:nonetype:сивĕ
 салкын:noun:тăм
 ысул:nonetype:май
+метод:noun:май
 алым:nonetype:май
 чырай:noun:сӑпат
 чырай:noun:сăн
@@ -9256,6 +9825,7 @@ boz:noun:пӑр
 боз:noun:пӑр
 тәпи:nonetype:лăс
 аяк:nonetype:лăс
+алтын:noun:ылтăн
 орлык:noun:тырă
 орлык:noun:пĕрчĕ
 орлык:noun:тĕшĕ
@@ -9275,6 +9845,8 @@ boz:noun:пӑр
 кыз:noun:хĕр
 вакланма:noun:йĕтре
 вакланма:noun:вак
+аваз:noun:сасӑ
+тавыш:noun:сасӑ
 кызчык:noun:хĕр
 кызчык:noun:хĕр ача
 кызчык:noun:хӗрача
@@ -9304,8 +9876,13 @@ qız:nonetype:хӗрача
 пычрак:noun:лапăркка
 пычрак:noun:çăрăлчăк
 пычрак:noun:лапра
+чәч:noun:çÿç
 хәбәр:noun:хыпар
 бау:noun:вĕрен
+сыер:noun:nʉmʉ
+сыер:noun:вăкăр
+үгез:noun:nʉmʉ
+үгез:noun:вăкăр
 кәгаз:nonetype:хут
 кәгазь:noun:хут
 энә:noun:йĕп
@@ -9318,6 +9895,7 @@ henem:nonetype:инче
 комета:noun:вутлă хӳре
 комета:noun:комета
 фәрештә:nonetype:пирĕшти
+фәрештә:noun:пирĕшти
 канат:noun:ҫунат
 канат:noun:çунат
 литий:nonetype:лити
@@ -9342,11 +9920,21 @@ qoş:nonetype:кайăк
 кош:noun:кайăк
 hindstan:nonetype:инди
 һиндстан:nonetype:инди
+базар:noun:пасар
+чәй:noun:чей
 июль:noun:утă
 курпыс:nonetype:çар корпусĕ
 курпыс:nonetype:кĕлетке
 курпыс:nonetype:кăшкар
 курпыс:nonetype:корпус
+корпус:noun:çар корпусĕ
+корпус:noun:кĕлетке
+корпус:noun:кăшкар
+корпус:noun:корпус
+бәдән:noun:çар корпусĕ
+бәдән:noun:кĕлетке
+бәдән:noun:кăшкар
+бәдән:noun:корпус
 имезүчеләр:nonetype:сĕтпе ӳсекенсем
 pʼech:nonetype:çулăм
 pʼech:nonetype:кăвайт
@@ -9381,9 +9969,13 @@ karawat:nonetype:кравать
 умырта корты:noun:пыл хурчӗ
 умырта корты:noun:хурт
 умырта корты:noun:вӗлле хурчӗ
+сэг:noun:йыт
+сэг:noun:йытӑ
+сэг:noun:йытă
 португалия:nonetype:португали
 португал:nonetype:португали
 март:noun:пуш
+театр:noun:театр
 әдәбият:nonetype:литература
 әдәбият:nonetype:литература
 әдәбият:noun:литература
@@ -9392,7 +9984,9 @@ karawat:nonetype:кравать
 ädäbiät:nonetype:литература
 моль:nonetype:моль
 моль:nonetype:кĕве
+көя:noun:моль
 көя:noun:кĕве
+коръән:noun:коран
 qör'än:nonetype:коран
 qörʼän:nonetype:коран
 qör'ən:nonetype:коран
@@ -9411,6 +10005,7 @@ qör'ən:nonetype:коран
 калий:nonetype:кали
 калий:nonetype:кали
 калий:noun:кали
+калий:noun:кали
 бутан:nonetype:бутан
 ruteni:nonetype:рутени
 хәләл җефет:noun:арăм
@@ -9419,9 +10014,11 @@ ruteni:nonetype:рутени
 хатын:noun:мăшăр
 апрель:noun:ака
 баскитбул:nonetype:баскетбол
+баскетбол:noun:баскетбол
 adler:nonetype:адлер
 ishi:nonetype:ура
 антропология:noun:антропологи
+алман:noun:нимĕç
 шомырт:nonetype:сирень
 канәфер:nonetype:сирень
 şomırt:noun:сирень
@@ -9429,12 +10026,15 @@ ishi:nonetype:ура
 рәсәйле:noun:вырӑс
 марс:noun:марс
 континент:noun:континент
+континент:noun:континент
 кыйтга:nonetype:континент
 кыйтга:nonetype:континент
 имла:nonetype:орфографи
 имла:nonetype:орфографи
 орфография:nonetype:орфографи
 орфография:nonetype:орфографи
+кылыч:noun:хĕç
+qılıç:noun:хĕç
 kömeş:nonetype:кĕмĕл
 kömeş:nonetype:кӗмӗл
 көмеш:noun:кĕмĕл
@@ -9443,6 +10043,8 @@ kömeş:noun:кĕмĕл
 kömeş:noun:кӗмӗл
 җимеш:nonetype:çимĕç
 җимеш:nonetype:улма
+җимеш:noun:çимĕç
+җимеш:noun:улма
 мастер:noun:ăстаçă
 мастер:noun:ăста
 мастер:noun:маçтăр
@@ -9452,17 +10054,25 @@ kömeş:noun:кӗмӗл
 миләш кошы:nonetype:пилеш кайăкĕ
 яфрак:noun:çулçă
 телескоп:nonetype:телескоп
+телескоп:noun:телескоп
 этикет:nonetype:нисеп
 рәис:nonetype:президент
 рәис:nonetype:президент
 президент:nonetype:президент
 президент:nonetype:президент
 президент:noun:президент
+президент:noun:президент
 өзеклек:nonetype:тăхтав
+тәнәфес:noun:тăхтав
 tänäfes:nonetype:тăхтав
 klaipėda:nonetype:клайпеда
+койрык:noun:вĕç
+койрык:noun:хÿре
+койрык:noun:хӳре
+койрык:noun:хӱре
 аргентина:nonetype:аргентина
 магний:nonetype:магни
+магний:noun:магни
 операцион система:nonetype:операци системи
 операцион система:nonetype:операци системи
 ындыр:nonetype:йĕтем
@@ -9475,6 +10085,8 @@ kişer:noun:кишĕр
 ataqaz:nonetype:хур
 yün:nonetype:июнь
 yün:nonetype:çĕртме уйăхĕ
+июнь:noun:июнь
+июнь:noun:çĕртме уйăхĕ
 җәй:nonetype:çулла
 җәй:nonetype:çулла
 җәй:nonetype:ҫулла
@@ -9505,6 +10117,8 @@ abxazía:nonetype:абхази
 килограмм:nonetype:килограмм
 килограмм:nonetype:килограмм
 килограмм:noun:килограмм
+килограмм:noun:килограмм
+kilogram:noun:килограмм
 kilogram:noun:килограмм
 pos:nonetype:çăмарта
 pos:nonetype:çăмарта
@@ -9516,7 +10130,9 @@ comğa:noun:эрнекун
 гает:nonetype:уяв
 гает:nonetype:праçник
 bäyräm:noun:уяв
+bäyräm:noun:уяв
 bäyräm:noun:праçник
+бәйрәм:noun:уяв
 бәйрәм:noun:уяв
 бәйрәм:noun:праçник
 yäkşämbe:noun:вырсарникун
@@ -9532,6 +10148,8 @@ yäkşämbe:noun:вырсарникун
 *sont:nonetype:хӱре
 urıs:noun:вырăссем
 rus:noun:вырăссем
+кымыз:noun:кумыс
+кымыз:noun:кăмăс
 тасма:nonetype:хăю
 шахмат:nonetype:шахмат
 шахмат:nonetype:шахмат
@@ -9553,6 +10171,7 @@ shаhmat:nonetype:шахмат
 dus:noun:тус
 күппочмаклы:nonetype:нумай кĕтеслĕх
 küppoçmaqlı:nonetype:нумай кĕтеслĕх
+nüeş:noun:нумай кĕтеслĕх
 wahiye:nonetype:чечек
 wahiye:nonetype:чечексем
 wahiye:nonetype:çеçке
@@ -9573,9 +10192,14 @@ wahiye:nonetype:çеçке
 соңгы:nonetype:хыпарсем
 соңгы:nonetype:хыпарсем
 sani:nonetype:сивĕ
+су үгезе:noun:бегемот
+су сыеры:noun:бегемот
+гиппопотам:noun:бегемот
 ih:nonetype:çăвар
 ih:nonetype:ҫӑвар
 тырнақ:nonetype:чĕрне
+тырнак:noun:чĕрне
+tırnaq:noun:чĕрне
 wayugen:nonetype:кăк
 wayugen:nonetype:тымар
 меркурий:nonetype:меркури
@@ -9615,9 +10239,15 @@ kükäy:nonetype:ҫӑмарта
 et:nonetype:йыт
 et:nonetype:йытӑ
 et:nonetype:йытă
+эт:noun:йыт
+эт:noun:йытӑ
+эт:noun:йытă
 büre:nonetype:кашкăр аçи
 büre:nonetype:кашкăр
 büre:nonetype:кашкӑр
+бүре:noun:кашкăр аçи
+бүре:noun:кашкăр
+бүре:noun:кашкӑр
 ximiä:nonetype:хими
 ximiä:nonetype:хими
 химия:noun:хими
@@ -9630,15 +10260,20 @@ ximiä:nonetype:хими
 архитектура:noun:архитектура
 квант механикасы:nonetype:квантăллă механика
 квант механикасы:nonetype:квантăллă механика
+дөнья:noun:тĕнче
+дөнья:noun:килĕшÿ
 тынычлык:nonetype:тĕнче
 тынычлык:nonetype:килĕшÿ
 дөнья:nonetype:тĕнче
 дөнья:nonetype:килĕшÿ
 ğaläm:nonetype:тĕнче
 ğaläm:nonetype:килĕшÿ
+тынычлык:noun:тĕнче
+тынычлык:noun:килĕшÿ
 тәртип:nonetype:йĕрке
 система:noun:йĕрке
 танк:nonetype:танк
+танк:noun:танк
 тел гыйлеме:nonetype:лингвистика
 тел гыйлеме:nonetype:лингвистика
 лингвистика:nonetype:лингвистика
@@ -9668,6 +10303,8 @@ tel beleme:nonetype:лингвистика
 göl:nonetype:тĕс
 göl:nonetype:чечек
 göl:nonetype:тӗс
+төс:noun:тĕс
+төс:noun:чечек
 климат:nonetype:çанталăк
 климат:noun:çанталăк
 геофизика:noun:геофизика
@@ -9676,11 +10313,14 @@ göl:nonetype:тӗс
 фигура:noun:пÿ
 сын:noun:пÿ
 режим:noun:йĕрке
+укучы:noun:вулавçă
 хатын:noun:хĕрарăм
+ekyoma:noun:тимĕр
 экология:nonetype:экологи
 экология:nonetype:экологи
 экология:noun:экологи
 экология:noun:экологи
+океан:noun:океан
 төпе:nonetype:вĕç
 төпе:nonetype:тăрă
 төпе:nonetype:çиел
@@ -9705,9 +10345,18 @@ pänceşämbe:nonetype:кĕçнерни кун
 pänceşämbe:nonetype:кӗҫнерни
 pänceşämbe:nonetype:кĕçнерникун
 pänceşämbe:nonetype:кӗҫнерникун
+pänceşämbe:noun:кĕçнерни кун
 pänceşämbe:noun:кӗҫнерни
+pänceşämbe:noun:кĕçнерникун
+pänceşämbe:noun:кӗҫнерникун
+атнакич:noun:кĕçнерни кун
 атнакич:noun:кӗҫнерни
+атнакич:noun:кĕçнерникун
+атнакич:noun:кӗҫнерникун
+пәнҗешәмбе:noun:кĕçнерни кун
 пәнҗешәмбе:noun:кӗҫнерни
+пәнҗешәмбе:noun:кĕçнерникун
+пәнҗешәмбе:noun:кӗҫнерникун
 дәрт:nonetype:хевте
 дәрт:nonetype:хал
 энергия:nonetype:хевте
@@ -9729,9 +10378,12 @@ qapi:nonetype:хуйăр
 qapi:nonetype:хупǎ
 matematik:nonetype:математика
 математика:noun:математика
+аю:noun:упа
 сызыкча:nonetype:дефис
 сызыкча:nonetype:дефис
+мөселман:noun:мăсăльман
 чыгарылыш:nonetype:кăларăм
+юмор:noun:кулăш
 юмор:noun:кулăш
 yumor:nonetype:кулăш
 yumor:nonetype:кулăш
@@ -9751,23 +10403,33 @@ argon:nonetype:аргон
 tamank:nonetype:упăшка
 tamank:nonetype:мăшăр
 култык:nonetype:авăр
+култык:noun:авăр
+һава:noun:тĕс
 һава:noun:тĕс
 һава:noun:сăн
 һава:noun:нĕр
 һава:noun:сăнар
 күренеш:noun:тĕс
+күренеш:noun:тĕс
+күренеш:noun:сывлăш
 күренеш:noun:сăн
 күренеш:noun:нĕр
 күренеш:noun:сăнар
 кыяфәт:noun:тĕс
+кыяфәт:noun:тĕс
+кыяфәт:noun:сывлăш
 кыяфәт:noun:сăн
 кыяфәт:noun:нĕр
 кыяфәт:noun:сăнар
 килбәт:noun:тĕс
+килбәт:noun:тĕс
+килбәт:noun:сывлăш
 килбәт:noun:сăн
 килбәт:noun:нĕр
 килбәт:noun:сăнар
 төр:noun:тĕс
+төр:noun:тĕс
+төр:noun:сывлăш
 төр:noun:сăн
 төр:noun:нĕр
 төр:noun:сăнар
@@ -9798,6 +10460,7 @@ tabike:nonetype:майрака
 мэр:nonetype:хула мэрĕ
 мэр:nonetype:мэр
 көрәк:nonetype:кĕреçе
+köräk:noun:кĕреçе
 балык:nonetype:пулă
 balıq:nonetype:пулă
 хут йолдызлыгы:nonetype:пулă
@@ -9809,9 +10472,11 @@ balıq:nonetype:пулă
 һава:noun:çанталăк
 һава:noun:ҫанталӑк
 каган:nonetype:хан
+хан:noun:хан
 юта:nonetype:юта
 спорт:nonetype:спорт
 спорт:nonetype:спорт
+спорт:noun:спорт
 спорт:noun:спорт
 мәркәз:nonetype:тĕп хула
 мәркәз:nonetype:тĕп хула
@@ -9819,6 +10484,7 @@ balıq:nonetype:пулă
 башкала:noun:тĕп хула
 башкала:noun:тĕп хула
 башкала:noun:аслă хула
+таш:noun:чул
 nechi:nonetype:чĕлхе
 nechi:nonetype:чӗлхе
 nechi:nonetype:венгр чĕлхи
@@ -9837,6 +10503,9 @@ sementa:nonetype:хырăм
 үлән:noun:курӑк
 үлән:noun:курăк
 мөгез:noun:мăйрака
+мөгез:noun:мăйрака
+мөгез:noun:мӑйрака
+мөгез:noun:майрака
 öräk:nonetype:мĕлке
 manotihu:nonetype:тĕтре
 manotihu:nonetype:тӗтре
@@ -9849,6 +10518,8 @@ taríx:nonetype:истори
 тарих:noun:истори
 сызым:nonetype:хут
 сызым:nonetype:документ
+документ:noun:хут
+документ:noun:документ
 берләштерү:nonetype:пĕрлешÿ
 берләшмә:noun:пĕрлешÿ
 ялгау:nonetype:пĕрлешÿ
@@ -9862,6 +10533,7 @@ maqosi:nonetype:пĕлĕт
 ел:noun:ҫул
 ел:noun:çул
 сена:nonetype:сена
+dus:noun:тус
 волейбол:nonetype:волейбол
 волейбол:nonetype:волейбол
 җәгрәфә:nonetype:географи
@@ -9890,14 +10562,18 @@ aman:nonetype:тăпра
 фигыль:nonetype:глагол
 фигыль:nonetype:глагол
 фигыль:noun:глагол
+фигыль:noun:глагол
 бизәк:nonetype:ҫул
 бизәк:nonetype:çул
+юл:noun:ҫул
+юл:noun:çул
 культура:noun:культура
 культура:noun:культура
 мәдәният:noun:культура
 мәдәният:noun:культура
 mädäniät:noun:культура
 mädäniät:noun:культура
+буддизм:noun:буддизм
 буддачылык:nonetype:буддизм
 сахра:nonetype:пушхир
 сахра:nonetype:пушхир
@@ -9915,18 +10591,27 @@ mädäniät:noun:культура
 maqosi:nonetype:пӗлӗт
 maqosi:nonetype:пĕлĕт
 механика:nonetype:механика
+участок:noun:лаптăк
 сәхифә:nonetype:лаптăк
+кишәрлек:noun:лаптăк
 суалчан:nonetype:хурт
 суалчан:nonetype:ӑман
+корт:noun:хурт
+корт:noun:ӑман
 электроника:nonetype:электроника
 электроника:nonetype:электроника
 иликтруникы:nonetype:электроника
 иликтруникы:nonetype:электроника
+элемент:noun:тавар
+товар:noun:тавар
+мал:noun:тавар
 тауар:nonetype:тавар
 yaramağan eş:noun:преступлени
 җинаять:noun:преступлени
 грузия:nonetype:грузи
 шифаханә:nonetype:пульница
+госпиталь:noun:пульница
+хастаханә:noun:пульница
 yalğızlıq:noun:улах
 сентябрь:noun:авăн
 sentäber:noun:авăн
@@ -9939,6 +10624,10 @@ balıq:noun:пулă
 balıq:noun:пулӑ
 балык:noun:пулă
 балык:noun:пулӑ
+туп:noun:пӳске
+туп:noun:мечӗк
+туп:noun:пÿске
+туп:noun:мечĕк
 дәрья:noun:юхан шыв
 дәрья:noun:юханшыв
 дәрья:noun:çырма
@@ -9949,6 +10638,14 @@ balıq:noun:пулӑ
 елга:noun:çырма
 елга:noun:шыв
 елга:noun:çирма
+бәрәңге:noun:çер улми
+бәрәңге:noun:паранка
+бәрәңге:noun:çĕр улми
+бәрәңге:noun:улма
+bäräñge:noun:çер улми
+bäräñge:noun:паранка
+bäräñge:noun:çĕр улми
+bäräñge:noun:улма
 үлчәү:noun:йывăрăш
 үлчәү:noun:виçе
 дәрәҗә:nonetype:йывăрăш
@@ -9969,9 +10666,14 @@ söt:nonetype:сӗт
 алман:noun:нимĕç
 sişämbe:nonetype:ытлари кун
 sişämbe:nonetype:ытларикун
+sişämbe:noun:ытлари кун
+sişämbe:noun:ытларикун
+сишәмбе:noun:ытлари кун
+сишәмбе:noun:ытларикун
 нефть:nonetype:нефть
 нефть:noun:нефть
 музей:nonetype:музей
+музей:noun:музей
 термодинамика:nonetype:термодинамика
 термодинамика:noun:термодинамика
 çärşämbe:nonetype:юн кун
@@ -9992,6 +10694,7 @@ möhit:nonetype:хушă
 чәршәмбе:noun:юн кун
 чәршәмбе:noun:юнкун
 чәршәмбе:noun:хушă
+тапкыр:noun:хут
 юпитер:nonetype:юпитер
 бәрәңге:noun:паранка
 бәрәңге:noun:çĕр улми
@@ -10018,6 +10721,7 @@ ayu:nonetype:упа
 бөртек:nonetype:вăрлăх
 бөртек:nonetype:вăрă
 бөртек:nonetype:вǎрǎ
+май:noun:çу
 бәдән:noun:пÿ
 чәчәк:noun:чечек
 чәчәк:noun:чечексем
@@ -10034,6 +10738,8 @@ meni:nonetype:шыв
 meni:nonetype:шу
 июнь:noun:çĕртме
 умырткалык:nonetype:çурăм
+сырт:noun:çурăм
+арка:noun:çурăм
 галәм:noun:çут çанталăк
 галәм:noun:тĕнче
 дөнья:noun:çут çанталăк
@@ -10041,8 +10747,15 @@ meni:nonetype:шу
 ğaläm:nonetype:çут çанталăк
 ğaläm:nonetype:тĕнче
 ток:noun:йĕтем
+ток:noun:йӗтем
+ындыр:noun:йӗтем
 эт:noun:йытӑ
 ат:noun:лаша
+эчемлек:noun:ĕçме
+cawap:noun:хурав
+җавап:noun:хурав
+биеклек:noun:хут
+дәрәҗә:noun:хут
 көзге:nonetype:куҫкӗски
 көзге:nonetype:тӗкӗр
 көзге:nonetype:тĕкĕр
@@ -10055,6 +10768,8 @@ bet:nonetype:пыйтă
 дин:noun:тĕн
 дин:noun:тĕн
 дин:noun:тӗн
+көмеш:noun:кӗмӗл
+kömeş:noun:кӗмӗл
 тинтәк:nonetype:тункăлтăк
 тинтәк:nonetype:тăнсăр
 тинтәк:nonetype:йӳлер
@@ -10063,10 +10778,25 @@ bet:nonetype:пыйтă
 тилергән:nonetype:тăнсăр
 тилергән:nonetype:йӳлер
 тилергән:nonetype:ухмах
+ахмак:noun:тункăлтăк
+ахмак:noun:тăнсăр
+ахмак:noun:йӳлер
+ахмак:noun:ухмах
+юләр:noun:тункăлтăк
+юләр:noun:тăнсăр
+юләр:noun:йӳлер
+юләр:noun:ухмах
 tamank:nonetype:упăшка
 tamank:nonetype:ар ҫын
+үзәк:noun:вар
+үзәк:noun:хула
 үзәк:nonetype:вар
 үзәк:nonetype:хула
+шәһәр:noun:вар
+урта:noun:вар
+урта:noun:хула
+мәркәз:noun:вар
+мәркәз:noun:хула
 tase:nonetype:мăй
 tase:nonetype:мӑй
 iqtisat:nonetype:экономика
@@ -10085,6 +10815,9 @@ henen:nonetype:анне
 henen:nonetype:абай
 henen:nonetype:аби
 бугаз:nonetype:тинĕс пырĕ
+бугаз:noun:тинĕс пырĕ
+бугаз:noun:тинĕс пырĕ
+бугаз:noun:пыр
 yäkşämbe:nonetype:вырсарникун
 yäkşämbe:noun:вырсарникун
 якшәмбе:noun:вырсарникун
@@ -10094,7 +10827,10 @@ tırma:noun:кĕрепле
 психология:noun:психологи
 атау:nonetype:утрав
 утрау:nonetype:утрав
+утрау:noun:утрав
+utraw:noun:утрав
 qör'än:nonetype:коран
+коръән:noun:коран
 коръән:noun:коран
 qörʼän:nonetype:коран
 qör'ən:nonetype:коран
@@ -10111,8 +10847,15 @@ yant:nonetype:чĕре
 yant:nonetype:чӗре
 tan:nonetype:мăн
 tan:nonetype:пысăк
+boz:noun:пăр
+boz:noun:пӑр
+боз:noun:пăр
+боз:noun:пӑр
 бром:nonetype:бром
+бром:noun:бром
 пакьстан:nonetype:пакистан
+aqqoş:noun:акăш
+aqqoş:noun:акӑш
 гиялугия:nonetype:геологи
 гиялугия:nonetype:геологи
 геология:noun:геологи
@@ -10134,8 +10877,11 @@ mañksii:noun:ухă йĕппи
 mañkoi:noun:çĕмрен
 mañkoi:noun:ҫӗмрен
 mañkoi:noun:ухă йĕппи
+тузан:noun:тусан
 карта:noun:хак
+бүлек:noun:пуç
 бүлек:noun:пуçлăх
+баш:noun:пуç
 баш:noun:пуçлăх
 үлем:nonetype:вилĕм
 үлем:nonetype:вилӗм
@@ -10149,18 +10895,38 @@ mañkoi:noun:ухă йĕппи
 әҗәл:noun:вилӗм
 үлем:noun:вилĕм
 үлем:noun:вилӗм
+gömbä:noun:кăмпа
+gömbä:noun:кӑмпа
+гөмбә:noun:кăмпа
+гөмбә:noun:кӑмпа
 шайбалы хоккей:nonetype:шайбăллă хоккей
 алкалы һоккей:nonetype:шайбăллă хоккей
 атама:noun:ят
 исем:noun:ят
 ат:noun:ят
 елан:noun:çĕлен
+төймә:noun:ҫӑраҫҫи
+төймә:noun:уçă
+төймә:noun:çăраççи
+төймә:noun:çăлкуç
+ачкыч:noun:ҫӑраҫҫи
+ачкыч:noun:уçă
+ачкыч:noun:çăраççи
+ачкыч:noun:çăлкуç
+тормыш:noun:хырăм
+тормыш:noun:пурнӑҫ
 тереклек:nonetype:хырăм
 тереклек:nonetype:пурнӑҫ
 эч:nonetype:хырăм
 эч:nonetype:пурнӑҫ
 qarın:nonetype:хырăм
 qarın:nonetype:пурнӑҫ
+корсак:noun:хырăм
+корсак:noun:пурнӑҫ
+ел:noun:çулталăк
+ел:noun:ҫул
+ел:noun:çул
+ишәк:noun:ашак
 мәзәк:nonetype:мыскара
 мәзәк:noun:мыскара
 yähüd dine:nonetype:иудейсем
@@ -10186,6 +10952,7 @@ idel:nonetype:атăл
 литр:nonetype:литр
 литр:nonetype:литр
 liter:noun:литр
+liter:noun:литр
 wahu:nonetype:шăмă
 wahu:nonetype:шӑмӑ
 wahu:nonetype:шӑм
@@ -10194,12 +10961,14 @@ waho:nonetype:шăмă
 waho:nonetype:шӑмӑ
 waho:nonetype:шӑм
 waho:nonetype:шăма
+морж:noun:морж
 франция:nonetype:франци
 fransia:nonetype:франци
 тыю:nonetype:блок
 тыю:nonetype:блок
 harmonika:nonetype:тута купăсĕ
 әдип:nonetype:çыравçă
+язучы:noun:çыравçă
 şimbä:noun:шăматкун
 шимбә:noun:шăматкун
 система дәрәҗәсе:nonetype:паллă
@@ -10252,11 +11021,23 @@ eyat:nonetype:ади
 хатын:nonetype:хӗрарӑм
 хатын:nonetype:мăшăр
 хатын:noun:арăм
+ир кеше:noun:ар ҫын
+ир кеше:noun:ар
+ир кеше:noun:арçын
+ир:noun:ар
+ир:noun:арçын
 аксыл төсмер:nonetype:сĕм
 җиһан:nonetype:тĕнче
 җиһан:nonetype:çутă
+дөнья:noun:çутă
 яктылык:nonetype:тĕнче
 яктылык:nonetype:çутă
+yaqtılıq:noun:тĕнче
+yaqtılıq:noun:çутă
+ут:noun:тĕнче
+ут:noun:çутă
+яктылык:noun:тĕнче
+яктылык:noun:çутă
 intkus:nonetype:яка
 intkus:nonetype:такǎр
 intkus:nonetype:тÿрĕ
@@ -10283,6 +11064,7 @@ et:nonetype:йытă
 ел фасыллары:nonetype:çанталăк тапхăрĕсем
 ağu:nonetype:наркӑмӑш
 ağu:nonetype:наркăмăш
+агу:noun:наркӑмӑш
 агу:noun:наркăмăш
 baş:noun:пуç
 baş:noun:пуҫ
@@ -10298,6 +11080,7 @@ baş:noun:пуҫ
 бөер:noun:пÿре
 бөер:noun:пӳре
 бөер:noun:пӳре
+бию:noun:ташă
 яз:nonetype:çуркунне
 яз:nonetype:ҫур
 яз:nonetype:ҫуркунне
@@ -10317,6 +11100,8 @@ baş:noun:пуҫ
 көн:noun:кун
 көн:noun:кун
 көн:noun:талăк
+тамыр:noun:кăк
+тамыр:noun:тымар
 күн:nonetype:тир
 күн:nonetype:сăран
 күн:nonetype:ÿт
@@ -10342,7 +11127,9 @@ waba:nonetype:эпидеми
 ир кеше:nonetype:упăшка
 ир кеше:nonetype:упăшка
 ир:noun:упăшка
+ир:noun:упăшка
 тигезләмә:nonetype:танлăх
+куб:noun:куб
 алтын:nonetype:ылтăн
 алтын:nonetype:ылтӑн
 altın:noun:ылтăн
@@ -10351,6 +11138,9 @@ altın:noun:ылтӑн
 kinder:nonetype:кантăр
 киндер:nonetype:кантăр
 kinder:noun:кантăр
+төтен:noun:тӗтӗм
+төтен:noun:тĕтĕм
+төтен:noun:сĕрĕм
 лөгать:nonetype:сăмахсар
 лөгать:nonetype:сӑмахсен кӗнеки
 лөгать:nonetype:сăмахсен кĕнеки
@@ -10359,15 +11149,32 @@ kinder:noun:кантăр
 сүзлек:nonetype:сӑмахсен кӗнеки
 сүзлек:nonetype:сăмахсен кĕнеки
 сүзлек:nonetype:словарь
+сүзлек:noun:сăмахсар
+сүзлек:noun:сӑмахсен кӗнеки
+сүзлек:noun:сăмахсен кĕнеки
+сүзлек:noun:словарь
+süzlek:noun:сăмахсар
+süzlek:noun:сӑмахсен кӗнеки
+süzlek:noun:сăмахсен кĕнеки
+süzlek:noun:словарь
 тамак:nonetype:çăвар
 тамак:nonetype:ҫӑвар
+awız:noun:çăвар
+awız:noun:ҫӑвар
+авыз:noun:çăвар
+авыз:noun:ҫӑвар
 бот:nonetype:пĕçĕ
 бот:nonetype:ура
 аяк:noun:пĕçĕ
 аяк:noun:ура
+балалар бакчасы:noun:сад
+балалар бакчасы:noun:пахча
 бакча:nonetype:ача панчи
 бакча:nonetype:сад
 бакча:nonetype:пахча
+бакча:noun:ача панчи
+бакча:noun:сад
+бакча:noun:пахча
 көнбатыш:nonetype:кай ен
 көнбатыш:nonetype:анăç енĕ
 көнбатыш:nonetype:ларăш
@@ -10376,8 +11183,22 @@ kinder:noun:кантăр
 көнбатыш:nonetype:хĕвĕл анăç
 көнбатыш:nonetype:ту
 көнбатыш:nonetype:хĕвеланăç
+könbatış:noun:кай ен
+könbatış:noun:анăç енĕ
+könbatış:noun:ларăш
+könbatış:noun:кай
+könbatış:noun:анăç
 könbatış:noun:хĕвĕл анăç
+könbatış:noun:ту
+könbatış:noun:хĕвеланăç
+көнбатыш:noun:кай ен
+көнбатыш:noun:анăç енĕ
+көнбатыш:noun:ларăш
+көнбатыш:noun:кай
+көнбатыш:noun:анăç
 көнбатыш:noun:хĕвĕл анăç
+көнбатыш:noun:ту
+көнбатыш:noun:хĕвеланăç
 чад:nonetype:тӗтӗм
 чад:nonetype:йÿççи
 чад:nonetype:тĕтĕм
@@ -10389,11 +11210,19 @@ düşämbe:noun:тунтикун
 дүшәмбе:noun:тунтикун
 файл:noun:файл
 soraw:noun:ыйту
+soraw:noun:ыйту
+сорау:noun:ыйту
 сорау:noun:ыйту
 тәре:noun:херес
 хач:noun:херес
+елкы:noun:лаша
+елкы:noun:ут
+аргамак:noun:лаша
+аргамак:noun:ут
 ат:nonetype:лаша
 ат:nonetype:ут
+ат:noun:лаша
+ат:noun:ут
 at:nonetype:лаша
 at:nonetype:ут
 tien:noun:пакша
@@ -10406,6 +11235,10 @@ tien:noun:пакша
 система образы:nonetype:манер
 система образы:nonetype:нĕр
 система образы:nonetype:сăнар
+образ:noun:евĕр
+образ:noun:манер
+образ:noun:нĕр
+образ:noun:сăнар
 картина:nonetype:евĕр
 картина:nonetype:манер
 картина:nonetype:нĕр
@@ -10438,6 +11271,8 @@ august:nonetype:август
 august:nonetype:ҫурла
 avgust:nonetype:август
 avgust:nonetype:ҫурла
+август:noun:август
+август:noun:ҫурла
 shuq:nonetype:ту
 oheka:nonetype:ту
 астрономия:noun:астрономи
@@ -10522,6 +11357,7 @@ qolaq:nonetype:хӑлха
 рәсем:noun:ÿкерчĕк
 картина:nonetype:ÿкерчĕк
 сурәт:noun:ÿкерчĕк
+уран:noun:уран
 алман:noun:нимĕç
 эчәк:nonetype:пыршă
 күмер:nonetype:кăмрăк
@@ -10558,7 +11394,13 @@ tawıq:noun:чăха
 анатомия:noun:анатоми
 quyan:nonetype:куян
 quyan:nonetype:мулкач
+куян:noun:куян
+куян:noun:мулкач
 обойлар:nonetype:шпалер
+qıyar:noun:хӑяр
+qıyar:noun:хăяр
+кыяр:noun:хӑяр
+кыяр:noun:хăяр
 акча:nonetype:укçа
 акча:nonetype:укçа
 акча:nonetype:укҫа
@@ -10568,6 +11410,9 @@ aqça:noun:укҫа
 акча:noun:укçа
 акча:noun:укçа
 акча:noun:укҫа
+тирәк:noun:тирек
+tupıl:noun:тирек
+tiräk:noun:тирек
 mayink:nonetype:вӗҫен кайӑк
 mayink:nonetype:кайӑк
 mayink:nonetype:вĕçен кайăк
@@ -10588,8 +11433,10 @@ mayink:nonetype:кайăк
 кысла:nonetype:рак
 qısla:nonetype:рак
 саратан йолдызлыгы:nonetype:рак
+рак:noun:рак
 көн:noun:кун
 халык:nonetype:халăх
+халык:noun:халăх
 кешеләр:nonetype:халăх
 йолдыз:nonetype:çăлтăр
 йолдыз:nonetype:çăлтăр
@@ -10609,6 +11456,7 @@ yoldız:noun:ҫӑлтӑр
 фольклор:nonetype:фольклор
 фольклор:noun:фольклор
 хлор:nonetype:хлор
+хлор:noun:хлор
 фонетика:nonetype:фонетика
 фонетика:nonetype:фонетика
 фонетика:noun:фонетика
@@ -10625,9 +11473,16 @@ yoldız:noun:ҫӑлтӑр
 венера:nonetype:венера
 hentkoq:nonetype:ҫул
 hentkoq:nonetype:çул
+җәя:noun:ухă
+җәя:noun:сухан
+suğan:noun:ухă
+suğan:noun:сухан
+суган:noun:ухă
+суган:noun:сухан
 кытай:noun:китай халăх республики
 драматурглар:nonetype:драматург
 драматурглар:nonetype:драматург
+драматург:noun:драматург
 драматург:noun:драматург
 балчык:nonetype:тăм
 балчык:noun:тăм
@@ -10652,6 +11507,8 @@ sıra:nonetype:сӑра
 сыра:noun:сăра
 сыра:noun:сăра
 сыра:noun:сӑра
+үрмәкүч:noun:эрешмен
+ürmäküç:noun:эрешмен
 якты:nonetype:çулăм
 якты:nonetype:кăвайт
 якты:nonetype:вут
@@ -10664,12 +11521,23 @@ sıra:nonetype:сӑра
 ут:nonetype:хĕм
 ут:nonetype:çутă
 ут:nonetype:çулам
+ut:noun:çулăм
+ut:noun:кăвайт
+ut:noun:вут
+ut:noun:хĕм
+ut:noun:çутă
+ut:noun:çулам
 ялкын:nonetype:çулăм
 ялкын:nonetype:кăвайт
 ялкын:nonetype:вут
 ялкын:nonetype:хĕм
 ялкын:nonetype:çутă
 ялкын:nonetype:çулам
+ут:noun:çулăм
+ут:noun:кăвайт
+ут:noun:вут
+ут:noun:хĕм
+ут:noun:çулам
 latín älifba:noun:алфавит
 minosaʼ:nonetype:уйăх
 minosaʼ:nonetype:уйӑх
@@ -10706,6 +11574,7 @@ tasui:noun:куҫ
 имән:nonetype:юман
 имән:nonetype:юмав
 имән:noun:юман
+имән:noun:юман
 имән:noun:юмав
 җыр:noun:юрӑ
 cır:noun:юрӑ
@@ -10718,15 +11587,19 @@ kinder:noun:кантăр
 галогеннар:nonetype:галогенсем
 çönki:nonetype:пирки
 май:noun:çу
+рәсәйле:noun:вырӑс
 мәгълүмат таблицасы:nonetype:таблица
 таблица:nonetype:таблица
 yül:nonetype:утă уйăхе
 yül:nonetype:июль
+июль:noun:утă уйăхе
+июль:noun:июль
 bakı:nonetype:баку
 baqı:nonetype:баку
 бакы:nonetype:баку
 никах:nonetype:туй
 туй:nonetype:туй
+туй:noun:туй
 социология:nonetype:социологи
 социология:nonetype:социологи
 социология:noun:социологи
@@ -10743,14 +11616,24 @@ sunktagi:nonetype:курăк
 табигать:noun:çут çанталăк
 табигать:noun:çутçанталăк
 табигать:noun:çутçанталăк
+öräñge:noun:вĕрене
+çağan:noun:вĕрене
 әңгәмә:nonetype:сăмах
 әңгәмә:nonetype:калаçу
+сөйләшү:noun:сăмах
+сөйләшү:noun:калаçу
 сүз:nonetype:сăмах
 сүз:nonetype:калаçу
 мультимедиа сессия:nonetype:сăмах
 мультимедиа сессия:nonetype:калаçу
 чыршы:nonetype:чӑрӑш
 чыршы:nonetype:чăрăш
+терке:noun:чӑрӑш
+терке:noun:чăрăш
+серше:noun:чӑрӑш
+серше:noun:чăрăш
+еш:noun:чӑрӑш
+еш:noun:чăрăш
 объект:nonetype:тупсăм
 объект:nonetype:тупсăм
 зат:nonetype:тупсăм
@@ -10759,6 +11642,9 @@ sunktagi:nonetype:курăк
 кан:noun:юн
 qan:noun:юн
 татар:nonetype:тутар чĕлхи
+татарча:noun:тутар чĕлхи
+татар теле:noun:тутар чĕлхи
+tatarça:noun:тутар чĕлхи
 tatar tele:nonetype:тутар чĕлхи
 тармак:noun:турат
 ботак:noun:турат
@@ -10790,11 +11676,21 @@ fizika:nonetype:физика
 азот:nonetype:азот
 азот:nonetype:азот
 азот:noun:азот
+азот:noun:азот
 кар:nonetype:юр
 кар:nonetype:юр
 qar:nonetype:юр
 qar:nonetype:юр
 кар:noun:юр
+кар:noun:юр
+pesi:noun:кушак
+pesi:noun:кушак аçи
+mäçe:noun:кушак
+mäçe:noun:кушак аçи
+песи:noun:кушак
+песи:noun:кушак аçи
+мәче:noun:кушак
+мәче:noun:кушак аçи
 иминлек:nonetype:хăрушсăрлăх
 куркынычсызлык:noun:хăрушсăрлăх
 сабый:nonetype:ача
@@ -10812,7 +11708,17 @@ mingirachah:nonetype:пӑр
 томшык:nonetype:сӑмса
 томшык:nonetype:шĕвĕр сăмсă
 томшык:nonetype:сăмса
+танау:noun:сӑмса
+танау:noun:шĕвĕр сăмсă
+танау:noun:сăмса
+борын:noun:сӑмса
+борын:noun:шĕвĕр сăмсă
+борын:noun:сăмса
+borın:noun:сӑмса
+borın:noun:шĕвĕр сăмсă
+borın:noun:сăмса
 кытай теле:nonetype:китай чĕлхи
+кытай:noun:китай чĕлхи
 ялганлык:nonetype:ултав
 ялганлык:nonetype:суя
 ялган:noun:ултав
@@ -10832,6 +11738,8 @@ yözek:noun:ҫӗрӗ
 baldaq:noun:çĕрĕ
 baldaq:noun:ҫӗрӗ
 километр:noun:çухрăм
+километр:noun:çухрăм
+kilometr:noun:çухрăм
 kilometr:noun:çухрăм
 tokenaq:nonetype:хăçан
 älmäniä:nonetype:германи
@@ -10874,6 +11782,7 @@ handon:nonetype:çĕлен
 ay:nonetype:уйăх
 ay:nonetype:уйӑх
 ай:noun:уйăх
+ай:noun:уйӑх
 төп санак:nonetype:тĕвĕ
 төп санак:nonetype:тĕрке
 төен:nonetype:тĕвĕ
@@ -10903,8 +11812,16 @@ mini:nonetype:ура
 ил:noun:çĕр
 җир:noun:çĕр
 жир:nonetype:çĕр
+иген:noun:ҫӑкӑр
+иген:noun:çăкăр
 ипи:nonetype:ҫӑкӑр
 ипи:nonetype:çăкăр
+ипи:noun:ҫӑкӑр
+ипи:noun:çăкăр
+ашлык:noun:ҫӑкӑр
+ашлык:noun:çăкăр
+икмәк:noun:ҫӑкӑр
+икмәк:noun:çăкăр
 яшерен халәт:nonetype:чарăну
 тоткарлык:noun:чарăну
 калифорния:nonetype:калифорни
@@ -10938,6 +11855,7 @@ töpe:noun:çи
 фтор:nonetype:фтор
 фтор:nonetype:фтор
 фтор:noun:фтор
+фтор:noun:фтор
 декабрь:noun:раштав
 төркия:nonetype:турци
 törkiä:nonetype:турци
@@ -10955,10 +11873,13 @@ bisoka:nonetype:пулă
 bisoka:nonetype:пулӑ
 акварель:nonetype:акварель
 натрий:nonetype:натри
+квадрат:noun:тăваткал
 водород:nonetype:шыва кĕрекен
 водород:nonetype:водород
 водород:noun:шыва кĕрекен
+водород:noun:водород
 һәйкәл:nonetype:палăк
+һәйкәл:noun:палăк
 республика:noun:республика
 республика:noun:республика
 җөмһүрият:noun:республика
@@ -10983,8 +11904,15 @@ düşämbe:nonetype:toenti koen
 kämal:nonetype:тунтикун
 kämal:nonetype:тунти кун
 kämal:nonetype:toenti koen
+düşämbe:noun:тунтикун
+düşämbe:noun:тунти кун
+düşämbe:noun:toenti koen
+дүшәмбе:noun:тунтикун
+дүшәмбе:noun:тунти кун
+дүшәмбе:noun:toenti koen
 титан:nonetype:титан
 титан:nonetype:титан
+титан:noun:титан
 титан:noun:титан
 чәч:noun:çăм
 чәч:noun:çÿç
@@ -10996,13 +11924,18 @@ asteroidlar:nonetype:астероид
 күз:nonetype:куҫ
 küz:nonetype:куç
 küz:nonetype:куҫ
+күз:noun:куç
+күз:noun:куҫ
 otoʼ:nonetype:листа
 otoʼ:nonetype:ҫулҫӑ
 otoʼ:nonetype:çулçа
 otoʼ:nonetype:çулçă
 otoʼ:nonetype:çеçке
 íslam:nonetype:ислам
+ислам:noun:ислам
 ислам:nonetype:ислам
+алабуга:noun:тинĕс уланки
+алабуга:noun:уланкă
 бөтен сан:nonetype:тулли хисеп
 тамга кую:nonetype:ялав
 тамга:nonetype:ялав
@@ -11044,6 +11977,7 @@ hohiye:nonetype:юр
 almania:nonetype:германи
 кояш чыгу:nonetype:тухăç
 көйязар:nonetype:кĕвĕçĕ
+композитор:noun:кĕвĕçĕ
 электрон хәбәр җибәрү:nonetype:электронлă почта
 электрон почта:nonetype:электронлă почта
 карын:noun:пыршă
@@ -11070,9 +12004,18 @@ taksitai:noun:çырма
 чират:noun:ĕрет
 чират:noun:черет
 көндәлек:nonetype:журнал
+журнал:noun:журнал
+qom:noun:хăйăр
+qom:noun:хайăр
+qom:noun:хӑйӑр
+ком:noun:хăйăр
+ком:noun:хайăр
+ком:noun:хӑйӑр
 метр:nonetype:метр
 метр:nonetype:метр
 метр:noun:метр
+метр:noun:метр
+meter:noun:метр
 meter:noun:метр
 ürdäk:nonetype:кăвакал
 ürdäk:nonetype:кӑвакал
@@ -11080,6 +12023,8 @@ meter:noun:метр
 ürdek:noun:кӑвакал
 үрдәк:noun:кăвакал
 каһвә:nonetype:кофе
+кофе:noun:кофе
+каһвә:noun:кофе
 елкы:noun:лаша
 елкы:noun:ут
 at:nonetype:лаша
@@ -11104,6 +12049,8 @@ sır:nonetype:чăкăт
 sır:nonetype:сыр
 eremçek:nonetype:чăкăт
 eremçek:nonetype:сыр
+сыр:noun:чăкăт
+сыр:noun:сыр
 köz:nonetype:кĕркунне
 köz:nonetype:кĕркунне
 köz:nonetype:кӗркунне
@@ -11127,6 +12074,7 @@ köz:noun:кĕр
 руанда:nonetype:руанда
 kön:nonetype:кун
 кїн:nonetype:кун
+көн:noun:кун
 әйләнә:nonetype:çавракăш
 әйләнә:nonetype:çавракăш
 әйләнә:nonetype:ҫавракӑш
@@ -11140,21 +12088,25 @@ alapok:nonetype:кĕл
 род:noun:ăрат
 род:noun:несĕл
 род:noun:йăх
+род:noun:тавраш
 нәсел:noun:тăхăм
 нәсел:noun:ăру
 нәсел:noun:ăрат
 нәсел:noun:несĕл
 нәсел:noun:йăх
+нәсел:noun:тавраш
 җенес:noun:тăхăм
 җенес:noun:ăру
 җенес:noun:ăрат
 җенес:noun:несĕл
 җенес:noun:йăх
+җенес:noun:тавраш
 ыру:noun:тăхăм
 ыру:noun:ăру
 ыру:noun:ăрат
 ыру:noun:несĕл
 ыру:noun:йăх
+ыру:noun:тавраш
 күңел:nonetype:чĕре
 күңел:nonetype:чĕре
 күңел:nonetype:чӗре
@@ -11166,7 +12118,11 @@ alapok:nonetype:кĕл
 йөрәк:noun:чӗре
 кара тишек:nonetype:хура хăвăл
 кара тишек:nonetype:хура хăвăл
+altın:noun:ылтăн
 атай:nonetype:ади
+әти:noun:ади
+ата:noun:ади
+футбол:noun:футбол
 кычыткан:nonetype:вĕлтĕрен
 qıçıtqan:noun:вĕлтĕрен
 еланнар:nonetype:ҫӗлен
@@ -11189,7 +12145,10 @@ wagutska:nonetype:ача
 onska:nonetype:ача
 niskaʼ:nonetype:ача
 kutska:nonetype:ача
+бәндә:noun:тăнлă çын
 инсан:nonetype:тăнлă çын
+адәм:noun:тăнлă çын
+кеше:noun:тăнлă çын
 китап:noun:кӗнеке
 кенәгә:noun:кӗнеке
 kitap:noun:кӗнеке
@@ -11239,6 +12198,7 @@ cäläl:nonetype:шӑматкун
 шимбә:noun:шӑматкун
 urda:noun:эшкер
 урда:noun:эшкер
+ми:noun:миме
 библия:nonetype:библи
 بىبلىيە:nonetype:библи
 bibliä:nonetype:библи
@@ -11263,6 +12223,9 @@ nigas:nonetype:те
 электрон:nonetype:электрон
 электрон:nonetype:электрон
 электрон:noun:электрон
+электрон:noun:электрон
+теш:noun:шӑл
+tiş:noun:шӑл
 алкушымча:nonetype:префикс
 алкушымча:nonetype:префикс
 prefix:nonetype:префикс
@@ -11301,6 +12264,8 @@ karakoş:nonetype:ăмăрткайăк
 karakoş:nonetype:ӑмӑрт кайӑк
 börket:nonetype:ăмăрткайăк
 börket:nonetype:ӑмӑрт кайӑк
+бөркет:noun:ăмăрткайăк
+бөркет:noun:ӑмӑрт кайӑк
 täxällüs:nonetype:хушма ят
 täxällüs:nonetype:хушма ят
 псевдоним:nonetype:хушма ят
@@ -11331,8 +12296,14 @@ min:nonetype:хӗвел
 min:nonetype:хĕвел
 sentäber:nonetype:сентябрь
 sentäber:nonetype:авӑн
+сентябрь:noun:сентябрь
+сентябрь:noun:авӑн
+sentäber:noun:сентябрь
+sentäber:noun:авӑн
 tasu:nonetype:куç
 tasu:nonetype:куҫ
+tasui:noun:куç
+tasui:noun:куҫ
 osi:nonetype:каç
 osi:nonetype:ҫӗр
 osi:nonetype:çĕрле
@@ -11371,8 +12342,14 @@ qaz:nonetype:хур
 гасыр:nonetype:ĕмĕр
 гасыр:nonetype:ӗмӗр
 ğasır:noun:ĕмĕр
+ğasır:noun:ĕмĕр
+ğasır:noun:ӗмӗр
 yözellıq:noun:ĕмĕр
+yözellıq:noun:ĕмĕр
+yözellıq:noun:ӗмӗр
 гасыр:noun:ĕмĕр
+гасыр:noun:ĕмĕр
+гасыр:noun:ӗмӗр
 кәбестә:noun:купăста
 көньяк котып:nonetype:кăнтăр полюсĕ
 ekyoma:noun:тимĕр
@@ -11382,6 +12359,7 @@ ekyoma:noun:тимӗр
 tigr:nonetype:тигр
 diclä:nonetype:тигр
 юлбарыс:nonetype:тигр
+юлбарыс:noun:тигр
 сала:nonetype:сала
 сала:nonetype:ял
 сала:nonetype:ялта
@@ -11394,6 +12372,12 @@ diclä:nonetype:тигр
 яңгыр:nonetype:çумăр
 яңгыр:nonetype:çăмăр
 яңгыр:nonetype:ҫумӑр
+yañğır:noun:çумăр
+yañğır:noun:çăмăр
+yañğır:noun:ҫумӑр
+яңгыр:noun:çумăр
+яңгыр:noun:çăмăр
+яңгыр:noun:ҫумӑр
 bolıt:noun:пӗлӗт
 bolıt:noun:пĕлĕт
 болыт:noun:пӗлӗт
@@ -11422,6 +12406,7 @@ urıs tele:nonetype:вырӑсла
 çınayaq:noun:чашăк
 qäsä:noun:тирĕк
 qäsä:noun:чашăк
+жанр:noun:жанр
 сөю:nonetype:юрату
 мәхәббәт:noun:юрату
 yaratu:nonetype:юрату
@@ -11454,13 +12439,16 @@ hak:nonetype:хул
 иод:nonetype:иод
 иод:nonetype:йод
 алфавит:noun:алфавит
+алфавит:noun:алфавит
 älifba:nonetype:алфавит
 älifba:nonetype:алфавит
+tako:noun:алфавит
 tako:noun:алфавит
 әлифба:nonetype:алфавит
 әлифба:nonetype:алфавит
 имлә:nonetype:алфавит
 имлә:nonetype:алфавит
+älifba:noun:алфавит
 älifba:noun:алфавит
 орлык:noun:вăрлăх
 орлык:noun:вăрă
@@ -11469,14 +12457,17 @@ tako:noun:алфавит
 бөртек:nonetype:вăрă
 бөртек:nonetype:вǎрǎ
 törek tele:nonetype:турккă чĕлхи
+tiş:noun:шăл
 кешеләр:nonetype:этем
 кешеләр:nonetype:ҫын
 кеше:noun:этем
+кеше:noun:халăх
 кеше:noun:ҫын
 инсан:nonetype:этем
 инсан:nonetype:халăх
 инсан:nonetype:ҫын
 адәм:noun:этем
+адәм:noun:халăх
 адәм:noun:ҫын
 халык:nonetype:этем
 халык:nonetype:ҫын
@@ -11484,11 +12475,31 @@ törek tele:nonetype:турккă чĕлхи
 тыюлык:nonetype:усрав
 wayuwaʼ:nonetype:тăнлă çын
 nona:nonetype:тăнлă çын
+җанвар:noun:чĕр чун
+җанвар:noun:чӗрчун
+җанвар:noun:кайǎк
+җанвар:noun:выльăх
+җанвар:noun:чĕрчун
+ерткыч:noun:чĕр чун
+ерткыч:noun:чӗрчун
+ерткыч:noun:кайǎк
+ерткыч:noun:выльăх
+ерткыч:noun:чĕрчун
+xaywan:noun:чĕр чун
+xaywan:noun:чӗрчун
+xaywan:noun:кайǎк
+xaywan:noun:выльăх
+xaywan:noun:чĕрчун
 җәнлек:nonetype:чĕр чун
 җәнлек:nonetype:чӗрчун
 җәнлек:nonetype:кайǎк
 җәнлек:nonetype:выльăх
 җәнлек:nonetype:чĕрчун
+хайван:noun:чĕр чун
+хайван:noun:чӗрчун
+хайван:noun:кайǎк
+хайван:noun:выльăх
+хайван:noun:чĕрчун
 күчәр:nonetype:тĕнĕл
 җир:noun:вырӑн
 җир:noun:вырăн
@@ -11516,6 +12527,10 @@ nona:nonetype:тăнлă çын
 мәет:nonetype:вилĕ ӳт
 мәет:nonetype:виле
 мәет:nonetype:ÿт
+бәдән:noun:вилĕ ӳт
+бәдән:noun:виле
+бәдән:noun:ÿт
+мәет:noun:вилĕ ӳт
 сүрия:nonetype:сири
 süriä:nonetype:сири
 тәрәз:nonetype:кантăк
@@ -11549,6 +12564,8 @@ wagen:nonetype:ҫӗлен
 handon:nonetype:çелен
 handon:nonetype:çĕлен
 handon:nonetype:ҫӗлен
+бакыр:noun:пăхăр
+baqır:noun:пăхăр
 natonʼ:nonetype:çăм
 natonʼ:nonetype:çÿç
 natonʼ:nonetype:çӳç
@@ -11574,14 +12591,26 @@ aş:nonetype:яшка
 aş:nonetype:яшка
 aş:nonetype:шӳрпе
 шулпа:noun:яшка
+шулпа:noun:яшка
+шулпа:noun:шӳрпе
+чәчкә:noun:чечек
+чәчкә:noun:çеçке
+гөл:noun:чечек
+гөл:noun:çеçке
+чәчәк:noun:чечек
+чәчәк:noun:çеçке
 конституция:nonetype:конституци
 конституция:noun:конституци
 компания:noun:ушкăн
 бизнес:noun:ушкăн
 şirkät:nonetype:ушкăн
 ширкәт:noun:ушкăн
+агач:noun:вăрман
+агач:noun:вӑрман
 урман:nonetype:вăрман
 урман:nonetype:вӑрман
+урман:noun:вăрман
+урман:noun:вӑрман
 лаптоп:nonetype:ноутбук
 alma:noun:панулми
 alma:noun:пан улми
@@ -11593,6 +12622,8 @@ alma:noun:улма
 үсемлек:noun:ӳсĕмлĕх
 öktäber:nonetype:октябрь
 öktäber:nonetype:юпа
+октябрь:noun:октябрь
+октябрь:noun:юпа
 хоккей:nonetype:хоккей
 hockey:nonetype:хоккей
 эшчәнлек:nonetype:вăй
@@ -11630,7 +12661,11 @@ büre:nonetype:кашкӑр
 ğasır:noun:ĕмĕр
 yözellıq:noun:ĕмĕр
 гасыр:noun:ĕмĕр
+бала:noun:ача
 бала:nonetype:ача
+сабый:noun:ача
+бәбәй:noun:ача
+бәби:noun:ача
 tsunk:nonetype:йыт
 tsunk:nonetype:йытӑ
 tsunk:nonetype:йытă
@@ -11671,7 +12706,9 @@ fransia:nonetype:франци
 bakı:nonetype:баку
 baqı:nonetype:баку
 өчпочмак:nonetype:виç кĕтеслĕх
+öçpoçmaq:noun:виç кĕтеслĕх
 dekäber:nonetype:декабрь
+декабрь:noun:декабрь
 дөя:noun:тĕве
 җан:noun:чун
 җан:nonetype:чун
@@ -11703,14 +12740,17 @@ hankshik:nonetype:туя
 эш бите:nonetype:çулçа
 эш бите:nonetype:çулçă
 эш бите:nonetype:çеçке
+табак:noun:листа
 табак:noun:ҫулҫӑ
 табак:noun:çулçа
 табак:noun:çулçă
 табак:noun:çеçке
+бит:noun:листа
 бит:noun:ҫулҫӑ
 бит:noun:çулçа
 бит:noun:çулçă
 бит:noun:çеçке
+яфрак:noun:листа
 яфрак:noun:ҫулҫӑ
 яфрак:noun:çулçа
 яфрак:noun:çулçă
@@ -11746,6 +12786,7 @@ insaniyat:nonetype:этемлĕх
 insaniyat:nonetype:этемлĕх
 кешелек:noun:этемлĕх
 кешелек:noun:этемлĕх
+теш:noun:шăл
 ih:nonetype:çăвар
 ih:nonetype:ҫӑвар
 kul:nonetype:алă
@@ -11769,12 +12810,17 @@ kul:nonetype:хул
 шәреҡ:nonetype:тухăç
 шәреҡ:nonetype:мал
 şäreq:noun:хĕвелтухăç
+şäreq:noun:тухăç
 şäreq:noun:мал
 könçığış:noun:хĕвелтухăç
+könçığış:noun:тухăç
 könçığış:noun:мал
 көнчыгыш:noun:хĕвелтухăç
+көнчыгыш:noun:тухăç
 көнчыгыш:noun:мал
 берлин:nonetype:берлин
+мамык:noun:хут
+мамык:noun:мамăк
 өй шакмагы:nonetype:пӳрт
 өй шакмагы:nonetype:пÿрт
 өй шакмагы:nonetype:кил
@@ -11785,6 +12831,16 @@ könçığış:noun:мал
 өй:nonetype:кил
 өй:nonetype:ҫурт
 өй:nonetype:çурт
+йорт:noun:пӳрт
+йорт:noun:пÿрт
+йорт:noun:кил
+йорт:noun:ҫурт
+йорт:noun:çурт
+өй:noun:пӳрт
+өй:noun:пÿрт
+өй:noun:кил
+өй:noun:ҫурт
+өй:noun:çурт
 йөзек:noun:ункă
 балдак:noun:çĕрĕ
 балдак:noun:ункă
@@ -11798,14 +12854,19 @@ baldaq:noun:ункă
 fälsäfä:nonetype:философи
 fälsäfä:nonetype:философи
 mäskäw:nonetype:мускав
+балет:noun:балет
 balet:nonetype:балет
+маңгай:noun:çамка
 nöyäber:nonetype:ноябрь
+ноябрь:noun:ноябрь
 sementa:nonetype:хырăм
 sementa:nonetype:пурнӑҫ
 äpril:nonetype:апрель
 äpril:nonetype:ака
 aprel:nonetype:апрель
 aprel:nonetype:ака
+апрель:noun:апрель
+апрель:noun:ака
 wayuqtik:nonetype:какай
 wayuqtik:nonetype:аш
 gwayutik:nonetype:какай
@@ -11820,6 +12881,7 @@ gwayutik:nonetype:аш
 пи саны:nonetype:пи
 latviä:nonetype:латви
 latvia:nonetype:латви
+карбыз:noun:арбуз
 январь:noun:кăрлач
 гыйнвар:noun:кăрлач
 nistek:nonetype:чул
@@ -11829,6 +12891,8 @@ wahtakaʼ:nonetype:ар
 wahtakaʼ:nonetype:арçын
 йөзем:nonetype:иҫӗм ҫырли
 йөзем:nonetype:иҫӗм
+yözem:noun:иҫӗм ҫырли
+yözem:noun:иҫӗм
 ими:nonetype:чĕжĕ
 ими:nonetype:кăкăр
 ими:nonetype:ум
@@ -11852,6 +12916,12 @@ wahtakaʼ:nonetype:арçын
 yöräk:nonetype:чĕлхе
 yöräk:nonetype:чӗлхе
 yöräk:nonetype:венгр чĕлхи
+тел:noun:чĕлхе
+тел:noun:чӗлхе
+тел:noun:венгр чĕлхи
+tel:noun:чĕлхе
+tel:noun:чӗлхе
+tel:noun:венгр чĕлхи
 taksita:nonetype:юхан шыв
 taksita:nonetype:юханшыв
 taksita:nonetype:çырма
@@ -11872,16 +12942,28 @@ taksitai:noun:çирма
 ботак:noun:юпă
 таяк:noun:патак
 таяк:noun:туя
+ир:noun:мăшăр
+waksakpai:noun:ҫӑкӑр
+waksakpai:noun:çăкăр
 тәвә:nonetype:тӗве
 тәвә:nonetype:тĕве
 döya:nonetype:тӗве
 döya:nonetype:тĕве
+täwä:noun:тӗве
+täwä:noun:тĕве
+döyä:noun:тӗве
+döyä:noun:тĕве
+дөя:noun:тӗве
+дөя:noun:тĕве
+вәкил:noun:представитель
 вәкаләт тапшыру:nonetype:представитель
 tamihen:nonetype:арăм
 tamihen:nonetype:хӗрарӑм
+dus:noun:юлташ
 төньяк:nonetype:çурçĕр
 төньяк:nonetype:çурçĕр
 төньяк:nonetype:ҫурҫӗр
+tönyaq:noun:çурçĕр
 tönyaq:noun:çурçĕр
 tönyaq:noun:ҫурҫӗр
 төньяк:noun:çурçĕр
@@ -11893,6 +12975,9 @@ qawoʼ:nonetype:çăмăр
 qawoʼ:nonetype:ҫумӑр
 cır:noun:юрă
 җыр:noun:юрă
+чалмабаш:noun:пион
+чалма чәчәк:noun:пион
+пион:noun:пион
 otoʼlakon:nonetype:симĕс
 otoʼlakon:nonetype:ешĕль
 henem:nonetype:вăрăм
@@ -11901,6 +12986,7 @@ henem:nonetype:вăрăм
 корыч:nonetype:хурçă
 корыч:noun:хурҫӑ
 корыч:noun:хурçă
+компьютер:noun:компьютер
 компьютер:noun:компьютер
 санак:nonetype:компьютер
 санак:nonetype:компьютер
@@ -11940,9 +13026,11 @@ mihan:nonetype:хӗрарӑм
 mahe:nonetype:хĕрарăм
 mahe:nonetype:арăм
 mahe:nonetype:хӗрарӑм
+веб:noun:тетел
 интернет:nonetype:тетел
 веб:nonetype:тетел
 päräwez:nonetype:тетел
+интернет:noun:тетел
 пәрәвез:nonetype:тетел
 тикшерү:nonetype:тĕрĕслев
 сканерлау:nonetype:тĕрĕслев

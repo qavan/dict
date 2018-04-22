@@ -51,9 +51,6 @@ for line in f1:
         tt=d[0]
         cv=d[2]
         types=str(d[1]).split('.')
-        bug=open('type/debug.txt','w')
-        bug.write(line)
-        bug.close()
         if t0()==t1() and t0()=='noun':#noun noun
             n.write(look())
         elif (t0()=='nonetype' and t1()=='noun') or (t1()=='nonetype' and t0()=='noun'):###########################################nonetype noun
@@ -64,7 +61,7 @@ for line in f1:
             n.write(look())
         elif (t0()=='noun' and t1()=='noun feminine') or (t1()=='noun' and t0()=='noun feminine'):#################################noun noun feminine
             n.write(look())
-        elif (t0()=='noune' and t1()=='noun masculine') or (t1()=='noun' and t0()=='noun masculine'):##############################noun noun masculine
+        elif (t0()=='noun' and t1()=='noun masculine') or (t1()=='noun' and t0()=='noun masculine'):##############################noun noun masculine
             n.write(look())
         elif (t0()=='noun' and t1()=='noun neuter') or (t1()=='noun' and t0()=='noun neuter'):#####################################noun noun neuter
             n.write(look())
@@ -78,6 +75,12 @@ for line in f1:
             n.write(look())
         elif (t0()=='feminine' and t1()=='noun') or (t1()=='feminine' and t0()=='noun'):###########################################feminine noun
             n.write(look())
+        elif (t0()=='neuter' and t1()=='noun') or (t1()=='neuter' and t0()=='noun'):###############################################neuter noun
+            n.write(look())
+        elif (t0()=='masculine' and t1()=='noun') or (t1()=='masculine' and t0()=='noun'):#########################################masculine noun
+            n.write(look())
+        elif (t0()=='noun particle' and t1()=='noun') or (t1()=='noun particle' and t0()=='noun'):#################################noun particle noun
+            n.write(look())
          ###########
         elif t0()==t1() and t0()=='verb':##########################################################################################verb verb
             v.write(look())
@@ -87,7 +90,9 @@ for line in f1:
             v.write(look())
         elif (t0()=='verb' and t1()=='verb pf') or (t1()=='verb' and t0()=='verb pf'):#############################################verb verb pf
             v.write(look())
-        elif (t0()=='nonetype' and t1()=='verb impf') or (t1()=='nonetype' and t0()=='verb impf'):#################################verb verb impf
+        elif (t0()=='nonetype' and t1()=='verb impf') or (t1()=='nonetype' and t0()=='verb impf'):#################################nonetype verb impf
+            v.write(look())
+        elif (t0()=='verb' and t1()=='verb impf') or (t1()=='verb' and t0()=='verb impf'):#########################################verb verb impf
             v.write(look())
          ###########    
         elif t0()==t1() and t0()=='adverb':########################################################################################adverb adverb
@@ -99,14 +104,22 @@ for line in f1:
             adj.write(look())
         elif (t0()=='nonetype' and t1()=='adjective') or (t1()=='nonetype' and t0()=='adjective'):#################################nonetype adjective
             adj.write(look())
-        elif (t0()=='nonetype' and t1()=='adjective masculine') or (t1()=='nonetype' and t0()=='adjective masculine'):#################################nonetypeadjective masculine 
+        elif (t0()=='nonetype' and t1()=='adjective masculine') or (t1()=='nonetype' and t0()=='adjective masculine'):#############nonetype adjective masculine 
             adj.write(look())
-        elif (t0()=='adjective' and t1()=='adjective masculine') or (t1()=='adjective' and t0()=='adjective masculine'):################################adjective adjective masculine
+        elif (t0()=='adjective' and t1()=='adjective masculine') or (t1()=='adjective' and t0()=='adjective masculine'):###########adjective adjective masculine
             adj.write(look())
+        elif (t0()=='adjective' and t1()=='noun masculine') or (t1()=='adjective' and t0()=='noun masculine'):#####################adjective noun masculine
+            adj.write(look())
+        #$elif (t0()=='nonetype' and t1()=='adjective noun') or (t1()=='nonetype' and t0()=='adjective noun'):######################nonetype adjective noun 
+        #$    adj.write(look())
           ###########  
         elif t0()==t1() and t0()=='numeral':#######################################################################################numeral numeral
             num.write(look())
         elif (t0()=='nonetype' and t1()=='numeral') or (t1()=='nonetype' and t0()=='numeral'):#####################################nonetype numeral
+            num.write(look())
+        elif (t0()=='determiner' and t1()=='numeral') or (t1()=='determiner' and t0()=='numeral'):#################################determiner numeral
+            num.write(look())
+        elif (t0()=='number' and t1()=='numeral') or (t1()=='number' and t0()=='numeral'):#########################################number numeral
             num.write(look())
           ###########  
         elif t0()==t1() and t0()=='pronoun':#######################################################################################pronoun pronoun
@@ -115,6 +128,10 @@ for line in f1:
             prn.write(look())
         elif (t0()=='nonetype' and t1()=='pronoun neuter') or (t1()=='nonetype' and t0()=='pronoun neuter'):#######################nonetype pronoun neuter
             prn.write(look())
+        elif (t0()=='nonetype' and t1()=='pronoun masculine') or (t1()=='nonetype' and t0()=='pronoun masculine'):#################onetype ppronoun masculine
+            prn.write(look())
+        elif (t0()=='nonetype' and t1()=='pronoun p') or (t1()=='nonetype' and t0()=='pronoun p'):#################################nonetype pronoun p
+            prn.write(look())
           ###########
         elif (t0()=='nonetype' and t1()=='proper masculine') or (t1()=='nonetype' and t0()=='proper masculine'):###################nonetype proper masculine
             pro.write(look())
@@ -122,11 +139,29 @@ for line in f1:
             pro.write(look())
         elif (t0()=='nonetype' and t1()=='proper feminine') or (t1()=='nonetype' and t0()=='proper feminine'):#####################nonetype proper feminine
             pro.write(look())
+        elif (t0()=='proper' and t1()=='proper feminine') or (t1()=='proper' and t0()=='proper feminine'):#########################proper proper feminine
+            pro.write(look())
+        elif (t0()=='proper' and t1()=='proper masculine') or (t1()=='proper' and t0()=='proper masculine'):#######################proper proper masculine
+            pro.write(look())
+        elif (t0()=='proper neuter' and t1()=='nonetype') or (t1()=='proper neuter' and t0()=='nonetype'):#########################proper neuter proper masculine
+            pro.write(look())
           ###########
         elif t0()==t1() and t0()=='determiner':####################################################################################determiner determiner
             det.write(look())
         elif (t0()=='nonetype' and t1()=='determiner') or (t1()=='nonetype' and t0()=='determiner'):###############################nonetype determiner
             det.write(look())
+        elif (t0()=='nonetype' and t1()=='determiner feminine') or (t1()=='nonetype' and t0()=='determiner feminine'):#############nonetype determiner feminine
+            det.write(look())
+        ###-------------------###
+        ###-------------------###
+        elif (t0()=='nonetype' and t1()=='adjective adverb') or (t1()=='nonetype' and t0()=='adjective adverb'):###################nonetype adjective adverb
+            adj.write(look())
+            adv.write(look())
+        elif (t0()=='adjective' and t1()=='adjective adverb') or (t1()=='adjective' and t0()=='adjective adverb'):##################adjective adjective adverb
+            adj.write(look())
+            adv.write(look())
+        ###-------------------###
+        ###-------------------###
             ############################
 
             
@@ -154,9 +189,6 @@ for line in f2:
         tt=d[0]
         cv=d[2]
         types=str(d[1]).split('.')
-        bug=open('type/debug.txt','w')
-        bug.write(line)
-        bug.close()
         if t0()==t1() and t0()=='noun':#noun noun
             n.write(look())
         elif (t0()=='nonetype' and t1()=='noun') or (t1()=='nonetype' and t0()=='noun'):###########################################nonetype noun
@@ -167,7 +199,7 @@ for line in f2:
             n.write(look())
         elif (t0()=='noun' and t1()=='noun feminine') or (t1()=='noun' and t0()=='noun feminine'):#################################noun noun feminine
             n.write(look())
-        elif (t0()=='noune' and t1()=='noun masculine') or (t1()=='noun' and t0()=='noun masculine'):##############################noun noun masculine
+        elif (t0()=='noun' and t1()=='noun masculine') or (t1()=='noun' and t0()=='noun masculine'):##############################noun noun masculine
             n.write(look())
         elif (t0()=='noun' and t1()=='noun neuter') or (t1()=='noun' and t0()=='noun neuter'):#####################################noun noun neuter
             n.write(look())
@@ -181,6 +213,12 @@ for line in f2:
             n.write(look())
         elif (t0()=='feminine' and t1()=='noun') or (t1()=='feminine' and t0()=='noun'):###########################################feminine noun
             n.write(look())
+        elif (t0()=='neuter' and t1()=='noun') or (t1()=='neuter' and t0()=='noun'):###############################################neuter noun
+            n.write(look())
+        elif (t0()=='masculine' and t1()=='noun') or (t1()=='masculine' and t0()=='noun'):#########################################masculine noun
+            n.write(look())
+        elif (t0()=='noun particle' and t1()=='noun') or (t1()=='noun particle' and t0()=='noun'):#################################noun particle noun
+            n.write(look())
          ###########
         elif t0()==t1() and t0()=='verb':##########################################################################################verb verb
             v.write(look())
@@ -190,7 +228,9 @@ for line in f2:
             v.write(look())
         elif (t0()=='verb' and t1()=='verb pf') or (t1()=='verb' and t0()=='verb pf'):#############################################verb verb pf
             v.write(look())
-        elif (t0()=='nonetype' and t1()=='verb impf') or (t1()=='nonetype' and t0()=='verb impf'):#################################verb verb impf
+        elif (t0()=='nonetype' and t1()=='verb impf') or (t1()=='nonetype' and t0()=='verb impf'):#################################nonetype verb impf
+            v.write(look())
+        elif (t0()=='verb' and t1()=='verb impf') or (t1()=='verb' and t0()=='verb impf'):#########################################verb verb impf
             v.write(look())
          ###########    
         elif t0()==t1() and t0()=='adverb':########################################################################################adverb adverb
@@ -202,14 +242,22 @@ for line in f2:
             adj.write(look())
         elif (t0()=='nonetype' and t1()=='adjective') or (t1()=='nonetype' and t0()=='adjective'):#################################nonetype adjective
             adj.write(look())
-        elif (t0()=='nonetype' and t1()=='adjective masculine') or (t1()=='nonetype' and t0()=='adjective masculine'):#################################nonetypeadjective masculine 
+        elif (t0()=='nonetype' and t1()=='adjective masculine') or (t1()=='nonetype' and t0()=='adjective masculine'):#############nonetype adjective masculine 
             adj.write(look())
-        elif (t0()=='adjective' and t1()=='adjective masculine') or (t1()=='adjective' and t0()=='adjective masculine'):################################adjective adjective masculine
+        elif (t0()=='adjective' and t1()=='adjective masculine') or (t1()=='adjective' and t0()=='adjective masculine'):###########adjective adjective masculine
             adj.write(look())
+        elif (t0()=='adjective' and t1()=='noun masculine') or (t1()=='adjective' and t0()=='noun masculine'):#####################adjective noun masculine
+            adj.write(look())
+        #$elif (t0()=='nonetype' and t1()=='adjective noun') or (t1()=='nonetype' and t0()=='adjective noun'):######################nonetype adjective noun 
+        #$    adj.write(look())
           ###########  
         elif t0()==t1() and t0()=='numeral':#######################################################################################numeral numeral
             num.write(look())
         elif (t0()=='nonetype' and t1()=='numeral') or (t1()=='nonetype' and t0()=='numeral'):#####################################nonetype numeral
+            num.write(look())
+        elif (t0()=='determiner' and t1()=='numeral') or (t1()=='determiner' and t0()=='numeral'):#################################determiner numeral
+            num.write(look())
+        elif (t0()=='number' and t1()=='numeral') or (t1()=='number' and t0()=='numeral'):#########################################number numeral
             num.write(look())
           ###########  
         elif t0()==t1() and t0()=='pronoun':#######################################################################################pronoun pronoun
@@ -218,6 +266,10 @@ for line in f2:
             prn.write(look())
         elif (t0()=='nonetype' and t1()=='pronoun neuter') or (t1()=='nonetype' and t0()=='pronoun neuter'):#######################nonetype pronoun neuter
             prn.write(look())
+        elif (t0()=='nonetype' and t1()=='pronoun masculine') or (t1()=='nonetype' and t0()=='pronoun masculine'):#################onetype ppronoun masculine
+            prn.write(look())
+        elif (t0()=='nonetype' and t1()=='pronoun p') or (t1()=='nonetype' and t0()=='pronoun p'):#################################nonetype pronoun p
+            prn.write(look())
           ###########
         elif (t0()=='nonetype' and t1()=='proper masculine') or (t1()=='nonetype' and t0()=='proper masculine'):###################nonetype proper masculine
             pro.write(look())
@@ -225,11 +277,29 @@ for line in f2:
             pro.write(look())
         elif (t0()=='nonetype' and t1()=='proper feminine') or (t1()=='nonetype' and t0()=='proper feminine'):#####################nonetype proper feminine
             pro.write(look())
+        elif (t0()=='proper' and t1()=='proper feminine') or (t1()=='proper' and t0()=='proper feminine'):#########################proper proper feminine
+            pro.write(look())
+        elif (t0()=='proper' and t1()=='proper masculine') or (t1()=='proper' and t0()=='proper masculine'):#######################proper proper masculine
+            pro.write(look())
+        elif (t0()=='proper neuter' and t1()=='nonetype') or (t1()=='proper neuter' and t0()=='nonetype'):#########################proper neuter proper masculine
+            pro.write(look())
           ###########
         elif t0()==t1() and t0()=='determiner':####################################################################################determiner determiner
             det.write(look())
         elif (t0()=='nonetype' and t1()=='determiner') or (t1()=='nonetype' and t0()=='determiner'):###############################nonetype determiner
             det.write(look())
+        elif (t0()=='nonetype' and t1()=='determiner feminine') or (t1()=='nonetype' and t0()=='determiner feminine'):#############nonetype determiner feminine
+            det.write(look())
+        ###-------------------###
+        ###-------------------###
+        elif (t0()=='nonetype' and t1()=='adjective adverb') or (t1()=='nonetype' and t0()=='adjective adverb'):###################nonetype adjective adverb
+            adj.write(look())
+            adv.write(look())
+        elif (t0()=='adjective' and t1()=='adjective adverb') or (t1()=='adjective' and t0()=='adjective adverb'):##################adjective adjective adverb
+            adj.write(look())
+            adv.write(look())
+        ###-------------------###
+        ###-------------------###
             ############################
 
             
