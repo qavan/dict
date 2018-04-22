@@ -1,3 +1,6 @@
+көнбатыш:adjective masculine:хĕвеланăç
+көнбатыш:adjective masculine:кай
+көнбатыш:adjective masculine:анăç
 пыяла:adjective:тăрă
 көньяк:adjective:кăнтăр
 төн:adjective:каçхи
@@ -8,7 +11,13 @@
 кич:adjective:каç
 яшел:adjective:симĕс
 яшел:adjective:ешĕл
+яшел:adjective masculine:симĕс
+яшел:adjective masculine:ешĕл
+яшел:adjective masculine:симӗс
+яшел:adjective masculine:ешĕль
 сары:adjective:сарă
+сары:adjective masculine:сарă
+сары:adjective masculine:сарӑ
 түгәрәк:adjective:чăмăр
 түгәрәк:adjective:çаврашка
 түгәрәк:adjective:ҫаврака
@@ -17,6 +26,9 @@
 көзге:adjective:кĕрхи
 көзге:adjective:кĕркуннехи
 көзге:adjective:кĕр
+авыру:adjective masculine:чирлĕ
+авыру:adjective masculine:халсăр
+авыру:adjective masculine:йăшăк
 киләчәк:adjective:малашнехи
 сугыш:adjective:вăрçă
 сугыш:adjective:çap
@@ -24,10 +36,19 @@
 үткән:adjective:халичченхи
 үткән:adjective:унчченхи
 үткән:adjective:кивĕ
+зәңгәр:adjective masculine:кӑвак
+зәңгәр:adjective masculine:кăвак
+зәңгәр:adjective masculine:сенкер
+күк:adjective masculine:сенкер
+күк:adjective masculine:кăвак
+күк:adjective masculine:кӑвак
 хәзер:adjective:хальхи
 кыр:adjective:хирти
 кыр:adjective:хир
 кыйммәт:adjective:паха
+мәет:adjective masculine:виле
+мәет:adjective masculine:ÿт
+көрән:adjective masculine:çырă
 көрән:adjective:хăмăр
 иртә:adjective:малтанхи
 иртә:adjective:ирхи
@@ -50,6 +71,7 @@
 гүзел:adjective:капăр
 имәнеч:adjective:хăрушă
 серле:adjective:вăрттăн
+хакас теле:adjective masculine:хакас чĕлхи
 сүзчән:adjective:чараксăр
 сүзчән:adjective:сÿпĕлти
 сүзчән:adjective:пакăлти
@@ -85,6 +107,7 @@
 хәсрәтле:adjective:салхуллă
 хәсрәтле:adjective:салху
 күп санлы:adjective:йышлă
+урындагы:adjective masculine:тĕп
 борынгы:adjective:тахçанхи
 борынгы:adjective:авалхи
 борынгы:adjective:ĕлĕкхи
@@ -98,6 +121,12 @@
 күңелсез:adjective:хурлăхлă
 күңелсез:adjective:салху
 ышандырырлык:adjective:ĕненмелле
+читен:adjective masculine:хĕсĕк
+читен:adjective masculine:тертлĕ
+читен:adjective masculine:нушаллă
+читен:adjective masculine:кансĕр
+читен:adjective masculine:кăткăс
+читен:adjective masculine:йывăр
 шомлы:adjective:хумханчăк
 шомлы:adjective:канăçсăр
 шөбһәле:adjective:шанчăксăр
@@ -162,6 +191,12 @@ yalqaw:adjective:наян
 yalqaw:adjective:мăран
 yalqaw:adjective:кахал
 yalqaw:adjective:ÿркенчĕк
+беркатлы:adjective masculine:ансат
+беркатлы:adjective masculine:çăмăл
+беркатлы:adjective masculine:çÿхе
+беркатлы:adjective masculine:ҫӑмӑл
+беркатлы:adjective masculine:юмарт
+беркатлы:adjective masculine:ахаль
 йөкле:adjective:хырăмлă
 дипломат ...ы:adjective:дипломат
 сиксәненче:adjective:сакăрвуннăмĕш
@@ -169,9 +204,14 @@ yalqaw:adjective:ÿркенчĕк
 тәэсирле:adjective:вăйăмлă
 йогынтылы:adjective:вăйăмлă
 илаһи:adjective:турă
+яшель:adjective masculine:симĕс
+яшель:adjective masculine:ешĕл
+яшель:adjective masculine:симӗс
+яшель:adjective masculine:ешĕль
 талаучылар:adjective:хурахла
 талаучылар:adjective:хурах
 талаучылар:adjective:бандитла
+азербайджан теле:adjective masculine:азербайджан чĕлхи
 җир:adjective:çĕр
 җир:adjective:тăпра
 kızıl:adjective:сарă
@@ -179,11 +219,19 @@ kızıl:adjective:хĕрлĕ
 гәүдә:nonetype:виле
 корпус:nonetype:виле
 мәет:nonetype:виле
+малайча:adjective masculine:малай
 эш:adjective:ĕç
+татар:adjective masculine:тутар
 начарлык:adjective:япӑх
 начарлык:adjective:япăх
 начарлык:adjective:начар
+корпус:adjective masculine:виле
+корпус:adjective masculine:ÿт
 контроль:adjective:тĕрĕслев
+гәүдә:adjective masculine:виле
+гәүдә:adjective masculine:ÿт
+бур:adjective masculine:пурӑ
+акбур:adjective masculine:пурӑ
 һава:adjective:сывлăш
 сылу:adjective:яштак
 сылу:adjective:кĕрнеклĕ
@@ -219,6 +267,14 @@ kızıl:adjective:хĕрлĕ
 азат:adjective:ирĕклĕ
 азат:adjective:ирĕк
 яссы:adjective:лапчăк
+ярлы:adjective masculine:шеремет
+ярлы:adjective masculine:чухăн
+ярлы:adjective masculine:начар
+ярлы:adjective masculine:мĕскĕн
+ярлы:adjective masculine:мăнтарăн
+ярлы:adjective masculine:кăрачă
+ярлы:adjective masculine:кăрăс
+ярлы:adjective masculine:апăрша
 ярык:adjective:çурăк
 яраклы:adjective:юрăхлă
 ялтыравыклы:adjective:ялтăркка
@@ -293,8 +349,15 @@ kızıl:adjective:хĕрлĕ
 ябык:adjective:кăрачă
 ябык:adjective:хупă
 ябык:adjective:питĕрĕнчĕк
+юләр:adjective masculine:ухмах
 юләр:adjective:начар
 югары:adjective:аслă
+югары:adjective masculine:пысăк
+югары:adjective masculine:мухтавлă
+югары:adjective masculine:вăрăм
+югары:adjective masculine:çÿл
+югары:adjective masculine:çÿллĕ
+югары:adjective masculine:ҫӳллӗ
 эре:adjective:шултра
 эре:adjective:пысăк
 эре:adjective:мăнă
@@ -314,6 +377,19 @@ kızıl:adjective:хĕрлĕ
 элеккеге:adjective:унчченхи
 элеккеге:adjective:кивĕ
 чыдам:adjective:чăтăмлă
+чиста:adjective masculine:янкăр
+чиста:adjective masculine:тирпейлĕ
+чиста:adjective masculine:тăрă
+чиста:adjective masculine:çара
+чиста:adjective masculine:таса
+фәкыйрь:adjective masculine:шеремет
+фәкыйрь:adjective masculine:чухăн
+фәкыйрь:adjective masculine:начар
+фәкыйрь:adjective masculine:мĕскĕн
+фәкыйрь:adjective masculine:мăнтарăн
+фәкыйрь:adjective masculine:кăрачă
+фәкыйрь:adjective masculine:кăрăс
+фәкыйрь:adjective masculine:апăрша
 чиксез:adjective:чикĕсĕр
 чиксез:adjective:виçесĕр
 шәфкатьсез:adjective:тискер
@@ -351,6 +427,13 @@ kızıl:adjective:хĕрлĕ
 хосусый:adjective:ăрасна
 хәлсез:adjective:хавшак
 хәлсез:adjective:вăйсăр
+тыгыз:adjective masculine:хĕсĕк
+тыгыз:adjective masculine:тăвăр
+тыгыз:adjective masculine:çинçе
+тыгыз:adjective masculine:тӑвӑр
+тыгыз:adjective masculine:тǎвǎр
+тыгыз:adjective masculine:ансӑр
+тыгыз:adjective masculine:ансăр
 тыгыз:adjective:хĕсĕк
 тыгыз:adjective:тачă
 тыгыз:adjective:тăвăр
@@ -371,6 +454,7 @@ kızıl:adjective:хĕрлĕ
 үткер:adjective:шӗвӗр
 үткер:adjective:вичкĕн
 үткер:adjective:çивĕч
+тугры:adjective masculine:тÿрĕ
 тугры:adjective:шанчăклă
 тугры:adjective:тĕрĕс
 түбәнге:adjective:аялти
@@ -379,8 +463,16 @@ kızıl:adjective:хĕрлĕ
 тупас:adjective:чурăс
 тупас:adjective:чăртмах
 тупас:adjective:тÿрккес
+түземле:adjective masculine:чăтăмлă
 туган:adjective:тăван
 уртак:adjective:пĕрлехи
+урта:adjective masculine:вăтам
+урта:adjective masculine:вăталăх
+урта:adjective masculine:вăта
+төнге:adjective masculine:каçхи
+төнге:adjective masculine:каç
+төнге:adjective masculine:çĕрлехи
+төнге:adjective masculine:çĕр
 түбән:adjective:лутака
 түбән:adjective:лутра
 төрле:adjective:ăрасна
@@ -417,15 +509,22 @@ kızıl:adjective:хĕрлĕ
 тигез:adjective:такǎр
 тигез:adjective:тÿрĕ
 тигез:adjective:яка
+тигез:adjective masculine:тан
 төпле:adjective:тарăн
 тонык:adjective:шурă
 тонык:adjective:чакăр
 тонык:adjective:çутă
 тонык:adjective:тăрă
+тонык:adjective masculine:шуранка
+тонык:adjective masculine:шупка
+тонык:adjective masculine:шĕвĕ
 тирән:adjective:тарăн
 тирән:adjective:тарӑн
+тиң:adjective masculine:тан
 тәмле:adjective:ырă
 тәмле:adjective:савăк
+тәмле:adjective masculine:тутлă
+тәмле:adjective masculine:сĕтеклĕ
 тәҗрибәле:adjective:сăнавлă
 тәҗрибәле:adjective:сăнав
 тәҗрибәле:adjective:опытлă
@@ -467,11 +566,21 @@ kızıl:adjective:хĕрлĕ
 таза:adjective:сывă
 таза:adjective:сиплĕ
 таза:adjective:патвар
+таза:adjective masculine:янкăр
+таза:adjective masculine:тирпейлĕ
+таза:adjective masculine:тăрă
+таза:adjective masculine:çара
+таза:adjective masculine:таса
 сулы:adjective:вутăш
 сулы:adjective:шывак
 саф:adjective:сулхăн
 саф:adjective:çемçе
 саф:adjective:çĕнĕ
+саф:adjective masculine:янкăр
+саф:adjective masculine:тирпейлĕ
+саф:adjective masculine:тăрă
+саф:adjective masculine:çара
+саф:adjective masculine:таса
 радиоактив:adjective:радиоактивлă
 сау:adjective:сывлăхлă
 сау:adjective:парка
@@ -482,6 +591,7 @@ kızıl:adjective:хĕрлĕ
 сау:adjective:сывă
 сау:adjective:сиплĕ
 сау:adjective:патвар
+сабыр:adjective masculine:чăтăмлă
 рәтле:adjective:путлĕ
 рәтле:adjective:ĕретлĕ
 сирәк:adjective:шалатка
@@ -545,6 +655,7 @@ kızıl:adjective:хĕрлĕ
 нык:adjective:кервен
 нык:adjective:йĕкер
 нык:adjective:çирĕп
+намуслы:adjective masculine:тÿрĕ
 пакъ:adjective:янкăр
 пакъ:adjective:тирпейлĕ
 пакъ:adjective:тăрă
@@ -572,6 +683,7 @@ kızıl:adjective:хĕрлĕ
 мул:adjective:тулăх
 мәңгелек:adjective:ĕмĕрхи
 мәҗбүри:adjective:ирĕксĕр
+махсус:adjective masculine:ятарлă
 лаек:adjective:тивĕçлĕ
 лаек:adjective:çителĕклĕ
 майлы:adjective:çу
@@ -593,7 +705,15 @@ kızıl:adjective:хĕрлĕ
 кыен:adjective:лÿппер
 кыен:adjective:йывăр
 кыен:adjective:йывӑр
+кыен:adjective masculine:хĕсĕк
+кыен:adjective masculine:тертлĕ
+кыен:adjective masculine:нушаллă
+кыен:adjective masculine:кансĕр
+кыен:adjective masculine:кăткăс
+кыен:adjective masculine:йывăр
 куркыныч:adjective:хăрушă
+кызганыч:adjective masculine:мĕскĕн
+кызганыч:adjective masculine:мăнтарăн
 күркәм:adjective:эреветлĕ
 күркәм:adjective:чипер
 күркәм:adjective:чечен
@@ -605,6 +725,8 @@ kızıl:adjective:хĕрлĕ
 күркәм:adjective:илемлĕ
 күркәм:adjective:ĕлккен
 күркәм:adjective:капăр
+кыйбатлы:adjective masculine:паха
+кыйбатлы:adjective masculine:хаклă
 кыйбат:adjective:паха
 кыйбат:adjective:хаклă
 күптәнге:adjective:тахçанхи
@@ -655,6 +777,7 @@ kızıl:adjective:хĕрлĕ
 караңгы:adjective:сĕм
 караңгы:adjective:тӗттӗм
 караңгы:adjective:сӗм
+канлы:adjective masculine:юнлă
 катлаулы:adjective:кăткăс
 канәгать:adjective:хавас
 каты:adjective:шартлама
@@ -674,10 +797,13 @@ kızıl:adjective:хĕрлĕ
 кайнар:adjective:кăрсака
 кайнар:adjective:вĕри
 кайнар:adjective:хĕрÿллĕ
+кадерле:adjective masculine:паха
+кадерле:adjective masculine:хаклă
 кайгылы:adjective:хурланчăк
 кайгылы:adjective:салхуллă
 кайгылы:adjective:салху
 кайгылы:adjective:хурлăхлă
+кайгылы:adjective masculine:хуйхăллă
 йомшак:adjective:кăпăш
 йомшак:adjective:йăмшак
 йомшак:adjective:çепĕç
@@ -685,6 +811,7 @@ kızıl:adjective:хĕрлĕ
 йомшак:adjective:çемçе
 иясез:adjective:хуçасăр
 истәлекле:adjective:асăнмалăх
+исерек:adjective masculine:ÿсĕр
 исән:adjective:чĕрĕ
 исән:adjective:йăрă
 искитәрлек:adjective:тĕлĕнмелле
@@ -710,6 +837,7 @@ kızıl:adjective:хĕрлĕ
 иҗади:adjective:пултарулăх
 заманча:adjective:хальхи
 җитди:adjective:тарăн
+җирле:adjective masculine:тĕп
 җирән:adjective:çÿрен
 җаваплы:adjective:ответлă
 җирәнгеч:adjective:йĕрĕнчĕк
@@ -759,10 +887,18 @@ kızıl:adjective:хĕрлĕ
 гадәти:adjective:йĕркеллĕ
 гаскәри:adjective:салтак
 гаскәри:adjective:çap
+гаскәри:adjective masculine:вăрçă
+гаскәри:adjective masculine:çap
 гаепле:adjective:айăплă
 гади:adjective:сăпайлă
 гади:adjective:сăпай
 гади:adjective:ахаль
+гади:adjective masculine:ансат
+гади:adjective masculine:çăмăл
+гади:adjective masculine:çÿхе
+гади:adjective masculine:ҫӑмӑл
+гади:adjective masculine:юмарт
+гади:adjective masculine:ахаль
 гадәттән тыш:adjective:виçесĕр
 вак:adjective:ӑшӑх
 вак:adjective:хунав
@@ -797,6 +933,7 @@ kızıl:adjective:хĕрлĕ
 бәхетле:adjective:хаваслă
 бәхетле:adjective:савăнăçлă
 бәхетле:adjective:савăк
+бәхетле:adjective masculine:телейлĕ
 ахыргы:adjective:кайри
 ахыргы:adjective:юлашки
 бертуган:adjective:тăван
@@ -858,6 +995,8 @@ kızıl:adjective:хĕрлĕ
 аргы:adjective:инçе
 ансат:adjective:ансат
 атаклы:adjective:лайăх
+атаклы:adjective masculine:чаплă
+атаклы:adjective masculine:мухтавлă
 алдынгы:adjective:малти
 арткы:adjective:хыçалти
 арткы:adjective:хыçал
@@ -881,15 +1020,23 @@ kızıl:adjective:хĕрлĕ
 аман:adjective:патвар
 аллы:adjective:хĕрлĕ
 акыллы:adjective:чее
+акыллы:adjective masculine:ăслă
+акыллы:adjective masculine:ӑслӑ
+акыллы:adjective masculine:тăнлă
 аерым:adjective:уйрăм
 аерым:adjective:ăрасна
+аерым:adjective masculine:ăрасна
 агулы:adjective:наркăмăшлă
 абруйлы:adjective:вăйăмлă
+ят:adjective masculine:ют
+ят:adjective masculine:çын
 тын:adjective:шăп
 тын:adjective:тăнăç
 тын:adjective:тÿлек
 тын:adjective:лăпкă
 тын:adjective:лăп
+куш:adjective masculine:мăшăрлă
+куш:adjective masculine:йĕкĕр
 көндез:adjective:кăнтăрлахи
 көндез:adjective:кăнтăрла
 ал:adjective:кĕрен
@@ -922,12 +1069,21 @@ kızıl:adjective:хĕрлĕ
 соры:adjective:шупка
 соры:adjective:чакăр
 сакчыл:adjective:перекетлĕ
+әйбәт:adjective masculine:юрăхлă
+әйбәт:adjective masculine:ырă
+әйбәт:adjective masculine:чипер
+әйбәт:adjective masculine:путлĕ
+әйбәт:adjective masculine:паха
+әйбәт:adjective masculine:лайӑх
+әйбәт:adjective masculine:лайăх
+әйбәт:adjective masculine:аван
 иртәнге:adjective:ирхи
 бире:adjective:юнашар
 бире:adjective:çывахри
 бире:adjective:çывăх
 тырыш:adjective:тимлĕ
 тырышучан:adjective:тимлĕ
+хәзерге:adjective masculine:хальхи
 хәзерге:adjective:хальхи
 замана:adjective:хальхи
 куәтле:adjective:шартлама
@@ -942,7 +1098,11 @@ kızıl:adjective:хĕрлĕ
 көчле:adjective:кăра
 көчле:adjective:вирлĕ
 көчле:adjective:вăйлă
+чит:adjective masculine:ют
+чит:adjective masculine:çын
 озынча:adjective:тăрăхла
+бәйрәм:adjective masculine:уяв
+бәйрәм:adjective masculine:праçник
 хаталы:adjective:йăнăшлă
 хаталы:adjective:йăнăш
 ялгышлы:adjective:йăнăшлă
@@ -953,12 +1113,15 @@ kızıl:adjective:хĕрлĕ
 төп:adjective:тĕп
 төп:adjective:мăнă
 төп:adjective:аслă
+төп:adjective masculine:тĕп
+төп:adjective masculine:мăнă
 алман:adjective:нимĕç чĕлхи
 алман:adjective:нимĕç
 рәхәт:adjective:ырă
 рәхәт:adjective:савăк
 сөтле:adjective:сĕтлĕ
 сөтле:adjective:сĕт
+сөйкемле:adjective masculine:савни
 сөйкемле:adjective:кăсăк
 ягымлы:adjective:ырă
 ягымлы:adjective:савăк
@@ -995,6 +1158,7 @@ kızıl:adjective:хĕрлĕ
 нәфис:adjective:çинче
 нәфис:adjective:чечен
 нәзакәтле:adjective:чечен
+яшь:adjective masculine:кĕçĕн
 яшь:adjective:ҫамрӑк
 яшь:adjective:яш
 яшь:adjective:хунав
@@ -1038,6 +1202,22 @@ shikle:adjective:тĕттĕм
 shikle:adjective:сĕм
 shikle:adjective:тӗттӗм
 shikle:adjective:сӗм
+мохтаҗ:adjective masculine:шеремет
+мохтаҗ:adjective masculine:чухăн
+мохтаҗ:adjective masculine:начар
+мохтаҗ:adjective masculine:мĕскĕн
+мохтаҗ:adjective masculine:мăнтарăн
+мохтаҗ:adjective masculine:кăрачă
+мохтаҗ:adjective masculine:кăрăс
+мохтаҗ:adjective masculine:апăрша
+мескен:adjective masculine:шеремет
+мескен:adjective masculine:чухăн
+мескен:adjective masculine:начар
+мескен:adjective masculine:мĕскĕн
+мескен:adjective masculine:мăнтарăн
+мескен:adjective masculine:кăрачă
+мескен:adjective masculine:кăрăс
+мескен:adjective masculine:апăрша
 бөек:adjective:пысăк
 бөек:adjective:мăн
 ахмак:adjective:начар
@@ -1047,9 +1227,19 @@ ağulı:adjective:наркăмăшлă
 тәкәббер:adjective:мăн кăмăллă
 әһәмиятле:adjective:чылай
 әһәмиятле:adjective:самай
+тугызынчы:adjective masculine:тӑххӑрмӗш
+беренче:adjective masculine:малтанхи
+беренче:adjective masculine:пӗрремӗш
+татлы:adjective masculine:тутлă
+татлы:adjective masculine:тутлӑ
+татлы:adjective masculine:пылак
+икенче:adjective masculine:иккӗмӗш
 яңа:adjective:сулхăн
 яңа:adjective:çемçе
 яңа:adjective:çĕнĕ
+яңа:adjective masculine:шӗнӗ
+яңа:adjective masculine:çĕнĕ
+яңа:adjective masculine:ҫӗнӗ
 кәгазь:adjective:хут
 усал:adjective:хаяр
 усал:adjective:çиллес
@@ -1067,6 +1257,12 @@ siräk:adjective:сайра
 башкорт:adjective:пушкăрт
 тиңдәш:adjective:тан
 авыр:adjective:йывăр
+авыр:adjective masculine:хĕсĕк
+авыр:adjective masculine:тертлĕ
+авыр:adjective masculine:нушаллă
+авыр:adjective masculine:кансĕр
+авыр:adjective masculine:кăткăс
+авыр:adjective masculine:йывăр
 авыр:adjective:хĕсĕк
 авыр:adjective:тертлĕ
 авыр:adjective:сулмаклă
@@ -1085,15 +1281,35 @@ siräk:adjective:сайра
 тулы:adjective:кÿпшек
 тулы:adjective:ÿтлĕ
 тулы:adjective:туллы
+малай:adjective masculine:малай
+озын:adjective masculine:пысăк
+озын:adjective masculine:мухтавлă
+озын:adjective masculine:вăрăм
+озын:adjective masculine:çÿл
+озын:adjective masculine:çÿллĕ
+озын:adjective masculine:ҫӳллӗ
 озын:adjective:тăрăхла
 озын:adjective:вăрăм
 озын:adjective:вӑрӑм
 соңгы:adjective:кайри
 соңгы:adjective:юлашки
+җиңел:adjective masculine:ансат
+җиңел:adjective masculine:çăмăл
+җиңел:adjective masculine:çÿхе
+җиңел:adjective masculine:ҫӑмӑл
 җиңел:adjective:ансат
 җиңел:adjective:çăмăл
 җиңел:adjective:çÿхе
 яхшы:adjective:лайăх
+яхшы:adjective masculine:ырă
+яхшы:adjective masculine:ырӑ
+яхшы:adjective masculine:лайăх
+яхшы:adjective masculine:юрăхлă
+яхшы:adjective masculine:чипер
+яхшы:adjective masculine:путлĕ
+яхшы:adjective masculine:паха
+яхшы:adjective masculine:лайӑх
+яхшы:adjective masculine:аван
 җылы:adjective:ăшă
 аек:adjective:урă
 сул:adjective:сулахайри
@@ -1117,6 +1333,10 @@ siräk:adjective:сайра
 аудио:adjective:сасă
 бай:adjective:тулăх
 бай:adjective:пуян
+буш:adjective masculine:пушă
+буш:adjective masculine:ирĕклĕ
+буш:adjective masculine:ирĕк
+буш:adjective masculine:çара
 suqır:adjective:суккăр
 suqır:adjective:куçсăр
 эффектив:adjective:ÿсĕмлĕ
@@ -1143,14 +1363,26 @@ keçkenä:adjective:пӗчӗк
 үткен:adjective:шӗвӗр
 үткен:adjective:вичкĕн
 үткен:adjective:çивĕч
+тар:adjective masculine:хĕсĕк
+тар:adjective masculine:тăвăр
+тар:adjective masculine:çинçе
+тар:adjective masculine:тӑвӑр
+тар:adjective masculine:тǎвǎр
+тар:adjective masculine:ансӑр
+тар:adjective masculine:ансăр
+азербайджан:adjective masculine:азербайджан чĕлхи
 кызыл:adjective:хĕрлĕ
 кызыл:adjective:сарă
+дөрес:adjective masculine:чǎн
+дөрес:adjective masculine:тĕрĕс
 ачу:adjective:уçăмлă
 ачу:adjective:уçă
 ачу:adjective:кĕрет
 ozın:adjective:тăрăхла
 ozın:adjective:вăрăм
 ozın:adjective:вӑрӑм
+якын:adjective masculine:çывахри
+якын:adjective masculine:çывăх
 киң:adjective:шалпар
 киң:adjective:аслă
 киң:adjective:анлă
@@ -1165,6 +1397,9 @@ ozın:adjective:вӑрӑм
 пычрак:adjective:лапраллă
 пычрак:adjective:çÿплĕ
 бәби:adjective:ачалăх
+yaña:adjective masculine:шӗнӗ
+yaña:adjective masculine:çĕнĕ
+yaña:adjective masculine:ҫӗнӗ
 туры:adjective:тĕрĕс
 туры:adjective:яштак
 туры:adjective:тÿрĕ
@@ -1220,6 +1455,8 @@ ozın:adjective:вӑрӑм
 дымлы:adjective:нÿрĕк
 дымлы:adjective:нÿрĕ
 дымлы:adjective:йĕпе
+кыска:adjective masculine:кĕске
+кыска:adjective masculine:кӗске
 кечкенә:adjective:сахал
 кечкенә:adjective:пӗчӗк
 кечкенә:adjective:пĕчĕк
@@ -1253,6 +1490,12 @@ ozın:adjective:вӑрӑм
 шома:adjective:яка
 китап:adjective:кĕнеке
 биек:adjective:ҫӳллӗ
+биек:adjective masculine:пысăк
+биек:adjective masculine:мухтавлă
+биек:adjective masculine:вăрăм
+биек:adjective masculine:çÿл
+биек:adjective masculine:çÿллĕ
+биек:adjective masculine:ҫӳллӗ
 нәзек:adjective:çинçе
 нәзек:adjective:çÿхе
 нәзек:adjective:ҫӳхе
@@ -1268,6 +1511,7 @@ ozın:adjective:вӑрӑм
 ерак:adjective:аякри
 ерак:adjective:инче
 вәхши:adjective:выльăх
+кече:adjective masculine:кĕçĕн
 кече:adjective:пĕчĕк
 кече:adjective:пӗчӗк
 читтәге:nonetype:катари
@@ -1276,6 +1520,15 @@ ozın:adjective:вӑрӑм
 зур:adjective:анлǎ
 зур:adjective:шалпар
 зур:adjective:сарлака
+зур:adjective masculine:шултра
+зур:adjective masculine:мăнттай
+зур:adjective masculine:мăнă
+зур:adjective masculine:кервен
+зур:adjective masculine:йышлă
+зур:adjective masculine:аслă
+зур:adjective masculine:мăн
+зур:adjective masculine:пысăк
+зур:adjective masculine:пысӑк
 аз:adjective:шутлă
 аз:adjective:хисеплĕ
 керле:adjective:лапра
@@ -1286,6 +1539,17 @@ ozın:adjective:вӑрӑм
 керле:adjective:лапраллă
 керле:adjective:çÿплĕ
 калын:adjective:хулăн
+калын:adjective masculine:шыçмак
+калын:adjective masculine:тулли
+калын:adjective masculine:тапчам
+калын:adjective masculine:самăр
+калын:adjective masculine:парка
+калын:adjective masculine:мăнтăр
+калын:adjective masculine:кÿпшек
+калын:adjective masculine:хулӑн
+калын:adjective masculine:тачка
+калын:adjective masculine:хулăн
+янгынчы:nonetype:пушар
 имәнеч:nonetype:хăрушă
 тыгыз:adjective:ансăр
 тыгыз:adjective:тăвăр
@@ -1306,6 +1570,7 @@ ozın:adjective:вӑрӑм
 көрән:nonetype:хăмăр
 көрән:nonetype:çырă
 акыллы:adjective:чее
+хакас теле:nonetype:хакас чĕлхи
 бәбәй:adjective:ача
 бәбәй:adjective:ачалăх
 бәби:adjective:ача
@@ -1391,10 +1656,16 @@ ozın:adjective:вӑрӑм
 матур:nonetype:янкăс
 гадәттәге:nonetype:ахаль
 гади:nonetype:ахаль
+савз:nonetype:симӗс
+зэрд:nonetype:сарӑ
+зэрд:nonetype:сарă
 тәэсирле:nonetype:вăйăмлă
 йогынтылы:nonetype:вăйăмлă
 абруйлы:adjective:вăйăмлă
 илаһи:nonetype:турă
+җиңел:adjective:ҫӑмӑл
+гади:adjective:ҫӑмӑл
+беркатлы:nonetype:ҫӑмӑл
 яшь:adjective:ҫамрӑк
 яшь:adjective:яш
 яшь:adjective:çамрăк
@@ -1513,6 +1784,18 @@ yalqaw:nonetype:мăран
 урта:adjective:вăта
 төрле:adjective:ăрасна
 төрле:adjective:тĕрлĕ
+үлек:nonetype:виле
+үлек:nonetype:ÿт
+үле:adjective:виле
+үле:adjective:ÿт
+мәет:nonetype:виле
+мәет:nonetype:ÿт
+үлек:adjective:виле
+үлек:adjective:ÿт
+корпус:nonetype:виле
+корпус:nonetype:ÿт
+гәүдә:nonetype:виле
+гәүдә:nonetype:ÿт
 тышкы:adjective:тулаш
 тышкы:adjective:тулашри
 тышкы:adjective:çи
@@ -1529,8 +1812,10 @@ yalqaw:nonetype:мăран
 иң мөһим:nonetype:мăнă
 иң мөһим:nonetype:тĕп
 тонык:adjective:шуранка
+тонык:adjective:шупка
 тонык:adjective:шĕвĕ
 агарынган:nonetype:шуранка
+агарынган:nonetype:шупка
 агарынган:nonetype:шĕвĕ
 юләр:adjective:ухмах
 юләр:adjective:начар
@@ -1936,28 +2221,43 @@ yalqaw:nonetype:мăран
 ачы:adjective:такăс
 ачы:adjective:хĕрхÿ
 дини:adjective:тĕн
+кыйбатлы:adjective:хаклă
+кыйбатлы:adjective:паха
+кыйбат:adjective:хаклă
+кыйбат:adjective:паха
+кадерле:adjective:хаклă
+кадерле:adjective:паха
+газиз:adjective:хаклă
+газиз:adjective:паха
+бәяле:adjective:хаклă
+бәяле:adjective:паха
 атлы:adjective:ут
 астыртын:adjective:вăрттăн
 түбәнге:adjective:аялти
 түбәнге:adjective:анатри
 аскы:adjective:аялти
 аскы:adjective:анатри
+пакъ:adjective:таса
 пакъ:adjective:тирпейлĕ
 пакъ:adjective:тăрă
 пакъ:adjective:çара
 пакъ:adjective:янкăр
+ару:adjective:таса
 ару:adjective:тирпейлĕ
 ару:adjective:тăрă
 ару:adjective:çара
 ару:adjective:янкăр
+чиста:adjective:таса
 чиста:adjective:тирпейлĕ
 чиста:adjective:тăрă
 чиста:adjective:çара
 чиста:adjective:янкăр
+таза:adjective:таса
 таза:adjective:тирпейлĕ
 таза:adjective:тăрă
 таза:adjective:çара
 таза:adjective:янкăр
+саф:adjective:таса
 саф:adjective:тирпейлĕ
 саф:adjective:тăрă
 саф:adjective:çара
@@ -2000,31 +2300,39 @@ yalqaw:nonetype:мăран
 анык:adjective:тăрă
 анык:adjective:янкăр
 анык:adjective:çутă
+таза:adjective:сывлăхлă
 таза:adjective:усăллă
 таза:adjective:сывлăхшăн лайăх
 таза:adjective:вăйлă
 таза:adjective:парка
+таза:adjective:сывă
 таза:adjective:тĕреклĕ
 таза:adjective:сиплĕ
 таза:adjective:патвар
+сәламәт:adjective:сывлăхлă
 сәламәт:adjective:усăллă
 сәламәт:adjective:сывлăхшăн лайăх
 сәламәт:adjective:вăйлă
 сәламәт:adjective:парка
+сәламәт:adjective:сывă
 сәламәт:adjective:тĕреклĕ
 сәламәт:adjective:сиплĕ
 сәламәт:adjective:патвар
+сау:adjective:сывлăхлă
 сау:adjective:усăллă
 сау:adjective:сывлăхшăн лайăх
 сау:adjective:вăйлă
 сау:adjective:парка
+сау:adjective:сывă
 сау:adjective:тĕреклĕ
 сау:adjective:сиплĕ
 сау:adjective:патвар
+аман:adjective:сывлăхлă
 аман:adjective:усăллă
 аман:adjective:сывлăхшăн лайăх
 аман:adjective:вăйлă
 аман:adjective:парка
+аман:adjective:сывă
 аман:adjective:тĕреклĕ
 аман:adjective:сиплĕ
 аман:adjective:патвар
@@ -2059,6 +2367,9 @@ yalqaw:nonetype:мăран
 агарган:nonetype:шурă
 агарган:nonetype:сăрă
 тырышучан:nonetype:тимлĕ
+хәзерге:nonetype:хальхи
+заманча:adjective:хальхи
+замана:nonetype:хальхи
 нык:nonetype:вирлĕ
 нык:nonetype:вăйлă
 нык:nonetype:патвар
@@ -2150,21 +2461,33 @@ aç:nonetype:выçлăх
 жовон:nonetype:çамрăк
 жовон:nonetype:çĕнĕ
 жовон:nonetype:хунав
+фәкыйрь:adjective:апăрша
+фәкыйрь:adjective:чухăн
+фәкыйрь:adjective:мĕскĕн
 фәкыйрь:adjective:кăрăс
 фәкыйрь:adjective:мăнтарăн
 фәкыйрь:adjective:начар
 фәкыйрь:adjective:шеремет
 фәкыйрь:adjective:кăрачă
+ярлы:adjective:апăрша
+ярлы:adjective:чухăн
+ярлы:adjective:мĕскĕн
 ярлы:adjective:кăрăс
 ярлы:adjective:мăнтарăн
 ярлы:adjective:начар
 ярлы:adjective:шеремет
 ярлы:adjective:кăрачă
+мохтаҗ:nonetype:апăрша
+мохтаҗ:nonetype:чухăн
+мохтаҗ:nonetype:мĕскĕн
 мохтаҗ:nonetype:кăрăс
 мохтаҗ:nonetype:мăнтарăн
 мохтаҗ:nonetype:начар
 мохтаҗ:nonetype:шеремет
 мохтаҗ:nonetype:кăрачă
+мескен:adjective:апăрша
+мескен:adjective:чухăн
+мескен:adjective:мĕскĕн
 мескен:adjective:кăрăс
 мескен:adjective:мăнтарăн
 мескен:adjective:начар
@@ -2174,19 +2497,31 @@ aç:nonetype:выçлăх
 караңгы:adjective:сӗм
 shikle:nonetype:тӗттӗм
 shikle:nonetype:сӗм
+эвэли:nonetype:пирвайхи
+эвэли:nonetype:малтанхи
+сие:nonetype:хура
+юләр:adjective:ухмах
+тиле:adjective:ухмах
+акылсыз:adjective:ухмах
+ару:adjective:лайӑх
 ару:adjective:юрăхлă
+ару:adjective:аван
 ару:adjective:лайăх
 ару:adjective:чипер
 ару:adjective:путлĕ
 ару:adjective:ырă
 ару:adjective:паха
+әйбәт:adjective:лайӑх
 әйбәт:adjective:юрăхлă
+әйбәт:adjective:аван
 әйбәт:adjective:лайăх
 әйбәт:adjective:чипер
 әйбәт:adjective:путлĕ
 әйбәт:adjective:ырă
 әйбәт:adjective:паха
+яхшы:adjective:лайӑх
 яхшы:adjective:юрăхлă
+яхшы:adjective:аван
 яхшы:adjective:лайăх
 яхшы:adjective:чипер
 яхшы:adjective:путлĕ
@@ -2207,22 +2542,35 @@ ala:nonetype:чакăр
 тәкәббер:nonetype:мăн кăмăллă
 тәкәббер:nonetype:мăнаçлă
 тугызынчы:adjective:тӑххӑрмӗш
+тәүге:adjective:пирвайхи
+тәүге:adjective:малтанхи
+беренче:adjective:пирвайхи
+беренче:adjective:малтанхи
 татлы:nonetype:тутлă
+татлы:nonetype:пылак
+татлы:nonetype:тутлӑ
+сары:adjective:сарӑ
+сары:adjective:сарă
 икенче:adjective:иккӗмӗш
 тулы:nonetype:пĕр
+тулы:nonetype:пĕтĕм
 бөтен:adjective:пĕр
+бөтен:adjective:пĕтĕм
 читен:nonetype:кăткăс
 читен:nonetype:кансĕр
 читен:nonetype:нушаллă
+читен:nonetype:йывăр
 читен:nonetype:тертлĕ
 читен:nonetype:хĕсĕк
 кыен:adjective:кансĕр
 кыен:adjective:нушаллă
+кыен:adjective:йывăр
 кыен:adjective:тертлĕ
 кыен:adjective:хĕсĕк
 авыр:adjective:кăткăс
 авыр:adjective:кансĕр
 авыр:adjective:нушаллă
+авыр:adjective:йывăр
 авыр:adjective:тертлĕ
 авыр:adjective:хĕсĕк
 каты:nonetype:йывăр
@@ -2284,9 +2632,13 @@ ala:nonetype:чакăр
 кыр:nonetype:уй
 кыр:nonetype:хирти
 кыр:nonetype:хир
+төнге:adjective:каçхи
 төнге:adjective:каç
+төнге:adjective:çĕрлехи
 төнге:adjective:çĕр
+төн:nonetype:каçхи
 төн:nonetype:каç
+төн:nonetype:çĕрлехи
 төн:nonetype:çĕр
 уртак:adjective:пĕрлехи
 күмәк:adjective:пĕрлехи
@@ -2327,6 +2679,8 @@ ala:nonetype:чакăр
 дәүләти:adjective:патшалăх
 зәңгәр:adjective:кӑвак
 күк:adjective:кӑвак
+кыска:adjective:кӗске
+кыска:adjective:кĕске
 сирәк:adjective:сайра
 сирәк:adjective:шалатка
 сирәк:adjective:шĕвĕ
@@ -2380,6 +2734,8 @@ sani:nonetype:сивӗ
 игелекле:nonetype:лайăх
 игелекле:nonetype:ырă
 яхшы:adjective:ырӑ
+малай:nonetype:малай
+малайча:nonetype:малай
 айнык:nonetype:урă
 сул:adjective:сулахайри
 сул:adjective:сулахай
@@ -2388,12 +2744,15 @@ sani:nonetype:сивĕ
 уң:adjective:сылтăм
 калын:adjective:хулăн
 аңлаешлы:nonetype:уçăмлă
+tan:nonetype:пысӑк
 tan:nonetype:йышлă
 tan:nonetype:аслă
+tan:nonetype:мăн
 tan:nonetype:шултра
 tan:nonetype:мăнă
 tan:nonetype:кервен
 tan:nonetype:мăнттай
+tan:nonetype:пысăк
 niskaʼ:nonetype:пӗчӗк
 niskaʼ:nonetype:пĕчĕк
 kutska:nonetype:пӗчӗк
@@ -2433,16 +2792,27 @@ achuti:nonetype:хĕрлĕ
 үткен:adjective:çивĕч
 үткен:adjective:хаяр
 үткен:adjective:шĕвĕр
+тыгыз:nonetype:тӑвӑр
+тыгыз:nonetype:ансăр
 тыгыз:nonetype:çинçе
+тыгыз:nonetype:тǎвǎр
 тыгыз:nonetype:тăвăр
+тыгыз:nonetype:ансӑр
 тыгыз:nonetype:хĕсĕк
+тар:adjective:тӑвӑр
+тар:adjective:ансăр
 тар:adjective:çинçе
+тар:adjective:тǎвǎр
 тар:adjective:тăвăр
+тар:adjective:ансӑр
 тар:adjective:хĕсĕк
 intkus:nonetype:йăпшака
 intkus:nonetype:тикĕс
 intkus:nonetype:лаптак
 kızıl:nonetype:хĕрлĕ
+кара:adjective:хура
+kara:nonetype:хура
+qara:adjective:хура
 яман:adjective:вĕчĕх
 яман:adjective:çиллес
 яман:adjective:япăх
@@ -2486,6 +2856,8 @@ ozın:adjective:тăрăхла
 якын:adjective:çывахри
 inkte:nonetype:çывахри
 aska:nonetype:çывахри
+инглиз теле:nonetype:акăлчан
+англия:nonetype:акăлчан
 иңле:adjective:анлă
 иңле:adjective:аслă
 иңле:adjective:сарлака
@@ -2500,12 +2872,22 @@ aska:nonetype:çывахри
 зур:adjective:лаптак
 киң:adjective:сарлака
 киң:adjective:лаптак
+йомры:nonetype:ҫаврака
+йомры:nonetype:чǎмǎр
+йомры:nonetype:çаврака
 йомры:nonetype:чăмăр
 йомры:nonetype:çаврашка
+түгәрәк:adjective:ҫаврака
+түгәрәк:adjective:чǎмǎр
+түгәрәк:adjective:çаврака
 түгәрәк:adjective:чăмăр
 түгәрәк:adjective:çаврашка
 yaña:adjective:шӗнӗ
+yaña:adjective:ҫӗнӗ
+yaña:adjective:çĕнĕ
 яңа:adjective:шӗнӗ
+яңа:adjective:ҫӗнӗ
+яңа:adjective:çĕнĕ
 тыныч:adjective:канлĕ
 тыныч:adjective:канăçлă
 тыныч:adjective:канăç
@@ -2539,8 +2921,14 @@ yaña:adjective:шӗнӗ
 калын:adjective:шыçмак
 калын:adjective:тачка
 калын:adjective:мăнтăр
+walikaskunq:nonetype:ҫаврака
+walikaskunq:nonetype:чǎмǎр
+walikaskunq:nonetype:çаврака
 walikaskunq:nonetype:чăмăр
 walikaskunq:nonetype:çаврашка
+bush:nonetype:ҫаврака
+bush:nonetype:чǎмǎр
+bush:nonetype:çаврака
 bush:nonetype:чăмăр
 bush:nonetype:çаврашка
 үтмәс:nonetype:мӑка
@@ -2549,6 +2937,9 @@ bush:nonetype:çаврашка
 үтмәс:nonetype:ухмах
 яман:adjective:япӑх
 начар:adjective:япӑх
+азербайджан:nonetype:азербайджан чĕлхи
+азербайджан теле:nonetype:азербайджан чĕлхи
+azerbaycan:nonetype:азербайджан чĕлхи
 юеш:adjective:йӗпе
 юеш:adjective:сĕлкĕш
 дымлы:adjective:йӗпе
@@ -2565,18 +2956,23 @@ keçkenä:nonetype:пӗчӗк
 keçkenä:nonetype:пĕчĕк
 akatiya:nonetype:ăшă
 akateka:nonetype:ăшă
+келе:nonetype:пысӑк
 келе:nonetype:йышлă
 келе:nonetype:аслă
+келе:nonetype:мăн
 келе:nonetype:шултра
 келе:nonetype:мăнă
 келе:nonetype:кервен
 келе:nonetype:мăнттай
+келе:nonetype:пысăк
 henem:nonetype:вӑрӑм
 henem:nonetype:вăрăм
 henem:nonetype:тăрăхла
 *stetka:nonetype:вӑрӑм
 *stetka:nonetype:вăрăм
 *stetka:nonetype:тăрăхла
+si:nonetype:сарӑ
+si:nonetype:сарă
 коры:adjective:типӗ
 коры:adjective:типĕ
 коры:adjective:хăрăк
@@ -2596,6 +2992,18 @@ hohka:nonetype:тахçанхи
 okayek:nonetype:япӑх
 kayik:nonetype:япӑх
 *isiʼ:nonetype:япӑх
+rahoni:nonetype:хура
+asepʼ:nonetype:хура
+урыслар:nonetype:вырӑсла
+урыслар:nonetype:вырӑс
+урыс теле:nonetype:вырӑсла
+урыс теле:nonetype:вырӑс
+informal урыс:nonetype:вырӑсла
+informal урыс:nonetype:вырӑс
+informal urıs:nonetype:вырӑсла
+informal urıs:nonetype:вырӑс
+räsäyle:nonetype:вырӑсла
+räsäyle:nonetype:вырӑс
 шома:nonetype:такăр
 шома:nonetype:яка
 шома:nonetype:такǎр
@@ -2604,19 +3012,29 @@ kayik:nonetype:япӑх
 тигес:nonetype:яка
 тигес:nonetype:такǎр
 тигес:nonetype:тÿрĕ
+çuaş tele:nonetype:чӑвашла
 çuaş tele:nonetype:чӑваш
 çuaş tele:nonetype:чăвашла
 çuaş tele:nonetype:чăваш
 төп бүлеккә:nonetype:кил
 төп:nonetype:кил
 алгы бит:nonetype:кил
+югары:adjective:ҫӳллӗ
+югары:adjective:вăрăм
 югары:adjective:çÿллĕ
+югары:adjective:пысăк
 югары:adjective:çÿл
 югары:adjective:мухтавлă
+озын:nonetype:ҫӳллӗ
+озын:nonetype:вăрăм
 озын:nonetype:çÿллĕ
+озын:nonetype:пысăк
 озын:nonetype:çÿл
 озын:nonetype:мухтавлă
+биек:adjective:ҫӳллӗ
+биек:adjective:вăрăм
 биек:adjective:çÿллĕ
+биек:adjective:пысăк
 биек:adjective:çÿл
 биек:adjective:мухтавлă
 юка:adjective:ҫӳхе
@@ -2673,23 +3091,33 @@ intkus:nonetype:тÿрĕ
 ерак:adjective:катари
 ерак:adjective:инçет
 ерак:adjective:аякри
+pi:nonetype:лайӑх
 pi:nonetype:юрăхлă
+pi:nonetype:аван
 pi:nonetype:чипер
 pi:nonetype:путлĕ
 pi:nonetype:паха
+ipi:nonetype:лайӑх
 ipi:nonetype:юрăхлă
+ipi:nonetype:аван
 ipi:nonetype:чипер
 ipi:nonetype:путлĕ
 ipi:nonetype:паха
+biken:nonetype:лайӑх
 biken:nonetype:юрăхлă
+biken:nonetype:аван
 biken:nonetype:чипер
 biken:nonetype:путлĕ
 biken:nonetype:паха
+bi:nonetype:лайӑх
 bi:nonetype:юрăхлă
+bi:nonetype:аван
 bi:nonetype:чипер
 bi:nonetype:путлĕ
 bi:nonetype:паха
+api:nonetype:лайӑх
 api:nonetype:юрăхлă
+api:nonetype:аван
 api:nonetype:чипер
 api:nonetype:путлĕ
 api:nonetype:паха
@@ -2699,23 +3127,35 @@ api:nonetype:паха
 кечкенә:adjective:сахал
 кечек:adjective:сахал
 кече:adjective:сахал
+олы:adjective:пысӑк
 олы:adjective:йышлă
 олы:adjective:аслă
+олы:adjective:мăн
 олы:adjective:шултра
 олы:adjective:мăнă
 олы:adjective:кервен
 олы:adjective:мăнттай
+олы:adjective:пысăк
+дәү:adjective:пысӑк
 дәү:adjective:йышлă
 дәү:adjective:аслă
+дәү:adjective:мăн
 дәү:adjective:шултра
 дәү:adjective:мăнă
 дәү:adjective:кервен
 дәү:adjective:мăнттай
+дәү:adjective:пысăк
+зур:adjective:пысӑк
 зур:adjective:йышлă
+зур:adjective:мăн
 зур:adjective:шултра
 зур:adjective:мăнă
 зур:adjective:кервен
 зур:adjective:мăнттай
+зур:adjective:пысăк
+otoʼlakon:nonetype:симӗс
+яшел:adjective:симӗс
+яшель:nonetype:симӗс
 керле:adjective:вараланчăк
 керле:adjective:лапăркка
 керле:adjective:пыльчăклă

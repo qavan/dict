@@ -95,6 +95,10 @@ for line in f1:
             adj.write(look())
         elif (t0()=='nonetype' and t1()=='adjective') or (t1()=='nonetype' and t0()=='adjective'):#################################nonetype adjective
             adj.write(look())
+        elif (t0()=='nonetype' and t1()=='adjective masculine') or (t1()=='nonetype' and t0()=='adjective masculine'):#################################nonetypeadjective masculine 
+            adj.write(look())
+        elif (t0()=='adjective' and t1()=='adjective masculine') or (t1()=='adjective' and t0()=='adjective masculine'):################################adjective adjective masculine
+            adj.write(look())
           ###########  
         elif t0()==t1() and t0()=='numeral':#######################################################################################numeral numeral
             num.write(look())
@@ -146,6 +150,9 @@ for line in f2:
         tt=d[0]
         cv=d[2]
         types=str(d[1]).split('.')
+        bug=open('type/debug.txt','w')
+        bug.write(line)
+        bug.close()
         if t0()==t1() and t0()=='noun':#noun noun
             n.write(look())
         elif (t0()=='nonetype' and t1()=='noun') or (t1()=='nonetype' and t0()=='noun'):###########################################nonetype noun
@@ -157,7 +164,7 @@ for line in f2:
         elif (t0()=='noun' and t1()=='noun feminine') or (t1()=='noun' and t0()=='noun feminine'):#################################noun noun feminine
             n.write(look())
         elif (t0()=='noune' and t1()=='noun masculine') or (t1()=='noun' and t0()=='noun masculine'):##############################noun noun masculine
-            n.write(look())###########
+            n.write(look())
         elif (t0()=='noun' and t1()=='noun neuter') or (t1()=='noun' and t0()=='noun neuter'):#####################################noun noun neuter
             n.write(look())
         elif (t0()=='nonetype' and t1()=='noun neuter') or (t1()=='nonetype' and t0()=='noun neuter'):#############################nonetype noun neuter
@@ -175,7 +182,7 @@ for line in f2:
             v.write(look())
         elif (t0()=='verb' and t1()=='verb pf') or (t1()=='verb' and t0()=='verb pf'):#############################################verb verb pf
             v.write(look())
-        elif (t0()=='nonetype' and t1()=='verb impf') or (t1()=='nonetype' and t0()=='verb impf'):#############################################verb verb impf
+        elif (t0()=='nonetype' and t1()=='verb impf') or (t1()=='nonetype' and t0()=='verb impf'):#################################verb verb impf
             v.write(look())
          ###########    
         elif t0()==t1() and t0()=='adverb':########################################################################################adverb adverb
@@ -186,6 +193,10 @@ for line in f2:
         elif t0()==t1() and t0()=='adjective':#####################################################################################adjective adjective
             adj.write(look())
         elif (t0()=='nonetype' and t1()=='adjective') or (t1()=='nonetype' and t0()=='adjective'):#################################nonetype adjective
+            adj.write(look())
+        elif (t0()=='nonetype' and t1()=='adjective masculine') or (t1()=='nonetype' and t0()=='adjective masculine'):#################################nonetypeadjective masculine 
+            adj.write(look())
+        elif (t0()=='adjective' and t1()=='adjective masculine') or (t1()=='adjective' and t0()=='adjective masculine'):################################adjective adjective masculine
             adj.write(look())
           ###########  
         elif t0()==t1() and t0()=='numeral':#######################################################################################numeral numeral
@@ -224,7 +235,7 @@ for line in f2:
     else:
         summ+=1
         dc.append(line)
-    if i==13064+15109:
+    if i==13056+15109:
         print('rezult22.####### '+str(i))
         break
 f1.close()

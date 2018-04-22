@@ -335,6 +335,8 @@ fond birjası:noun:тĕплĕх биржи
 энергия:noun feminine:хал
 энергия:noun:хевте
 энергия:noun:хал
+чүл:feminine:пушхир
+чүл:feminine:пуш хир
 чүл:noun feminine:пушхир
 чүл:noun feminine:пуш хир
 чүл:noun:пушхир
@@ -454,6 +456,7 @@ gönah:noun masculine:çылăх
 туй:noun masculine:туй
 гыйбадәтханә:noun masculine:чиркÿ
 мигъмар:noun masculine:архитектор
+пәйгамбәр:feminine:пӳлӗхçӗ
 пәйгамбәр:noun masculine:пӳлӗхçӗ
 пәйгамбәр:noun masculine:пӳлĕхçĕ
 пәйгамбәр:noun:пӳлӗхçӗ
@@ -543,6 +546,7 @@ ay:noun:уйӑх
 ут:noun masculine:çулăм
 ут:noun masculine:вут
 еланнар:noun:ҫӗлен
+тәмәке:feminine:сигарет
 тәмәке:noun feminine:сигарет
 яз:noun feminine:ҫур
 яз:noun feminine:çyp
@@ -613,6 +617,8 @@ kömeş:noun neuter:кӗмӗл
 үлем:noun feminine:вилĕм
 үлем:noun:вилĕм
 үлем:noun:вилӗм
+үлем:feminine:вилĕм
+үлем:feminine:вилӗм
 төзелеш:noun feminine:структура
 төзелеш:noun feminine:тытăм
 төзелеш:noun neuter:хуралтă
@@ -719,6 +725,7 @@ birja:noun feminine:биржа
 älifba:noun masculine:алфавит
 älifba:noun:алфавит
 älifba:noun:алфавит
+ашказаны асты бизе:feminine:хырăмлăх парĕ
 тел (анатомия):noun masculine:чĕлхе
 тел (анатомия):noun masculine:венгр чĕлхи
 тел (анатомия):noun masculine:чӗлхе
@@ -1009,6 +1016,7 @@ näft:noun neuter:çу
 җил:noun masculine:ҫил
 климат:noun masculine:çанталăк
 климат:noun:çанталăк
+кан:feminine:юн
 кан:noun feminine:юн
 кан:noun feminine:юн
 иртә:noun neuter:ир
@@ -1358,6 +1366,7 @@ eremçek:noun masculine:чăкăт
 елга тамагы:noun:пыр
 әлхимик:noun:алхимик
 бодай:noun feminine:тулă
+көрәк:feminine:кĕреçе
 көрәк:noun feminine:калак
 көрәк:noun feminine:кĕреçе
 көрәк:noun:ăскăч
@@ -1375,6 +1384,9 @@ eremçek:noun masculine:чăкăт
 алтын урда:noun feminine:ылтăн урта
 quyan:noun masculine:куян
 quyan:noun masculine:мулкач
+quyan:feminine:мулкач
+quyan:feminine:куян ами
+quyan:feminine:куян
 ишкәк:noun neuter:кĕсмен
 ишкәк:noun neuter:кӗсмен
 бәдрәф:noun feminine:нушник
@@ -1389,6 +1401,7 @@ bädräf:noun masculine:туалет
 äbräkäy:noun feminine:нушник
 äbräkäy:noun masculine:нушник
 äbräkäy:noun masculine:туалет
+төркия җөмһүрияте:feminine:турци республики
 тәурат:noun feminine:тора
 теннис:noun masculine:теннис
 чуртан:noun feminine:çӑрттан
@@ -1479,6 +1492,7 @@ tön urtası:noun feminine:çур çĕр
 шифаханә:noun masculine:пульница
 шифаханә:noun feminine:пульница
 библия:noun feminine:библи
+библия:feminine:библи
 атай:noun masculine:атте
 атай:noun masculine:атте
 атай:noun masculine:ади
@@ -1866,6 +1880,8 @@ aş:noun feminine:яшка
 курчак:noun feminine:пукане
 курчак:noun feminine:пукане
 kara:noun masculine:хура
+әҗәл:feminine:вилĕм
+әҗәл:feminine:вилӗм
 irenü:noun feminine:кахал
 irenü:noun feminine:ÿркев
 ялкаулык:noun feminine:кахал
@@ -2118,6 +2134,7 @@ hockey:noun masculine:хоккей
 хуҗа:noun feminine:хуçа
 хуҗа:noun masculine:хуçа
 хуҗа:noun masculine:хоçа
+хуҗа:feminine:хуçа
 храм:noun masculine:чиркÿ
 хөрмәт:noun neuter:хисеп
 хәйлә:noun:чеелĕх
@@ -2788,6 +2805,7 @@ hockey:noun masculine:хоккей
 килбәт:noun:сăн
 килбәт:noun:нĕр
 кол:noun feminine:чура
+кол:feminine:чура
 кол:noun masculine:чура
 көй:noun feminine:кĕвĕ
 көй:noun feminine:çемĕ
@@ -3486,6 +3504,7 @@ hockey:noun masculine:хоккей
 тирәк:noun masculine:тирек
 тарак:noun masculine:киккирик
 тарак:noun masculine:тура
+кабак:feminine:хупах
 кабак:noun masculine:бар
 кабак:noun feminine:кавăн
 күбәләк:noun feminine:лӗпӗш
@@ -3596,6 +3615,7 @@ möhit:noun feminine:юнкун
 бәрән:noun masculine:пăран
 бәрән:noun masculine:путек
 бәрән:noun:путек
+демократик алмания җөмһүрияте:feminine:германи демократиллĕ республики
 көньяк азия:noun feminine:кăнтăр ази
 керпе:noun masculine:чĕрĕп
 керпе:noun masculine:чӗрӗп
@@ -4243,6 +4263,7 @@ sıyır:noun feminine:ĕне
 sıyır:noun feminine:nʉmʉ
 sıyır:noun feminine:ӗне
 кишер:noun feminine:кишĕр
+кишер:feminine:кишĕр
 tersäk:noun masculine:чавса
 iudaizm:noun masculine:иудейсем
 арпа:noun masculine:урпа
@@ -4405,6 +4426,7 @@ kül:noun neuter:кӳлĕ
 балыклар:noun:пулă
 ädäbiät:noun feminine:литература
 ädäbiät:noun feminine:литература
+тоз:feminine:тӑвар
 тоз:noun feminine:тăвар
 тоз:noun feminine:тӑвар
 maymıl:noun feminine:упăте
@@ -4446,6 +4468,7 @@ kilogram:noun masculine:килограмм
 эзләү:noun masculine:шырав
 xristianlıq:noun neuter:христианлăх
 tänäfes:noun masculine:тăхтав
+klaipėda:feminine:клайпеда
 койрык:noun masculine:вĕç
 койрык:noun masculine:хӱре
 койрык:noun masculine:хÿре
@@ -4601,6 +4624,8 @@ pänceşämbe:noun masculine:кĕçнерникун
 математика:noun feminine:математика
 берлин:noun masculine:берлин
 сызыкча:noun masculine:дефис
+мөселман:feminine:мӑсӑльман
+мөселман:feminine:мусульман
 мөселман:noun masculine:мӑсӑльман
 мөселман:noun masculine:мусульман
 мөселман:noun masculine:мăсăльман
@@ -5035,6 +5060,7 @@ döyä:noun masculine:тӗве
 хайван:noun feminine:чӗрчун
 хайван:noun feminine:чĕрчун
 хайван:noun feminine:выльăх
+хайван:feminine:чӗрчун
 хайван:noun masculine:чӗрчун
 хайван:noun masculine:чĕрчун
 хайван:noun masculine:чĕр чун
@@ -5369,6 +5395,9 @@ töpe:noun feminine:çи
 бүлем:noun masculine:уйрăм
 бүлем:noun:уйрăм
 квадрат:noun masculine:тăваткал
+куян:feminine:мулкач
+куян:feminine:куян ами
+куян:feminine:куян
 куян:noun masculine:куян
 куян:noun masculine:мулкач
 көл:noun masculine:кӗл
@@ -5605,6 +5634,7 @@ börket:noun masculine:ӑмӑрт кайӑк
 песи:noun feminine:кушак
 күчерү урыны:noun feminine:шут
 күчерү урыны:noun feminine:тĕллев
+каз:feminine:хур
 каз:noun masculine:хур
 бөтен:noun neuter:нормально
 бөтен:noun neuter:мĕнпур
@@ -5947,6 +5977,7 @@ bäräñge:noun masculine:çер улми
 bäräñge:noun masculine:паранка
 bäräñge:noun masculine:çĕр улми
 кинематограф:noun masculine:синематограф
+ишәк:feminine:ашак
 ишәк:noun masculine:ашак
 кабык:noun feminine:хупă
 кабык:noun feminine:хуйăр
@@ -6082,6 +6113,7 @@ barion:nonetype:барион
 кара энергия:nonetype:тĕттĕм энерги
 парсек:nonetype:парçек
 химик элемент:nonetype:хими элеменчĕсем
+ашказаны асты бизе:nonetype:хырăмлăх парĕ
 фаним:nonetype:фонема
 фаним:nonetype:фонема
 аксым:nonetype:шуррисем
@@ -6164,6 +6196,7 @@ bu:nonetype:пăс
 рифма:nonetype:састаш
 туганлык:nonetype:тăванлăх
 туганлык:nonetype:тăванлăх
+ак тишек:nonetype:шурă хăвăл
 чаңгы спорты:nonetype:йĕлтĕр
 сан:nonetype:хисеп ячĕ
 сан:nonetype:хисеп ячĕ
@@ -6241,6 +6274,8 @@ pótr kafarov:nonetype:паллади
 хокистэр:nonetype:кӗл
 хокистэр:nonetype:кĕл
 алтын:noun:ылтăн
+хьэйвон:nonetype:чӗрчун
+хайван:noun:чӗрчун
 тормыш:noun:пурнӑҫ
 тереклек:nonetype:пурнӑҫ
 гузги:nonetype:тӗкӗр
@@ -6258,6 +6293,10 @@ iʃuk:nonetype:мăшăр
 бик:nonetype:çăра
 бик:nonetype:сăлăп
 куян:noun:куян ами
+куян:noun:куян
+куян:noun:мулкач
+quyan:nonetype:куян
+quyan:nonetype:мулкач
 бака:nonetype:шапа
 вьетнам:nonetype:вьетнам
 дөнья:noun:çут тĕнче
@@ -6272,6 +6311,7 @@ iʃuk:nonetype:мăшăр
 ʔyim:noun:шуу
 ʔyim:noun:шыв
 ʔyim:noun:шу
+хуҗа:nonetype:хуçа
 ишкәк:nonetype:кӗсмен
 төпе:nonetype:тăрă
 себерке:nonetype:шӑпӑр
@@ -6284,6 +6324,7 @@ iʃuk:nonetype:мăшăр
 буран:nonetype:тăман
 көлемсерәү:nonetype:кулă
 елмаю:noun:кулă
+кан:noun:юн
 гуш:nonetype:хăлха
 колак:noun:хăлха
 уңыш:nonetype:ăнăçу
@@ -6294,6 +6335,7 @@ iʃuk:nonetype:мăшăр
 бәдрәф:nonetype:нушник
 äbräkäy:nonetype:нушник
 bädräf:nonetype:нушник
+төркия җөмһүрияте:nonetype:турци республики
 әбрәкәй:nonetype:туалет
 әбрәкәй:nonetype:нушник
 бәдрәф:nonetype:туалет
@@ -6327,6 +6369,7 @@ koyaş:nonetype:хӗвел
 хьэйвон:nonetype:чӗрчун
 хьэйвон:nonetype:выльăх
 хьэйвон:nonetype:чĕрчун
+тәмәке:noun:сигарет
 авыл хуҗалыгы:nonetype:ял хуçалăхĕ
 кәрәфес:nonetype:сельдерей
 балта:noun:пуртӑ
@@ -6347,10 +6390,13 @@ koyaş:nonetype:хӗвел
 дошман:noun:тӑшман
 катык:nonetype:турăх
 йогырт:noun:турăх
+пәйгамбәр:noun:пӳлӗхçӗ
 умырткалык:nonetype:çурăм шăмми
 умырткалык:nonetype:çурăм шамми
 гьово:nonetype:сывлӑш
 һава:noun:сывлӑш
+หยิบ:nonetype:тӑвар
+тоз:noun:тӑвар
 шәһәр тибындагы бистә:nonetype:хула евĕрлĕ посёлок
 төн уртасы:nonetype:çур çĕр
 tön urtası:nonetype:çур çĕр
@@ -6384,6 +6430,7 @@ tön urtası:nonetype:çур çĕр
 гәүдә:nonetype:ÿт
 кайтаваз:nonetype:ахрӑм
 бөркет:noun:ăмăрткайăк
+ишәк:noun:ашак
 коймак:nonetype:икерчĕ
 ут сүндергеч:nonetype:сунтеркӗч
 ялганчы:noun:суеçĕ
@@ -6394,6 +6441,7 @@ tön urtası:nonetype:çур çĕр
 роман:noun:новелла
 кыр:noun:уй
 кыр:noun:хир
+кол:noun:чура
 күгəрчен күзе:nonetype:кăваркарчăн куçĕ
 күгəрчен күзе:nonetype:кăвакарчăн куçĕ
 дошман:noun:тăшман
@@ -6407,11 +6455,14 @@ tön urtası:nonetype:çур çĕр
 рәвеш:nonetype:наречи
 рәвеш:nonetype:наречи
 кырмыска:noun:кӑткӑ
+мөселман:noun:мӑсӑльман
+мөселман:noun:мусульман
 ир кеше:nonetype:ар ҫын
 игенче:nonetype:ар ҫын
 мужинэ:nonetype:кӑткӑ
 чүкеч:nonetype:мӑлатук
 чүкеч:nonetype:мăлатук
+кишер:noun:кишĕр
 мискә:nonetype:тирĕк
 мискә:nonetype:чашăк
 тәлинкә:noun:тирĕк
@@ -8195,6 +8246,7 @@ qayın:nonetype:хурăн
 бәрән:nonetype:путек
 сыйфат:nonetype:паллă ячĕ
 сыйфат:nonetype:паллă ячĕ
+демократик алмания җөмһүрияте:nonetype:германи демократиллĕ республики
 көньяк азия:nonetype:кăнтăр ази
 керпе:nonetype:чӗрӗп
 керпе:nonetype:чĕрĕп
@@ -8863,6 +8915,8 @@ ortodoks xristianlıq:nonetype:православи
 җиңү көне:nonetype:çěнтерӳ кунĕ
 хурлык:nonetype:хур
 хурлык:nonetype:мăшкăл
+тимерказык:nonetype:çӳрçĕр çăлтăрĕ
+тимер казык йолдызы:nonetype:çӳрçĕр çăлтăрĕ
 күз:noun:куç
 ләгънәт:noun:ылхан
 каһәр:noun:ылхан
@@ -9406,6 +9460,7 @@ kömeş:noun:кӗмӗл
 президент:noun:президент
 өзеклек:nonetype:тăхтав
 tänäfes:nonetype:тăхтав
+klaipėda:nonetype:клайпеда
 аргентина:nonetype:аргентина
 магний:nonetype:магни
 операцион система:nonetype:операци системи
