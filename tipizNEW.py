@@ -1,6 +1,6 @@
-import sys
-reload(sys)
-sys.setdefaultencoding('utf-8')
+#import sys
+#reload(sys)
+#sys.setdefaultencoding('utf-8')
 import re
 def normalize(x):
     stroka=re.sub(r'[\000-\377]*', lambda m:''.join([chr(ord(i)) for i in m.group(0)]).decode('utf8'),x)
@@ -81,6 +81,10 @@ for line in f1:
             n.write(look())
         elif (t0()=='noun particle' and t1()=='noun') or (t1()=='noun particle' and t0()=='noun'):#################################noun particle noun
             n.write(look())
+        elif (t0()=='masculine' and t1()=='nonetype') or (t1()=='masculine' and t0()=='nonetype'):#################################masculine nonetype
+            n.write(look())
+        elif (t0()=='noun' and t1()=='proper masculine') or (t1()=='noun' and t0()=='proper masculine'):###########################noun proper masculine
+            n.write(look())
          ###########
         elif t0()==t1() and t0()=='verb':##########################################################################################verb verb
             v.write(look())
@@ -145,6 +149,12 @@ for line in f1:
             pro.write(look())
         elif (t0()=='proper neuter' and t1()=='nonetype') or (t1()=='proper neuter' and t0()=='nonetype'):#########################proper neuter proper masculine
             pro.write(look())
+        elif (t0()=='proper' and t1()=='noun feminine') or (t1()=='proper' and t0()=='noun feminine'):#############################proper noun feminine
+            pro.write(look())
+        elif (t0()=='proper' and t1()=='noun masculine') or (t1()=='proper' and t0()=='noun masculine'):###########################proper noun masculine
+            pro.write(look())
+        elif (t0()=='proper' and t1()=='noun') or (t1()=='proper' and t0()=='noun'):###############################################proper noun
+            pro.write(look())
           ###########
         elif t0()==t1() and t0()=='determiner':####################################################################################determiner determiner
             det.write(look())
@@ -154,6 +164,12 @@ for line in f1:
             det.write(look())
         ###-------------------###
         ###-------------------###
+        elif (t0()=='noun' and t1()=='adjective') or (t1()=='noun' and t0()=='adjective'):#########################################noun adjective
+            n.write(look())
+            adj.write(look())
+        elif (t0()=='adverb' and t1()=='adjective') or (t1()=='adverb' and t0()=='adjective'):######################################adverb adjective
+            adv.write(look())
+            adj.write(look())                 
         elif (t0()=='nonetype' and t1()=='adjective adverb') or (t1()=='nonetype' and t0()=='adjective adverb'):###################nonetype adjective adverb
             adj.write(look())
             adv.write(look())
@@ -219,6 +235,10 @@ for line in f2:
             n.write(look())
         elif (t0()=='noun particle' and t1()=='noun') or (t1()=='noun particle' and t0()=='noun'):#################################noun particle noun
             n.write(look())
+        elif (t0()=='masculine' and t1()=='nonetype') or (t1()=='masculine' and t0()=='nonetype'):#################################masculine nonetype
+            n.write(look())
+        elif (t0()=='noun' and t1()=='proper masculine') or (t1()=='noun' and t0()=='proper masculine'):###########################noun proper masculine
+            n.write(look())
          ###########
         elif t0()==t1() and t0()=='verb':##########################################################################################verb verb
             v.write(look())
@@ -283,6 +303,12 @@ for line in f2:
             pro.write(look())
         elif (t0()=='proper neuter' and t1()=='nonetype') or (t1()=='proper neuter' and t0()=='nonetype'):#########################proper neuter proper masculine
             pro.write(look())
+        elif (t0()=='proper' and t1()=='noun feminine') or (t1()=='proper' and t0()=='noun feminine'):#############################proper noun feminine
+            pro.write(look())
+        elif (t0()=='proper' and t1()=='noun masculine') or (t1()=='proper' and t0()=='noun masculine'):###########################proper noun masculine
+            pro.write(look())
+        elif (t0()=='proper' and t1()=='noun') or (t1()=='proper' and t0()=='noun'):###############################################proper noun
+            pro.write(look())
           ###########
         elif t0()==t1() and t0()=='determiner':####################################################################################determiner determiner
             det.write(look())
@@ -292,6 +318,12 @@ for line in f2:
             det.write(look())
         ###-------------------###
         ###-------------------###
+        elif (t0()=='noun' and t1()=='adjective') or (t1()=='noun' and t0()=='adjective'):#########################################noun adjective
+            n.write(look())
+            adj.write(look())
+        elif (t0()=='adverb' and t1()=='adjective') or (t1()=='adverb' and t0()=='adjective'):######################################adverb adjective
+            adv.write(look())
+            adj.write(look())                 
         elif (t0()=='nonetype' and t1()=='adjective adverb') or (t1()=='nonetype' and t0()=='adjective adverb'):###################nonetype adjective adverb
             adj.write(look())
             adv.write(look())

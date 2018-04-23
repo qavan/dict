@@ -31,11 +31,8 @@ aвыл-noun verb neuter.noun-ял
 ул-determiner masculine.nonetype-асламăшĕ
 ул-determiner masculine.nonetype-аппăшĕ
 ул-determiner masculine.nonetype-амăшĕ
-балалар бакчасы-masculine.nonetype-ача панчи
-ана зат-noun.adjective-ама
 бугаз-noun particle.nonetype-тинĕс пырĕ
 кар-adjective masculine.noun-юр
-көнчыгыш-adjective.noun-мал
 киңлек-noun feminine.adverb-ан
 исем-noun adjective neuter.noun-япала ячĕ
 алтын-neuter.nonetype-ылтăн
@@ -46,11 +43,7 @@ aвыл-noun verb neuter.noun-ял
 давыл-noun verb feminine.nonetype-тăвăл
 ит-noun neuter.verb-какай
 ит-noun neuter.verb-аш
-älifba-noun feminine.proper-кириллица
-төньяк-adjective.noun-çурçĕр
 мәзәк-noun feminine.adjective-мыскара
-мәзәк-noun.adjective-мыскара
-кыр-adjective.noun-уй
 хаклар-noun adjective adverb.nonetype-тивĕçлĕ ирĕклĕх
 хаклар-noun adjective adverb.nonetype-тивĕç
 сыйныф бүлмәсе-noun interjection masculine.nonetype-класра
@@ -59,14 +52,11 @@ aвыл-noun verb neuter.noun-ял
 мәет-neuter.adjective-виле
 мәет-neuter.nonetype-ÿт
 мәет-masculine.adjective-виле
-мәет-masculine.nonetype-ÿт
 моль-noun adjective feminine.nonetype-моль
 моль-noun adjective feminine.nonetype-кĕве
 сабын-noun verb.nonetype-супань
 сабын-noun verb.nonetype-супăнь
 сабын-noun verb.noun-супӑнь
-бытбылдык-masculine.nonetype-путене
-пылау-masculine.nonetype-пилав
 намус-verb noun.nonetype-чыслăх
 намус-verb noun.noun-чыс
 намус-verb noun.noun-хисеп
@@ -74,18 +64,14 @@ aвыл-noun verb neuter.noun-ял
 кичә-adverb.noun-ӗнер
 тамчы-noun particle feminine.noun-тумлам
 җилем-noun verb.nonetype-çилĕм
-чаңгы спорты-masculine.nonetype-йĕлтĕр
 янгынчы-adjective noun masculine.noun-пушар
 эпидемия-noun feminine.adjective-эпидеми
-эпидемия-noun.adjective-эпидеми
 язу-noun neuter.verb-ҫыр
 eremçek-noun masculine.verb-сыр
 буа-noun verb feminine.nonetype-хÿме
-ана бал корты-noun.adjective-ама
 су бабасы-adjective noun.nonetype-вутăш
 төрек теле-adjective noun masculine.nonetype-турккă
 төрекча-adjective noun masculine.nonetype-турккă
-сингармонизм-masculine.nonetype-сингармонизм
 урыс теле-adjective noun masculine.nonetype-вырăс
 урыс теле-adjective noun masculine.nonetype-вырӑсла
 урыс теле-adjective noun masculine.nonetype-вырӑс
@@ -94,26 +80,14 @@ eremçek-noun masculine.verb-сыр
 урыслар-adjective noun masculine.nonetype-вырӑс
 нар ни өчен-adverb.noun-ма
 себерергә-verb noun impf.nonetype-шăл
-каракалпак теле-masculine.nonetype-каракалпак чĕлхи
-каракалпак теле-masculine.nonetype-каракалпак
-индианаполис-masculine.nonetype-индианаполис
 нидерландлар-proper p.nonetype-нидерландсем
 нидерландлар-proper p.nonetype-нидерланды
-финландия-noun feminine.proper-финлянди
 финландия-feminine.proper-финлянди
-аурупа берлеге-masculine.nonetype-европа пĕрлешĕвĕ
 аурупа берлеге-masculine.proper-европа пĕрлешĕвĕ
-аурупа берлеге-masculine.nonetype-европа пӗрлешӗвӗ
 йөрткеч-noun interjection masculine.noun-мотор
-биюче-masculine.nonetype-ташăçă
 tatarça-adjective noun.nonetype-тутар
-шулай-adverb.adjective-ахаль
-шулай-adverb.adjective-апла
 ниһаять-adverb.noun-юлашкинчен
-тәбәнәк-noun.adjective-лутра
 тирәсендә-adverb.noun-тавра
-болай-adverb.adjective-ахаль
-болай-adverb.adjective-апла
 һичнәрсә-pronoun.noun-ним
 эчкерсез-adjective particle.nonetype-уçăмлă
 эчкерсез-adjective particle.nonetype-уçă
@@ -134,9 +108,7 @@ tatarça-adjective noun.nonetype-тутар
 арттан-adverb adposition.nonetype-кайран
 иртә белән-adverb.noun-ирхине
 иртә белән-adverb.noun-ир
-ләкин-adverb.adjective-тин
 карлы-adjective masculine.noun-юр
-шатлыклы-adjective.noun-хавас
 югарыдан-adverb adposition.nonetype-çиелтен
 югарыдан-adverb adposition.nonetype-çиеле
 югарыдан-adverb adposition.nonetype-çÿлтен
@@ -148,7 +120,6 @@ tatarça-adjective noun.nonetype-тутар
 чыннан да-noun conjunction interjection.nonetype-тĕрĕслĕх
 каршыда-adposition.nonetype-хирĕç
 ахырда-adverb.noun-юлашкинчен
-бик зур-adjective.noun-катмар
 каршыга-adverb adposition.nonetype-хирĕç
 сай-adjective.verb-вӗтӗ
 ирләр-adjective.verb-ар
@@ -160,40 +131,16 @@ tatarça-adjective noun.nonetype-тутар
 артыннан-adverb adposition.nonetype-хыççăн
 шулай да-interjection adverb.nonetype-çапах
 шулай да-interjection adverb.adverb-анчах
-зуррак-adverb.adjective-ытларах
 мөмкин кадәр-adjective adverb.adverb-тен
-әлифба-noun feminine.proper-кириллица
 яки-conjunction.nonetype-е
 qırım törekçäse-proper.proper-крым тутарĕсен чĕлхи
 буран-noun verb feminine.nonetype-тăвăл
-алла-masculine.nonetype-турă
-алла-masculine.nonetype-турӑ
-талаучылар-adjective.noun-бандит
-алла-proper masculine.noun-турӑ
-алла-proper masculine.noun-турă
-ходай-proper masculine.noun-турӑ
-ходай-proper masculine.noun-турă
-тәңре-masculine.nonetype-турă
-тәңре-masculine.nonetype-турӑ
-ходай-masculine.nonetype-турă
-ходай-masculine.nonetype-турӑ
 азербайджан теле-adjective masculine.proper-азербайджан чĕлхи
-иблис-masculine.nonetype-иплеç
 иблис-noun interjection masculine.noun-шуйттан
 иблис-noun interjection masculine.adjective-мур
-қазақстан-noun masculine.proper-казахстан
-архангельск-noun masculine.proper-архангельск
-barı-noun.adjective-тин
-һава-masculine.nonetype-сывлăш
 başqort tele-proper.proper-пушкăрт чĕлхи
 başqortça-proper.proper-пушкăрт чĕлхи
-diclä-proper masculine.noun-тигр
-tigr-proper masculine.noun-тигр
-тәңре-proper masculine.noun-турӑ
-тәңре-proper masculine.noun-турă
-аурупа берлеге awrupa berlege-masculine.nonetype-европа пĕрлешĕвĕ
 аурупа берлеге awrupa berlege-masculine.proper-европа пĕрлешĕвĕ
-аурупа берлеге awrupa berlege-masculine.nonetype-европа пӗрлешӗвӗ
 әмма-conjunction.nonetype-çапах
 әмма-conjunction.conjunction-анчах
 вә-conjunction.conjunction-те
@@ -210,7 +157,6 @@ tigr-proper masculine.noun-тигр
 яр-noun adjective masculine.nonetype-çыр
 яманлык-noun neuter.adjective-усал
 явызлык-noun neuter.adjective-усал
-январь-noun.proper-кăрлач
 шаярту-noun feminine.adjective-мыскара
 шайтан-noun interjection masculine.noun-шуйттан
 шайтан-noun interjection masculine.adjective-мур
@@ -219,18 +165,12 @@ tigr-proper masculine.noun-тигр
 солдат-adjective noun masculine.nonetype-çap
 сөйләм-noun feminine.verb-чӗлхе
 ришвәт-noun m;.nonetype-взятка
-нәүрүз-masculine.nonetype-нарӑс
 мизгел-noun masculine.verb-самант
 момент-noun masculine.verb-самант
-мәктәп-adjective.noun-шкул
-крестьян-noun.adjective-хресчен
 корпус-noun feminine.adjective-виле
 корпус-neuter.adjective-виле
 корпус-neuter.nonetype-ÿт
 корпус-masculine.adjective-виле
-корпус-masculine.nonetype-ÿт
-коръән-masculine.nonetype-коран
-кириллица-noun feminine.proper-кириллица
 кат-noun masculine.verb-хут
 канун-noun adjective adverb neuter.nonetype-тивĕçлĕ ирĕклĕх
 канун-noun adjective adverb neuter.nonetype-тивĕç
@@ -240,15 +180,11 @@ tigr-proper masculine.noun-тигр
 гәүдә-neuter.adjective-виле
 гәүдә-neuter.nonetype-ÿт
 гәүдә-masculine.adjective-виле
-гәүдә-masculine.nonetype-ÿт
-вена-noun.proper-вена
-вена-noun feminine.proper-вена
 вакыт-noun masculine.verb-самант
 биеклек-noun masculine.verb-хут
 берәмлек-noun feminine.determiner-пӗрре
 берәмлек-noun feminine.determiner-пӗр
 кояш-proper neuter.noun-хӗвел
-гүзәл-adverb.adjective-чипер
 финляндия-proper.proper-финлянди
 голландия-proper p.nonetype-нидерландсем
 голландия-proper p.nonetype-нидерланды
@@ -260,7 +196,6 @@ tigr-proper masculine.noun-тигр
 ялгыз-pronoun masculine.determiner-пӗрре
 ялгыз-pronoun masculine.determiner-пӗр
 ялгыз-pronoun masculine.cardinal number-пĕрре
-яман-adverb.adjective-начар
 яман-adverb neuter.nonetype-хаяр
 яман-adverb neuter.adjective-усал
 яман-adverb neuter.noun-синкер
@@ -268,86 +203,42 @@ tigr-proper masculine.noun-тигр
 яман-adverb neuter.nonetype-сарăп
 яман-adverb neuter.nonetype-сăтăр
 яман-adverb neuter.nonetype-çиллес
-юләр-adjective.noun-ухмах
 юләр-adjective masculine.noun-ухмах
-чиста-adverb.adjective-таса
-шат-adjective.noun-хавас
 шат-adjective noun.adjective-хавас
-тышкы-adjective.noun-тулаш
 тиешле-adjective neuter.nonetype-тивĕçлĕ
-тиле-adjective.noun-ухмах
 тиле-adjective masculine.noun-ухмах
-тиз-adverb.adjective-час
 тиеш-8.3.5.2.4 masculine.nonetype-тивĕç
 тигез-adjective.verb-лаптак
-тәңгәл-adjective.noun-йышши
 тәүге-determiner masculine.noun-пирвайхи
 тәүге-determiner masculine.adjective-малтанхи
 тәүге-determiner masculine.adjective-пӗрремӗш
 тапкыр-noun masculine.determiner-пӗрре
 тапкыр-noun masculine.determiner-пӗр
 тапкыр-noun masculine.cardinal number-пĕрре
-таза-adverb.adjective-таса
-сулы-adjective.noun-шыв
-саф-adverb.adjective-таса
 саф-noun verb masculine.nonetype-тытăм
 саф-noun verb masculine.nonetype-йĕрке
 саф-noun verb masculine.nonetype-ĕрет
-сирәк-adverb.adjective-сайра
-охшаш-adjective.noun-йышши
 озак-adverb.noun-нумайччен
-ныклы-adverb.adjective-патвар
-ныклы-adverb.adjective-парка
-ныклы-adverb.adjective-çирĕп
-нык-adverb.adjective-патвар
-нык-adverb.adjective-парка
-нык-adverb.adjective-çирĕп
-күрше-adjective.noun-юнашар
-көнлек-adjective.noun-кун
-көнге-adjective.noun-кун
 кирәк-adposition.nonetype-кирлĕ
-кечек-adverb.adjective-сахал
-каты-adverb.adjective-патвар
-каты-adverb.adjective-парка
-каты-adverb.adjective-çирĕп
 иркен-adjective.verb-лаптак
 иңле-adjective.verb-лаптак
-җәһәт-adverb.adjective-час
-дини-adjective.noun-тĕн
 вак-adjective.verb-вӗтӗ
-бәхетле-adjective.noun-хавас
-ахыргы-adjective.noun-кайранхи
-акылсыз-adjective.noun-ухмах
 укы-verb.noun-вула
 бастыр-verb.noun-ларт
-көндез-adjective.noun-кун
 иртән-adverb.noun-ирхине
 иртән-adverb.noun-ир
 янәдән-adverb.noun-тепре
 янәдән-adverb.conjunction-тата
 янәдән-adverb.noun-каллех
-әле-adjective.noun-паян
 әле-interjection.nonetype-тархасшăн
-һич-adverb.adjective-шалт
 шуннан соң-adverb.noun-кайран
 чынлап-interjection adverb.nonetype-чăнласа
 чынлап-interjection adverb.nonetype-тарăн
-һәрвакыт-adverb.adjective-ялан
-һәрвакыт-adverb.adjective-шав
 кабат-adverb.noun-тепре
 кабат-adverb.conjunction-тата
 кабат-adverb.noun-каллех
 иртәгә-adverb.noun-ыран
-гел-adverb.adjective-ялан
-гел-adverb.adjective-шав
-гаять-adverb.adjective-ытла
-гына-adverb.adjective-тин
-беркадәр-adverb.adjective-сахал
-бераз-adverb.adjective-сахал
-бөтенләй-adverb.adjective-шалт
-тиздән-adverb.adjective-час
 аннары-adverb.noun-кайран
-тик-adverb.adjective-тин
 тик-conjunction.nonetype-çапах
 тик-conjunction.conjunction-анчах
 соңыннан-adverb.noun-кайран
@@ -359,7 +250,6 @@ tigr-proper masculine.noun-тигр
 инде-adverb masculine.nonetype-ĕнтĕ
 аз гына-pronoun adverb.nonetype-хăш
 аз гына-pronoun adverb.nonetype-темиçе
-аз гына-adverb.adjective-сахал
 киресенчә-adjective adverb.adverb-каялла
 зинһар-interjection.nonetype-тархасшăн
 рәхим итегез-interjection.nonetype-тархасшăн
@@ -382,17 +272,13 @@ tigr-proper masculine.noun-тигр
 ла-8.3.5.2.4.nonetype-акă
 ла-8.3.5.2.4.nonetype-ĕнтĕ
 мөгаен-interjection.nonetype-пулĕ
-яме-adverb.adjective-юрать
 менә-8.3.5.2.4.nonetype-вăт
 менә-8.3.5.2.4.nonetype-акă
 менә-8.3.5.2.4.nonetype-авă
 менә-8.3.5.2.4.nonetype-çав
 әйдә-interjection.nonetype-айта
-ярый-adverb.adjective-юрать
 рәхим ит-interjection.nonetype-тархасшăн
 зинһар өчен-interjection.nonetype-тархасшăн
-ярар-adverb.adjective-юрать
-соң-adjective.noun-кайранхи
 соң-adposition.noun-кайран
 соң-adposition.nonetype-хыççăн
 соң-8.3.5.2.4.nonetype-акă
@@ -481,12 +367,9 @@ tigr-proper masculine.noun-тигр
 ошбу-determiner.pronoun-ку
 юк-interjection.nonetype-аюк
 юк-interjection.nonetype-çук
-инсан-proper masculine.noun-ҫын
 қайық-particle masculine.noun-кимӗ
 көймә-particle masculine.noun-кимӗ
-аврупы берлеге-masculine.nonetype-европа пĕрлешĕвĕ
 аврупы берлеге-masculine.proper-европа пĕрлешĕвĕ
-аврупы берлеге-masculine.nonetype-европа пӗрлешӗвӗ
 чәчкә-n                  noun masculine  n              .nonetype-чечек
 чәчкә-n                  noun masculine  n              .nonetype-çеçке
 чәчкә-n                  noun masculine  n              .noun-чечек
@@ -497,9 +380,6 @@ tigr-proper masculine.noun-тигр
 арыклану-n                  verb impf   n              .nonetype-ырханлан
 арыклану-n                  verb impf   n              .nonetype-начарлан
 арыклану-n                  verb impf   n              .nonetype-имшерлен
-әйбәт-adverb.adjective-юрать
-әйбәт-adverb.adjective-чипер
-әйбәт-adverb.adjective-аван
 төп-adjective noun.noun-кил
 ир кеше-noun masculine.verb-ар
 кыңгырау-noun u043au043eu0301u043bu043eu043au043eu043b.noun-чан
@@ -508,7 +388,6 @@ tigr-proper masculine.noun-тигр
 якынча-adposition.noun-тавра
 мин сине яратам-phrase.phrase-эпĕ сана юрататăп
 мин сине яратам-nonetype.phrase-эпĕ сана юрататăп
-бандитлар-adjective.noun-бандит
 сәбәпле-adposition.adposition-пирки
 буе-adposition.nonetype-тăрăх
 буе-adposition.nonetype-майăн
@@ -516,13 +395,11 @@ tigr-proper masculine.noun-тигр
 буе-adposition.nonetype-тăрăхла
 буе-adposition.nonetype-хута
 буе-adposition.nonetype-каçа
-бүгенге-adjective.noun-паян
 янә-adverb.conjunction-тата
 янә-adverb.noun-каллех
 сугышчы-adjective noun masculine.nonetype-вăрçă
 сугышчы-adjective noun masculine.nonetype-çap
 укырга-verb.noun-вула
-ахмак-adjective.noun-ухмах
 ахмак-adjective masculine.noun-ухмах
 рәхмәт-interjection.nonetype-тав
 рәхмәт-verb impf.noun-тав
@@ -531,9 +408,7 @@ tigr-proper masculine.noun-тигр
 рәхмәт-interjection.noun-рахмат
 рәхмәт-interjection.nonetype-тавтапущ
 рәхмәт-interjection.noun-тав
-бүген-adjective.noun-паян
 бүген-adverb.noun-паян
-бик-adverb.adjective-ытла
 yuq-verb adverb.nonetype-аюк
 yuq-verb adverb.nonetype-çук
 бар-determiner.adverb-пурте
@@ -544,107 +419,59 @@ yuq-verb adverb.nonetype-çук
 çönki-conjunction.nonetype-ма тесен
 çönki-conjunction.nonetype-пирки
 çönki-conjunction.nonetype-мĕншĕн тесен
-ala-noun.adjective-шупка
-арыслан-proper masculine.noun-арӑслан
 ägär-conjunction.nonetype-пулсан
 ägär-conjunction.nonetype-эхер
-февраль-noun masculine.proper-нарăс
 син-pronoun s.nonetype-эс
 син-pronoun s.nonetype-эсĕ
 син-pronoun s.pronoun-эсӗ
 къырымтатар тили-proper.proper-крым тутарĕсен чĕлхи
-сыер-masculine.nonetype-ĕне
 беренче-adjective masculine.noun-пирвайхи
 сигез-determiner.adjective-саккӑрмӗш
-febräl-proper masculine.noun-февраль
-öktäber-proper masculine.noun-октябрь
-aprel-proper masculine.noun-апрель
-aprel-proper masculine.noun-ака
 ак-adjective u0431u0435u0301u043bu044bu0439.noun-шурӑ
 ак-adjective u0431u0435u0301u043bu044bu0439.nonetype-шурă
 биш-determiner.adjective-пиллӗкмӗш
 селям-noun interjection.noun-салам
 селям-noun interjection.nonetype-авани
-рәсем-masculine.nonetype-сăн ÿкерчĕк
-рәсем-masculine.nonetype-ÿкерчĕк
 мин-determiner masculine.nonetype-манăн
 мин-determiner masculine.nonetype-ман
 мин-pronoun neuter.pronoun-эпӗ
 янында-adposition.nonetype-яхăн
 янында-adposition.noun-тавра
-yül-proper masculine.noun-июль
 чабаксар-proper p.proper-шупашкар
-avgust-proper masculine.noun-август
-усал-adverb.adjective-усал
 усал-adverb.noun-синкер
 инглиз теле-adjective noun masculine.nonetype-акӑлчан чӗлхи
 инглиз теле-adjective noun masculine.nonetype-акӑлчан
 инглиз теле-adjective noun masculine.proper-акăлчан чĕлхи
 инглиз теле-adjective noun masculine.nonetype-акăлчан
-июнь-noun masculine.proper-śěrtme
-июнь-noun masculine.proper-çĕртме
-äpril-proper masculine.noun-апрель
-äpril-proper masculine.noun-ака
 fiji-proper p.nonetype-фиджи
 башкорт-adjective.proper-пушкăрт чĕлхи
-аргентина-noun.proper-аргентина
 kiçä-adverb.noun-ӗнер
-august-proper masculine.noun-август
-авыр-noun.adjective-йывӑр
-awrupı berlege-masculine.nonetype-европа пĕрлешĕвĕ
 awrupı berlege-masculine.proper-европа пĕрлешĕвĕ
-awrupı berlege-masculine.nonetype-европа пӗрлешӗвӗ
-yün-proper masculine.noun-июнь
-тирана-noun.proper-тирáна
 comğa-proper feminine.noun-эрнекун
-бәбәй-adjective.noun-ача
 yäkşämbe-proper neuter.noun-вырсарникун
-аурупа-noun feminine.proper-европа
-kirill älifbası-noun feminine.proper-кириллица
-соңгы-adjective.noun-кайранхи
 җиңел-adjective noun verb masculine.adjective-ҫӑмӑл
 җиңел-adjective noun verb masculine.nonetype-юмарт
 җиңел-adjective noun verb masculine.nonetype-ахаль
-җиңел-adverb.adjective-ансат
-яхшы-adverb.adjective-юрать
-яхшы-adverb.adjective-чипер
-яхшы-adverb.adjective-аван
-меркурий-noun.proper-меркурий
-үзәк процессор-masculine.nonetype-процессор
 башка-adposition.nonetype-пуçне
-tele-proper masculine.noun-чӗлхе
-мөселман-masculine.nonetype-мӑсӑльман
-мөселман-masculine.nonetype-мусульман
 без-determiner.pronoun-пирӗн
 тигес-noun.verb-лаптак
-таш-adjective.noun-чул
 damask-masculine.proper-дамаск
-damask-masculine.nonetype-дамаск
-idel-noun.proper-атӑл
 белергә-verb neuter.nonetype-палла
 белергә-verb neuter.nonetype-пĕл
 белергә-verb neuter.nonetype-пĕлме
-тау-adjective.noun-ту
 рус-noun adjective feminine.nonetype-вырӑс
-sentäber-proper masculine.noun-сентябрь
 сау булыгыз-adjective interjection adverb.nonetype-телейлĕ
 сау булыгыз-interjection.nonetype-хальлĕхе
 сау булыгыз-interjection.nonetype-сыва пул
-бай-noun.adjective-пуян
 ничә-pronoun letter noun.nonetype-эпĕ
 ничә-pronoun letter noun.pronoun-эпӗ
-сорау-adjective.noun-ыйту
 бишенче-numeral masculine.adjective-пиллӗкмӗш
 арка-adposition.nonetype-пула
 арка-adposition.adposition-пирки
-nöyäber-proper masculine.noun-ноябрь
 дәрәҗә-noun masculine.verb-хут
 алты-determiner.adjective-улттӑмӗш
 sır-noun masculine.verb-сыр
-нарат-adjective.noun-хыр
 yarıy-noun.adverb-тен
-фин-masculine.nonetype-финн чĕлхи
-июль-noun masculine.proper-утă
 эч-adposition.nonetype-шалта
 эч-adposition.nonetype-хута
 эч-adposition.nonetype-каçа
@@ -653,21 +480,16 @@ yarıy-noun.adverb-тен
 алтынчы-numeral masculine.adjective-улттӑмӗш
 тел-noun feminine.verb-чӗлхе
 гыйнвар-adjective.proper-кăрлач
-гыйнвар-noun masculine.proper-кăрлач
 азербайджан-adjective masculine.proper-азербайджан чĕлхи
 кара-adjective noun.noun-хура
 кара-adjective masculine.noun-хура
-әйе-adverb.adjective-ахаль
-әйе-adverb.adjective-апла
 әйе-interjection masculine.conjunction-те
 әйе-interjection masculine.conjunction-та
 әйе-interjection masculine.conjunction-тата
 тире-verb feminine.noun-тир
 waba-noun feminine.adjective-эпидеми
 azerbaycan-masculine.proper-азербайджан чĕлхи
-azerbaycan-masculine.nonetype-азербайджан чĕлхи
 кара диңгез-proper neuter.proper-хура тинĕс
-август-noun masculine.proper-çурла
 йөз-numeral feminine.nonetype-çӗр
 йөз-determiner neuter.nonetype-çӗр
 йөз-determiner neuter.nonetype-çĕр
@@ -682,19 +504,13 @@ bälki-noun.adverb-тен
 якын-adposition.nonetype-яхăн
 якын-adposition.noun-тавра
 киң-adjective.verb-лаптак
-пычрак-adjective.noun-хура
-бәби-adjective.noun-ача
-arıslan-proper masculine.noun-арӑслан
 туры-verb masculine.nonetype-чǎн
 туры-verb masculine.nonetype-тĕрĕс
 тармак-noun feminine.verb-турат
-awrupa berlege-masculine.nonetype-европа пĕрлешĕвĕ
 awrupa berlege-masculine.proper-европа пĕрлешĕвĕ
-awrupa berlege-masculine.nonetype-европа пӗрлешӗвӗ
 yözellıq-noun masculine.verb-ӗмӗр
 үтерергә-verb ubxedt'.nonetype-çапса пăрах
 үтерергә-verb ubivxe1t'.nonetype-вĕлерме
-суык-adjective.noun-сивӗ
 һәм-conjunction.conjunction-те
 һәм-conjunction.conjunction-та
 һәм-conjunction.conjunction-тата
@@ -702,8 +518,6 @@ yözellıq-noun masculine.verb-ӗмӗр
 һәм-conjunction neuter.conjunction-те
 һәм-conjunction neuter.conjunction-та
 һәм-conjunction neuter.conjunction-тата
-үтмәс-adjective.noun-ухмах
-начар-adverb.adjective-начар
 әкрен-adjective interjection adverb.nonetype-шăп
 әкрен-adjective interjection adverb.adverb-хуллен
 әкрен-adjective interjection adverb.nonetype-тăнăç
@@ -735,25 +549,18 @@ yözellıq-noun masculine.verb-ӗмӗр
 кечкенә-noun.verb-вӗтӗ
 ашарга-verb impf.adjective-пур
 сыр-noun masculine.verb-сыр
-фин теле-masculine.nonetype-финн чĕлхи
 дә-noun neuter.conjunction-те
 дә-noun neuter.conjunction-та
 дә-noun neuter.conjunction-тата
 дә-conjunction.conjunction-те
 дә-conjunction.conjunction-та
 дә-conjunction.conjunction-тата
-май-noun masculine.proper-çу
-май-noun masculine.proper-şu
 өстендә-adposition.nonetype-яхăн
 өстендә-adposition.noun-тавра
 юл-verb feminine.nonetype-сукмак
 әгәр-conjunction.nonetype-эхер
 әгәр-conjunction.nonetype-пулсан
-awroberlek-masculine.nonetype-европа пĕрлешĕвĕ
 awroberlek-masculine.proper-европа пĕрлешĕвĕ
-awroberlek-masculine.nonetype-европа пӗрлешӗвӗ
-әрмән теле-proper masculine.noun-чӗлхе
-салкын-adjective.noun-сивӗ
 бөтен-noun neuter.determiner-пур
 бөтен-noun neuter.adverb-пурте
 бөтен-pronoun p.determiner-пур
@@ -762,8 +569,6 @@ awroberlek-masculine.nonetype-европа пӗрлешӗвӗ
 бөтен-pronoun masculine.determiner-пур
 ixtimal-noun.adverb-тен
 ğasır-noun masculine.verb-ӗмӗр
-март-noun masculine.proper-пуш
-tako-noun feminine.proper-кириллица
 ike-cardinal number feminine.numeral-икӗ
 ike-cardinal number feminine.determiner-иккӗ
 ike-cardinal number feminine.nonetype-ик
@@ -776,33 +581,23 @@ ike-cardinal number masculine.nonetype-иккĕ
 төп бүлеккә-adjective noun.noun-кил
 бит-8.3.5.2.4.nonetype-ĕç
 шул-pronoun neuter.pronoun-ку
-шул-adverb.adjective-ахаль
-шул-adverb.adjective-апла
 шул-adverb.noun-кайран
 шул-8.3.5.2.4.nonetype-ĕç
 шул-determiner masculine.nonetype-леш
 шул-determiner masculine.nonetype-вǎл
 күп-pronoun p.determiner-нумай
-ноябрь-noun masculine.proper-чӳк
 исән булыгыз-adjective interjection adverb.nonetype-телейлĕ
 исән булыгыз-interjection.nonetype-хальлĕхе
 исән булыгыз-interjection.nonetype-сыва пул
 тугыз-determiner.adjective-тӑххӑрмӗш
-декабрь-noun masculine.proper-раштав
-ерак-noun.adjective-катари
 сигезенче-numeral masculine.adjective-саккӑрмӗш
 тыш-adposition.nonetype-пуçне
-mäskäw-noun feminine.proper-мускав
-mäskäw-noun.proper-мускав
-бары-noun.adjective-тин
 бары-noun neuter.determiner-пур
 бары-noun neuter.adverb-пурте
 бары-pronoun p.determiner-пур
 бары-pronoun p.adverb-пурте
 бары-pronoun masculine.adverb-пурте
 бары-pronoun masculine.determiner-пур
-кече-noun.adjective-сахал
-кече-noun.adjective-пӗчӗк
 ике-noun feminine.numeral-икӗ
 ике-noun feminine.determiner-иккӗ
 ике-determiner masculine.adjective-иккӗмӗш
@@ -824,22 +619,15 @@ mäskäw-noun.proper-мускав
 аз-pronoun adverb.nonetype-хăш
 аз-pronoun adverb.nonetype-темиçе
 аз-numeral.adjective-сахал
-аз-adverb.adjective-сахал
 һәммә-noun neuter.determiner-пур
 һәммә-noun neuter.adverb-пурте
 һәммә-pronoun p.determiner-пур
 һәммә-pronoun p.adverb-пурте
 һәммә-pronoun masculine.adverb-пурте
 һәммә-pronoun masculine.determiner-пур
-керле-adjective.noun-хура
-suomiçä-masculine.nonetype-финн чĕлхи
 күкерт-nonetype.noun adjective feminine-кӳкĕрт
 күкерт-nonetype.noun adjective feminine-кÿкĕрт
 хром-nonetype.noun adjective masculine-хром
-бытбылдык-nonetype.masculine-путене
-пылау-nonetype.masculine-пилав
-чаңгы спорты-nonetype.masculine-йĕлтĕр
-вьетнам-proper.noun masculine-вьетнам
 кара-adjective.adjective noun-хура
 яңалык-noun.verb noun-ертсе пыр
 яңалык-noun.verb noun-савăт
@@ -848,12 +636,9 @@ suomiçä-masculine.nonetype-финн чĕлхи
 авыр-verb.adjective-йывăр
 кояш-proper.noun neuter-хӗвел
 кояш-proper.proper neuter-хĕвел
-singarmonizm-nonetype.masculine-сингармонизм
-сингармонизм-nonetype.masculine-сингармонизм
 хушыгыз-interjection.adjective interjection adverb-телейлĕ
 сау булыгыз-interjection.adjective interjection adverb-телейлĕ
 исән булыгыз-interjection.adjective interjection adverb-телейлĕ
-польша-proper.noun feminine-польша
 ришвәт-noun.noun m;-взятка
 килеш-verb.noun masculine-падеж
 килеш-verb.noun-падеж
@@ -861,36 +646,23 @@ singarmonizm-nonetype.masculine-сингармонизм
 бер-determiner.numeral feminine-пӗр
 бер-determiner.numeral neuter-пӗрре
 бер-determiner.numeral neuter-пӗр
-аз-adverb.adjective-шутлă
-аз-adverb.adjective-хисеплĕ
 буа-noun.noun verb-хÿме
 корпус-nonetype.neuter-виле
 корпус-nonetype.neuter-ÿт
 гәүдә-nonetype.neuter-виле
 гәүдә-nonetype.neuter-ÿт
-корпус-nonetype.masculine-виле
-корпус-nonetype.masculine-ÿт
-гәүдә-nonetype.masculine-виле
-гәүдә-nonetype.masculine-ÿт
 себерергә-nonetype.verb noun-шăл
 ขอบใจ-interjection.interjection-тав
 рәхмәт-noun.interjection-тав
 бур-noun.adjective masculine-пурӑ
 акбур-noun.adjective masculine-пурӑ
 корея-proper.proper-корея
-каракалпак теле-nonetype.masculine-каракалпак чĕлхи
-индианаполис-nonetype.masculine-индианаполис
-иблис-nonetype.masculine-иплеç
-ходай-noun.proper masculine-турӑ
-тәңре-noun.proper masculine-турӑ
 ике-determiner.noun feminine-икӗ
 ике-determiner.noun feminine-ик
 ике-determiner.noun feminine-иккӗ
 чили-proper.noun neuter-чили
 мин сине яратам-nonetype.phrase-эпĕ сана юрататăп
 чүкеч-nonetype.noun interjection masculine-мӑлатук
-бәйрәм-noun.adjective-уяв
-бәйрәм-noun.adjective-праçник
 тигез-nonetype.adjective conjunction adverb-яка
 тигез-nonetype.adjective conjunction adverb-шăп
 тигез-nonetype.adjective conjunction adverb-тикĕс
@@ -901,7 +673,6 @@ singarmonizm-nonetype.masculine-сингармонизм
 һәр-determiner.pronoun-такам
 һәр-determiner.pronoun-тĕрлĕ
 һәр-determiner.pronoun-пур
-алма-noun.adjective-улма
 шулкадәр-nonetype.pronoun adverb-чухлĕ
 бөтенләй-adverb.adjective adverb-йăлт
 бөтенләй-adverb.adjective adverb-пач
@@ -929,7 +700,6 @@ singarmonizm-nonetype.masculine-сингармонизм
 кире-verb.interjection adverb adposition-кая
 кире-verb.interjection adverb adposition-хыçала
 кире-verb.interjection adverb adposition-кутăн
-киләчәк-noun.adjective-малашнехи
 яки-nonetype.conjunction-е
 яисә-nonetype.conjunction-е
 я-nonetype.conjunction-е
@@ -965,7 +735,6 @@ singarmonizm-nonetype.masculine-сингармонизм
 ябык-adjective.adjective particle-питĕрĕнчĕк
 ябык-adjective.adjective particle-хупă
 артыннан-nonetype.adverb adposition-хыççăн
-сорау-noun.adjective-ыйту
 кит-nonetype.interjection noun adverb-авă
 кит-nonetype.interjection noun adverb-акă
 тирәсендә-nonetype.adposition-тавралла
@@ -992,11 +761,7 @@ singarmonizm-nonetype.masculine-сингармонизм
 дуь-nonetype.numeral masculine-иккĕ
 ди-nonetype.noun adverb-ĕнер
 ร้อย-nonetype.numeral neuter-çӗр
-мәңгелек-adjective.noun-вилĕмсĕрлĕх
-стәрлетамак-proper.noun-стерлĕ
 марокко-proper.proper neuter-марокко
-йәмән-proper.noun masculine-йемен
-иерусалим-proper.noun masculine-иерусалим
 карама-nonetype.noun verb-йĕлме
 elma-nonetype.noun verb-йĕлме
 қайық-nonetype.particle masculine-кимӗ
@@ -1006,11 +771,7 @@ elma-nonetype.noun verb-йĕлме
 ят-nonetype.adjective noun-çын
 чит-nonetype.adjective noun-ют
 чит-nonetype.adjective noun-çын
-юлбарыс-noun.proper masculine-тигр
 зимбабве-proper.proper neuter-зимбабве
-аллаһ-noun.proper masculine-турӑ
-алла-noun.proper masculine-турӑ
-словак-nonetype.masculine-словак чĕлхи
 ә-nonetype.conjunction-анчах
 тик-conjunction.conjunction-анчах
 әмма-conjunction.conjunction-анчах
@@ -1021,8 +782,6 @@ elma-nonetype.noun verb-йĕлме
 хәсрәт-noun.noun verb-хурланчăк
 кайгы-nonetype.noun verb-салху
 кайгы-nonetype.noun verb-хурланчăк
-һава-noun.adjective-сывлăш
-теш-noun.adjective-шăл
 сузык-noun.adjective noun-кĕрет
 сер-noun.noun adjective-вăрттăнлăх
 пычкы-noun.noun verb feminine-пăчкă
@@ -1033,22 +792,17 @@ elma-nonetype.noun verb-йĕлме
 нигъмәт-noun.noun adjective conjunction-пархатар
 урын-nonetype.noun interjection-пăнчă
 нокта-noun.noun interjection-пăнчă
-нарат-noun.adjective-хыр
 шәрәф-noun.verb noun-тивĕç
 шәрәф-noun.verb noun-чыслăх
 намус-noun.verb noun-тивĕç
 намус-noun.verb noun-чыслăх
 намус-nonetype.verb noun-тивĕç
 намус-nonetype.verb noun-чыслăх
-мәктәп-noun.adjective-шкул
 шаярту-noun.noun interjection feminine-месек
 шаярту-noun.noun interjection feminine-шÿт
 мәзәк-noun.noun interjection feminine-месек
 мәзәк-noun.noun interjection feminine-шÿт
 мамык-noun.noun verb-мамăк
-көнчыгыш-noun.adjective-мал
-көньяк-noun.adjective-кăнтăр
-контроль-noun.adjective-тĕрĕслев
 көнбатыш-noun.adjective masculine-кай
 көнбатыш-noun.adjective masculine-анăç
 көнбатыш-noun.adjective masculine-хĕвеланăç
@@ -1057,7 +811,6 @@ elma-nonetype.noun verb-йĕлме
 кайгы-noun.noun adverb-хуйхă
 калай-noun.noun interjection feminine-шăваç
 исерткеч-noun.noun adjective-йÿççи
-инглиз-noun.proper masculine-акăлчан
 игелек-noun.noun adjective adverb-сăвап
 игелек-noun.noun adjective adverb-япала
 игелек-noun.noun adjective adverb-ырă
@@ -1069,26 +822,15 @@ elma-nonetype.noun verb-йĕлме
 birja-nonetype.noun u0431u0438u0301u0440u0436u0430-биржа
 бер-determiner.noun feminine-пӗрре
 бер-determiner.noun feminine-пӗр
-бәян-proper.noun-баян
-баян-proper.noun-баян
-алмаз-proper.noun masculine-алмаз
 арт-noun.adposition-кайран
 арт-noun.adposition-кайра
 арт-noun.adposition-кая
 арт-noun.adposition-хыçалта
-марс-noun.proper masculine-марс
-диана-proper.noun-диана
 эфиопия-proper.proper-эфиопи
 барый-proper.masculine-бари
-шотландия-proper.noun feminine-шотланди
 чуашстан-proper.proper-чăваш ен
-удмуртия-proper.noun feminine-удмурт республики
 колумбия-proper.proper-колумби
 мордовия-proper.proper-мордва
-италия-proper.noun feminine-итали
-исландия-proper.noun feminine-исланди
-ингушетия-proper.noun feminine-ингушети
-бөекбритания-proper.noun feminine-великобритани
 византия-proper.proper-висанти
 византия-proper.proper-висанти империйĕ
 византия-proper.proper-тухăç рим империне
@@ -1096,27 +838,12 @@ birja-nonetype.noun u0431u0438u0301u0440u0436u0430-биржа
 ялтыравыклы-adjective.adjective particle-йăлтăркка
 ялтыравыклы-adjective.adjective particle-йăлтăра
 ялтыравыклы-adjective.adjective particle-ялтăркка
-якын-adjective.adverb-çывăх
-ышанычлы-adjective.noun-тĕреклĕ
-хәвефле-adjective.adverb-канăçсăр
-хәвефле-adjective.adverb-хумханчăк
 тыныч-adjective.adjective interjection adverb-лăпкăн
 тыныч-adjective.adjective interjection adverb-канлĕ
 тыныч-adjective.adjective interjection adverb-канăçлă
 тыныч-adjective.adjective interjection adverb-канас
 тыныч-adjective.adjective interjection adverb-тÿлек
 тыныч-adjective.adjective interjection adverb-тăнăç
-әкрен-adverb.adjective-лăпкă
-әкрен-adverb.adjective-лăп
-әкрен-adverb.adjective-тÿлек
-әкрен-adverb.adjective-шăп
-әкрен-adverb.adjective-тăнăç
-калим-noun.adjective-лăпкă
-калим-noun.adjective-лăп
-калим-noun.adjective-тÿлек
-калим-noun.adjective-шăп
-калим-noun.adjective-тăнăç
-тугры-adjective.noun-тĕрĕс
 яманлык-noun.noun adjective-çиллес
 яманлык-noun.noun adjective-сăтăр
 яманлык-noun.noun adjective-хаяр
@@ -1153,32 +880,10 @@ birja-nonetype.noun u0431u0438u0301u0440u0436u0430-биржа
 кебек-adposition.adjective adverb-манерлĕ
 сулы-adjective.adjective noun-вутăш
 су бабасы-nonetype.adjective noun-вутăш
-чиста-adjective.adverb-таса
-таза-adjective.adverb-таса
-саф-adjective.adverb-таса
 аз-adverb.adjective adverb-сайра
-үткер-adjective.adverb-çивĕч
-үткен-adjective.adverb-çивĕч
-очлы-adjective.adverb-çивĕч
 мөгезле-adjective.adjective noun-мăйракаллă
 сак-adjective.adjective interjection adverb-хуллен
-ягымлы-adjective.adverb-кăмăллă
-ягымлы-adjective.adverb-çемçен
-ягымлы-adjective.adverb-çепĕç
-мөлаем-adjective.adverb-кăмăллă
-мөлаем-adjective.adverb-çемçен
-мөлаем-adjective.adverb-çепĕç
-кыска-adjective.adverb-кĕске
 кызганыч-adjective.noun adjective interjection adverb-шел
-коры-adjective.adverb-типĕ
-кискен-adjective.noun-вичкĕн
-ныклы-adjective.adverb-çирĕп
-нык-adjective.adverb-çирĕп
-каты-adjective.adverb-çирĕп
-кыйбатлы-adjective.adverb-хаклă
-кыйбат-adjective.adverb-хаклă
-кадерле-adjective.adverb-хаклă
-гаиләле-adjective.noun-çемье
 җиңел-adjective.adjective noun verb-юмарт
 җиңел-adjective.adjective noun verb-ахаль
 җиңел-adjective.adjective noun verb masculine-ҫӑмӑл
@@ -1189,26 +894,6 @@ birja-nonetype.noun u0431u0438u0301u0440u0436u0430-биржа
 беркатлы-nonetype.adjective noun verb-ахаль
 беркатлы-nonetype.adjective noun verb masculine-ҫӑмӑл
 җирән-adjective.adjective noun-çÿрен
-җәһәт-adjective.adverb-васкавлăн
-җәһәт-adjective.adverb-капăрах
-җәһәт-adjective.adverb-васкаварлăн
-җәһәт-adjective.adverb-вăшт
-җәһәт-adjective.adverb-йăпăрттăн
-җәһәт-adjective.adverb-йăпăрт
-җәһәт-adjective.adverb-алхапăл
-җәһәт-adjective.adverb-час
-тиз-adjective.adverb-васкавлăн
-тиз-adjective.adverb-капăрах
-тиз-adjective.adverb-васкаварлăн
-тиз-adjective.adverb-вăшт
-тиз-adjective.adverb-йăпăрттăн
-тиз-adjective.adverb-йăпăрт
-тиз-adjective.adverb-алхапăл
-тиз-adjective.adverb-час
-хосусый-adjective.adverb-ятарласа
-хосусый-adjective.adverb-ăрасна
-аерым-adjective.adverb-ятарласа
-аерым-adjective.adverb-ăрасна
 алдынгы-adjective.adjective noun-малти
 алгы-nonetype.adjective noun-малти
 бел-auxiliary.verb-пултар
@@ -1216,26 +901,11 @@ birja-nonetype.noun u0431u0438u0301u0440u0436u0430-биржа
 юк-adjective.verb-пул
 и-8.3.5.2.4.verb-пул
 бар-adjective.verb-пул
-көнлек-adjective.noun-кун
-көндез-adverb.adjective-кăнтăрла
-көндез-adverb.adjective-кăнтăрлахи
 көндез-adverb.noun-кун
-көнге-adjective.noun-кун
-кичә-adverb.adjective-ĕнерхи
-кич-adverb.adjective-каçхи
-кич-adverb.adjective-каç
-былтыр-adverb.adjective-пĕлтĕрхи
-хәзер-adverb.adjective-хальхи
-быел-adverb.adjective-хальхи
-борын-adverb.adjective-авалхи
-борын-adverb.adjective-тахçанхи
 иртән-adverb.noun adverb-ирхине
 иртән-adverb.noun adverb-ирпе
 иртә белән-nonetype.noun adverb-ирхине
 иртә белән-nonetype.noun adverb-ирпе
-башта-adverb.adjective-пуçламăш
-башта-adverb.adjective-малтанхи
-бая-adverb.adjective-пĕркунхи
 тиздән-adverb.adjective adverb-хăвăрттăн
 тиздән-adverb.adjective adverb-час
 тиздән-adverb.adjective adverb-кĕç
@@ -1265,8 +935,6 @@ birja-nonetype.noun u0431u0438u0301u0440u0436u0430-биржа
 гына-8.3.5.2.4.adverb-тин
 гына-8.3.5.2.4.adverb-çеç
 гына-8.3.5.2.4.adverb-шакăр
-сирәк-adjective.adverb-сайраран
-сирәк-adjective.adverb-хушăран
 бергәләп-adverb.adjective adverb-пĕрле
 борын-adverb.adverb adposition-ĕлĕк
 алдан-adverb.adverb adposition-ĕлĕк
@@ -1297,11 +965,6 @@ birja-nonetype.noun u0431u0438u0301u0440u0436u0430-биржа
 рәхим ит-interjection.interjection-тархасшăн
 зинһар өчен-interjection.interjection-тархасшăн
 зинһар-interjection.interjection-тархасшăн
-иртә-adjective.adverb-ĕлĕк
-иртә-adjective.adverb-халиччен
-иртә-adjective.adverb-маларах
-иртә-adjective.adverb-унччен
-иртә-adjective.adverb-малтан
 соңыннан-adverb.noun adposition-кайран
 соңыннан-adverb.noun adposition-хыççăн
 соң-adposition.noun adposition-кайран
@@ -1421,20 +1084,12 @@ birja-nonetype.noun u0431u0438u0301u0440u0436u0430-биржа
 ә-conjunction.interjection adverb-анчах
 шулай да-conjunction.interjection adverb-анчах
 ләкин-nonetype.interjection adverb-анчах
-төньяк боланнарын-nonetype.masculine-çурçĕр пăлан
 дыр-8.3.5.2.4.adverb-ахăр
-коңгырт-adjective.noun-хăмăр
-көрән-adjective.noun-хăмăр
-җәһәннәм-noun.proper masculine-тамăк
-azerbaycan-nonetype.masculine-азербайджан чĕлхи
-соскыч-nonetype.masculine-ăскăч
 пэни-nonetype.noun adjective masculine-чăкăт
 тырыш-verb.adjective-тимлĕ
 якынча-adverb.adjective adverb-чуххăм
 сал-verb.noun masculine-сулă
 сал-verb.noun-сулă
-хата-noun.adjective-йăнăшлă
-хата-noun.adjective-йăнăш
 фини-u0441u0443u0449.noun masculine-сӑмса
 фини-u0441u0443u0449.noun masculine-шĕвĕр сăмсă
 фини-u0441u0443u0449.noun masculine-сăмса
@@ -1447,19 +1102,8 @@ azerbaycan-nonetype.masculine-азербайджан чĕлхи
 чаң-nonetype.noun u043au043eu0301u043bu043eu043au043eu043b-чан
 чаң-noun.noun u043au043eu0301u043bu043eu043au043eu043b-чан
 кыңгырау-noun.noun u043au043eu0301u043bu043eu043au043eu043b-чан
-дымлы-adjective.noun-йĕпе
-дымлы-adjective.noun-нÿрĕ
-чиләбе-proper.noun masculine-челепи
-рига-proper.noun feminine-рига
 ач-verb.adjective-выçă
 ач-verb.adjective-выçлăх
-дошман-noun.adjective-тăшман
-вена-proper.noun-вена
-филиппиннар-proper.noun feminine-филиппин
-сөт-noun.adjective-сĕт
-сөт-noun.adjective-сĕтлĕ
-җир-noun.adjective-çĕр
-җир-noun.adjective-тăпра
 сәбәпле-nonetype.adposition-пирки
 күрә-adposition.adposition-пирки
 буйлап-adposition.adposition-тăрăхла
@@ -1469,32 +1113,20 @@ azerbaycan-nonetype.masculine-азербайджан чĕлхи
 буе-nonetype.adposition-майăн
 буе-nonetype.adposition-тăрăх
 буе-nonetype.adposition-тăрăхла
-иртән-adverb.adjective-ирхи
-әле-adverb.adjective-паянхи
-әле-adverb.adjective-паян
-бүген-adverb.adjective-паянхи
-бүген-adverb.adjective-паян
 ләгънәт-noun.noun interjection-ылхану
 каһәр-noun.noun interjection-ылхану
 каргыш-noun.noun interjection-ылхану
 перу-proper.noun neuter-перу
-уругвай-proper.noun masculine-уругвай
-сингапур-proper.noun masculine-сингапур
 хьэшдимуьн-nonetype.numeral masculine-саккӑрмӗш
-сан-noun.adjective-хисеп
-сан-noun.adjective-шут
 өч-determiner.pronoun-виççĕмĕш
 өченче-ordinal number.pronoun-виççĕмĕш
 янында-nonetype.adverb adposition-çывăхра
 пэнжимуьн-nonetype.numeral masculine-пиллӗкмӗш
 хәрби-adjective.adjective noun-çap
-сугышчы-noun.adjective-вăрçă
 сугышчы-noun.adjective noun-çap
-солдат-noun.adjective-вăрçă
 солдат-noun.adjective noun-çap
 сугыш-nonetype.adjective noun-çap
 шэшимуьн-nonetype.numeral masculine-улттӑмӗш
-гыйнвар-noun.adjective-кăрлач
 эвэли-nonetype.numeral masculine-пӗрремӗш
 сарык-noun.pronoun-сурăх
 шиксез-nonetype.interjection-паллах
@@ -1535,8 +1167,6 @@ yuq-nonetype.verb adverb-аюк
 вэ-nonetype.conjunction-тата
 вэ-nonetype.conjunction-те
 шуңа күрә-conjunction.adverb-çавăнпа
-соры-adjective.noun-кăвак
-соры-adjective.noun-сăрă
 ал-auxiliary.verb-пултар
 тугыз-determiner.adjective-тӑххӑрмӗш
 işek-nonetype.noun u043du0435u0442u0443-алăк
@@ -1553,12 +1183,6 @@ qırım törekçäse-proper.proper-крым тутарĕсен чĕлхи
 бер-determiner.numeral masculine-пӗрремӗш
 бер-determiner.adjective masculine-малтанхи
 беренче-adjective.numeral masculine-пӗрремӗш
-кытай-proper.noun masculine-китай
-madrid-proper.noun masculine-мадрид
-февраль-noun.proper masculine-нарӑс
-февраль-noun.proper masculine-нарăс
-febräl-proper.noun masculine-кӗҫӗн кӑрлач
-febräl-proper.noun masculine-февраль
 арыслан-nonetype.noun adjective masculine-арăслан
 arıslan-nonetype.noun adjective masculine-арăслан
 арыслан-noun.noun adjective masculine-арăслан
@@ -1569,21 +1193,10 @@ arıslan-nonetype.noun adjective masculine-арăслан
 мич-noun.verb noun feminine-пĕçер
 фурун-nonetype.verb noun feminine-кăмака
 фурун-nonetype.verb noun feminine-пĕçер
-зур-adjective.adverb-сарлака
-киң-adjective.adverb-сарлака
-кара-adjective.noun-хура
-әйбәт-adjective.adverb-аван
-әйбәт-adjective.adverb-лайăх
-яхшы-adjective.adverb-аван
-яхшы-adjective.adverb-лайăх
-суык-adjective.adverb-сивĕ
-салкын-adjective.adverb-сивĕ
-кыен-adjective.adverb-йывăр
 авыр-verb.adjective adverb-кансĕр
 авыр-verb.adverb-йывăр
 авыр-verb.adjective adverb-тертлĕ
 авыр-verb.adjective adverb-хĕсĕк
-авыр-adjective.adverb-йывăр
 төгәл-adjective.adjective conjunction interjection adverb-çапла
 төгәл-adjective.adjective conjunction interjection adverb-шăп
 төгәл-adjective.adjective conjunction interjection adverb-пĕрех
@@ -1613,7 +1226,6 @@ arıslan-nonetype.noun adjective masculine-арăслан
 әкрен-adverb.adjective interjection adverb-хуллен
 әкрен-adverb.adjective interjection adverb-шăп
 әкрен-adverb.adjective interjection adverb-тăнăç
-тар-adjective.adverb-ансăр
 җылылык-noun.noun adjective adverb-ăшшăн
 бире-adverb.noun-кунта
 пыяла-nonetype.noun verb neuter-кантăк
@@ -1621,25 +1233,11 @@ arıslan-nonetype.noun adjective masculine-арăслан
 пыяла-noun.noun verb neuter-кантăк
 пыяла-noun.noun verb neuter-кĕленче
 кояш-proper.adjective-хĕвел
-кар-noun.adjective-юр
-авыл-noun.adjective-ял
 шушы-nonetype.pronoun verb-çак
 бу-nonetype.pronoun verb-çак
-төньяк-noun.adjective-çурçĕр
 эш-nonetype.adjective noun masculine-ĕç
 эшче-noun.adjective noun masculine-ĕç
-соң-adverb.adjective-кайри
-соң-adverb.adjective-кайранхи
-соң-adverb.adjective-юлашки
-яман-adjective.adverb-япăх
-яман-adjective.adverb-начар
-начар-adjective.adverb-япăх
-начар-adjective.adverb-начар
-әүвәл-adverb.adjective-халичченхи
-әүвәл-adverb.adjective-унчченхи
 әүвәл-adverb.noun-кивĕ
-борын-adverb.adjective-халичченхи
-борын-adverb.adjective-унчченхи
 борын-adverb.noun-кивĕ
 чыннан да-nonetype.noun conjunction interjection-чăнлăх
 чыннан да-nonetype.noun conjunction interjection-чăн
@@ -1647,82 +1245,43 @@ arıslan-nonetype.noun adjective masculine-арăслан
 дөрес-nonetype.noun conjunction interjection-чăнлăх
 дөрес-nonetype.noun conjunction interjection-чăн
 дөрес-nonetype.noun conjunction interjection-тĕрĕслĕх
-дөрес-adjective.adverb-тĕрĕс
 ике-cardinal number.noun feminine-йĕкĕр
 ике-cardinal number.noun feminine-мăшăр
 тукта-verb.noun feminine-чарăну
 нигез-noun.noun verb-пуçламăш
 башлангыч-nonetype.noun verb-пуçламăш
 баш-noun.noun verb-пуçламăш
-әле-adverb.adjective-хальхи
-халык-noun.adjective-халăх
-диңгез-noun.adjective-тинĕс
 әкрен генә-adverb.adjective adverb-вăраххăн
 әкрен генә-adverb.adjective adverb-вăрах
-акрын-adjective.adverb-хуллен
-әкрен-adjective.adverb-хуллен
 күп-nonetype.adjective pronoun-чылайăш
 күп-nonetype.adjective pronoun-нумайăшĕ
 ярый-interjection.interjection-юрать
 ярар-interjection.interjection-юрать
 яме-interjection.interjection-юрать
 яхшы-nonetype.interjection-юрать
-урман-noun.adjective-вăрман
-боз-noun.adjective-пăр
-китап-noun.adjective-кĕнеке
-таш-noun.adjective-чул
-ерак-adjective.adverb-инçе
-тау-noun.adjective-ту
-дәүләт-noun.adjective-патшалăх
-кәгазь-noun.adjective-хут
 бире-adverb.noun-çывăх
 бире-adverb.adjective noun-юнашар
 бире-adverb.adjective noun-çывахри
-якын-adjective.noun-çывăх
 якын-adjective.adjective noun-юнашар
 якын-adjective.adjective noun-çывахри
 кая-adverb.noun-ӑҫта
 кая-adverb.noun-ăçта
-кавказ-proper.noun-арамаçи
-һиндстан-proper.noun-инди
-хиндостан-proper.noun-инди
-hindostan-proper.noun-инди
 көл-verb.noun feminine-кӗл
 көл-verb.noun feminine-кĕл
-португалия-proper.noun feminine-португали
 моль-nonetype.noun adjective feminine-моль
 көя-noun.noun adjective feminine-моль
-көръән-proper.noun masculine-коран
-ерак-adjective.noun-инçе
-ерак-adjective.noun-инче
-озак-adjective.noun-вăрăм
-озын-adjective.noun-вăрăм
 fiji-nonetype.proper p-фиджи
-марс-proper.noun-марс
 ontse-nonetype.verb masculine-чǎн
 ontse-nonetype.verb masculine-тĕрĕс
-миләш кошы-nonetype.masculine-пилешлĕх
 nigas-nonetype.conjunction-та
 nigas-nonetype.conjunction-тата
 nigas-nonetype.conjunction-те
-башкорт-noun.proper-пушкăрт
-башкорт-noun.proper-пушкăрт чĕлхи
 бүтән-adjective.determiner-урăх
 башка-adjective.determiner-урăх
-xalıqara yañğırış älifbası-proper.noun masculine-тӗнче фонетикӑллӑ алфавичӗ
 кичә-adverb.noun adverb-ĕнер
 kiçä-adverb.noun adverb-ĕнер
-авыр-adjective.noun-йывăр
-кыен-adjective.noun-йывăр
 авыр-verb.adjective-йывӑр
 авыр-verb.noun-йывăр
-июнь-noun.proper masculine-ҫӗртме
-июнь-noun.proper masculine-śěrtme
-июнь-noun.proper masculine-çĕртме
-июнь-noun.proper masculine-çěртме
-yün-proper.noun masculine-июнь
-yün-proper.noun masculine-çĕртме уйăхĕ
-абхазия-proper.noun feminine-абхази
 давыл-noun.noun verb feminine-тăвăл
 буран-nonetype.noun verb feminine-тăвăл
 давыл-nonetype.noun verb feminine-тăвăл
@@ -1730,12 +1289,8 @@ yäşenle yañğır-nonetype.noun verb feminine-тăвăл
 син-pronoun.pronoun p-эсир
 сез-pronoun.pronoun p-эсир
 вена-noun.proper feminine-вена
-күк-adjective.noun-кăвак
 күк-adjective.adjective noun-сенкер
-зәңгәр-adjective.noun-кăвак
 зәңгәр-adjective.adjective noun-сенкер
-merkuri-proper.noun-меркури
-перу-proper.noun-перу
 кайда-adverb.conjunction-ăçта
 аек-verb.adjective-урă
 агыл-verb.verb noun-йăпăртат
@@ -1746,10 +1301,8 @@ merkuri-proper.noun-меркури
 sabın-noun.noun verb-супăнь
 сабын-noun.noun verb-супăнь
 дамаск-proper.masculine-дамаск
-damask-nonetype.masculine-дамаск
 сидек-nonetype.noun particle feminine-шăк
 бәвел-noun.noun particle feminine-шăк
-идел-proper.noun-атăл
 язу-noun.verb impf-ҫыр
 язу-noun.verb-çыр
 шушы-determiner.pronoun masculine-ку
@@ -1763,15 +1316,12 @@ damask-nonetype.masculine-дамаск
 калим-noun.verb-лăплантар
 калим-noun.verb-йăпат
 калим-noun.verb-сĕвĕрт
-куба-proper.noun-куба
 дип-nonetype.pronoun conjunction-мĕскер
 нәрсә-pronoun.pronoun conjunction-мĕскер
 ни-pronoun.pronoun conjunction-мĕскер
 сыйныф бүлмәсе-nonetype.noun interjection masculine-класра
 класс-noun.noun interjection masculine-класра
 сыйныф-noun.noun interjection masculine-класра
-гөрҗистан-proper.noun feminine-грузи
-грузия-proper.noun feminine-грузи
 okeni-numeral.noun feminine-çӗр
 әлегә-adverb.conjunction interjection adverb-хальлĕхе
 хәзергә-adverb.conjunction interjection adverb-хальлĕхе
@@ -1804,13 +1354,7 @@ agine-nonetype.letter noun adposition-чух
 бугаз-nonetype.noun particle-пыр
 huk-nonetype.noun verb-мĕнпур
 hok-nonetype.noun verb-мĕнпур
-qör'än-nonetype.masculine-коран
-көръән-proper.noun-коран
 көръән-proper.masculine-коран
-qörʼän-nonetype.masculine-коран
-qör'ən-nonetype.masculine-коран
-пакистан-proper.noun masculine-пакистан
-pakistan-proper.noun masculine-пакистан
 янында-nonetype.adposition-яхăн
 янында-nonetype.adposition-тавра
 якынча-nonetype.adposition-яхăн
@@ -1820,10 +1364,8 @@ pakistan-proper.noun masculine-пакистан
 тирәсендә-nonetype.adposition-яхăн
 өстендә-adposition.adposition-яхăн
 өстендә-adposition.adposition-тавра
-идел-proper.noun feminine-атăл
 achutʼ-nonetype.adjective noun-сарă
 achuti-nonetype.adjective noun-сарă
-франция-proper.noun feminine-франци
 алты-determiner.numeral masculine-улттӑмӗш
 алтынчы-adjective.numeral masculine-улттӑмӗш
 чакыр-verb.noun-йыхрав
@@ -1831,21 +1373,8 @@ achuti-nonetype.adjective noun-сарă
 öç-cardinal number.numeral-виҫҫӗ
 öç-cardinal number.numeral-виҫ
 öç-cardinal number.numeral-виççĕ
-январь-noun.proper masculine-кăрлач уйăхĕ
-январь-noun.proper masculine-кăрлач
-январь-noun.proper masculine-кӑрлач
-январь-noun.proper masculine-янвӑрь
-гыйнвар-noun.proper masculine-кăрлач уйăхĕ
-гыйнвар-noun.proper masculine-кăрлач
-гыйнвар-noun.proper masculine-кӑрлач
-гыйнвар-noun.proper masculine-янвӑрь
-рига-proper.noun-рига
 kızıl-nonetype.adjective noun-сарă
 кызыл-adjective.adjective noun-сарă
-зур-adjective.noun-мăн
-зур-adjective.noun-пысăк
-бөек-adjective.noun-мăн
-бөек-adjective.noun-пысăк
 туры-adjective.verb masculine-чǎн
 туры-adjective.verb masculine-тĕрĕс
 дөрес-adjective.verb masculine-чǎн
@@ -1861,11 +1390,6 @@ kızıl-nonetype.adjective noun-сарă
 ачу-noun.adjective particle-уçăмлă
 ачу-noun.adjective particle-уçă
 ачу-noun.adjective particle-кĕрет
-бразилия-proper.noun-бразили
-август-noun.proper masculine-çурла
-август-noun.proper masculine-çурла уйăхĕ
-august-proper.noun masculine-август
-august-proper.noun masculine-ҫурла
 ขอบใจ-interjection.verb-тав
 nekin-nonetype.pronoun feminine-ку
 neke-nonetype.pronoun feminine-ку
@@ -1899,13 +1423,6 @@ onshpe-nonetype.verb noun adverb-палла
 англия-proper.adjective masculine-акăлчан
 англия-nonetype.adjective noun masculine-акӑлчан чӗлхи
 англия-nonetype.adjective noun masculine-акӑлчан
-uran-proper.noun masculine-уран
-иңле-adjective.noun-шалпар
-иңле-adjective.noun-анлǎ
-зур-adjective.noun-шалпар
-зур-adjective.noun-анлǎ
-киң-adjective.noun-шалпар
-киң-adjective.noun-анлǎ
 ägär-nonetype.conjunction-енчен
 ägär-nonetype.conjunction-ытах
 ägär-nonetype.conjunction-пулсан
@@ -1935,9 +1452,6 @@ luta-nonetype.verb interjection-апат çи
 luta-nonetype.verb interjection-сып
 luta-nonetype.verb interjection-пур
 luta-nonetype.verb interjection-çи
-чулпан-proper.noun-венера
-венера-proper.noun-венера
-venera-proper.noun-венера
 беркадәр-adverb.numeral-сахал
 беркадәр-adverb.numeral-кăшт
 бераз-adverb.numeral-сахал
@@ -1945,11 +1459,9 @@ venera-proper.noun-венера
 аз гына-adverb.numeral-сахал
 аз гына-adverb.numeral-кăшт
 аз-adjective.numeral-сахал
-аз-adjective.adverb-пăртак
 аз-adjective.numeral-кăшт
 сигез-determiner.numeral masculine-саккӑрмӗш
 сигезенче-adjective.numeral masculine-саккӑрмӗш
-арыслан-noun.proper masculine-арăслан
 аз-adverb.numeral-хăш
 аз-adverb.numeral-темиçе
 порт-noun.verb-чăт
@@ -1959,19 +1471,6 @@ venera-proper.noun-венера
 чөнки-conjunction.noun-пирки
 çönki-nonetype.conjunction-мĕншĕн тесен
 çönki-nonetype.conjunction-ма тесен
-калим-noun.adjective-канлĕ
-калим-noun.adjective-канăçлă
-калим-noun.adjective-канăç
-калим-noun.adjective-канас
-июль-noun.proper masculine-uta утă
-июль-noun.proper masculine-ҫӗртме
-июль-noun.proper masculine-uta
-июль-noun.proper masculine-утă
-июль-noun.proper masculine-утӑ
-июль-noun.proper masculine-утă уйăхĕ
-yül-proper.noun masculine-утă уйăхе
-yül-proper.noun masculine-июль
-бакы-proper.noun-баку
 калим-adjective.verb-кăмăла пусар
 туры-adjective.adjective noun-йăрăс
 туры-adjective.adjective noun-яштак
@@ -1983,7 +1482,6 @@ cide-cardinal number.numeral-ҫич
 cide-cardinal number.numeral-ҫиччӗ
 cide-cardinal number.numeral-çиччĕ
 кириллица-noun.proper feminine-кириллица
-урду-noun.proper masculine-урду
 törekçä-proper.adjective noun-турккă
 törek tele-nonetype.adjective noun-турккă
 төрекча-nonetype.adjective noun-турккă
@@ -1995,41 +1493,23 @@ neke-nonetype.pronoun interjection-это
 lewa-nonetype.pronoun interjection-это
 бу-pronoun.noun-кунта
 бу-pronoun.adverb-çакăнта
-салкын-noun.adjective-сивӗ
-салкын-noun.adjective-сивĕ
-англия-proper.noun masculine-акӑлчан чӗлхи
 ike-cardinal number.numeral-икӗ
 ike-cardinal number.numeral-ик
 ike-cardinal number.numeral-иккӗ
-قزان-proper.noun feminine-хусан
-قازان-proper.noun feminine-хусан
-qazan-proper.noun feminine-хусан
-казан-proper.noun feminine-хусан
 million-numeral.noun masculine-миллион
 million-numeral.noun-мĕльюн
-алмания-proper.noun-германи
 әгәр-conjunction.conjunction-эхер
-ай-proper.noun-уйăх
-ай-proper.noun masculine-уйӑх
-ай-noun.proper masculine-уйăх
 ил-noun.proper feminine-çĕр
 туфрак-noun.proper feminine-çĕр
 җир-noun.proper feminine-çĕр
-җир-proper.noun feminine-çĕр
-cir-proper.noun feminine-çĕр
-калифорния-proper.noun-калифорни
 хак-noun.noun adjective adverb-тивĕç
 канун-nonetype.noun adjective adverb-тивĕç
 хаклар-nonetype.noun adjective adverb-тивĕç
 хокук-noun.noun adjective adverb-тивĕç
-төркия-proper.noun feminine-турци
 ул-pronoun.pronoun masculine-вǎл
 ул-pronoun.pronoun masculine-леш
 шул-determiner.pronoun masculine-вǎл
 шул-determiner.pronoun masculine-леш
-начарлык-noun.adjective-япӑх
-начарлык-noun.adjective-япăх
-начарлык-noun.adjective-начар
 көл-verb.noun masculine-кӗл
 көл-verb.noun masculine-кĕл
 азербайджан-proper.adjective masculine-азербайджан чĕлхи
@@ -2040,10 +1520,6 @@ cir-proper.noun feminine-çĕр
 кыл-verb.noun-çÿç
 кыл-verb.noun p-çӳç
 кыл-verb.noun p-çӱç
-юеш-adjective.noun-йĕпе
-юеш-adjective.noun-нÿрĕ
-юеш-adjective.noun-исленчĕк
-дымлы-adjective.noun-исленчĕк
 ялгыз-adjective.pronoun masculine-пӗрре
 ялгыз-adjective.pronoun masculine-пӗр
 ялгыз-adjective.numeral-пĕччен
@@ -2058,16 +1534,11 @@ cir-proper.noun feminine-çĕр
 курку-noun.verb-хăрама
 курку-noun.verb-хăра
 курку-noun.verb-сехĕрлен
-ислам-proper.noun masculine-ислам
 үтер-verb.verb ubivxe1t'-вĕлерме
 üterergä-nonetype.verb ubivxe1t'-вĕлерме
 үтерергә-nonetype.verb ubivxe1t'-вĕлерме
 урыс-proper.noun p-вырӑс
 рус-proper.noun p-вырӑс
-рәсәй-proper.noun feminine-раççей
-россия-proper.noun feminine-раççей
-русия-proper.noun feminine-раççей
-алмания-proper.noun feminine-германи
 aвыл-nonetype.noun verb neuter-ял
 awıl-nonetype.noun verb neuter-ял
 авыл-noun.noun verb neuter-ял
@@ -2075,8 +1546,6 @@ awıl-nonetype.noun verb neuter-ял
 ขอบใจ-interjection.interjection-тавтапуç
 ขอบใจ-interjection.interjection-рахмат
 ขอบใจ-interjection.interjection-тавтапущ
-ай-proper.noun feminine-уйăх
-ай-proper.noun feminine-уйӑх
 аша-verb.verb interjection-апатлан
 аша-verb.verb interjection-апат çи
 аша-verb.verb interjection-сып
@@ -2097,7 +1566,6 @@ awıl-nonetype.noun verb neuter-ял
 sır-nonetype.noun adjective masculine-чăкăт
 eremçek-nonetype.noun adjective masculine-чăкăт
 сыр-noun.noun adjective masculine-чăкăт
-хәлиф-proper.noun-халиф
 өлеш-nonetype.noun verb-уйрăм
 төймә-noun.noun verb-уйрăм
 бүлем-noun.noun verb-уйрăм
@@ -2121,10 +1589,6 @@ eremçek-nonetype.noun adjective masculine-чăкăт
 һәм-conjunction.noun neuter-тата
 һәм-conjunction.letter conjunction noun-ĕнтĕ
 һәм-conjunction.noun neuter-те
-май-noun.proper masculine-şu
-май-noun.proper masculine-çу
-май-noun.proper masculine-ҫу
-май-noun.proper masculine-çу уйăхĕ
 aseni-nonetype.adjective u0431u0435u0301u043bu044bu0439-шурӑ
 aseni-nonetype.adjective u0431u0435u0301u043bu044bu0439-шурă
 asan-nonetype.adjective u0431u0435u0301u043bu044bu0439-шурӑ
@@ -2141,21 +1605,7 @@ asan-nonetype.adjective u0431u0435u0301u043bu044bu0439-шурă
 алман теле-proper.adjective noun-нимĕç
 almança-nonetype.adjective noun-нимĕç чĕлхи
 almança-nonetype.adjective noun-нимĕç
-бәндә-noun.proper masculine-этем
-бәндә-noun.proper masculine-эдем
-бәндә-noun.proper masculine-çын
-бәндә-noun.proper masculine-ҫын
-адәм-noun.proper masculine-этем
-адәм-noun.proper masculine-эдем
-адәм-noun.proper masculine-çын
-адәм-noun.proper masculine-ҫын
-кеше-noun.proper masculine-этем
-кеше-noun.proper masculine-эдем
-кеше-noun.proper masculine-çын
-кеше-noun.proper masculine-ҫын
-себер-proper.noun-çĕпĕр
 кояш-proper.noun neuter-хĕвел
-библия-proper.noun feminine-библи
 максат кыйммәт-nonetype.noun verb-тĕллев
 максат кыйммәт-nonetype.noun verb-шут
 максат-noun.noun verb-тĕллев
@@ -2174,20 +1624,6 @@ nigas-nonetype.letter conjunction noun-ĕнтĕ
 räsäyle-nonetype.noun adjective feminine-вырӑс
 urıs-noun.noun adjective feminine-вырӑс
 rus-noun.noun adjective feminine-вырӑс
-аурупа берлеге-nonetype.masculine-европа пӗрлешӗвӗ
-аурупа берлеге-nonetype.masculine-европа пĕрлешĕвĕ
-ауруппа огузы-nonetype.masculine-европа пӗрлешӗвӗ
-ауруппа огузы-nonetype.masculine-европа пĕрлешĕвĕ
-awrupa berlege-nonetype.masculine-европа пӗрлешӗвӗ
-awrupa berlege-nonetype.masculine-европа пĕрлешĕвĕ
-аурупа берлеге awrupa berlege-nonetype.masculine-европа пӗрлешӗвӗ
-аурупа берлеге awrupa berlege-nonetype.masculine-европа пĕрлешĕвĕ
-аврупы берлеге-nonetype.masculine-европа пӗрлешӗвӗ
-аврупы берлеге-nonetype.masculine-европа пĕрлешĕвĕ
-awroberlek-nonetype.masculine-европа пӗрлешӗвӗ
-awroberlek-nonetype.masculine-европа пĕрлешĕвĕ
-awrupı berlege-nonetype.masculine-европа пӗрлешӗвӗ
-awrupı berlege-nonetype.masculine-европа пĕрлешĕвĕ
 toke-nonetype.interjection-епле
 toke-nonetype.conjunction noun adverb-пĕрех
 toke-nonetype.interjection-мĕнле
@@ -2197,30 +1633,13 @@ tok-nonetype.interjection-мĕнле
 etuk-nonetype.interjection-епле
 etuk-nonetype.conjunction noun adverb-пĕрех
 etuk-nonetype.interjection-мĕнле
-суык-adjective.noun-сивĕ
-салкын-adjective.noun-сивĕ
 tako-noun.proper feminine-алфавит
 tako-noun.proper feminine-кириллица
 älifba-noun.proper feminine-алфавит
 älifba-noun.proper feminine-кириллица
-сентябрь-noun.proper masculine-авăн
-sentäber-noun.proper masculine-авăн
 кыл-verb.noun-çӳç
 кыл-verb.noun-çӱç
-март-noun.proper masculine-пуш
-март-noun.proper masculine-пуш уйăхĕ
-карт-adjective.noun-ватă
-карт-adjective.noun-кивĕ
-иске-adjective.noun-ватă
-иске-adjective.noun-кивĕ
 aken-nonetype.pronoun conjunction-мĕскер
-пыяла-noun.adjective-тăрă
-урыс-proper.noun masculine-вырӑсла
-урысча-proper.noun masculine-вырӑсла
-рус-proper.noun masculine-вырӑсла
-nekin-nonetype.masculine-çак
-neke-nonetype.masculine-çак
-lewa-nonetype.masculine-çак
 урыслар-nonetype.adjective noun-вырăс
 урыс теле-nonetype.adjective noun-вырăс
 марҗа-noun.adjective masculine-вырӑсла
@@ -2250,14 +1669,10 @@ rus-noun.adjective masculine-вырӑс
 рус-proper.adjective masculine-вырӑсла
 рус-proper.adjective noun-вырăс
 рус-proper.adjective masculine-вырӑс
-австрия-proper.noun feminine-австри
-austria-proper.noun feminine-австри
 ike-cardinal number.numeral masculine-икӗ
 ike-cardinal number.numeral masculine-ик
 ike-cardinal number.numeral masculine-иккӗ
 ike-cardinal number.numeral masculine-иккĕ
-сирия-proper.noun feminine-сири
-сүрия-proper.noun feminine-сири
 yukan-nonetype.pronoun s-эс
 yukan-nonetype.pronoun s-эсӗ
 yukan-nonetype.pronoun s-эсĕ
@@ -2269,14 +1684,7 @@ yi-nonetype.pronoun s-эсӗ
 yi-nonetype.pronoun s-эсĕ
 үсемлекләр-noun p.noun neuter-ӳсентăран
 үсемлекләр-noun p.noun neuter-ӳсĕмлĕх
-октябрь-noun.proper masculine-юпа уйăхĕ
-октябрь-noun.proper masculine-юпа
-öktäber-proper.noun masculine-октябрь
-öktäber-proper.noun masculine-юпа
-аурупа-proper.noun feminine-европӑ
-күп-adjective.adverb-пайтах
 күп-adjective.numeral-нумай
-франция-proper.noun-франци
 mim-nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпĕ
 mim-nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпӗ
 mi-nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпĕ
@@ -2289,13 +1697,6 @@ henigu-nonetype.u043cu0435u0441u0442u043eu0438u043cu0435u043du0438u0435-эпӗ
 tuğız-cardinal number.numeral-тӑххӑр
 tuğız-cardinal number.numeral-тăххăр
 tuğız-cardinal number.numeral-тӑхӑр
-бакы-proper.noun masculine-баку
-кәфер-noun.adjective-суя
-декабрь-noun.proper masculine-раштав raštav
-декабрь-noun.proper masculine-раштав уйăхĕ
-dekäber-proper.noun masculine-декабрь
-аргы-adjective.noun-инçе
-аргы-adjective.noun-инче
 нидерландлар-nonetype.proper p-нидерландсем
 нидерландлар-nonetype.proper p-нидерланды
 голландия-nonetype.proper p-нидерландсем
@@ -2307,17 +1708,7 @@ hollandia-proper.proper p-нидерланды
 nederland-proper.proper p-нидерландсем
 nederland-proper.proper p-нидерланды
 керү-noun.verb-кĕр
-берлин-proper.noun masculine-берлин
-berlin-proper.noun masculine-берлин
-мәскәү-proper.noun-мускав
-ноябрь-noun.proper masculine-чӳк
-ноябрь-noun.proper masculine-чӳк уйăхĕ
-nöyäber-proper.noun masculine-ноябрь
-апрель-noun.proper masculine-ака уйăхĕ
-äpril-proper.noun masculine-апрель
-äpril-proper.noun masculine-ака
 мухши-proper.adjective-мăкшă
-латвия-proper.noun feminine-латви
 бөтенесе-pronoun.noun verb-мĕнпур
 бөтенесе-pronoun.pronoun masculine-пĕтĕм
 бөтенесе-pronoun.pronoun masculine-пурте
@@ -2367,22 +1758,10 @@ nomp-nonetype.numeral masculine-ик
 nomp-nonetype.numeral masculine-иккӗ
 nomp-nonetype.numeral masculine-иккĕ
 кайчан-adverb.noun neuter-хăçан
-әрмән теле-proper.noun masculine-чĕлхе
-әрмән теле-proper.noun masculine-чӗлхе
-әрмән теле-proper.noun masculine-венгр чĕлхи
-tele-proper.noun masculine-чĕлхе
-tele-proper.noun masculine-чӗлхе
-tele-proper.noun masculine-венгр чĕлхи
 теге-pronoun.adverb-çавăнта
 теге-pronoun.adverb-унта
 теге-pronoun.adverb-лере
-кечек-adjective.adverb-сахал
-кечек-adjective.adverb-кăшт
-аз-adjective.adverb-сахал
-аз-adjective.adverb-кăшт
 otoʼlakon-nonetype.adjective noun-ешĕл
-веб-noun.proper masculine-тетел
-интернет-noun.proper masculine-тетел
 яшел-adjective.adjective noun-ешĕл
 яшель-nonetype.adjective noun-ешĕл
 татар-nonetype.adjective noun-тутар
@@ -2397,12 +1776,3 @@ tatarça-noun.adjective noun-тутар
 ул-pronoun.pronoun neuter-леш
 okeni-numeral.numeral neuter-çӗр
 okeni-numeral.noun neuter-ҫӗр
-фин теле-nonetype.masculine-финн чĕлхи
-фин-nonetype.masculine-финн чĕлхи
-suomiçä-nonetype.masculine-финн чĕлхи
-җир-proper.noun feminine-ҫӗре
-җир-proper.noun feminine-тĕнче
-җир-proper.noun feminine-тăпра
-cir-proper.noun feminine-ҫӗре
-cir-proper.noun feminine-тĕнче
-cir-proper.noun feminine-тăпра
