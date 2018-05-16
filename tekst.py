@@ -32,8 +32,10 @@ for x in range(1,len(ttru)):#
     for j in range(1,len(rucv)):##normalize(ttru[1][1]).lower()
         if str(ttru[x][3]).lower()==str(rucv[j][3][:len(rucv[j][3])-1]).lower():
             #print(ttru[x][3]+'='+rucv[j][3][:len(rucv[j][3])-1])
-            s=normalize(ttru[x][1][:len(ttru[x][1])-1]).lower()+'-'+normalize(ttru[x][2]).lower()+'.'+normalize(rucv[j][2]).lower()+'-'+normalize(rucv[j][1]).lower()
+            s=normalize(ttru[x][1][:len(ttru[x][1])-1]).lower()+':'+normalize(ttru[x][2]).lower()+'.'+normalize(rucv[j][2]).lower()+':'+normalize(rucv[j][1]).lower()+':'+str(ttru[x][3]).lower()
             d1.append(s.lower())
+    if x%250==0:
+        print('d '+str(len(d1)))
 ###
 dunic1=['test']
 x=len(d1)-1
@@ -70,8 +72,10 @@ for x in range(1,len(rutt)):#
             p2=normalize(rutt[x][2]).lower()
             p3=normalize(cvru[j][2]).lower()
             p4=normalize(cvru[j][1][:len(cvru[j][1])-1]).lower()
-            s=p1+'-'+p2+'.'+p3+'-'+p4
+            s=p1+':'+p2+'.'+p3+':'+p4+':'+str(rutt[x][3][:len(rutt[x][3])-1]).lower()
             d2.append(s.lower())
+    if x%250==0:
+        print('d '+str(len(d2)))
 
 ###
 dunic1=[]
@@ -99,4 +103,3 @@ print('DONE')
 input()
 #for x in range(len(l)):
 #    print(l[x][3])
-

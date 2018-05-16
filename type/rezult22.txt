@@ -1,5 +1,4 @@
-test
-марганец:nonetype.noun masculine:марганец:марганец
+﻿марганец:nonetype.noun masculine:марганец:марганец
 скандий:nonetype.noun masculine:сканди:скандий
 кислород:nonetype.noun masculine:йӳçлĕк:кислород
 кислород:nonetype.noun:йӳçлĕк:кислород

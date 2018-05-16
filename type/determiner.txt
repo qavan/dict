@@ -1,0 +1,109 @@
+ул:determiner:вĕсене:их
+ул:determiner feminine:леш:та
+ул:determiner feminine:вǎл:та
+бүтән:determiner:ытти:другой
+бүтән:determiner:хирĕç:другой
+бүтән:determiner:урăхла:другой
+бүтән:determiner:тепĕр:другой
+бүтән:determiner:леш:другой
+бүтән:determiner:тепри:другой
+бүтән:determiner:урăх:другой
+унбиш:determiner:вунпилӗк:пятнадцать
+унбиш:determiner:вунпиллӗк:пятнадцать
+унөч:determiner:вунвиçӗ:тринадцать
+унөч:determiner:вунвиççӗ:тринадцать
+унөч:determiner:вунвиçç:тринадцать
+унөч:determiner:вунвиççĕ:тринадцать
+унике:determiner:вуникӗ:двенадцать
+унике:determiner:вуниккӗ:двенадцать
+унике:determiner:вуниккĕ:двенадцать
+унике:determiner:вуник:двенадцать
+күпме:determiner:хăш:какой
+күпме:determiner:мĕнле:какой
+күпме:determiner:мĕн:какой
+һичнинди:determiner:нихăш:никакой
+һичнинди:determiner:нимĕнле:никакой
+һичнинди:determiner:ним:никакой
+унсигез:determiner:вунсакӑр:восемнадцать
+унсигез:determiner:вунсаккӑр:восемнадцать
+унсигез:determiner:вунсаккăр:восемнадцать
+уналты:determiner:вунултӑ:шестнадцать
+уналты:determiner:вунулттӑ:шестнадцать
+ундүрт:determiner:вунтӑватӑ:четырнадцать
+ундүрт:determiner:вунтӑваттӑ:четырнадцать
+ундүрт:determiner:вунтӑват:четырнадцать
+ундүрт:determiner:вунтăваттă:четырнадцать
+унтугыз:determiner:вунтӑхӑр:девятнадцать
+унтугыз:determiner:вунтӑххӑр:девятнадцать
+унтугыз:determiner:вунтăххăр:девятнадцать
+кай:determiner:хăш:какой
+кай:determiner:мĕнле:какой
+кай:determiner:мĕн:какой
+бернинди:determiner:нихăш:никакой
+бернинди:determiner:нимĕнле:никакой
+бернинди:determiner:ним:никакой
+кайсы:determiner:хăш:какой
+кайсы:determiner:мĕнле:какой
+кайсы:determiner:мĕн:какой
+берәр:determiner:хăш:какой
+берәр:determiner:мĕнле:какой
+берәр:determiner:мĕн:какой
+ошбу:determiner:çак:этот
+ошбу:determiner:çав:этот
+бар:determiner:мĕнпур:весь
+бар:determiner:пур:весь
+бар:determiner:пĕтĕм:весь
+тугыз йөз:determiner:тăхăрçĕр:девятьсот
+дүрт йөз:determiner:тăватçĕр:четыреста
+мең:determiner:пин:тысяча
+туксан:determiner:тăхăрвуннă:девяносто
+туксан:determiner:тӑхӑр вун:девяносто
+башка:determiner:хăш-пĕр:иной
+башка:determiner:урăхла:иной
+башка:determiner:тепри:иной
+башка:determiner:урăх:иной
+кырык:determiner:хĕрĕх:сорок
+кырык:determiner:хӗрӗх:сорок
+ничә:determiner:чухлĕ:сколько
+ничә:determiner:миçе:сколько
+егерме:determiner:çирĕм:двадцать
+егерме:determiner:ҫирӗм:двадцать
+өч:determiner:виççĕмĕш:третий
+берничә:determiner:хăш-пер:несколько
+берничә:determiner:хăш:несколько
+берничә:determiner:темиçе:несколько
+сиксән:determiner:сакăрвуннăмĕш:восьмидесятый
+теге:determiner feminine:леш:та
+теге:determiner feminine:вǎл:та
+шул:determiner feminine:леш:та
+шул:determiner feminine:вǎл:та
+күп:nonetype:нумай:много
+утыз:determiner:вăтăр:тридцать
+утыз:determiner:вӑтӑр:тридцать
+күпме:determiner:мĕн:какой
+кайсы:determiner:мĕн:какой
+кай:determiner:мĕн:какой
+берәр:determiner:мĕн:какой
+башка:nonetype:урăх:иной
+шушы:determiner:çав:этот
+ул:determiner:çав:этот
+ошбу:determiner:çав:этот
+бу:determiner:çав:этот
+yukan:nonetype:вǎл:та
+yukan:nonetype:леш:та
+hekin:nonetype:вǎл:та
+hekin:nonetype:леш:та
+heke:nonetype:вǎл:та
+heke:nonetype:леш:та
+ena:nonetype:вǎл:та
+ena:nonetype:леш:та
+шул:nonetype:вǎл:та
+шул:nonetype:леш:та
+ул:nonetype:вǎл:та
+ул:nonetype:леш:та
+теге:nonetype:вǎл:та
+теге:nonetype:леш:та
+барлык:determiner:пĕтĕм кун:весь
+барлык:determiner:яра куна:весь
+бар:determiner:пĕтĕм кун:весь
+бар:determiner:яра куна:весь

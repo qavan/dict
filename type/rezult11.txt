@@ -1,5 +1,4 @@
-test
-кобальт:noun masculine.nonetype:кобальт:кобальт
+﻿кобальт:noun masculine.nonetype:кобальт:кобальт
 марганец:noun masculine.nonetype:марганец:марганец
 скандий:noun masculine.nonetype:сканди:скандий
 көнбатыш:adjective masculine.nonetype:хĕвеланăç:западный

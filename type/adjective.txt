@@ -1,0 +1,4248 @@
+көнбатыш:adjective masculine:хĕвеланăç:западный
+көнбатыш:adjective masculine:кай:западный
+көнбатыш:adjective masculine:анăç:западный
+пыяла:adjective:тăрă:прозрачный
+көньяк:adjective:кăнтăр:южный
+төн:adjective:каçхи:ночной
+төн:adjective:каç:ночной
+төн:adjective:çĕрлехи:ночной
+төн:adjective:çĕр:ночной
+ана зат:noun:ама:самка
+кич:adjective:каçхи:вечерний
+кич:adjective:каç:вечерний
+яшел:adjective:симĕс:зеленый
+яшел:adjective:ешĕл:зеленый
+яшел:adjective masculine:симĕс:зелёный
+яшел:adjective masculine:ешĕл:зелёный
+яшел:adjective masculine:симӗс:зелёный
+яшел:adjective masculine:ешĕль:зелёный
+сары:adjective:сарă:желтый
+сары:adjective masculine:сарă:жёлтый
+сары:adjective masculine:сарӑ:жёлтый
+көнчыгыш:adjective:мал:восточный
+түгәрәк:adjective:чăмăр:круглый
+түгәрәк:adjective:çаврашка:круглый
+түгәрәк:adjective:ҫаврака:круглый
+түгәрәк:adjective:чǎмǎр:круглый
+түгәрәк:adjective:çаврака:круглый
+көзге:adjective:кĕрхи:осенний
+көзге:adjective:кĕркуннехи:осенний
+көзге:adjective:кĕр:осенний
+авыру:adjective masculine:чирлĕ:больной
+авыру:adjective masculine:халсăр:больной
+авыру:adjective masculine:йăшăк:больной
+җен:noun masculine:мур:бес
+киләчәк:adjective:малашнехи:будущий
+сугыш:adjective:вăрçă:военный
+сугыш:adjective:çap:военный
+диңгез:adjective:тинĕс:морской
+үткән:adjective:халичченхи:прежний
+үткән:adjective:унчченхи:прежний
+үткән:adjective:кивĕ:прежний
+зәңгәр:adjective masculine:кӑвак:синий
+зәңгәр:adjective masculine:кăвак:синий
+зәңгәр:adjective masculine:сенкер:голубой
+зәңгәр:adjective masculine:кăвак:голубой
+төньяк:adjective:çурçĕр:северный
+күк:adjective masculine:сенкер:голубой
+күк:adjective masculine:кăвак:голубой
+күк:adjective masculine:кӑвак:синий
+күк:adjective masculine:кăвак:синий
+мәзәк:noun masculine:мыскара:анекдот
+мәзәк:noun:мыскара:анекдот
+хәзер:adjective:хальхи:нынешний
+кыр:adjective:хирти:полевой
+кыр:adjective:хир:полевой
+кыр:adjective:уй-хир:полевой
+кыр:adjective:уй:полевой
+кыйммәт:adjective:паха:ценный
+мәет:noun masculine:виле:покойник
+мәет:adjective masculine:виле:мёртвый
+мәет:adjective masculine:ÿт:мёртвый
+мәет:noun masculine:виле:мертвец
+мәет:noun masculine:виле:труп
+көрән:adjective masculine:çырă:каштановый
+көрән:adjective:хăмăр:карий
+көрән:adjective:хăмăр:коричневый
+иртә:adjective:малтанхи:ранний
+иртә:adjective:ирхи:утренний
+кичә:adjective:ĕнерхи:вчерашний
+сан:adjective:шут:количественный
+сан:adjective:хисеп:количественный
+эпидемия:noun:эпидеми:эпидемия
+урман:adjective:вăрман:лесной
+халык:adjective:халăх:народный
+ана бал корты:noun:ама:матка
+хезмәт:adjective:ĕç:трудовой
+гүзел:adjective:эреветлĕ:красивый
+гүзел:adjective:чипер:красивый
+гүзел:adjective:чечен:красивый
+гүзел:adjective:хитре:красивый
+гүзел:adjective:сарă:красивый
+гүзел:adjective:нĕрлĕ:красивый
+гүзел:adjective:кĕрнеклĕ:красивый
+гүзел:adjective:кĕрнек:красивый
+гүзел:adjective:илемлĕ:красивый
+гүзел:adjective:ĕлккен:красивый
+гүзел:adjective:капăр:красивый
+имәнеч:adjective:хăрушă:страшный
+имәнеч:adjective:хăрушă:жуткий
+серле:adjective:вăрттăн:тайный
+серле:adjective:вăрттăн:секретный
+таўлу тил:adjective masculine:карачай-палкар чĕлхи:карачаево-балкарский
+карачай-балкар теле:adjective masculine:карачай-палкар чĕлхи:карачаево-балкарский
+къарачай-малкъар тил:adjective masculine:карачай-палкар чĕлхи:карачаево-балкарский
+хакас теле:adjective masculine:хакас чĕлхи:хакасский
+сүзчән:adjective:чараксăр:болтливый
+сүзчән:adjective:сÿпĕлти:болтливый
+сүзчән:adjective:пакăлти:болтливый
+такылдык:adjective:чараксăр:болтливый
+такылдык:adjective:сÿпĕлти:болтливый
+такылдык:adjective:пакăлти:болтливый
+шулай:adverb:ахаль:так
+шулай:adverb:апла:так
+очраклы:adjective:ăнсăрт:случайный
+үтә күренмәле:adjective:тăрă:прозрачный
+дорфа:adjective:чурăс:грубый
+дорфа:adjective:чăртмах:грубый
+дорфа:adjective:тÿрккес:грубый
+узган:adjective:халичченхи:прошлый
+узган:adjective:унчченхи:прошлый
+узган:adjective:кивĕ:прошлый
+гадәттәге:adjective:кулленхи:обычный
+гадәттәге:adjective:йĕркеллĕ:обычный
+гадәттәге:adjective:ахаль:обыкновенный
+иң мөһим:adjective:тĕп:главный
+иң мөһим:adjective:мăнă:главный
+иң мөһим:adjective:аслă:главный
+тәбәнәк:adjective:лутра:невысокий
+тәбәнәк:noun:лутра:низкий
+кушма:adjective:кăткăс:сложный
+тыйнак:adjective:сăпайлă:скромный
+тыйнак:adjective:сăпай:скромный
+назлы:adjective:юратуллă:нежный
+назлы:adjective:черчен:нежный
+назлы:adjective:çепĕç:нежный
+болай:adverb:ахаль:так
+болай:adverb:апла:так
+көтелмәгән:adjective:ăнсăрт:случайный
+агарган:adjective:шурă:седой
+агарган:adjective:сăрă:седой
+агарган:adjective:кăвак:седой
+хәсрәтле:adjective:хурланчăк:печальный
+хәсрәтле:adjective:салхуллă:печальный
+хәсрәтле:adjective:салху:печальный
+күп санлы:adjective:йышлă:многочисленный
+урындагы:adjective masculine:тĕп:местный
+борынгы:adjective:тахçанхи:старинный
+борынгы:adjective:авалхи:старинный
+борынгы:adjective:ĕлĕкхи:старинный
+борынгы:adjective:тахçанхи:древний
+борынгы:adjective:авалхи:древний
+игелекле:adjective:ырă:добрый
+игелекле:adjective:ырӑ:добрый
+игелекле:adjective:лайăх:добрый
+күңелсез:adjective:тунсăх:скучный
+күңелсез:adjective:кичем:скучный
+күңелсез:adjective:йăлăхтармăш:скучный
+күңелсез:adjective:хурланчăк:грустный
+күңелсез:adjective:хурлăхлă:грустный
+күңелсез:adjective:салху:грустный
+ышандырырлык:adjective:ĕненмелле:убедительный
+читен:adjective masculine:хĕсĕк:трудный
+читен:adjective masculine:тертлĕ:трудный
+читен:adjective masculine:нушаллă:трудный
+читен:adjective masculine:кансĕр:трудный
+читен:adjective masculine:кăткăс:трудный
+читен:adjective masculine:йывăр:трудный
+читен:adjective adverb:хĕсĕк:трудно
+читен:adjective adverb:тертлĕ:трудно
+читен:adjective adverb:кансĕр:трудно
+читен:adjective adverb:йывăр:трудно
+шомлы:adjective:хумханчăк:тревожный
+шомлы:adjective:канăçсăр:тревожный
+шөбһәле:adjective:шанчăксăр:сомнительный
+шикле:adjective:шанчăксăр:сомнительный
+ләкин:adverb:тин:только
+хаклы:adjective:тĕрĕс:справедливый
+төссез:adjective:шупка:серый
+төссез:adjective:чакăр:серый
+төссез:adjective:сăрă:серый
+төссез:adjective:кăвак:серый
+шундый:adjective:апла:такой
+шундый:adjective:çапла:такой
+шундый:adjective:çав:такой
+шулкадәр:adjective:апла:такой
+шулкадәр:adjective:çапла:такой
+шулкадәр:adjective:çав:такой
+эчпошыргыч:adjective:тунсăх:скучный
+эчпошыргыч:adjective:кичем:скучный
+эчпошыргыч:adjective:йăлăхтармăш:скучный
+шатлыклы:adjective:хаваслă:радостный
+шатлыклы:adjective:хавас:радостный
+шатлыклы:adjective:савăнăçлă:радостный
+шатлыклы:adjective:савăк:радостный
+бик матур:adjective:шеп:прекрасный
+бик матур:adjective:чипер:прекрасный
+бик матур:adjective:хитре:прекрасный
+бик матур:adjective:аван:прекрасный
+бик яхшы:adjective:шеп:прекрасный
+бик яхшы:adjective:чипер:прекрасный
+бик яхшы:adjective:хитре:прекрасный
+бик яхшы:adjective:аван:прекрасный
+бик яхшы:adjective adverb:шеп:прекрасно
+бик яхшы:adjective adverb:чипер:прекрасно
+бик яхшы:adjective adverb:аван:прекрасно
+салмак:adjective:халсăр:слабый
+салмак:adjective:хавшак:слабый
+салмак:adjective:нишлĕ:слабый
+салмак:adjective:лăп:слабый
+салмак:adjective:лăнчă:слабый
+салмак:adjective:йăшăк:слабый
+салмак:adjective:йăмшак:слабый
+салмак:adjective:имшер:слабый
+салмак:adjective:вăйсăр:слабый
+салмак:adjective:вăрах:медленный
+чираттагы:adjective:черетлĕ:очередной
+бер үк вакытта:adjective adverb:харăс:одновременно
+көтмәгәндә:adjective adverb:сасартăк:неожиданно
+көтмәгәндә:adjective adverb:сарăмсăр:неожиданно
+көтмәгәндә:adjective adverb:палт:неожиданно
+көтмәгәндә:adjective adverb:ăнсăртран:неожиданно
+кинәт:adjective adverb:сасартăк:неожиданно
+кинәт:adjective adverb:сарăмсăр:неожиданно
+кинәт:adjective adverb:палт:неожиданно
+кинәт:adjective adverb:ăнсăртран:неожиданно
+кинәт:adjective adverb:сасартăк:внезапно
+кинәт:adjective adverb:сарăмсăр:внезапно
+бик зур:adjective:катрам:огромный
+бик зур:adjective:катмар:огромный
+сай:adjective:ӑшӑх:мелкий
+сай:adjective:шăкар-макăр:мелкий
+сай:adjective:хунав:мелкий
+сай:adjective:тĕвек:мелкий
+сай:adjective:ванчăк:мелкий
+сай:adjective:вак:мелкий
+сай:adjective:вĕтĕ:мелкий
+сай:adjective:ăшăх:мелкий
+ирләр:adjective:арçын:мужской
+ир-ат:adjective:арçын:мужской
+ямансу:adjective:хурланчăк:грустный
+ямансу:adjective:хурлăхлă:грустный
+ямансу:adjective:салху:грустный
+зуррак:adverb:ытларах:больше
+шат күңелле:adjective:йĕкер:бодрый
+агарынган:adjective:шуранка:бледный
+агарынган:adjective:шупка:бледный
+агарынган:adjective:шĕвĕ:бледный
+мөмкин кадәр:adjective adverb:пулĕ:возможно
+aç:adjective:выçлăх:голодный
+aç:adjective:выçă:голодный
+yalqaw:adjective:юлхав:ленивый
+yalqaw:adjective:чуман:ленивый
+yalqaw:adjective:наян:ленивый
+yalqaw:adjective:мăран:ленивый
+yalqaw:adjective:кахал:ленивый
+yalqaw:adjective:ÿркенчĕк:ленивый
+yalqaw:adjective:ÿрĕк-сÿрĕк:ленивый
+беркатлы:adjective masculine:ансат:лёгкий
+беркатлы:adjective masculine:çăмăл:лёгкий
+беркатлы:adjective masculine:çÿхе:лёгкий
+беркатлы:adjective masculine:ҫӑмӑл:лёгкий
+беркатлы:adjective masculine:ҫӑмӑл:простой
+беркатлы:adjective masculine:юмарт:простой
+беркатлы:adjective masculine:ахаль:простой
+йөкле:adjective:хырăмлă:беременная
+дипломат ...ы:adjective:дипломат:дипломатический
+сиксәненче:adjective:сакăрвуннăмĕш:восьмидесятый
+тәэсирле:adjective:ÿсĕмлĕ:эффективный
+тәэсирле:adjective:вăйăмлă:влиятельный
+йогынтылы:adjective:вăйăмлă:влиятельный
+илаһи:adjective:турă:божественный
+яшель:adjective masculine:симĕс:зелёный
+яшель:adjective masculine:ешĕл:зелёный
+яшель:adjective masculine:симӗс:зелёный
+яшель:adjective masculine:ешĕль:зелёный
+талаучылар:adjective:хурахла:бандитский
+талаучылар:adjective:хурах:бандитский
+талаучылар:adjective:вăрă-хурахла:бандитский
+талаучылар:adjective:бандит:бандитский
+талаучылар:adjective:бандитла:бандитский
+азербайджан теле:adjective masculine:азербайджан чĕлхи:азербайджанский
+иблис:noun masculine:мур:бес
+җир:adjective:çĕр:земной
+җир:adjective:тăпра:земляной
+җир:adjective:çĕр:земляной
+kızıl:adjective:сарă:красный
+kızıl:adjective:хĕрлĕ:красный
+barı:noun:тин:только
+гәүдә:nonetype:виле:труп
+корпус:nonetype:виле:труп
+мәет:nonetype:виле:труп
+малайча:adjective masculine:малай:малайский
+эш:adjective:ĕç:трудовой
+шайтан:noun masculine:мур:бес
+татар:adjective masculine:тутар:татарский
+оят:adjective adverb:намăс:стыдно
+начарлык:adjective:пули-пулми:плохой
+начарлык:adjective:йăх-ях:плохой
+начарлык:adjective:япӑх:плохой
+начарлык:adjective:япăх:плохой
+начарлык:adjective:начар:плохой
+мәктәп:adjective:шкул:школьный
+крестьян:noun:хресчен:крестьянин
+корпус:noun masculine:виле:труп
+корпус:adjective masculine:виле:мёртвый
+корпус:adjective masculine:ÿт:мёртвый
+корпус:noun masculine:виле:мертвец
+контроль:adjective:тĕрĕслев:контрольный
+зыян:noun masculine:усал:вред
+гәүдә:noun masculine:виле:труп
+гәүдә:adjective masculine:виле:мёртвый
+гәүдә:adjective masculine:ÿт:мёртвый
+гәүдә:noun masculine:виле:мертвец
+бур:adjective masculine:пурӑ:мелок
+акбур:adjective masculine:пурӑ:мелок
+һава:adjective:сывлăш:воздушный
+сылу:adjective:яштак:стройный
+сылу:adjective:кĕрнеклĕ:стройный
+сылу:adjective:йăрăс:стройный
+сылу:adjective:чечен:изящный
+кояш:adjective:хĕвел:солнечный
+дәүләт:adjective:патшалăх:государственный
+гүзәл:adverb:чипер:прекрасно
+гүзәл:adjective:эреветлĕ:красивый
+гүзәл:adjective:чипер:красивый
+гүзәл:adjective:чечен:красивый
+гүзәл:adjective:хитре:красивый
+гүзәл:adjective:сарă:красивый
+гүзәл:adjective:нĕрлĕ:красивый
+гүзәл:adjective:кĕрнеклĕ:красивый
+гүзәл:adjective:кĕрнек:красивый
+гүзәл:adjective:илемлĕ:красивый
+гүзәл:adjective:ĕлккен:красивый
+гүзәл:adjective:капăр:красивый
+гүзәл:adjective:шеп:замечательный
+гүзәл:adjective:чаплă:замечательный
+гүзәл:adjective:шеп:прекрасный
+гүзәл:adjective:чипер:прекрасный
+гүзәл:adjective:хитре:прекрасный
+гүзәл:adjective:аван:прекрасный
+гүзәл:adjective:чечен:изящный
+газиз:adjective:паха:дорогой
+газиз:adjective:хаклă:дорогой
+гадел:adjective:тĕрĕс:справедливый
+гадел:adjective:сылтăмри:правый
+гадел:adjective:сылтăм:правый
+аяз:adjective:янкăр:ясный
+аяз:adjective:уяр:ясный
+аяз:adjective:çутă:ясный
+аяз:adjective:тăрă:ясный
+аяз:adjective adverb:янкăр:ясно
+аяз:adjective adverb:янк:ясно
+аяз:adjective adverb:уяр:ясно
+аяз:adjective adverb:уççăн:ясно
+аяз:adjective adverb:паллах:ясно
+азат:adjective:пушă:свободный
+азат:adjective:ирĕклĕ:свободный
+азат:adjective:ирĕк:свободный
+яссы:adjective:лапчăк:плоский
+ярлы:adjective masculine:шеремет:бедный
+ярлы:adjective masculine:чухăн:бедный
+ярлы:adjective masculine:пурлă-çуклă:бедный
+ярлы:adjective masculine:начар:бедный
+ярлы:adjective masculine:мĕскĕн:бедный
+ярлы:adjective masculine:мăнтарăн:бедный
+ярлы:adjective masculine:кăрачă:бедный
+ярлы:adjective masculine:кăрăс:бедный
+ярлы:adjective masculine:апăрша:бедный
+ярык:adjective:çурăк:треснутый
+яраклы:adjective:юрăхлă:пригодный
+яраклы:adjective:юрăхлă:годный
+ялтыравыклы:adjective:ялтăркка:блестящий
+ялтыравыклы:adjective:йăлтăркка:блестящий
+ялтыравыклы:adjective:йăлтăра:блестящий
+ялгыз:adjective:хусах:одинокий
+ялгыз:adjective:хăрах:одинокий
+ялгыз:adjective:пĕччен:одинокий
+ялгыз:adjective:одинокий:одинокий
+ялгыз:adjective:камалсăр:одинокий
+ялангач:adjective:çаппа-çарамас:голый
+ялангач:adjective:çара:голый
+язгы:adjective:çуркуннехи:весенний
+язгы:adjective:çyp:весенний
+язгы:adjective:çурхи:весенний
+яман:adjective:ирсĕр:скверный
+яман:adverb:начар:плохо
+яман:adjective:хаяр:злой
+яман:adjective:усал:злой
+яман:adjective:вĕчĕх:злой
+яман:adjective:çиллес:злой
+яман:adjective:япăх:злой
+яман:adjective:начар:злой
+яман:adjective:пули-пулми:плохой
+яман:adjective:йăх-ях:плохой
+яман:adjective:япӑх:плохой
+яман:adjective:япăх:плохой
+яман:adjective:начар:плохой
+ялкау:adjective:юлхав:ленивый
+ялкау:adjective:чуман:ленивый
+ялкау:adjective:наян:ленивый
+ялкау:adjective:мăран:ленивый
+ялкау:adjective:кахал:ленивый
+ялкау:adjective:ÿркенчĕк:ленивый
+ялкау:adjective:ÿрĕк-сÿрĕк:ленивый
+якты:adjective:янкăр:ясный
+якты:adjective:уяр:ясный
+якты:adjective:çутă:ясный
+якты:adjective:тăрă:ясный
+якты:adjective adverb:сăнарлă:ярко
+якты:adjective:сарă:яркий
+якты:adjective:сăнарлă:яркий
+якты:adjective:йăмăх:яркий
+якты:adjective:йăлтăрти:яркий
+якты:adjective:йăлтăра:яркий
+якты:adjective:шурă:светлый
+якты:adjective:чакăр:светлый
+якты:adjective:çутă:светлый
+эчке:adjective:шалти:внутренний
+эчке:adjective:шал:внутренний
+эстетик:adjective:эстетикăлла:эстетический
+юка:adjective:çинçе:тонкий
+юка:adjective:çÿхе:тонкий
+юка:adjective:ҫӳхе:тонкий
+юка:adjective:ҫинҫе:тонкий
+юка:adjective:çӳхе:тонкий
+юка:adjective:çӱхе:тонкий
+юка:adjective:çинче:тонкий
+юан:adjective:шыçмак:тучный
+юан:adjective:самăр:тучный
+юан:adjective:мăнтăр:тучный
+юан:adjective:шыçмак:толстый
+юан:adjective:тулли:толстый
+юан:adjective:тапчам:толстый
+юан:adjective:самăр:толстый
+юан:adjective:парка:толстый
+юан:adjective:мăнтăр:толстый
+юан:adjective:кÿпшек:толстый
+юан:adjective:хулӑн:толстый
+юан:adjective:тачка:толстый
+юан:adjective:хулăн:толстый
+эссе:adjective:шăрăх:жаркий
+эссе:adjective:хĕрÿллĕ:жаркий
+эссе:adjective:кăварлă:жаркий
+эссе:adjective:вĕри:жаркий
+эссе:adjective:хĕрÿ:жаркий
+эссе:adjective:шăрăх:горячий
+эссе:adjective:хĕрÿ:горячий
+эссе:adjective:кăрсака:горячий
+эссе:adjective:вĕри:горячий
+эссе:adjective:хĕрÿллĕ:горячий
+ябык:adjective:япăх:худой
+ябык:adjective:ырхан:худой
+ябык:adjective:хыткан:худой
+ябык:adjective:начар:худой
+ябык:adjective:япăх:тощий
+ябык:adjective:ырхан:тощий
+ябык:adjective:начар:тощий
+ябык:adjective:кăрачă:тощий
+ябык:adjective:хупă:закрытый
+ябык:adjective:питĕрĕнчĕк:закрытый
+юләр:adjective masculine:ухмах:сумасшедший
+юләр:adjective:ухмах:дурной
+юләр:adjective:начар:дурной
+югары:adjective:аслă:старший
+югары:adjective masculine:пысăк:высокий
+югары:adjective masculine:мухтавлă:высокий
+югары:adjective masculine:вăрăм:высокий
+югары:adjective masculine:çÿл:высокий
+югары:adjective masculine:çÿллĕ:высокий
+югары:adjective masculine:ҫӳллӗ:высокий
+эре:adjective:шултра:крупный
+эре:adjective:пысăк:крупный
+эре:adjective:мăнă:крупный
+эре:adjective:кервен:крупный
+шәхси:adjective:харпăр:личный
+шәрә:adjective:çаппа-çарамас:голый
+шәрә:adjective:çара:голый
+шәп:adjective:шеп:замечательный
+шәп:adjective:чаплă:замечательный
+хәрби:adjective:вăрçă:военный
+хәрби:adjective:çap:военный
+энергетик:adjective:энергетика:энергетический
+энергетик:adjective:вăй:энергетический
+ышанычлы:adjective:тĕреклĕ:прочный
+ышанычлы:adjective:кервен:прочный
+ышанычлы:adjective:çирĕп:прочный
+элеккеге:adjective:халичченхи:прошлый
+элеккеге:adjective:унчченхи:прошлый
+элеккеге:adjective:кивĕ:прошлый
+чыдам:adjective:чăтăмлă:стойкий
+чиста:adverb:таса:чисто
+чиста:adjective masculine:янкăр:чистый
+чиста:adjective masculine:тирпейлĕ:чистый
+чиста:adjective masculine:тăрă:чистый
+чиста:adjective masculine:çара:чистый
+чиста:adjective masculine:таса:чистый
+фәкыйрь:adjective masculine:шеремет:бедный
+фәкыйрь:adjective masculine:чухăн:бедный
+фәкыйрь:adjective masculine:пурлă-çуклă:бедный
+фәкыйрь:adjective masculine:начар:бедный
+фәкыйрь:adjective masculine:мĕскĕн:бедный
+фәкыйрь:adjective masculine:мăнтарăн:бедный
+фәкыйрь:adjective masculine:кăрачă:бедный
+фәкыйрь:adjective masculine:кăрăс:бедный
+фәкыйрь:adjective masculine:апăрша:бедный
+чиксез:adjective:чикĕсĕр:безграничный
+чиксез:adjective:виçесĕр:безграничный
+шәфкатьсез:adjective:тискер:жестокий
+хәерле:adjective:ырă:добрый
+хәерле:adjective:ырӑ:добрый
+хәерле:adjective:лайăх:добрый
+шат:adjective:телейлĕ:счастливый
+шат:adjective:хаваслă:радостный
+шат:adjective:хавас:радостный
+шат:adjective:савăнăçлă:радостный
+шат:adjective:савăк:радостный
+чын:adjective:хальхи:настоящий
+чукрак:adjective:хăлхасăр:глухой
+уртача:adjective:вăтам:средний
+уртача:adjective:вăталăх:средний
+уртача:adjective:вăта:средний
+һөнәри:adjective:ремесла:ремесленный
+хәтәр:adjective:хăрушă:опасный
+чибәр:adjective:эреветлĕ:красивый
+чибәр:adjective:чипер:красивый
+чибәр:adjective:чечен:красивый
+чибәр:adjective:хитре:красивый
+чибәр:adjective:сарă:красивый
+чибәр:adjective:нĕрлĕ:красивый
+чибәр:adjective:кĕрнеклĕ:красивый
+чибәр:adjective:кĕрнек:красивый
+чибәр:adjective:илемлĕ:красивый
+чибәр:adjective:ĕлккен:красивый
+чибәр:adjective:капăр:красивый
+чал:adjective:шурă:седой
+чал:adjective:сăрă:седой
+чал:adjective:кăвак:седой
+хуш:adjective:ырă:приятный
+хуш:adjective:савăк:приятный
+хуш:adjective:йĕкер:бодрый
+хосусый:adjective:ăрасна:особый
+хәлсез:adjective:хавшак:немощный
+хәлсез:adjective:вăйсăр:немощный
+тыгыз:adjective masculine:хĕсĕк:узкий
+тыгыз:adjective masculine:тăвăр:узкий
+тыгыз:adjective masculine:çинçе:узкий
+тыгыз:adjective masculine:тӑвӑр:узкий
+тыгыз:adjective masculine:тǎвǎр:узкий
+тыгыз:adjective masculine:ансӑр:узкий
+тыгыз:adjective masculine:ансăр:узкий
+тыгыз:adjective:хĕсĕк:тесный
+тыгыз:adjective:тачă:тесный
+тыгыз:adjective:тăвăр:тесный
+тыгыз:adjective:ансăр:тесный
+тыгыз:adjective:тачă:плотный
+тыгыз:adjective:питĕ:плотный
+хәвефле:adjective:хумханчăк:тревожный
+хәвефле:adjective:канăçсăр:тревожный
+уңышлы:adjective:ăнăçлă:успешный
+уңышлы:adjective:ÿсĕмлĕ:успешный
+үзсүзле:adjective:чăхăмăç:упрямый
+үзсүзле:adjective:чăхăмăç:строптивый
+тынычсыз:adjective:чăрмавлă:беспокойный
+тынычсыз:adjective:канăçсăр:беспокойный
+файдалы:adjective:усăлла:полезный
+файдалы:adjective:сиплĕ:полезный
+үткер:adjective:шĕвĕр:острый
+үткер:adjective:хаяр:острый
+үткер:adjective:ҫивӗч:острый
+үткер:adjective:шӗвӗр:острый
+үткер:adjective:вичкĕн:острый
+үткер:adjective:çивĕч:острый
+тугры:adjective masculine:тÿрĕ:честный
+тугры:adjective:шанчăклă:верный
+тугры:adjective:тĕрĕс:верный
+түбәнге:adjective:аялти:нижний
+түбәнге:adjective:анатри:нижний
+төче:adjective:тăварсăр:пресный
+тупас:adjective:чурăс:грубый
+тупас:adjective:чăртмах:грубый
+тупас:adjective:тÿрккес:грубый
+түземле:adjective masculine:чăтăмлă:терпеливый
+туган:adjective:тăван:родной
+төрле-төрле:adjective:ăрасна:разный
+төрле-төрле:adjective:тĕрлĕ:разный
+уртак:adjective:пĕрлехи:общий
+урта:adjective masculine:вăтам:средний
+урта:adjective masculine:вăталăх:средний
+урта:adjective masculine:вăта:средний
+төнге:adjective masculine:каçхи:ночной
+төнге:adjective masculine:каç:ночной
+төнге:adjective masculine:çĕрлехи:ночной
+төнге:adjective masculine:çĕр:ночной
+түбән:adjective:лутака:низкий
+түбән:adjective:лутра:низкий
+төрле:adjective:ăрасна:разный
+төрле:adjective:тĕрлĕ:разный
+уңайлы:adjective:хăтлă:удобный
+уңайлы:adjective:меллĕ:удобный
+уңайлы:adjective:майлă:удобный
+уңайлы:adjective:канлĕ:удобный
+уңай:adjective:хăтлă:удобный
+уңай:adjective:меллĕ:удобный
+уңай:adjective:майлă:удобный
+уңай:adjective:канлĕ:удобный
+тышкы:adjective:тулашри:наружный
+тышкы:adjective:тулаш:наружный
+тышкы:adjective:çи:наружный
+тыныч:adjective:тăнăç:спокойный
+тыныч:adjective:тÿлек:спокойный
+тыныч:adjective:канлĕ:спокойный
+тыныч:adjective:канас:спокойный
+тыныч:adjective:канăçлă:спокойный
+тыныч:adjective:канăç:спокойный
+тыныч:adjective:тăнăç:мирный
+тыныч:adjective:мирлĕ:мирный
+тыныч:adjective:килĕшÿллĕ:мирный
+тере:adjective:чĕрĕ:живой
+тере:adjective:хăпăл-хапăл:живой
+тере:adjective:йăрă:живой
+төсле:adjective:тĕслĕ:цветной
+тиле:adjective:ухмах:дурной
+тиле:adjective:начар:дурной
+тиз:adverb:час:скоро
+тиз:adjective:хытă:быстрый
+тиз:adjective:хăпăл-хапăл:быстрый
+тиз:adjective:йăлттам:быстрый
+тиз:adjective:вăр-вар:быстрый
+тиз:adjective:хӑвӑрт:быстрый
+тиз:adverb:час:быстро
+тиеш:adjective:кирлĕ:необходимо
+тиеш:adjective:тивĕçлĕ:должный
+тигез:adjective:кал-кал:ровный
+тигез:adjective:йăпшака:ровный
+тигез:adjective:тикĕс:ровный
+тигез:adjective:такǎр:ровный
+тигез:adjective:тÿрĕ:ровный
+тигез:adjective:яка:ровный
+тигез:adjective masculine:тан:равный
+төпле:adjective:тарăн:основательный
+тонык:adjective:шурă:светлый
+тонык:adjective:чакăр:светлый
+тонык:adjective:çутă:светлый
+тонык:adjective:тăрă:прозрачный
+тонык:adjective masculine:шуранка:бледный
+тонык:adjective masculine:шупка:бледный
+тонык:adjective masculine:шĕвĕ:бледный
+тирән:adjective:тарăн:глубокий
+тирән:adjective:тарӑн:глубокий
+тиң:adjective masculine:тан:равный
+тәмле:adjective:ырă:приятный
+тәмле:adjective:савăк:приятный
+тәмле:adjective adverb:ырă:приятно
+тәмле:adjective adverb:савăк:приятно
+тәмле:adjective adverb:нĕрлĕ:приятно
+тәмле:adjective masculine:тутлă:вкусный
+тәмле:adjective masculine:сĕтеклĕ:вкусный
+тәҗрибәле:adjective:сăнавлă:опытный
+тәҗрибәле:adjective:сăнав:опытный
+тәҗрибәле:adjective:опытлă:опытный
+тәңгәл:adjective:хăрах:подобный
+тәңгәл:adjective:унашкал:подобный
+тәңгәл:adjective:манерлĕ:подобный
+тәңгәл:adjective:йышши:подобный
+тәңгәл:adjective:евĕрлĕ:подобный
+тәңгәл:adjective:евĕр:подобный
+тәфсилле:adjective:тулли:подробный
+таулы:adjective:сăрт-ту:гористый
+тантаналы:adjective:чаплă:торжественный
+тапкыр:adjective:япăлти:изворотливый
+тапкыр:adjective:йĕтĕс:изворотливый
+тапкыр:adjective:çаврăнăçуллă:изворотливый
+тапкыр:adjective:ăслайлă:изворотливый
+тәвәккәл:adjective:татăклă:решительный
+тартым:adjective:хăрах:похожий
+тартым:adjective:манерлĕ:похожий
+тартым:adjective:йышши:похожий
+тартым:adjective:евĕрлĕ:похожий
+сыек:adjective:шĕвек:жидкий
+сыек:adjective:шĕвĕ:жидкий
+сыек:adjective:чĕлтĕрти:жидкий
+сыйфатлы:adjective:пахалăх:качественный
+таза:adverb:таса:чисто
+таза:adjective:шыçмак:толстый
+таза:adjective:тулли:толстый
+таза:adjective:тапчам:толстый
+таза:adjective:самăр:толстый
+таза:adjective:парка:толстый
+таза:adjective:мăнтăр:толстый
+таза:adjective:кÿпшек:толстый
+таза:adjective:хулӑн:толстый
+таза:adjective:тачка:толстый
+таза:adjective:хулăн:толстый
+таза:adjective:сывлăхлă:здоровый
+таза:adjective:парка:здоровый
+таза:adjective:вăйлă:здоровый
+таза:adjective:усăллă:здоровый
+таза:adjective:тĕреклĕ:здоровый
+таза:adjective:сывлăхшăн лайăх:здоровый
+таза:adjective:сывă:здоровый
+таза:adjective:сиплĕ:здоровый
+таза:adjective:патвар:здоровый
+таза:adjective masculine:янкăр:чистый
+таза:adjective masculine:тирпейлĕ:чистый
+таза:adjective masculine:тăрă:чистый
+таза:adjective masculine:çара:чистый
+таза:adjective masculine:таса:чистый
+сулы:adjective:вутăш:водяной
+сулы:adjective:шывак:водянистый
+сулы:adjective:шыв:водный
+саф:adverb:таса:чисто
+саф:adjective:сулхăн:свежий
+саф:adjective:çемçе:свежий
+саф:adjective:çĕнĕ:свежий
+саф:adjective masculine:янкăр:чистый
+саф:adjective masculine:тирпейлĕ:чистый
+саф:adjective masculine:тăрă:чистый
+саф:adjective masculine:çара:чистый
+саф:adjective masculine:таса:чистый
+радиоактив:adjective:радиоактивлă:радиоактивный
+сау:adjective:сывлăхлă:здоровый
+сау:adjective:парка:здоровый
+сау:adjective:вăйлă:здоровый
+сау:adjective:усăллă:здоровый
+сау:adjective:тĕреклĕ:здоровый
+сау:adjective:сывлăхшăн лайăх:здоровый
+сау:adjective:сывă:здоровый
+сау:adjective:сиплĕ:здоровый
+сау:adjective:патвар:здоровый
+сабыр:adjective masculine:чăтăмлă:терпеливый
+рәтле:adjective:путлĕ:путный
+рәтле:adjective:ĕретлĕ:порядочный
+сирәк:adjective:шалатка:редкий
+сирәк:adjective:шĕвĕ:редкий
+сирәк:adjective:чĕлтĕрти:редкий
+сирәк:adjective:сайра:редкий
+сирәк:adverb:сайра:редко
+симез:adjective:мăнтăр:жирный
+очлы:adjective:шĕвĕр:острый
+очлы:adjective:хаяр:острый
+очлы:adjective:ҫивӗч:острый
+очлы:adjective:шӗвӗр:острый
+очлы:adjective:вичкĕн:острый
+очлы:adjective:çивĕч:острый
+охшаш:adjective:хăрах:подобный
+охшаш:adjective:унашкал:подобный
+охшаш:adjective:манерлĕ:подобный
+охшаш:adjective:йышши:подобный
+охшаш:adjective:евĕрлĕ:подобный
+охшаш:adjective:евĕр:подобный
+сәламәт:adjective:сывлăхлă:здоровый
+сәламәт:adjective:парка:здоровый
+сәламәт:adjective:вăйлă:здоровый
+сәламәт:adjective:усăллă:здоровый
+сәламәт:adjective:тĕреклĕ:здоровый
+сәламәт:adjective:сывлăхшăн лайăх:здоровый
+сәламәт:adjective:сывă:здоровый
+сәламәт:adjective:сиплĕ:здоровый
+сәламәт:adjective:патвар:здоровый
+озак:adjective:вăрăм:долгий
+саңгырау:adjective:хăлхасăр:глухой
+сак:adjective:шиклĕ:осторожный
+сак:adjective:асăрхануллă:осторожный
+разый:adjective:хавас:довольный
+олы:adjective:аслă:старший
+олы:adjective:шултра:большой
+олы:adjective:мăнттай:большой
+олы:adjective:мăнă:большой
+олы:adjective:кервен:большой
+олы:adjective:йышлă:большой
+олы:adjective:аслă:большой
+олы:adjective:мăн:большой
+олы:adjective:пысăк:большой
+олы:adjective:пысӑк:большой
+ныклы:adverb:патвар:крепко
+ныклы:adverb:парка:крепко
+ныклы:adverb:çирĕп:крепко
+ныклы:adjective:хаяр:крепкий
+ныклы:adjective:тапчам:крепкий
+ныклы:adjective:тĕреклĕ:крепкий
+ныклы:adjective:патвар:крепкий
+ныклы:adjective:парка:крепкий
+ныклы:adjective:кервен:крепкий
+ныклы:adjective:йĕкер:крепкий
+ныклы:adjective:вирлĕ:крепкий
+ныклы:adjective:вăйлă:крепкий
+ныклы:adjective:çирĕп:крепкий
+нык:adjective:шартлама:сильный
+нык:adjective:патвар:сильный
+нык:adjective:кăра:сильный
+нык:adjective:вирлĕ:сильный
+нык:adjective:вăйлă:сильный
+нык:adjective adverb:патвар:сильно
+нык:adjective adverb:парка:сильно
+нык:adjective adverb:тĕреклĕ:прочно
+нык:adjective adverb:çирĕп:прочно
+нык:adverb:патвар:крепко
+нык:adverb:парка:крепко
+нык:adverb:çирĕп:крепко
+нык:adjective:хаяр:крепкий
+нык:adjective:тапчам:крепкий
+нык:adjective:тĕреклĕ:крепкий
+нык:adjective:патвар:крепкий
+нык:adjective:парка:крепкий
+нык:adjective:кервен:крепкий
+нык:adjective:йĕкер:крепкий
+нык:adjective:вирлĕ:крепкий
+нык:adjective:вăйлă:крепкий
+нык:adjective:çирĕп:крепкий
+намуслы:adjective masculine:тÿрĕ:честный
+пакъ:adjective:янкăр:чистый
+пакъ:adjective:тирпейлĕ:чистый
+пакъ:adjective:тăрă:чистый
+пакъ:adjective:çара:чистый
+пакъ:adjective:таса:чистый
+өске:adjective:çиелти:верхний
+өске:adjective:çиел:верхний
+өске:adjective:çи:верхний
+өске:adjective:çÿлти:верхний
+мәгълүм:adjective:хайхи:известный
+нурлы:adjective:шурă:светлый
+нурлы:adjective:чакăр:светлый
+нурлы:adjective:çутă:светлый
+нормаль:adjective:йĕркеллĕ:нормальный
+нәтиҗәле:adjective:ÿсĕмлĕ:эффективный
+өлкән:adjective:аслă:старший
+өзлексез:adjective:таттисĕр:непрерывный
+өзлексез:adjective:вĕçĕмсĕр:непрерывный
+объектив:adjective:тĕрĕс:объективный
+мөгезле:adjective:мăйракаллă:рогатый
+мөлаем:adjective:юратуллă:ласковый
+мөлаем:adjective:юмарт:ласковый
+мөлаем:adjective:кăмăллă:ласковый
+мөлаем:adjective:çепĕç:ласковый
+мул:adjective:тулăх:обильный
+мәңгелек:adjective:ĕмĕрхи:вечный
+мәҗбүри:adjective:ирĕксĕр:принудительный
+махсус:adjective masculine:ятарлă:специальный
+лаек:adjective:тивĕçлĕ:достойный
+лаек:adjective:çителĕклĕ:достойный
+майлы:adjective:çу:масляный
+майлы:adjective:мăнтăр:жирный
+лаеклы:adjective:тивĕçлĕ:достойный
+лаеклы:adjective:çителĕклĕ:достойный
+кыргый:adjective:тискер:дикий
+кыйммәтле:adjective:паха:ценный
+күрше:adjective:юнашар:соседний
+күрше:adjective:кÿршĕ:соседний
+кызу:adjective:шăрăх:жаркий
+кызу:adjective:хĕрÿллĕ:жаркий
+кызу:adjective:кăварлă:жаркий
+кызу:adjective:вĕри:жаркий
+кызу:adjective:хĕрÿ:жаркий
+кызу:adjective adverb:шăрăх:горячо
+кызу:adjective adverb:вĕри:горячо
+кызу:adjective adverb:хĕрÿллĕ:горячо
+кыен:adjective:хĕсĕк:тяжёлый
+кыен:adjective:тертлĕ:тяжёлый
+кыен:adjective:сулмаклă:тяжёлый
+кыен:adjective:нушаллă:тяжёлый
+кыен:adjective:лÿппер:тяжёлый
+кыен:adjective:йывăр:тяжёлый
+кыен:adjective:йывӑр:тяжёлый
+кыен:adjective:йывăр:тяжкий
+кыен:adjective masculine:хĕсĕк:трудный
+кыен:adjective masculine:тертлĕ:трудный
+кыен:adjective masculine:нушаллă:трудный
+кыен:adjective masculine:кансĕр:трудный
+кыен:adjective masculine:кăткăс:трудный
+кыен:adjective masculine:йывăр:трудный
+куркыныч:adjective:хăрушă:страшный
+куркыныч:adjective:хăрушă:опасный
+кызганыч:adjective masculine:мĕскĕн:жалкий
+кызганыч:adjective masculine:мăнтарăн:жалкий
+күркәм:adjective:эреветлĕ:красивый
+күркәм:adjective:чипер:красивый
+күркәм:adjective:чечен:красивый
+күркәм:adjective:хитре:красивый
+күркәм:adjective:сарă:красивый
+күркәм:adjective:нĕрлĕ:красивый
+күркәм:adjective:кĕрнеклĕ:красивый
+күркәм:adjective:кĕрнек:красивый
+күркәм:adjective:илемлĕ:красивый
+күркәм:adjective:ĕлккен:красивый
+күркәм:adjective:капăр:красивый
+кыйбатлы:adjective masculine:паха:дорогой
+кыйбатлы:adjective masculine:хаклă:дорогой
+кыйбат:adjective:паха:дорогой
+кыйбат:adjective:хаклă:дорогой
+күптәнге:adjective:тахçанхи:старинный
+күптәнге:adjective:авалхи:старинный
+күптәнге:adjective:ĕлĕкхи:старинный
+күптәнге:adjective:тахçанхи:давнишний
+күмәк:adjective:пĕрлехи:общий
+куе:adjective:чăтлăх:густой
+куе:adjective:йăмăх:густой
+куе:adjective:йăвă:густой
+куе:adjective:çăра:густой
+көчсез:adjective:халсăр:бессильный
+көчсез:adjective:вăйсăр:бессильный
+көчсез:adjective:халсăр:слабый
+көчсез:adjective:хавшак:слабый
+көчсез:adjective:нишлĕ:слабый
+көчсез:adjective:лăп:слабый
+көчсез:adjective:лăнчă:слабый
+көчсез:adjective:йăшăк:слабый
+көчсез:adjective:йăмшак:слабый
+көчсез:adjective:имшер:слабый
+көчсез:adjective:вăйсăр:слабый
+кулай:adjective:хăтлă:удобный
+кулай:adjective:меллĕ:удобный
+кулай:adjective:майлă:удобный
+кулай:adjective:канлĕ:удобный
+кояшлы:adjective:хĕвел:солнечный
+көнлек:adjective:кун:дневной
+көнлек:adjective:кăнтăрлахи:дневной
+көнлек:adjective:кăнтăрла:дневной
+коллектив:adjective:ушкăн:коллективный
+көнге:adjective:кун:дневной
+көнге:adjective:кăнтăрлахи:дневной
+көнге:adjective:кăнтăрла:дневной
+кирәкле:adjective:кирлĕ:нужный
+көр:adjective:шыçмак:тучный
+көр:adjective:самăр:тучный
+көр:adjective:мăнтăр:тучный
+кодрәтле:adjective:тĕреклĕ:мощный
+кискен:adjective:татăклă:решительный
+кискен:adjective:кăрсака:резкий
+кискен:adjective:вичкĕн:резкий
+кирәк:adjective:кирлĕ:нужный
+кирәк:adjective:кирлĕ:необходимо
+кире:adjective:чăхăмăç:упрямый
+килмешәк:adjective:ют:чужой
+килмешәк:adjective:çын:чужой
+киләсе:adjective:малалли:последующий
+киләсе:adjective:кайранхи:последующий
+кечек:adverb:сахал:мало
+кечек:adjective:пĕчĕк:маленький
+кечек:adjective:пӗчӗк:маленький
+кечек:adjective:сахал:малый
+кечек:adjective:пӗчӗк:малый
+кечек:adjective:пĕчĕк:малый
+караңгы:adjective:тĕттĕм:тёмный
+караңгы:adjective:сĕм:тёмный
+караңгы:adjective:тӗттӗм:тёмный
+караңгы:adjective:сӗм:тёмный
+караңгы:adjective:тĕттĕм:темный
+караңгы:adjective:сĕм:темный
+канлы:adjective masculine:юнлă:кровавый
+катлаулы:adjective:кăткăс:сложный
+канәгать:adjective:хавас:довольный
+каты:adjective:шартлама:сильный
+каты:adjective:патвар:сильный
+каты:adjective:кăра:сильный
+каты:adjective:вирлĕ:сильный
+каты:adjective:вăйлă:сильный
+каты:adverb:патвар:крепко
+каты:adverb:парка:крепко
+каты:adverb:çирĕп:крепко
+каты:adjective:хаяр:крепкий
+каты:adjective:тапчам:крепкий
+каты:adjective:тĕреклĕ:крепкий
+каты:adjective:патвар:крепкий
+каты:adjective:парка:крепкий
+каты:adjective:кервен:крепкий
+каты:adjective:йĕкер:крепкий
+каты:adjective:вирлĕ:крепкий
+каты:adjective:вăйлă:крепкий
+каты:adjective:çирĕп:крепкий
+кайнар:adjective:шăрăх:горячий
+кайнар:adjective:хĕрÿ:горячий
+кайнар:adjective:кăрсака:горячий
+кайнар:adjective:вĕри:горячий
+кайнар:adjective:хĕрÿллĕ:горячий
+кадерле:adjective masculine:паха:дорогой
+кадерле:adjective masculine:хаклă:дорогой
+кайгылы:adjective:хурланчăк:печальный
+кайгылы:adjective:салхуллă:печальный
+кайгылы:adjective:салху:печальный
+кайгылы:adjective:хурланчăк:грустный
+кайгылы:adjective:хурлăхлă:грустный
+кайгылы:adjective:салху:грустный
+кайгылы:adjective masculine:хуйхăллă:горестный
+йомшак:adjective:кăпăш:мягкий
+йомшак:adjective:йăмшак:мягкий
+йомшак:adjective:çепĕç:мягкий
+йомшак:adjective:çемçешке:мягкий
+йомшак:adjective:çемçе:мягкий
+иясез:adjective:хуçасăр:бесхозный
+истәлекле:adjective:асăнмалăх:памятный
+исерек:adjective masculine:ÿсĕр:пьяный
+исән:adjective:чĕрĕ:живой
+исән:adjective:хăпăл-хапăл:живой
+исән:adjective:йăрă:живой
+искитәрлек:adjective:тĕлĕнмелле:удивительный
+искитмәле:adjective:тĕлĕнмелле:удивительный
+искиткеч:adjective:тĕлĕнмелле:удивительный
+ирле:adjective:упăшкаллă:замужняя
+иркен:adjective:аслă:широкий
+иркен:adjective:анлă:широкий
+иркен:adjective:анлǎ:широкий
+иркен:adjective:шалпар:широкий
+иркен:adjective:сарлака:широкий
+иркен:adjective:пушă:свободный
+иркен:adjective:ирĕклĕ:свободный
+иркен:adjective:ирĕк:свободный
+иркен:adjective adverb:уççăн:свободно
+иркен:adjective adverb:ирĕклĕ:свободно
+иркен:adjective adverb:ирĕк:свободно
+иркен:adjective adverb:çăмăллăн:свободно
+иркен:adjective:шалпар:просторный
+иркен:adjective:аслă:просторный
+иркен:adjective:анлă:просторный
+имин:adjective:тĕрĕс-тĕкел:невредимый
+иңле:adjective:аслă:широкий
+иңле:adjective:анлă:широкий
+иңле:adjective:анлǎ:широкий
+иңле:adjective:шалпар:широкий
+иңле:adjective:сарлака:широкий
+ирекле:adjective:ирĕклĕ:вольный
+ирекле:adjective:ирĕк:вольный
+иҗади:adjective:пултарулăх:творческий
+заманча:adjective:хальхи:современный
+җитди:adjective:тарăн:серьезный
+җирле:adjective masculine:тĕп:местный
+җирән:adjective:çÿрен:рыжий
+җаваплы:adjective:ответлă:ответственный
+җирәнгеч:adjective:йĕрĕнчĕк:отвратительный
+еллык:adjective:çулталăк:годовой
+җәйге:adjective:çуллахи:летний
+җәйге:adjective:çу:летний
+җайлы:adjective:хăтлă:удобный
+җайлы:adjective:меллĕ:удобный
+җайлы:adjective:майлă:удобный
+җайлы:adjective:канлĕ:удобный
+җайлы:adjective adverb:хăтлă:удобно
+җайлы:adjective adverb:меллĕ:удобно
+җайлы:adjective adverb:майлă:удобно
+җайлы:adjective adverb:канлĕ:удобно
+әзер:adjective:янтă:готовый
+әзер:adjective:юсавлă:готовый
+әзер:adjective:хатĕр:готовый
+җәһәт:adjective:хытă:быстрый
+җәһәт:adjective:хăпăл-хапăл:быстрый
+җәһәт:adjective:йăлттам:быстрый
+җәһәт:adjective:вăр-вар:быстрый
+җәһәт:adjective:хӑвӑрт:быстрый
+җәһәт:adverb:час:быстро
+җанлы:adjective:чĕрĕ:живой
+җанлы:adjective:хăпăл-хапăл:живой
+җанлы:adjective:йăрă:живой
+әче:adjective:хĕрхÿ:кислый
+әче:adjective:такăс:кислый
+әче:adjective:кăвасак:кислый
+әче:adjective:йÿçек:кислый
+әче:adjective:йÿçĕ:кислый
+дини:adjective:тĕн:религиозный
+дәртле:adjective:йĕкер:бодрый
+егәрле:adjective:тĕреклĕ:мощный
+дәү:adjective:шултра:большой
+дәү:adjective:мăнттай:большой
+дәү:adjective:мăнă:большой
+дәү:adjective:кервен:большой
+дәү:adjective:йышлă:большой
+дәү:adjective:аслă:большой
+дәү:adjective:мăн:большой
+дәү:adjective:пысăк:большой
+дәү:adjective:пысӑк:большой
+әдәпсез:adjective:чăртмах:невежливый
+әдәпсез:adjective:тÿрккес:невежливый
+дипломатик:adjective:дипломат:дипломатический
+дәүләти:adjective:патшалăх:государственный
+даими:adjective:яланхи:постоянный
+даими:adjective:тăтăш:постоянный
+даими:adjective:ĕмĕрхи:постоянный
+гәүдәле:adjective:ҫӳллӗ:рослый
+гаиләле:adjective:кил:семейный
+гаиләле:adjective:çемье:семейный
+гаҗәп:adjective:тĕлĕнмелле:удивительный
+гадәти:adjective:кулленхи:обычный
+гадәти:adjective:йĕркеллĕ:обычный
+гаскәри:adjective:салтак:воинский
+гаскәри:adjective:çap:воинский
+гаскәри:adjective masculine:вăрçă:военный
+гаскәри:adjective masculine:çap:военный
+гаепле:adjective:айăплă:виновный
+гади:adjective:сăпайлă:скромный
+гади:adjective:сăпай:скромный
+гади:adjective:ахаль:обыкновенный
+гади:adjective masculine:ансат:лёгкий
+гади:adjective masculine:çăмăл:лёгкий
+гади:adjective masculine:çÿхе:лёгкий
+гади:adjective masculine:ҫӑмӑл:лёгкий
+гади:adjective masculine:ҫӑмӑл:простой
+гади:adjective masculine:юмарт:простой
+гади:adjective masculine:ахаль:простой
+гадәттән тыш:adjective:виçесĕр:чрезвычайный
+вак:adjective:ӑшӑх:мелкий
+вак:adjective:шăкар-макăр:мелкий
+вак:adjective:хунав:мелкий
+вак:adjective:тĕвек:мелкий
+вак:adjective:ванчăк:мелкий
+вак:adjective:вак:мелкий
+вак:adjective:вĕтĕ:мелкий
+вак:adjective:ăшăх:мелкий
+буйлы:adjective:ярăмлă:полосатый
+буйлы:adjective:ярăм:полосатый
+буйлы:adjective:йăрăмлă:полосатый
+буйлы:adjective:йăрăм-йăрăм:полосатый
+бичара:adjective:мĕскĕн:бедняга
+бичара:adjective:апăрша:бедняга
+бөдрә:adjective:кăтра:кудрявый
+бәхетсез:adjective:телейсĕр:несчастный
+бәхетсез:adjective:мĕскĕн:несчастный
+бәхетсез:adjective:мăнтарăн:несчастный
+бәхетсез:adjective:апăрша:несчастный
+бәхетсез:adjective:ăраскалсăр:несчастный
+башлангыч:adjective:пуçламăш:начальный
+башлангыч:adjective:малтанхи:начальный
+булдыклы:adjective:ăста:умелый
+бушлай:adjective:тÿлевсĕр:бесплатный
+ачы:adjective:кăрсака:резкий
+ачы:adjective:вичкĕн:резкий
+ачы:adjective:хĕрхÿ:кислый
+ачы:adjective:такăс:кислый
+ачы:adjective:кăвасак:кислый
+ачы:adjective:йÿçек:кислый
+ачы:adjective:йÿçĕ:кислый
+билгеле:adjective:хайхи:известный
+бәхетле:adjective:хаваслă:радостный
+бәхетле:adjective:хавас:радостный
+бәхетле:adjective:савăнăçлă:радостный
+бәхетле:adjective:савăк:радостный
+бәхетле:adjective masculine:телейлĕ:счастливый
+ахыргы:adjective:кайри:последний
+ахыргы:adjective:кайранхи:последний
+ахыргы:adjective:юлашки:последний
+бертуган:adjective:тăван:родной
+бәләкәй:adjective:сахал:малый
+бәләкәй:adjective:пӗчӗк:малый
+бәләкәй:adjective:пĕчĕк:малый
+бәләкәй:adjective:пĕчĕк:маленький
+бәләкәй:adjective:пӗчӗк:маленький
+бәяле:adjective:паха:ценный
+бәяле:adjective:паха:дорогой
+бәяле:adjective:хаклă:дорогой
+ачык:adjective:янкăр:ясный
+ачык:adjective:уяр:ясный
+ачык:adjective:çутă:ясный
+ачык:adjective:тăрă:ясный
+ачык:adjective:сарă:яркий
+ачык:adjective:сăнарлă:яркий
+ачык:adjective:йăмăх:яркий
+ачык:adjective:йăлтăрти:яркий
+ачык:adjective:йăлтăра:яркий
+ачык:adjective:шурă:светлый
+ачык:adjective:чакăр:светлый
+ачык:adjective:çутă:светлый
+ачык:adjective:уçăмлă:открытый
+ачык:adjective:уçă:открытый
+ачык:adjective:кĕрет:открытый
+атлы:adjective:ут:конный
+астыртын:adjective:вăрттăн:скрытный
+башлы:adjective:ăслă:умный
+башлы:adjective:ӑслӑ:умный
+башлы:adjective:тăнлă:умный
+аскы:adjective:аялти:нижний
+аскы:adjective:анатри:нижний
+ару:adjective:янкăр:чистый
+ару:adjective:тирпейлĕ:чистый
+ару:adjective:тăрă:чистый
+ару:adjective:çара:чистый
+ару:adjective:таса:чистый
+ару:adjective:юрăхлă:хороший
+ару:adjective:ырă:хороший
+ару:adjective:чипер:хороший
+ару:adjective:путлĕ:хороший
+ару:adjective:паха:хороший
+ару:adjective:лайӑх:хороший
+ару:adjective:лайăх:хороший
+ару:adjective:аван:хороший
+арзан:adjective:йӳнӗ:недорогой
+арзан:adjective:йÿнĕ:недорогой
+арзан:adjective:йÿнĕ:дешёвый
+арзан:adjective:йӳнӗ:дешёвый
+ашыгыч:adjective:васкавлă:спешный
+ачулы:adjective:хаяр:сердитый
+ачулы:adjective:çиллес:сердитый
+арык:adjective:япăх:тощий
+арык:adjective:ырхан:тощий
+арык:adjective:начар:тощий
+арык:adjective:кăрачă:тощий
+артык:adjective:ытлашши:лишний
+артык:adjective:ытла:лишний
+аргы:adjective:катари:дальний
+аргы:adjective:инçет:дальний
+аргы:adjective:аякри:дальний
+аргы:adjective:инче:дальний
+аргы:adjective:инçе:дальний
+ансат:adjective:ансат:нетрудный
+атаклы:adjective:лайăх:славный
+атаклы:adjective masculine:чаплă:знаменитый
+атаклы:adjective masculine:мухтавлă:знаменитый
+алдынгы:adjective:малти:передовой
+арткы:adjective:хыçалти:задний
+арткы:adjective:хыçал:задний
+арткы:adjective:кайри:задний
+арткы:adjective:кай:задний
+ала:adjective:ула:пегий
+айлы:adjective:уйăх:лунный
+акрын:adjective:вăрах:медленный
+анык:adjective:янкăр:ясный
+анык:adjective:уяр:ясный
+анык:adjective:çутă:ясный
+анык:adjective:тăрă:ясный
+аман:adjective:сывлăхлă:здоровый
+аман:adjective:парка:здоровый
+аман:adjective:вăйлă:здоровый
+аман:adjective:усăллă:здоровый
+аман:adjective:тĕреклĕ:здоровый
+аман:adjective:сывлăхшăн лайăх:здоровый
+аман:adjective:сывă:здоровый
+аман:adjective:сиплĕ:здоровый
+аман:adjective:патвар:здоровый
+аллы:adjective:хĕрлĕ:алый
+акыллы:adjective:чее:хитрый
+акыллы:adjective masculine:ăслă:умный
+акыллы:adjective masculine:ӑслӑ:умный
+акыллы:adjective masculine:тăнлă:умный
+акылсыз:adjective:ухмах:глупый
+аерым:adjective:уйрăм:отдельный
+аерым:adjective:ăрасна:отдельный
+аерым:adjective masculine:ăрасна:особый
+агулы:adjective:наркăмăшлă:ядовитый
+абруйлы:adjective:вăйăмлă:влиятельный
+ят:adjective masculine:ют:чужой
+ят:adjective masculine:çын:чужой
+ят:noun masculine:ют:посторонний
+тын:adjective:шăп:тихий
+тын:adjective:тăнăç:тихий
+тын:adjective:тÿлек:тихий
+тын:adjective:лăпкă:тихий
+тын:adjective:лăп:тихий
+куш:adjective masculine:мăшăрлă:двойной
+куш:adjective masculine:йĕкĕр:двойной
+көндез:adjective:кун:дневной
+көндез:adjective:кăнтăрлахи:дневной
+көндез:adjective:кăнтăрла:дневной
+ал:adjective:кĕрен:розовый
+ал:adjective:хĕрлĕ:алый
+әүвәл:adjective:халичченхи:прежний
+әүвәл:adjective:унчченхи:прежний
+әүвәл:adjective:кивĕ:прежний
+былтыр:adjective:пĕлтĕрхи:прошлогодний
+иртән:adjective:ирхи:утренний
+башта:adjective:пуçламăш:начальный
+башта:adjective:малтанхи:начальный
+әле:adjective:паян:сегодняшний
+әле:adjective:паянхи:сегодняшний
+әле:adjective:хальхи:настоящий
+быел:adjective:хальхи:нынешний
+бая:adjective:пĕркунхи:недавний
+һич:adverb:шалт:совсем
+һәрвакыт:adverb:ялан:постоянно
+һәрвакыт:adverb:шав:постоянно
+гел:adverb:ялан:постоянно
+гел:adverb:шав:постоянно
+гаять:adverb:ытла:очень
+гына:adverb:тин:только
+беркадәр:adverb:сахал:немного
+бераз:adverb:сахал:немного
+бөтенләй:adverb:шалт:совсем
+тиздән:adverb:час:скоро
+тик:adverb:тин:только
+тик:adverb:тин:лишь
+аз гына:adverb:сахал:немного
+яме:adverb:юрать:ладно
+ярый:adverb:юрать:ладно
+ярар:adjective adverb:юрать:хорошо
+ярар:adjective adverb:юрăхлă:хорошо
+ярар:adjective adverb:ырă:хорошо
+ярар:adjective adverb:чипер:хорошо
+ярар:adjective adverb:путлĕ:хорошо
+ярар:adjective adverb:привет:хорошо
+ярар:adjective adverb:лайăх:хорошо
+ярар:adjective adverb:аван:хорошо
+ярар:adverb:юрать:ладно
+соң:adjective:кайри:последний
+соң:adjective:кайранхи:последний
+соң:adjective:юлашки:последний
+каршы:adjective:хире-хирĕç:противоположный
+каршы:adjective:хирĕç:противоположный
+каршы:adjective:хирĕç:противный
+каршы:adjective:йĕрĕнчĕк:противный
+бүтән:adjective:хăш-пĕр:иной
+бүтән:adjective:урăхла:иной
+бүтән:adjective:тепри:иной
+бүтән:adjective:урăх:иной
+үз:adjective:харпăр:личный
+һәрбер:adjective:такам:всякий
+һәрбер:adjective:тĕрлĕ:всякий
+коңгырт:adjective:хăмăр:коричневый
+соры:adjective:шурă:седой
+соры:adjective:сăрă:седой
+соры:adjective:кăвак:седой
+соры:adjective:шупка:серый
+соры:adjective:чакăр:серый
+соры:adjective:сăрă:серый
+соры:adjective:кăвак:серый
+сакчыл:adjective:перекетлĕ:экономный
+әйбәт:adverb:юрать:хорошо
+әйбәт:adverb:чипер:хорошо
+әйбәт:adverb:аван:хорошо
+әйбәт:adjective masculine:юрăхлă:хороший
+әйбәт:adjective masculine:ырă:хороший
+әйбәт:adjective masculine:чипер:хороший
+әйбәт:adjective masculine:путлĕ:хороший
+әйбәт:adjective masculine:паха:хороший
+әйбәт:adjective masculine:лайӑх:хороший
+әйбәт:adjective masculine:лайăх:хороший
+әйбәт:adjective masculine:аван:хороший
+игенче:noun masculine:хресчен:крестьянин
+иртәнге:adjective:ирхи:утренний
+зарар:noun masculine:усал:вред
+бире:adjective:юнашар:ближний
+бире:adjective:çывахри:ближний
+бире:adjective:çывăх:ближний
+тырыш:adjective:тимлĕ:старательный
+тырышучан:adjective:тимлĕ:старательный
+хәзерге:adjective masculine:хальхи:современный
+хәзерге:adjective:хальхи:нынешний
+хәзерге:adjective:хальхи:настоящий
+замана:adjective:хальхи:современный
+куәтле:adjective:шартлама:сильный
+куәтле:adjective:патвар:сильный
+куәтле:adjective:кăра:сильный
+куәтле:adjective:вирлĕ:сильный
+куәтле:adjective:вăйлă:сильный
+куәтле:adjective:тĕреклĕ:мощный
+көчле:adjective:тĕреклĕ:мощный
+көчле:adjective:шартлама:сильный
+көчле:adjective:патвар:сильный
+көчле:adjective:кăра:сильный
+көчле:adjective:вирлĕ:сильный
+көчле:adjective:вăйлă:сильный
+чит:adjective masculine:ют:чужой
+чит:adjective masculine:çын:чужой
+чит:noun masculine:ют:посторонний
+озынча:adjective:тăрăхла:продолговатый
+бәйрәм:adjective masculine:уяв:праздничный
+бәйрәм:adjective masculine:праçник:праздничный
+гүр иясе:noun masculine:виле:покойник
+хаталы:adjective:йăнăшлă:ошибочный
+хаталы:adjective:йăнăш:ошибочный
+ялгышлы:adjective:йăнăшлă:ошибочный
+ялгышлы:adjective:йăнăш:ошибочный
+ялгыш:adjective:йăнăшлă:ошибочный
+ялгыш:adjective:йăнăш:ошибочный
+рәсми:adjective:официаллă:официальный
+төп:adjective:тĕп:главный
+төп:adjective:мăнă:главный
+төп:adjective:аслă:главный
+төп:adjective masculine:тĕп:основной
+төп:adjective masculine:мăнă:основной
+алман:adjective:нимĕç чĕлхи:немецкий
+алман:adjective:нимĕç:немецкий
+рәхәт:adjective:ырă:приятный
+рәхәт:adjective:савăк:приятный
+шамбы:noun masculine:шампа:налим
+сөтле:adjective:сĕтлĕ:молочный
+сөтле:adjective:сĕт:молочный
+сөйкемле:adjective masculine:савни:милый
+сөйкемле:adjective:кăсăк:интересный
+ягымлы:adjective:ырă:приятный
+ягымлы:adjective:савăк:приятный
+ягымлы:adjective:юратуллă:нежный
+ягымлы:adjective:черчен:нежный
+ягымлы:adjective:çепĕç:нежный
+ягымлы:adjective:юратуллă:ласковый
+ягымлы:adjective:юмарт:ласковый
+ягымлы:adjective:кăмăллă:ласковый
+ягымлы:adjective:çепĕç:ласковый
+ягымлы:adjective:кăсăк:интересный
+кызыгырлык:adjective:кăсăк:интересный
+кызык:adjective:кăсăк:интересный
+кызыклы:adjective:кăсăк:интересный
+матур:adjective:шеп:прекрасный
+матур:adjective:чипер:прекрасный
+матур:adjective:хитре:прекрасный
+матур:adjective:аван:прекрасный
+матур:adjective:янкăс:нарядный
+матур:adjective:ĕлккен:нарядный
+матур:adjective:чечен:изящный
+матур:adjective:эреветлĕ:красивый
+матур:adjective:чипер:красивый
+матур:adjective:чечен:красивый
+матур:adjective:хитре:красивый
+матур:adjective:сарă:красивый
+матур:adjective:нĕрлĕ:красивый
+матур:adjective:кĕрнеклĕ:красивый
+матур:adjective:кĕрнек:красивый
+матур:adjective:илемлĕ:красивый
+матур:adjective:ĕлккен:красивый
+матур:adjective:капăр:красивый
+нәфис:adjective:çинçе:тонкий
+нәфис:adjective:çÿхе:тонкий
+нәфис:adjective:ҫӳхе:тонкий
+нәфис:adjective:ҫинҫе:тонкий
+нәфис:adjective:çӳхе:тонкий
+нәфис:adjective:çӱхе:тонкий
+нәфис:adjective:çинче:тонкий
+нәфис:adjective:чечен:изящный
+нәзакәтле:adjective:чечен:изящный
+яшь:adjective masculine:кĕçĕн:младший
+яшь:adjective:ҫамрӑк:юный
+яшь:adjective:яш:молодой
+яшь:adjective:хунав:молодой
+яшь:adjective:çамрăк:молодой
+яшь:adjective:çĕнĕ:молодой
+яшь:adjective:ҫамрӑк:молодой
+кыю:adjective:татăклă:решительный
+ачлык:adjective:выçлăх:голодный
+ачлык:adjective:выçă:голодный
+ач:adjective:выçлăх:голодный
+ач:adjective:выçă:голодный
+дусларча:adjective:тăнăç:мирный
+дусларча:adjective:мирлĕ:мирный
+дусларча:adjective:килĕшÿллĕ:мирный
+якынча:adjective:кăтартуллă:примерный
+якынча:adjective adverb:яхăн:приблизительно
+якынча:adjective adverb:чуххăм:приблизительно
+якынча:adjective adverb:чурăс:грубо
+якынча:adjective adverb:хăлăхсăр:грубо
+якынча:adjective adverb:тÿрккес:грубо
+дошман:adjective:тăшман:вражеский
+сөт:adjective:сĕтлĕ:молочный
+сөт:adjective:сĕт:молочный
+сөтләч:adjective:сĕтлĕ:молочный
+сөтләч:adjective:сĕт:молочный
+җитез:adjective:япăлти:изворотливый
+җитез:adjective:йĕтĕс:изворотливый
+җитез:adjective:çаврăнăçуллă:изворотливый
+җитез:adjective:ăслайлă:изворотливый
+зирәк:adjective:япăлти:изворотливый
+зирәк:adjective:йĕтĕс:изворотливый
+зирәк:adjective:çаврăнăçуллă:изворотливый
+зирәк:adjective:ăслайлă:изворотливый
+бандитлар:adjective:хурахла:бандитский
+бандитлар:adjective:хурах:бандитский
+бандитлар:adjective:вăрă-хурахла:бандитский
+бандитлар:adjective:бандит:бандитский
+бандитлар:adjective:бандитла:бандитский
+елгыр:adjective:япăлти:изворотливый
+елгыр:adjective:йĕтĕс:изворотливый
+елгыр:adjective:çаврăнăçуллă:изворотливый
+елгыр:adjective:ăслайлă:изворотливый
+үзара:adjective:хире-хирĕç:взаимный
+горур:adjective:мăнаçлă:гордый
+бүгенге:adjective:хальхи:нынешний
+бүгенге:adjective:паян:сегодняшний
+бүгенге:adjective:паянхи:сегодняшний
+айнык:adjective:урă:трезвый
+бәрәкәтле:adjective:перекетлĕ:экономный
+shikle:adjective:тĕттĕм:тёмный
+shikle:adjective:сĕм:тёмный
+shikle:adjective:тӗттӗм:тёмный
+shikle:adjective:сӗм:тёмный
+мохтаҗ:adjective masculine:шеремет:бедный
+мохтаҗ:adjective masculine:чухăн:бедный
+мохтаҗ:adjective masculine:пурлă-çуклă:бедный
+мохтаҗ:adjective masculine:начар:бедный
+мохтаҗ:adjective masculine:мĕскĕн:бедный
+мохтаҗ:adjective masculine:мăнтарăн:бедный
+мохтаҗ:adjective masculine:кăрачă:бедный
+мохтаҗ:adjective masculine:кăрăс:бедный
+мохтаҗ:adjective masculine:апăрша:бедный
+мескен:adjective masculine:шеремет:бедный
+мескен:adjective masculine:чухăн:бедный
+мескен:adjective masculine:пурлă-çуклă:бедный
+мескен:adjective masculine:начар:бедный
+мескен:adjective masculine:мĕскĕн:бедный
+мескен:adjective masculine:мăнтарăн:бедный
+мескен:adjective masculine:кăрачă:бедный
+мескен:adjective masculine:кăрăс:бедный
+мескен:adjective masculine:апăрша:бедный
+бөек:adjective:пысăк:великий
+бөек:adjective:мăн:великий
+ахмак:adjective:ухмах:дурной
+ахмак:adjective:начар:дурной
+бүген:adjective:паян:сегодняшний
+бүген:adjective:паянхи:сегодняшний
+бик:adverb:ытла:очень
+ağulı:adjective:наркăмăшлă:ядовитый
+ala:noun:шупка:серый
+тәкәббер:adjective:мăнаçлă:высокомерный
+тәкәббер:adjective:мăн кăмăллă:высокомерный
+әһәмиятле:adjective:чылай:значительный
+әһәмиятле:adjective:самай:значительный
+тугызынчы:adjective masculine:тӑххӑрмӗш:девятый
+беренче:adjective masculine:малтанхи:первый
+беренче:adjective masculine:пӗрремӗш:первый
+татлы:adjective masculine:тутлă:сладкий
+татлы:adjective masculine:тутлӑ:сладкий
+татлы:adjective masculine:пылак:сладкий
+курку:adjective adverb:шутсăр:страшно
+курку:adjective adverb:хăрушă:страшно
+икенче:adjective masculine:иккӗмӗш:второй
+яңа:adjective:сулхăн:свежий
+яңа:adjective:çемçе:свежий
+яңа:adjective:çĕнĕ:свежий
+яңа:adjective masculine:шӗнӗ:новый
+яңа:adjective masculine:çĕнĕ:новый
+яңа:adjective masculine:ҫӗнӗ:новый
+кәгазь:adjective:хут:бумажный
+усал:adjective:хаяр:сердитый
+усал:adjective:çиллес:сердитый
+усал:adverb:усал:зло
+усал:adjective:хаяр:злой
+усал:adjective:усал:злой
+усал:adjective:вĕчĕх:злой
+усал:adjective:çиллес:злой
+усал:adjective:япăх:злой
+усал:adjective:начар:злой
+оста:adjective:ăста:умелый
+siräk:adjective:шалатка:редкий
+siräk:adjective:шĕвĕ:редкий
+siräk:adjective:чĕлтĕрти:редкий
+siräk:adjective:сайра:редкий
+немец:adjective:нимĕç чĕлхи:немецкий
+немец:adjective:нимĕç:немецкий
+башкорт:adjective:пушкăрт:башкирский
+тиңдәш:adjective:тан:равный
+авыр:adjective:йывăр:тяжкий
+авыр:noun:йывӑр:тяжёлый
+авыр:adjective masculine:хĕсĕк:трудный
+авыр:adjective masculine:тертлĕ:трудный
+авыр:adjective masculine:нушаллă:трудный
+авыр:adjective masculine:кансĕр:трудный
+авыр:adjective masculine:кăткăс:трудный
+авыр:adjective masculine:йывăр:трудный
+авыр:adjective:хĕсĕк:тяжелый
+авыр:adjective:тертлĕ:тяжелый
+авыр:adjective:сулмаклă:тяжелый
+авыр:adjective:нушаллă:тяжелый
+авыр:adjective:лÿппер:тяжелый
+авыр:adjective:йывăр:тяжелый
+бәбәй:adjective:ачалăх:детский
+бәбәй:adjective:ача:детский
+тулы:adjective:тĕрĕс-тĕкел:целый
+тулы:adjective:пĕтĕм:целый
+тулы:adjective:пĕр:целый
+тулы:adjective:чăмăр:полный
+тулы:adjective:тутă хырăмпа:полный
+тулы:adjective:тулли:полный
+тулы:adjective:тулăх:полный
+тулы:adjective:тапчам:полный
+тулы:adjective:самăр:полный
+тулы:adjective:пĕр:полный
+тулы:adjective:мăнтăр:полный
+тулы:adjective:кÿпшек:полный
+тулы:adjective:ÿтлĕ:полный
+тулы:adjective:туллы:полный
+малай:adjective masculine:малай:малайский
+озын:adjective masculine:пысăк:высокий
+озын:adjective masculine:мухтавлă:высокий
+озын:adjective masculine:вăрăм:высокий
+озын:adjective masculine:çÿл:высокий
+озын:adjective masculine:çÿллĕ:высокий
+озын:adjective masculine:ҫӳллӗ:высокий
+озын:adjective:тăрăхла:длинный
+озын:adjective:вăрăм:длинный
+озын:adjective:вӑрӑм:длинный
+соңгы:adjective:кайри:последний
+соңгы:adjective:кайранхи:последний
+соңгы:adjective:юлашки:последний
+җиңел:adjective masculine:ансат:лёгкий
+җиңел:adjective masculine:çăмăл:лёгкий
+җиңел:adjective masculine:çÿхе:лёгкий
+җиңел:adjective masculine:ҫӑмӑл:лёгкий
+җиңел:adverb:ансат:легко
+җиңел:adjective:ансат:легкий
+җиңел:adjective:çăмăл:легкий
+җиңел:adjective:çÿхе:легкий
+яхшы:adjective:лайăх:славный
+яхшы:adverb:юрать:ладно
+яхшы:adverb:юрать:хорошо
+яхшы:adverb:чипер:хорошо
+яхшы:adverb:аван:хорошо
+яхшы:adjective masculine:ырă:добрый
+яхшы:adjective masculine:ырӑ:добрый
+яхшы:adjective masculine:лайăх:добрый
+яхшы:adjective masculine:юрăхлă:хороший
+яхшы:adjective masculine:ырă:хороший
+яхшы:adjective masculine:чипер:хороший
+яхшы:adjective masculine:путлĕ:хороший
+яхшы:adjective masculine:паха:хороший
+яхшы:adjective masculine:лайӑх:хороший
+яхшы:adjective masculine:лайăх:хороший
+яхшы:adjective masculine:аван:хороший
+җылы:adjective:ăшă:теплый
+җылы:adjective:ăшă:тёплый
+аек:adjective:урă:трезвый
+сул:adjective:сулахайри:левый
+сул:adjective:сулахай:левый
+уң:adjective:сылтăмри:правый
+уң:adjective:сылтăм:правый
+башка:adjective:ытти:прочий
+тигес:noun:кал-кал:ровный
+тигес:adjective:тикĕс:гладкий
+тигес:adjective:такăр:гладкий
+тигес:adjective:йăпшака:гладкий
+тигес:adjective:такǎр:гладкий
+тигес:adjective:тÿрĕ:гладкий
+тигес:adjective:яка:гладкий
+таш:adjective:чул:каменный
+йомры:adjective:чăмăр:округлый
+йомры:adjective:çаврашка:округлый
+йомры:adjective:чăмăр:круглый
+йомры:adjective:çаврашка:круглый
+йомры:adjective:ҫаврака:круглый
+йомры:adjective:чǎмǎр:круглый
+йомры:adjective:çаврака:круглый
+аңлаешлы:adjective:уçăмлă:понятный
+аңлаешлы:adjective adverb:уçăмлă:понятно
+алма:adjective:улма:яблочный
+аудио:adjective:сасă:звуковой
+тау:adjective:ту:горный
+тау:adjective:сăрт-ту:горный
+бай:noun:пуян:богач
+бай:adjective:тулăх:богатый
+бай:adjective:пуян:богатый
+сорау:adjective:ыйту:вопросительный
+буш:adjective masculine:пушă:свободный
+буш:adjective masculine:ирĕклĕ:свободный
+буш:adjective masculine:ирĕк:свободный
+буш:adjective masculine:пушă:пустой
+буш:adjective masculine:çара:пустой
+suqır:adjective:суккăр:слепой
+suqır:adjective:куçсăр:слепой
+эффектив:adjective:ÿсĕмлĕ:эффективный
+боз:adjective:пăр:ледяной
+keçkenä:adjective:пĕчĕк:маленький
+keçkenä:adjective:пӗчӗк:маленький
+яшерен:adjective:вăрттăн:тайный
+нарат:adjective:хыр:сосновый
+нечкә:adjective:кăпăш:мягкий
+нечкә:adjective:йăмшак:мягкий
+нечкә:adjective:çепĕç:мягкий
+нечкә:adjective:çемçешке:мягкий
+нечкә:adjective:çемçе:мягкий
+нечкә:adjective:çинçе:тонкий
+нечкә:adjective:çÿхе:тонкий
+нечкә:adjective:ҫӳхе:тонкий
+нечкә:adjective:ҫинҫе:тонкий
+нечкә:adjective:çӳхе:тонкий
+нечкә:adjective:çӱхе:тонкий
+нечкә:adjective:çинче:тонкий
+черек:adjective:çĕрĕк:гнилой
+үткен:adjective:шĕвĕр:острый
+үткен:adjective:хаяр:острый
+үткен:adjective:ҫивӗч:острый
+үткен:adjective:шӗвӗр:острый
+үткен:adjective:вичкĕн:острый
+үткен:adjective:çивĕч:острый
+тар:adjective masculine:хĕсĕк:узкий
+тар:adjective masculine:тăвăр:узкий
+тар:adjective masculine:çинçе:узкий
+тар:adjective masculine:тӑвӑр:узкий
+тар:adjective masculine:тǎвǎр:узкий
+тар:adjective masculine:ансӑр:узкий
+тар:adjective masculine:ансăр:узкий
+азербайджан:adjective masculine:азербайджан чĕлхи:азербайджанский
+кызыл:adjective:хĕрлĕ:алый
+кызыл:adjective:хĕрлĕ:червонный
+кызыл:adjective:сарă:красный
+кызыл:adjective:хĕрлĕ:красный
+әйе:adverb:ахаль:так
+әйе:adverb:апла:так
+дөрес:adjective masculine:чǎн:правильный
+дөрес:adjective masculine:тĕрĕс:правильный
+ачу:adjective:уçăмлă:открытый
+ачу:adjective:уçă:открытый
+ачу:adjective:кĕрет:открытый
+ozın:adjective:тăрăхла:длинный
+ozın:adjective:вăрăм:длинный
+ozın:adjective:вӑрӑм:длинный
+якын:adjective masculine:çывахри:близкий
+якын:adjective masculine:çывăх:близкий
+киң:adjective:шалпар:просторный
+киң:adjective:аслă:просторный
+киң:adjective:анлă:просторный
+киң:adjective:аслă:широкий
+киң:adjective:анлă:широкий
+киң:adjective:анлǎ:широкий
+киң:adjective:шалпар:широкий
+киң:adjective:сарлака:широкий
+пычрак:adjective:лапра:грязный
+пычрак:adjective:лапăркка:грязный
+пычрак:adjective:вараланчăк:грязный
+пычрак:adjective:çăрăлчăк:грязный
+пычрак:adjective:хура:грязный
+пычрак:adjective:пыльчăклă:грязный
+пычрак:adjective:лапраллă:грязный
+пычрак:adjective:çÿплĕ:грязный
+бәби:adjective:ачалăх:детский
+бәби:adjective:ача:детский
+yaña:adjective masculine:шӗнӗ:новый
+yaña:adjective masculine:çĕнĕ:новый
+yaña:adjective masculine:ҫӗнӗ:новый
+туры:adjective:тĕрĕс:справедливый
+туры:adjective:яштак:прямой
+туры:adjective:тÿрĕ:прямой
+туры:adjective:йăрăс:прямой
+туры:adjective:тӳрĕ:прямой
+туры:adjective:тӱрĕ:прямой
+туры:adjective:тикĕс:прямой
+еш:adjective:тăтăш:частый
+еш:adjective:йăвă:частый
+еш:adjective:çăра:частый
+еш:adjective:тачă:плотный
+еш:adjective:питĕ:плотный
+юеш:adjective:сĕлкĕш:мокрый
+юеш:adjective:нÿрĕ:мокрый
+юеш:adjective:йӗпе:мокрый
+юеш:adjective:исленчĕк:мокрый
+юеш:adjective:йĕпе:мокрый
+кечкенә:nonetype:сахал:малый
+кечкенә:nonetype:пӗчӗк:малый
+суык:adjective:сивĕ:студёный
+суык:adjective:сивӗ:студёный
+суык:adjective:сивӗ:холодный
+суык:adjective:сивĕ:холодный
+борын:adjective:халичченхи:прежний
+борын:adjective:унчченхи:прежний
+борын:adjective:кивĕ:прежний
+борын:adjective:тахçанхи:древний
+борын:adjective:авалхи:древний
+аз:nonetype:сахал:мало
+иске:adjective:тахçанхи:давний
+иске:adjective:ĕлĕкхи:давний
+иске:adjective:тахçанхи:старый
+иске:adjective:кив:старый
+иске:adjective:ĕлĕкхи:старый
+иске:adjective:кивĕ:старый
+иске:adjective:ватӑ:старый
+иске:adjective:ватă:старый
+үтмәс:adjective:ухмах:тупой
+үтмәс:adjective:мӑка:тупой
+үтмәс:adjective:пуклак:тупой
+үтмәс:adjective:мăка:тупой
+начар:adjective:хаяр:злой
+начар:adjective:усал:злой
+начар:adjective:вĕчĕх:злой
+начар:adjective:çиллес:злой
+начар:adjective:япăх:злой
+начар:adjective:начар:злой
+начар:adjective:пули-пулми:плохой
+начар:adjective:йăх-ях:плохой
+начар:adjective:япӑх:плохой
+начар:adjective:япăх:плохой
+начар:adjective:начар:плохой
+начар:adverb:начар:плохо
+әкрен:adjective:шăп:тихий
+әкрен:adjective:тăнăç:тихий
+әкрен:adjective:тÿлек:тихий
+әкрен:adjective:лăпкă:тихий
+әкрен:adjective:лăп:тихий
+әкрен:adjective:вăрах:медленный
+бу:adjective:хальхи:настоящий
+дымлы:adjective:чĕрĕ:влажный
+дымлы:adjective:тачка:влажный
+дымлы:adjective:сăпрам:влажный
+дымлы:adjective:нÿрĕк:влажный
+дымлы:adjective:нÿрĕ:влажный
+дымлы:adjective:йĕпе:влажный
+кыска:adjective masculine:кĕске:краткий
+кыска:adjective masculine:кӗске:короткий
+кыска:adjective masculine:кĕске:короткий
+кечкенә:adjective:сахал:малый
+кечкенә:adjective:пӗчӗк:малый
+кечкенә:adjective:пĕчĕк:малый
+кечкенә:adjective:пĕчĕк:маленький
+кечкенә:adjective:пӗчӗк:маленький
+көндәлек:adjective:кулленхи:ежедневный
+элекке:adjective:халичченхи:прежний
+элекке:adjective:унчченхи:прежний
+элекке:adjective:кивĕ:прежний
+коры:adjective:хăрăк:сухой
+коры:adjective:типӗ:сухой
+коры:adjective:типĕ:сухой
+теш:adjective:шăл:зубной
+гомуми:adjective:пĕрлехи:общий
+салкын:adjective:сивĕ:студёный
+салкын:adjective:сивӗ:студёный
+салкын:adjective:сивӗ:холодный
+салкын:adjective:сивĕ:холодный
+бөтен:adjective:пĕрлехи:общий
+бөтен:adjective:тĕрĕс-тĕкел:целый
+бөтен:adjective:пĕтĕм:целый
+бөтен:adjective:пĕр:целый
+авыл:adjective:ял:сельский
+карт:adjective:тахçанхи:старый
+карт:adjective:кив:старый
+карт:adjective:ĕлĕкхи:старый
+карт:adjective:кивĕ:старый
+карт:adjective:ватӑ:старый
+карт:adjective:ватă:старый
+кече:nonetype:сахал:малый
+кече:nonetype:пӗчӗк:малый
+шома:noun:кал-кал:ровный
+шома:adjective:тикĕс:гладкий
+шома:adjective:такăр:гладкий
+шома:adjective:йăпшака:гладкий
+шома:adjective:такǎр:гладкий
+шома:adjective:тÿрĕ:гладкий
+шома:adjective:яка:гладкий
+бәдән:noun masculine:виле:труп
+китап:adjective:кĕнеке:книжный
+шул:adverb:ахаль:так
+шул:adverb:апла:так
+биек:adjective:ҫӳллӗ:рослый
+биек:adjective masculine:пысăк:высокий
+биек:adjective masculine:мухтавлă:высокий
+биек:adjective masculine:вăрăм:высокий
+биек:adjective masculine:çÿл:высокий
+биек:adjective masculine:çÿллĕ:высокий
+биек:adjective masculine:ҫӳллӗ:высокий
+нәзек:adjective:çинçе:тонкий
+нәзек:adjective:çÿхе:тонкий
+нәзек:adjective:ҫӳхе:тонкий
+нәзек:adjective:ҫинҫе:тонкий
+нәзек:adjective:çӳхе:тонкий
+нәзек:adjective:çӱхе:тонкий
+нәзек:adjective:çинче:тонкий
+хата:adjective:йăнăшлă:ошибочный
+хата:adjective:йăнăш:ошибочный
+дөрес булмаган:adjective:суя:неверный
+ерак:noun:катари:дальний
+ерак:adjective:катари:далёкий
+ерак:adjective:инçе:далёкий
+ерак:adjective:аякри:далёкий
+ерак:adjective:инче:далёкий
+вәхши:adjective:выльăх:скотский
+бары:noun:тин:только
+бары:noun:тин:лишь
+кече:adjective masculine:кĕçĕн:младший
+кече:noun:сахал:малый
+кече:noun:пӗчӗк:малый
+кече:adjective:пĕчĕк:маленький
+кече:adjective:пӗчӗк:маленький
+читтәге:nonetype:катари:удаленный
+зур:adjective adverb:сарлака:широко
+зур:adjective adverb:анлă:широко
+зур:adjective:аслă:широкий
+зур:adjective:анлă:широкий
+зур:adjective:анлǎ:широкий
+зур:adjective:шалпар:широкий
+зур:adjective:сарлака:широкий
+зур:adjective masculine:шултра:большой
+зур:adjective masculine:мăнттай:большой
+зур:adjective masculine:мăнă:большой
+зур:adjective masculine:кервен:большой
+зур:adjective masculine:йышлă:большой
+зур:adjective masculine:аслă:большой
+зур:adjective masculine:мăн:большой
+зур:adjective masculine:пысăк:большой
+зур:adjective masculine:пысӑк:большой
+аз:adjective adverb:сайра:редко
+аз:adjective adverb:пăт-пат:редко
+аз:adjective:шутлă:немногий
+аз:adjective:хисеплĕ:немногий
+аз:adverb:сахал:мало
+керле:adjective:лапра:грязный
+керле:adjective:лапăркка:грязный
+керле:adjective:вараланчăк:грязный
+керле:adjective:çăрăлчăк:грязный
+керле:adjective:хура:грязный
+керле:adjective:пыльчăклă:грязный
+керле:adjective:лапраллă:грязный
+керле:adjective:çÿплĕ:грязный
+калын:adjective:хулăн:дебелый
+калын:adjective masculine:шыçмак:толстый
+калын:adjective masculine:тулли:толстый
+калын:adjective masculine:тапчам:толстый
+калын:adjective masculine:самăр:толстый
+калын:adjective masculine:парка:толстый
+калын:adjective masculine:мăнтăр:толстый
+калын:adjective masculine:кÿпшек:толстый
+калын:adjective masculine:хулӑн:толстый
+калын:adjective masculine:тачка:толстый
+калын:adjective masculine:хулăн:толстый
+янгынчы:nonetype:пушар:пожарный
+имәнеч:nonetype:хăрушă:жуткий
+тыгыз:adjective:ансăр:тесный
+тыгыз:adjective:тăвăр:тесный
+тыгыз:adjective:хĕсĕк:тесный
+тыгыз:adjective:тачă:тесный
+кыен:adjective:йывăр:тяжкий
+яман:adjective:ирсĕр:скверный
+серле:nonetype:вăрттăн:секретный
+матур:adjective:кĕрнеклĕ:пригожий
+матур:adjective:нĕрлĕ:пригожий
+матур:adjective:чипер:пригожий
+гүзәл:adjective:кĕрнеклĕ:пригожий
+гүзәл:adjective:нĕрлĕ:пригожий
+гүзәл:adjective:чипер:пригожий
+якынча:nonetype:яхăн:приблизительно
+якынча:nonetype:чуххăм:приблизительно
+тәбәнәк:nonetype:лутра:невысокий
+аз:adverb:шутлă:немногий
+аз:adverb:хисеплĕ:немногий
+арзан:adjective:йӳнӗ:недорогой
+арзан:adjective:йÿнĕ:недорогой
+көрән:nonetype:хăмăр:карий
+көрән:nonetype:çырă:каштановый
+таўлу тил:nonetype:карачай-палкар чĕлхи:карачаево-балкарский
+къарачай-малкъар тил:nonetype:карачай-палкар чĕлхи:карачаево-балкарский
+карачай-балкар теле:nonetype:карачай-палкар чĕлхи:карачаево-балкарский
+акыллы:adjective:чее:хитрый
+хакас теле:nonetype:хакас чĕлхи:хакасский
+бәбәй:adjective:ача:детский
+бәбәй:adjective:ачалăх:детский
+бәби:adjective:ача:детский
+бәби:adjective:ачалăх:детский
+такылдык:nonetype:пакăлти:болтливый
+такылдык:nonetype:чараксăр:болтливый
+такылдык:nonetype:сÿпĕлти:болтливый
+сүзчән:nonetype:пакăлти:болтливый
+сүзчән:nonetype:чараксăр:болтливый
+сүзчән:nonetype:сÿпĕлти:болтливый
+йөкле:nonetype:хырăмлă:беременная
+бәйрәм:noun:уяв:праздничный
+бәйрәм:noun:праçник:праздничный
+ал:nonetype:кĕрен:розовый
+куркыныч:nonetype:хăрушă:страшный
+имәнеч:nonetype:хăрушă:страшный
+кече:adjective:кĕçĕн:младший
+алма:noun:улма:яблочный
+эш:nonetype:ĕç:трудовой
+хезмәт:nonetype:ĕç:трудовой
+караңгы:adjective:тĕттĕм:темный
+караңгы:adjective:сĕм:темный
+тәмам:nonetype:йăлт:совершенно
+тәмам:nonetype:пач:совершенно
+тәмам:nonetype:пат:совершенно
+тәмам:nonetype:шалт:совершенно
+сөйкемле:nonetype:савни:милый
+куркыныч:adjective:шутсăр:страшно
+куркыныч:adjective:хăрушă:страшно
+курку:nonetype:шутсăр:страшно
+курку:nonetype:хăрушă:страшно
+очраклы:adjective:ăнсăрт:случайный
+көтелмәгән:nonetype:ăнсăрт:случайный
+нык:nonetype:тĕреклĕ:прочно
+нык:nonetype:çирĕп:прочно
+күп санлы:nonetype:йышлă:многочисленный
+көн саен:nonetype:кунсерен:ежедневно
+көн саен:nonetype:куллен:ежедневно
+кинәт:nonetype:сасартăк:внезапно
+кинәт:nonetype:сарăмсăр:внезапно
+савз:nonetype:симĕс:зеленый
+киләчәк:noun:малашнехи:будущий
+якынча:nonetype:кăтартуллă:примерный
+савз:nonetype:симĕс:незрелый
+якты:nonetype:сăнарлă:ярко
+шаулы:nonetype:шавлă:шумно
+шаулы:nonetype:тĕркĕш:шумно
+ышандырырлык:nonetype:ĕненмелле:убедительный
+шөбһәле:nonetype:шанчăксăр:сомнительный
+шикле:nonetype:шанчăксăр:сомнительный
+оят:nonetype:намăс:стыдно
+салмак:nonetype:лăп:слабый
+салмак:nonetype:лăнчă:слабый
+салмак:nonetype:йăшăк:слабый
+салмак:nonetype:йăмшак:слабый
+салмак:nonetype:имшер:слабый
+салмак:nonetype:вăйсăр:слабый
+салмак:nonetype:нишлĕ:слабый
+салмак:nonetype:хавшак:слабый
+салмак:nonetype:халсăр:слабый
+көчсез:nonetype:лăп:слабый
+көчсез:nonetype:лăнчă:слабый
+көчсез:nonetype:йăшăк:слабый
+көчсез:nonetype:йăмшак:слабый
+көчсез:nonetype:имшер:слабый
+көчсез:nonetype:вăйсăр:слабый
+көчсез:nonetype:нишлĕ:слабый
+көчсез:nonetype:хавшак:слабый
+көчсез:nonetype:халсăр:слабый
+эчпошыргыч:nonetype:тунсăх:скучный
+эчпошыргыч:nonetype:йăлăхтармăш:скучный
+эчпошыргыч:nonetype:кичем:скучный
+күңелсез:nonetype:тунсăх:скучный
+күңелсез:nonetype:йăлăхтармăш:скучный
+күңелсез:nonetype:кичем:скучный
+ягымлы:nonetype:юратуллă:нежный
+ягымлы:nonetype:черчен:нежный
+ягымлы:nonetype:çепĕç:нежный
+назлы:nonetype:юратуллă:нежный
+назлы:nonetype:черчен:нежный
+назлы:nonetype:çепĕç:нежный
+аңлаешлы:nonetype:уçăмлă:понятно
+көзге:nonetype:кĕркуннехи:осенний
+көзге:nonetype:кĕр:осенний
+көзге:nonetype:кĕрхи:осенний
+чираттагы:nonetype:черетлĕ:очередной
+бер үк вакытта:nonetype:харăс:одновременно
+бик зур:nonetype:катрам:огромный
+бик зур:nonetype:катмар:огромный
+көтмәгәндә:nonetype:сасартăк:неожиданно
+көтмәгәндә:nonetype:сарăмсăр:неожиданно
+көтмәгәндә:nonetype:ăнсăртран:неожиданно
+көтмәгәндә:nonetype:палт:неожиданно
+кинәт:nonetype:сасартăк:неожиданно
+кинәт:nonetype:сарăмсăр:неожиданно
+кинәт:nonetype:ăнсăртран:неожиданно
+кинәт:nonetype:палт:неожиданно
+тиеш:nonetype:кирлĕ:необходимо
+кирәк:nonetype:кирлĕ:необходимо
+юкка:nonetype:сăлтавсăр:напрасно
+юкка:nonetype:кăлăх:напрасно
+юкка:nonetype:харам:напрасно
+ирләр:nonetype:ар:мужской
+ирләр:nonetype:арçын:мужской
+ир-ат:nonetype:ар:мужской
+ир-ат:nonetype:арçын:мужской
+сорау:noun:ыйту:вопросительный
+тыйнак:nonetype:сăпайлă:скромный
+тыйнак:nonetype:сăпай:скромный
+гади:nonetype:сăпайлă:скромный
+гади:nonetype:сăпай:скромный
+якты:nonetype:сăнарлă:яркий
+якты:nonetype:йăлтăрти:яркий
+якты:nonetype:йăмăх:яркий
+якты:nonetype:йăлтăра:яркий
+якты:nonetype:сарă:яркий
+ачык:nonetype:сăнарлă:яркий
+ачык:nonetype:йăлтăрти:яркий
+ачык:nonetype:йăмăх:яркий
+ачык:nonetype:йăлтăра:яркий
+ачык:nonetype:сарă:яркий
+матур:nonetype:ĕлккен:нарядный
+матур:nonetype:янкăс:нарядный
+гадәттәге:nonetype:ахаль:обыкновенный
+гади:nonetype:ахаль:обыкновенный
+савз:nonetype:симӗс:зелёный
+зэрд:nonetype:сарӑ:жёлтый
+зэрд:nonetype:сарă:жёлтый
+тәэсирле:nonetype:вăйăмлă:влиятельный
+йогынтылы:nonetype:вăйăмлă:влиятельный
+абруйлы:adjective:вăйăмлă:влиятельный
+илаһи:nonetype:турă:божественный
+мәңгелек:adjective:вилĕмсĕрлĕх:бессмертие
+җиңел:adjective:ҫӑмӑл:лёгкий
+гади:adjective:ҫӑмӑл:лёгкий
+беркатлы:nonetype:ҫӑмӑл:лёгкий
+һава:noun:сывлăш:воздушный
+теш:noun:шăл:зубной
+нарат:noun:хыр:сосновый
+мәктәп:noun:шкул:школьный
+көнчыгыш:noun:мал:восточный
+көньяк:noun:кăнтăр:южный
+контроль:noun:тĕрĕслев:контрольный
+яшь:adjective:ҫамрӑк:молодой
+яшь:adjective:яш:молодой
+яшь:adjective:çамрăк:молодой
+яшь:adjective:çĕнĕ:молодой
+яшь:adjective:хунав:молодой
+яшерен:adjective:вăрттăн:тайно
+яссы:adjective:лапчăк:плоский
+яссы:adjective:лаптак:плоский
+яраклы:adjective:юрăхлă:пригодный
+яшерен:adjective:вăрттăн:тайный
+серле:nonetype:вăрттăн:тайный
+яраклы:adjective:юрăхлă:годный
+ялгыз:adjective:камалсăр:одинокий
+ялгыз:adjective:одинокий:одинокий
+ялгыз:adjective:хусах:одинокий
+ялгыз:adjective:пĕччен:одинокий
+ялгыз:adjective:хăрах:одинокий
+язгы:adjective:çурхи:весенний
+язгы:adjective:çуркуннехи:весенний
+язгы:adjective:çyp:весенний
+ялкау:adjective:наян:лениво
+ялкау:adjective:ÿрĕк-сÿрĕк:лениво
+ялкау:adjective:мăран:лениво
+ялкау:adjective:юлхав:ленивый
+ялкау:adjective:чуман:ленивый
+ялкау:adjective:кахал:ленивый
+ялкау:adjective:ÿркенчĕк:ленивый
+ялкау:adjective:наян:ленивый
+ялкау:adjective:ÿрĕк-сÿрĕк:ленивый
+ялкау:adjective:мăран:ленивый
+yalqaw:nonetype:юлхав:ленивый
+yalqaw:nonetype:чуман:ленивый
+yalqaw:nonetype:кахал:ленивый
+yalqaw:nonetype:ÿркенчĕк:ленивый
+yalqaw:nonetype:наян:ленивый
+yalqaw:nonetype:ÿрĕк-сÿрĕк:ленивый
+yalqaw:nonetype:мăран:ленивый
+ялгыш:adjective:йăнăш:ошибочно
+якын:adjective:çывăх:близко
+якын:adjective:юнашар:близко
+якын:adjective:çывăхра:близко
+якын:adjective:çывахран:близко
+юләр:adjective:ухмах:сумасшедший
+эчке:adjective:шал:внутренний
+эчке:adjective:шалти:внутренний
+эстетик:adjective:эстетикăлла:эстетический
+ябык:adjective:хыткан:худой
+ябык:adjective:ырхан:худой
+ябык:adjective:япăх:худой
+ябык:adjective:начар:худой
+эре:adjective:шултра:крупный
+эре:adjective:мăнă:крупный
+эре:adjective:кервен:крупный
+эре:adjective:пысăк:крупный
+үз:nonetype:харпăр:личный
+шәхси:adjective:харпăр:личный
+шәфкатьсез:adjective:тискер:жестокий
+ялангач:adjective:çара:голый
+ялангач:adjective:çаппа-çарамас:голый
+шәрә:adjective:çара:голый
+шәрә:adjective:çаппа-çарамас:голый
+һөнәри:adjective:ремесла:ремесленный
+шат күңелле:nonetype:йĕкер:бодрый
+хуш:adjective:йĕкер:бодрый
+дәртле:adjective:йĕкер:бодрый
+энергетик:adjective:энергетика:энергетический
+энергетик:adjective:вăй:энергетический
+ышанычлы:adjective:тĕреклĕ:прочный
+ышанычлы:adjective:кервен:прочный
+ышанычлы:adjective:çирĕп:прочный
+элеккеге:adjective:халичченхи:прошлый
+элеккеге:adjective:унчченхи:прошлый
+элеккеге:adjective:кивĕ:прошлый
+узган:nonetype:халичченхи:прошлый
+узган:nonetype:унчченхи:прошлый
+узган:nonetype:кивĕ:прошлый
+хәвефле:adjective:канăçсăр:тревожно
+хәвефле:adjective:хумханчăк:тревожно
+шатлыклы:nonetype:савăнăçлă:радостный
+шатлыклы:nonetype:савăк:радостный
+шатлыклы:nonetype:хавас:радостный
+шатлыклы:nonetype:хаваслă:радостный
+шат:adjective:савăнăçлă:радостный
+шат:adjective:савăк:радостный
+шат:adjective:хавас:радостный
+шат:adjective:хаваслă:радостный
+бәхетле:adjective:савăнăçлă:радостный
+бәхетле:adjective:савăк:радостный
+бәхетле:adjective:хавас:радостный
+бәхетле:adjective:хаваслă:радостный
+чыдам:adjective:чăтăмлă:стойкий
+чиксез:adjective:виçесĕр:безграничный
+чиксез:adjective:чикĕсĕр:безграничный
+усал:adjective:çиллес:сердитый
+усал:adjective:хаяр:сердитый
+ачулы:adjective:çиллес:сердитый
+ачулы:adjective:хаяр:сердитый
+уңышлы:adjective:ăнăçлă:успешно
+уңышлы:adjective:ÿсĕмлĕ:успешно
+хәлсез:adjective:вăйсăр:немощный
+хәлсез:adjective:хавшак:немощный
+әкрен:adverb:лăпкă:тихий
+әкрен:adverb:лăп:тихий
+әкрен:adverb:тÿлек:тихий
+әкрен:adverb:шăп:тихий
+әкрен:adverb:тăнăç:тихий
+тын:adjective:лăпкă:тихий
+тын:adjective:лăп:тихий
+тын:adjective:тÿлек:тихий
+тын:adjective:шăп:тихий
+тын:adjective:тăнăç:тихий
+калим:noun:лăпкă:тихий
+калим:noun:лăп:тихий
+калим:noun:тÿлек:тихий
+калим:noun:шăп:тихий
+калим:noun:тăнăç:тихий
+тыгыз:adjective:питĕ:плотно
+тыгыз:adjective:шат:плотно
+тыгыз:adjective:тачă:плотно
+тыгыз:adjective:питĕ:плотный
+тыгыз:adjective:тачă:плотный
+еш:nonetype:питĕ:плотный
+еш:nonetype:тачă:плотный
+шомлы:nonetype:канăçсăр:тревожный
+шомлы:nonetype:хумханчăк:тревожный
+хәвефле:adjective:канăçсăр:тревожный
+хәвефле:adjective:хумханчăк:тревожный
+уңышлы:adjective:ăнăçлă:успешный
+уңышлы:adjective:ÿсĕмлĕ:успешный
+үзсүзле:adjective:чăхăмăç:строптивый
+тынычсыз:adjective:канăçсăр:беспокойный
+тынычсыз:adjective:чăрмавлă:беспокойный
+файдалы:adjective:усăлла:полезный
+файдалы:adjective:сиплĕ:полезный
+усал:adjective:çиллес:сердито
+усал:adjective:хаяр:сердито
+ачуланып:nonetype:çиллес:сердито
+ачуланып:nonetype:хаяр:сердито
+тупас:adjective:чурăс:грубый
+тупас:adjective:чăртмах:грубый
+тупас:adjective:тÿрккес:грубый
+дорфа:nonetype:чурăс:грубый
+дорфа:nonetype:чăртмах:грубый
+дорфа:nonetype:тÿрккес:грубый
+тугры:adjective:шанчăклă:верный
+тугры:adjective:тĕрĕс:верный
+түбән:adjective:лутра:низкий
+түбән:adjective:лутака:низкий
+тәбәнәк:nonetype:лутра:низкий
+тәбәнәк:nonetype:лутака:низкий
+төче:adjective:тăварсăр:пресный
+якынча:nonetype:хăлăхсăр:грубо
+якынча:nonetype:чурăс:грубо
+якынча:nonetype:тÿрккес:грубо
+тупас:adjective:хăлăхсăр:грубо
+тупас:adjective:чурăс:грубо
+тупас:adjective:тÿрккес:грубо
+уртача:adjective:вăталăх:средний
+уртача:adjective:вăтам:средний
+уртача:adjective:вăта:средний
+урта:adjective:вăталăх:средний
+урта:adjective:вăтам:средний
+урта:adjective:вăта:средний
+төрле-төрле:adjective:ăрасна:разный
+төрле-төрле:adjective:тĕрлĕ:разный
+төрле:adjective:ăрасна:разный
+төрле:adjective:тĕрлĕ:разный
+үлек:nonetype:виле:мёртвый
+үлек:nonetype:ÿт:мёртвый
+үле:adjective:виле:мёртвый
+үле:adjective:ÿт:мёртвый
+мәет:nonetype:виле:мёртвый
+мәет:nonetype:ÿт:мёртвый
+үлек:adjective:виле:мёртвый
+үлек:adjective:ÿт:мёртвый
+корпус:nonetype:виле:мёртвый
+корпус:nonetype:ÿт:мёртвый
+гәүдә:nonetype:виле:мёртвый
+гәүдә:nonetype:ÿт:мёртвый
+тышкы:adjective:тулаш:наружный
+тышкы:adjective:тулашри:наружный
+тышкы:adjective:çи:наружный
+тыныч:adjective:килĕшÿллĕ:мирно
+тыныч:adjective:тăнăç:мирно
+тыныч:adjective:мирлĕ:мирно
+тыныч:adjective:килĕшÿллĕ:мирный
+тыныч:adjective:тăнăç:мирный
+тыныч:adjective:мирлĕ:мирный
+дусларча:nonetype:килĕшÿллĕ:мирный
+дусларча:nonetype:тăнăç:мирный
+дусларча:nonetype:мирлĕ:мирный
+төпле:adjective:тарăн:основательно
+төп:adjective:аслă:главный
+төп:adjective:мăнă:главный
+төп:adjective:тĕп:главный
+иң мөһим:nonetype:аслă:главный
+иң мөһим:nonetype:мăнă:главный
+иң мөһим:nonetype:тĕп:главный
+тонык:adjective:шуранка:бледный
+тонык:adjective:шупка:бледный
+тонык:adjective:шĕвĕ:бледный
+агарынган:nonetype:шуранка:бледный
+агарынган:nonetype:шупка:бледный
+агарынган:nonetype:шĕвĕ:бледный
+тирән:adjective:тарăн:глубоко
+тирән:adjective:ассăн:глубоко
+юләр:adjective:ухмах:дурной
+юләр:adjective:начар:дурной
+тиле:adjective:ухмах:дурной
+тиле:adjective:начар:дурной
+ахмак:nonetype:ухмах:дурной
+ахмак:nonetype:начар:дурной
+тиешле:adjective:тивĕçлĕ:должный
+тиеш:adjective:тивĕçлĕ:должный
+тиеш:adjective:тивĕç:должен
+төпле:adjective:тарăн:основательный
+тирән:adjective:тарӑн:глубокий
+тирән:adjective:тарăн:глубокий
+шикелле:nonetype:евĕрлĕ:подобно
+шикелле:nonetype:евĕр:подобно
+шикелле:nonetype:манерлĕ:подобно
+тәңгәл:adjective:евĕрлĕ:подобно
+тәңгәл:adjective:евĕр:подобно
+тәңгәл:adjective:манерлĕ:подобно
+тәмле:adjective:тутлă:вкусный
+тәмле:adjective:сĕтеклĕ:вкусный
+тәҗрибәле:adjective:сăнавлă:опытный
+тәҗрибәле:adjective:опытлă:опытный
+тәҗрибәле:adjective:сăнав:опытный
+тәфсилле:adjective:тулли:подробный
+тәвәккәл:adjective:пат:решительно
+тәвәккәл:adjective:татăклă:решительно
+таулы:adjective:сăрт-ту:гористый
+тантаналы:adjective:чаплă:торжественный
+тәвәккәл:adjective:татăклă:решительный
+кыю:nonetype:татăклă:решительный
+кискен:nonetype:татăклă:решительный
+тартым:adjective:йышши:похожий
+тартым:adjective:евĕрлĕ:похожий
+тартым:adjective:манерлĕ:похожий
+тартым:adjective:хăрах:похожий
+сылу:adjective:кĕрнеклĕ:стройный
+сылу:adjective:йăрăс:стройный
+сылу:adjective:яштак:стройный
+сыек:adjective:шĕвек:жидкий
+сыек:adjective:шĕвĕ:жидкий
+сыек:adjective:чĕлтĕрти:жидкий
+сулы:adjective:шыв:водный
+сыйфатлы:adjective:пахалăх:качественный
+сулы:adjective:шывак:водянистый
+чиста:adjective:таса:чисто
+чиста:adjective:тирпейлĕ:чисто
+чиста:adjective:янкăр:чисто
+таза:adjective:таса:чисто
+таза:adjective:тирпейлĕ:чисто
+таза:adjective:янкăр:чисто
+саф:adjective:таса:чисто
+саф:adjective:тирпейлĕ:чисто
+саф:adjective:янкăр:чисто
+сирәк:adjective:сайра:редко
+сирәк:adjective:пăт-пат:редко
+сак:adjective:асăрхануллă:осторожный
+сак:adjective:шиклĕ:осторожный
+сабыр:adjective:чăтăмлă:терпеливо
+ягымлы:nonetype:савăк:приятный
+ягымлы:nonetype:ырă:приятный
+хуш:adjective:савăк:приятный
+хуш:adjective:ырă:приятный
+тәмле:nonetype:савăк:приятный
+тәмле:nonetype:ырă:приятный
+рәхәт:adjective:савăк:приятный
+рәхәт:adjective:ырă:приятный
+радиоактив:adjective:радиоактивлă:радиоактивный
+рәтле:adjective:путлĕ:путный
+түземле:adjective:чăтăмлă:терпеливый
+сабыр:adjective:чăтăмлă:терпеливый
+хуш:adjective:савăк:приятно
+хуш:adjective:нĕрлĕ:приятно
+хуш:adjective:ырă:приятно
+тәмле:nonetype:савăк:приятно
+тәмле:nonetype:нĕрлĕ:приятно
+тәмле:nonetype:ырă:приятно
+рәхәт:adjective:савăк:приятно
+рәхәт:adjective:нĕрлĕ:приятно
+рәхәт:adjective:ырă:приятно
+рәтле:adjective:ĕретлĕ:порядочный
+үткер:adjective:çивĕч:остро
+үткер:adjective:хаяр:остро
+үткен:adjective:çивĕч:остро
+үткен:adjective:хаяр:остро
+очлы:adjective:çивĕч:остро
+очлы:adjective:хаяр:остро
+тугры:adjective:тÿрĕ:честный
+намуслы:adjective:тÿрĕ:честный
+тәңгәл:adjective:унашкал:подобный
+тәңгәл:adjective:йышши:подобный
+тәңгәл:adjective:евĕрлĕ:подобный
+тәңгәл:adjective:евĕр:подобный
+тәңгәл:adjective:манерлĕ:подобный
+тәңгәл:adjective:хăрах:подобный
+охшаш:adjective:унашкал:подобный
+охшаш:adjective:йышши:подобный
+охшаш:adjective:евĕрлĕ:подобный
+охшаш:adjective:евĕр:подобный
+охшаш:adjective:манерлĕ:подобный
+охшаш:adjective:хăрах:подобный
+нормаль:adjective:йĕркеллĕ:нормальный
+өзлексез:adjective:вĕçĕмсĕр:непрерывно
+өзлексез:adjective:таттисĕр:непрерывно
+озак:adjective:вăрахчен:долго
+озак:adjective:пайтахчен:долго
+озак:adjective:нумайччен:долго
+озак:adjective:таттисĕр:долго
+озак:adjective:пайтах:долго
+озак:adjective:темĕнччен:долго
+озак:adjective:чылайччен:долго
+ягымлы:adjective:кăмăллă:ласковый
+ягымлы:adjective:юратуллă:ласковый
+ягымлы:adjective:юмарт:ласковый
+ягымлы:adjective:çепĕç:ласковый
+мөлаем:adjective:кăмăллă:ласковый
+мөлаем:adjective:юратуллă:ласковый
+мөлаем:adjective:юмарт:ласковый
+мөлаем:adjective:çепĕç:ласковый
+саңгырау:adjective:хăлхасăр:глухой
+чукрак:adjective:хăлхасăр:глухой
+мул:adjective:тулăх:обильный
+мәҗбүри:adjective:ирĕксĕр:принудительный
+мәңгелек:adjective:ĕмĕрхи:вечный
+өске:adjective:çиелти:верхний
+өске:adjective:çÿлти:верхний
+өске:adjective:çиел:верхний
+өске:adjective:çи:верхний
+махсус:adjective:ятарласа:специально
+махсус:adjective:ятарлă:специально
+махсус:adjective:юри:специально
+махсус:adjective:ятарлă:специальный
+өлкән:adjective:аслă:старший
+югары:nonetype:аслă:старший
+олы:nonetype:аслă:старший
+өзлексез:adjective:вĕçĕмсĕр:непрерывный
+өзлексез:adjective:таттисĕр:непрерывный
+объектив:adjective:тĕрĕс:объективный
+якты:adjective:шурă:светлый
+якты:adjective:чакăр:светлый
+якты:adjective:çутă:светлый
+тонык:nonetype:шурă:светлый
+тонык:nonetype:чакăр:светлый
+тонык:nonetype:çутă:светлый
+нурлы:adjective:шурă:светлый
+нурлы:adjective:чакăр:светлый
+нурлы:adjective:çутă:светлый
+ачык:nonetype:шурă:светлый
+ачык:nonetype:чакăр:светлый
+ачык:nonetype:çутă:светлый
+намуслы:adjective:тÿрĕ:честно
+гадел:nonetype:тÿрĕ:честно
+лаеклы:adjective:тивĕçлĕ:достойно
+ягымлы:adjective:кăмăллă:ласково
+ягымлы:adjective:çемçен:ласково
+ягымлы:adjective:çепĕç:ласково
+мөлаем:adjective:кăмăллă:ласково
+мөлаем:adjective:çемçен:ласково
+мөлаем:adjective:çепĕç:ласково
+майлы:adjective:çу:масляный
+симез:adjective:мăнтăр:жирный
+майлы:adjective:мăнтăр:жирный
+кыска:adjective:кĕске:коротко
+кыска:adjective:шакла:коротко
+лаеклы:adjective:тивĕçлĕ:достойный
+лаеклы:adjective:çителĕклĕ:достойный
+лаек:adjective:тивĕçлĕ:достойный
+лаек:adjective:çителĕклĕ:достойный
+кыргый:adjective:тискер:дикий
+күрше:adjective:кÿршĕ:соседний
+күрше:adjective:юнашар:соседний
+хәтәр:adjective:хăрушă:опасный
+куркыныч:adjective:хăрушă:опасный
+эссе:adjective:вĕри:жарко
+эссе:adjective:хĕрÿллĕ:жарко
+эссе:adjective:шăрăх:жарко
+кызу:adjective:вĕри:жарко
+кызу:adjective:хĕрÿллĕ:жарко
+кызу:adjective:шăрăх:жарко
+эссе:adjective:кăварлă:жаркий
+эссе:adjective:вĕри:жаркий
+эссе:adjective:хĕрÿллĕ:жаркий
+эссе:adjective:хĕрÿ:жаркий
+эссе:adjective:шăрăх:жаркий
+кызу:adjective:кăварлă:жаркий
+кызу:adjective:вĕри:жаркий
+кызу:adjective:хĕрÿллĕ:жаркий
+кызу:adjective:хĕрÿ:жаркий
+кызу:adjective:шăрăх:жаркий
+хәтәр:adjective:хăрушă:опасно
+куркыныч:adjective:хăрушă:опасно
+чибәр:adjective:кĕрнеклĕ:красивый
+чибәр:adjective:кĕрнек:красивый
+чибәр:adjective:илемлĕ:красивый
+чибәр:adjective:ĕлккен:красивый
+чибәр:adjective:нĕрлĕ:красивый
+чибәр:adjective:капăр:красивый
+чибәр:adjective:эреветлĕ:красивый
+чибәр:adjective:сарă:красивый
+чибәр:adjective:хитре:красивый
+чибәр:adjective:чипер:красивый
+чибәр:adjective:чечен:красивый
+күркәм:adjective:кĕрнеклĕ:красивый
+күркәм:adjective:кĕрнек:красивый
+күркәм:adjective:илемлĕ:красивый
+күркәм:adjective:ĕлккен:красивый
+күркәм:adjective:нĕрлĕ:красивый
+күркәм:adjective:капăр:красивый
+күркәм:adjective:эреветлĕ:красивый
+күркәм:adjective:сарă:красивый
+күркәм:adjective:хитре:красивый
+күркәм:adjective:чипер:красивый
+күркәм:adjective:чечен:красивый
+гүзәл:adjective:кĕрнеклĕ:красивый
+гүзәл:adjective:кĕрнек:красивый
+гүзәл:adjective:илемлĕ:красивый
+гүзәл:adjective:ĕлккен:красивый
+гүзәл:adjective:нĕрлĕ:красивый
+гүзәл:adjective:капăр:красивый
+гүзәл:adjective:эреветлĕ:красивый
+гүзәл:adjective:сарă:красивый
+гүзәл:adjective:хитре:красивый
+гүзәл:adjective:чипер:красивый
+гүзәл:adjective:чечен:красивый
+гүзел:nonetype:кĕрнеклĕ:красивый
+гүзел:nonetype:кĕрнек:красивый
+гүзел:nonetype:илемлĕ:красивый
+гүзел:nonetype:ĕлккен:красивый
+гүзел:nonetype:нĕрлĕ:красивый
+гүзел:nonetype:капăр:красивый
+гүзел:nonetype:эреветлĕ:красивый
+гүзел:nonetype:сарă:красивый
+гүзел:nonetype:хитре:красивый
+гүзел:nonetype:чипер:красивый
+гүзел:nonetype:чечен:красивый
+матур:adjective:кĕрнеклĕ:красивый
+матур:adjective:кĕрнек:красивый
+матур:adjective:илемлĕ:красивый
+матур:adjective:ĕлккен:красивый
+матур:adjective:нĕрлĕ:красивый
+матур:adjective:капăр:красивый
+матур:adjective:эреветлĕ:красивый
+матур:adjective:сарă:красивый
+матур:adjective:хитре:красивый
+матур:adjective:чипер:красивый
+матур:adjective:чечен:красивый
+кызганыч:adjective:мĕскĕн:жалкий
+кызганыч:adjective:мăнтарăн:жалкий
+куш:adjective:йĕкĕр:двойной
+куш:adjective:мăшăрлă:двойной
+чибәр:adjective:илемлĕ:красиво
+чибәр:adjective:ĕлккен:красиво
+чибәр:adjective:нĕрлĕ:красиво
+чибәр:adjective:капăр:красиво
+чибәр:adjective:эреветлĕ:красиво
+чибәр:adjective:хитре:красиво
+чибәр:adjective:чечен:красиво
+матур:adjective:илемлĕ:красиво
+матур:adjective:ĕлккен:красиво
+матур:adjective:нĕрлĕ:красиво
+матур:adjective:капăр:красиво
+матур:adjective:эреветлĕ:красиво
+матур:adjective:хитре:красиво
+матур:adjective:чечен:красиво
+күркәм:adjective:илемлĕ:красиво
+күркәм:adjective:ĕлккен:красиво
+күркәм:adjective:нĕрлĕ:красиво
+күркәм:adjective:капăр:красиво
+күркәм:adjective:эреветлĕ:красиво
+күркәм:adjective:хитре:красиво
+күркәм:adjective:чечен:красиво
+күптәнге:adjective:тахçанхи:давнишний
+күңелле:adjective:савăнăçлă:весело
+күңелле:adjective:савăк:весело
+күңелле:adjective:хаваслă:весело
+җайлы:nonetype:канлĕ:удобно
+җайлы:nonetype:меллĕ:удобно
+җайлы:nonetype:хăтлă:удобно
+җайлы:nonetype:майлă:удобно
+уңайлы:adjective:канлĕ:удобно
+уңайлы:adjective:меллĕ:удобно
+уңайлы:adjective:хăтлă:удобно
+уңайлы:adjective:майлă:удобно
+уңай:adjective:канлĕ:удобно
+уңай:adjective:меллĕ:удобно
+уңай:adjective:хăтлă:удобно
+уңай:adjective:майлă:удобно
+кулай:adjective:канлĕ:удобно
+кулай:adjective:меллĕ:удобно
+кулай:adjective:хăтлă:удобно
+кулай:adjective:майлă:удобно
+куәтле:adjective:тĕреклĕ:мощно
+куәтле:adjective:патвар:мощно
+куе:adjective:çăра:густо
+куе:adjective:йăвă:густо
+куе:adjective:çăра:густой
+куе:adjective:йăмăх:густой
+куе:adjective:йăвă:густой
+куе:adjective:чăтлăх:густой
+көчсез:adjective:вăйсăр:бессильный
+көчсез:adjective:халсăр:бессильный
+коры:adjective:типĕ:сухо
+яман:adjective:парка:сильно
+яман:adjective:патвар:сильно
+нык:nonetype:парка:сильно
+нык:nonetype:патвар:сильно
+көчле:adjective:парка:сильно
+көчле:adjective:патвар:сильно
+каты:adjective:парка:сильно
+каты:adjective:патвар:сильно
+коллектив:adjective:ушкăн:коллективный
+көндәлек:adjective:кулленхи:ежедневный
+кискен:adjective:вичкĕн:резкий
+кискен:adjective:кăрсака:резкий
+ачы:nonetype:кăрсака:резкий
+киресенчә:nonetype:каялла:обратно
+кире:adjective:каялла:обратно
+юан:adjective:самăр:тучный
+юан:adjective:шыçмак:тучный
+юан:adjective:мăнтăр:тучный
+көр:adjective:самăр:тучный
+көр:adjective:шыçмак:тучный
+көр:adjective:мăнтăр:тучный
+кирәкле:adjective:кирлĕ:нужный
+кирәк:adjective:кирлĕ:нужный
+үзсүзле:adjective:чăхăмăç:упрямый
+кире:adjective:чăхăмăç:упрямый
+ят:adjective:ют:чужой
+ят:adjective:çын:чужой
+чит:adjective:ют:чужой
+чит:adjective:çын:чужой
+килмешәк:adjective:ют:чужой
+килмешәк:adjective:çын:чужой
+киләсе:adjective:кайранхи:последующий
+киләсе:adjective:малалли:последующий
+ныклы:adjective:йĕкер:крепкий
+ныклы:adjective:тапчам:крепкий
+ныклы:adjective:вирлĕ:крепкий
+ныклы:adjective:вăйлă:крепкий
+ныклы:adjective:парка:крепкий
+ныклы:adjective:тĕреклĕ:крепкий
+ныклы:adjective:патвар:крепкий
+ныклы:adjective:кервен:крепкий
+ныклы:adjective:хаяр:крепкий
+ныклы:adjective:çирĕп:крепкий
+нык:adjective:йĕкер:крепкий
+нык:adjective:тапчам:крепкий
+нык:adjective:вирлĕ:крепкий
+нык:adjective:вăйлă:крепкий
+нык:adjective:парка:крепкий
+нык:adjective:тĕреклĕ:крепкий
+нык:adjective:патвар:крепкий
+нык:adjective:кервен:крепкий
+нык:adjective:хаяр:крепкий
+нык:adjective:çирĕп:крепкий
+каты:adjective:йĕкер:крепкий
+каты:adjective:тапчам:крепкий
+каты:adjective:вирлĕ:крепкий
+каты:adjective:вăйлă:крепкий
+каты:adjective:парка:крепкий
+каты:adjective:тĕреклĕ:крепкий
+каты:adjective:патвар:крепкий
+каты:adjective:кервен:крепкий
+каты:adjective:хаяр:крепкий
+каты:adjective:çирĕп:крепкий
+караңгы:adjective:тĕттĕм:темно
+разый:adjective:хавас:довольный
+канәгать:adjective:хавас:довольный
+каршы:adjective:хире-хирĕç:противоположный
+каршы:adjective:хирĕç:противоположный
+канлы:adjective:юнлă:кровавый
+ныклы:adjective:йĕкер:крепко
+ныклы:adjective:парка:крепко
+ныклы:adjective:тĕреклĕ:крепко
+ныклы:adjective:патвар:крепко
+ныклы:adjective:хаяр:крепко
+ныклы:adjective:çирĕп:крепко
+нык:adjective:йĕкер:крепко
+нык:adjective:парка:крепко
+нык:adjective:тĕреклĕ:крепко
+нык:adjective:патвар:крепко
+нык:adjective:хаяр:крепко
+нык:adjective:çирĕп:крепко
+каты:adjective:йĕкер:крепко
+каты:adjective:парка:крепко
+каты:adjective:тĕреклĕ:крепко
+каты:adjective:патвар:крепко
+каты:adjective:хаяр:крепко
+каты:adjective:çирĕп:крепко
+кыен:adjective:кăткăс:сложный
+кушма:adjective:кăткăс:сложный
+катлаулы:adjective:кăткăс:сложный
+разый:adjective:хавас:довольно
+канәгать:adjective:хавас:довольно
+кызу:nonetype:вĕри:горячо
+кызу:nonetype:хĕрÿллĕ:горячо
+кызу:nonetype:шăрăх:горячо
+кайнар:adjective:вĕри:горячо
+кайнар:adjective:хĕрÿллĕ:горячо
+кайнар:adjective:шăрăх:горячо
+хәсрәтле:nonetype:салхуллă:печальный
+хәсрәтле:nonetype:салху:печальный
+хәсрәтле:nonetype:хурланчăк:печальный
+кайгылы:adjective:салхуллă:печальный
+кайгылы:adjective:салху:печальный
+кайгылы:adjective:хурланчăк:печальный
+каршы:adjective:йĕрĕнчĕк:противный
+каршы:adjective:хирĕç:противный
+эссе:adjective:вĕри:горячий
+эссе:adjective:кăрсака:горячий
+эссе:adjective:хĕрÿллĕ:горячий
+эссе:adjective:хĕрÿ:горячий
+эссе:adjective:шăрăх:горячий
+кайнар:adjective:вĕри:горячий
+кайнар:adjective:кăрсака:горячий
+кайнар:adjective:хĕрÿллĕ:горячий
+кайнар:adjective:хĕрÿ:горячий
+кайнар:adjective:шăрăх:горячий
+ямансу:nonetype:хурлăхлă:грустный
+ямансу:nonetype:салху:грустный
+ямансу:nonetype:хурланчăк:грустный
+күңелсез:nonetype:хурлăхлă:грустный
+күңелсез:nonetype:салху:грустный
+күңелсез:nonetype:хурланчăк:грустный
+кайгылы:adjective:хурлăхлă:грустный
+кайгылы:adjective:салху:грустный
+кайгылы:adjective:хурланчăк:грустный
+кыйбатлы:adjective:хаклă:дорого
+кыйбат:adjective:хаклă:дорого
+кадерле:adjective:хаклă:дорого
+нечкә:nonetype:йăмшак:мягкий
+нечкә:nonetype:кăпăш:мягкий
+нечкә:nonetype:çемçешке:мягкий
+нечкә:nonetype:çемçе:мягкий
+нечкә:nonetype:çепĕç:мягкий
+йомшак:adjective:йăмшак:мягкий
+йомшак:adjective:кăпăш:мягкий
+йомшак:adjective:çемçешке:мягкий
+йомшак:adjective:çемçе:мягкий
+йомшак:adjective:çепĕç:мягкий
+кайгылы:adjective:хуйхăллă:горестный
+йомшак:adjective:çемçен:мягко
+йомшак:adjective:çемçе:мягко
+йомшак:adjective:çепĕç:мягко
+йомры:adjective:чăмăр:округлый
+йомры:adjective:çаврашка:округлый
+иясез:adjective:хуçасăр:бесхозный
+истәлекле:adjective:асăнмалăх:памятный
+шәп:adjective:шеп:замечательно
+шәп:adjective:чаплă:замечательно
+гүзәл:adjective:шеп:замечательно
+гүзәл:adjective:чаплă:замечательно
+көчле:adjective:тĕреклĕ:мощный
+кодрәтле:adjective:тĕреклĕ:мощный
+егәрле:adjective:тĕреклĕ:мощный
+куәтле:adjective:тĕреклĕ:мощный
+исерек:adjective:ÿсĕр:пьяный
+исән:adjective:йăрă:живо
+исән:adjective:час:живо
+исән:adjective:хăпăл-хапăл:живо
+исән:adjective:хĕрÿ:живо
+гүзәл:adjective:аван:прекрасно
+гүзәл:adjective:шеп:прекрасно
+гүзәл:adjective:чипер:прекрасно
+бик яхшы:nonetype:аван:прекрасно
+бик яхшы:nonetype:шеп:прекрасно
+бик яхшы:nonetype:чипер:прекрасно
+шәп:adjective:шеп:замечательный
+шәп:adjective:чаплă:замечательный
+гүзәл:adjective:шеп:замечательный
+гүзәл:adjective:чаплă:замечательный
+матур:adjective:аван:прекрасный
+матур:adjective:шеп:прекрасный
+матур:adjective:хитре:прекрасный
+матур:adjective:чипер:прекрасный
+бик яхшы:nonetype:аван:прекрасный
+бик яхшы:nonetype:шеп:прекрасный
+бик яхшы:nonetype:хитре:прекрасный
+бик яхшы:nonetype:чипер:прекрасный
+бик матур:nonetype:аван:прекрасный
+бик матур:nonetype:шеп:прекрасный
+бик матур:nonetype:хитре:прекрасный
+бик матур:nonetype:чипер:прекрасный
+гүзәл:adjective:аван:прекрасный
+гүзәл:adjective:шеп:прекрасный
+гүзәл:adjective:хитре:прекрасный
+гүзәл:adjective:чипер:прекрасный
+дипломат ...ы:nonetype:дипломат:дипломатический
+дипломатик:adjective:дипломат:дипломатический
+даими:adjective:яланхи:постоянный
+даими:adjective:ĕмĕрхи:постоянный
+даими:adjective:тăтăш:постоянный
+иртә:adjective:малтанхи:ранний
+ирле:adjective:упăшкаллă:замужняя
+гәүдәле:adjective:ҫӳллӗ:рослый
+биек:adjective:ҫӳллӗ:рослый
+имин:adjective:тĕрĕс-тĕкел:невредимый
+горур:adjective:мăнаçлă:гордо
+гаиләле:adjective:çемье:семейный
+гаиләле:adjective:кил:семейный
+гаепле:adjective:айăплă:виновный
+ирекле:adjective:ирĕклĕ:вольный
+ирекле:adjective:ирĕк:вольный
+иҗади:adjective:пултарулăх:творческий
+искитәрлек:adjective:тĕлĕнмелле:удивительный
+искитмәле:adjective:тĕлĕнмелле:удивительный
+искиткеч:adjective:тĕлĕнмелле:удивительный
+гаҗәп:adjective:тĕлĕнмелле:удивительный
+гадәттәге:nonetype:йĕркеллĕ:обычный
+гадәттәге:nonetype:кулленхи:обычный
+гадәти:adjective:йĕркеллĕ:обычный
+гадәти:adjective:кулленхи:обычный
+гаскәри:adjective:салтак:воинский
+гаскәри:adjective:çap:воинский
+җитди:adjective:тарăн:серьезный
+гадел:adjective:тĕрĕс:справедливо
+гадәттән тыш:adjective:виçесĕр:чрезвычайный
+җирле:adjective:тĕп:местный
+урындагы:adjective:тĕп:местный
+җаваплы:adjective:ответлă:ответственный
+җирәнгеч:adjective:йĕрĕнчĕк:отвратительный
+җәһәт:adjective:хӑвӑрт:быстрый
+җәһәт:adjective:йăлттам:быстрый
+җәһәт:adjective:вăр-вар:быстрый
+җәһәт:adjective:хăпăл-хапăл:быстрый
+җәһәт:adjective:хытă:быстрый
+тиз:adjective:хӑвӑрт:быстрый
+тиз:adjective:йăлттам:быстрый
+тиз:adjective:вăр-вар:быстрый
+тиз:adjective:хăпăл-хапăл:быстрый
+тиз:adjective:хытă:быстрый
+җәйге:adjective:çу:летний
+җәйге:adjective:çуллахи:летний
+җайлы:adjective:канлĕ:удобный
+җайлы:adjective:меллĕ:удобный
+җайлы:adjective:хăтлă:удобный
+җайлы:adjective:майлă:удобный
+уңайлы:adjective:канлĕ:удобный
+уңайлы:adjective:меллĕ:удобный
+уңайлы:adjective:хăтлă:удобный
+уңайлы:adjective:майлă:удобный
+уңай:adjective:канлĕ:удобный
+уңай:adjective:меллĕ:удобный
+уңай:adjective:хăтлă:удобный
+уңай:adjective:майлă:удобный
+кулай:adjective:канлĕ:удобный
+кулай:adjective:меллĕ:удобный
+кулай:adjective:хăтлă:удобный
+кулай:adjective:майлă:удобный
+бушлай:adjective:тÿлевсĕр:бесплатный
+буйлы:adjective:йăрăмлă:полосатый
+буйлы:adjective:йăрăм-йăрăм:полосатый
+буйлы:adjective:ярăмлă:полосатый
+буйлы:adjective:ярăм:полосатый
+җәһәт:adjective:васкавлăн:быстро
+җәһәт:adjective:капăрах:быстро
+җәһәт:adjective:йăкăл-якăл:быстро
+җәһәт:adjective:вăр-варрăн:быстро
+җәһәт:adjective:васкаварлăн:быстро
+җәһәт:adjective:вăш-ваш:быстро
+җәһәт:adjective:вăшт:быстро
+җәһәт:adjective:йăпăрттăн:быстро
+җәһәт:adjective:йăпăр-япăр:быстро
+җәһәт:adjective:йăпăрт:быстро
+җәһәт:adjective:йăлттам:быстро
+җәһәт:adjective:хăвăрттăн:быстро
+җәһәт:adjective:вăр-вар:быстро
+җәһәт:adjective:алхапăл:быстро
+җәһәт:adjective:час:быстро
+җәһәт:adjective:хăпăл-хапăл:быстро
+җәһәт:adjective:хытă:быстро
+җәһәт:adjective:сиккипе:быстро
+җәһәт:adjective:палт:быстро
+җәһәт:adjective:çăмăллăн:быстро
+тиз:adjective:васкавлăн:быстро
+тиз:adjective:капăрах:быстро
+тиз:adjective:йăкăл-якăл:быстро
+тиз:adjective:вăр-варрăн:быстро
+тиз:adjective:васкаварлăн:быстро
+тиз:adjective:вăш-ваш:быстро
+тиз:adjective:вăшт:быстро
+тиз:adjective:йăпăрттăн:быстро
+тиз:adjective:йăпăр-япăр:быстро
+тиз:adjective:йăпăрт:быстро
+тиз:adjective:йăлттам:быстро
+тиз:adjective:хăвăрттăн:быстро
+тиз:adjective:вăр-вар:быстро
+тиз:adjective:алхапăл:быстро
+тиз:adjective:час:быстро
+тиз:adjective:хăпăл-хапăл:быстро
+тиз:adjective:хытă:быстро
+тиз:adjective:сиккипе:быстро
+тиз:adjective:палт:быстро
+тиз:adjective:çăмăллăн:быстро
+җанлы:adjective:йăрă:живой
+җанлы:adjective:хăпăл-хапăл:живой
+җанлы:adjective:чĕрĕ:живой
+тере:adjective:йăрă:живой
+тере:adjective:хăпăл-хапăл:живой
+тере:adjective:чĕрĕ:живой
+исән:adjective:йăрă:живой
+исән:adjective:хăпăл-хапăл:живой
+исән:adjective:чĕрĕ:живой
+бичара:adjective:апăрша:бедняга
+бичара:adjective:мĕскĕн:бедняга
+кыйммәтле:adjective:паха:ценный
+кыйммәт:adjective:паха:ценный
+бәяле:adjective:паха:ценный
+бөдрә:adjective:кăтра:кудрявый
+бәхетсез:adjective:ăраскалсăр:несчастный
+бәхетсез:adjective:апăрша:несчастный
+бәхетсез:adjective:мĕскĕн:несчастный
+бәхетсез:adjective:телейсĕр:несчастный
+бәхетсез:adjective:мăнтарăн:несчастный
+буш:adjective:çара:пусто
+оста:nonetype:ăста:умелый
+булдыклы:adjective:ăста:умелый
+бушлай:adjective:ахаль:бесплатно
+бушлай:adjective:тÿлевсĕр:бесплатно
+бай:adjective:тулăх:богатый
+бай:adjective:пуян:богатый
+еш:adjective:çăра:частый
+еш:adjective:йăвă:частый
+еш:adjective:тăтăш:частый
+еллык:adjective:çулталăк:годовой
+мәгълүм:adjective:хайхи:известный
+билгеле:adjective:хайхи:известный
+шат:adjective:телейлĕ:счастливый
+бәхетле:adjective:телейлĕ:счастливый
+әзер:adjective:янтă:готовый
+әзер:adjective:юсавлă:готовый
+әзер:adjective:хатĕр:готовый
+әһәмиятле:adjective:самай:значительный
+әһәмиятле:adjective:чылай:значительный
+бертуган:adjective:тăван:родной
+әче:adjective:кăвасак:кислый
+әче:adjective:йÿçĕ:кислый
+әче:adjective:йÿçек:кислый
+әче:adjective:такăс:кислый
+әче:adjective:хĕрхÿ:кислый
+ачы:adjective:кăвасак:кислый
+ачы:adjective:йÿçĕ:кислый
+ачы:adjective:йÿçек:кислый
+ачы:adjective:такăс:кислый
+ачы:adjective:хĕрхÿ:кислый
+дини:adjective:тĕн:религиозный
+кыйбатлы:adjective:хаклă:дорогой
+кыйбатлы:adjective:паха:дорогой
+кыйбат:adjective:хаклă:дорогой
+кыйбат:adjective:паха:дорогой
+кадерле:adjective:хаклă:дорогой
+кадерле:adjective:паха:дорогой
+газиз:adjective:хаклă:дорогой
+газиз:adjective:паха:дорогой
+бәяле:adjective:хаклă:дорогой
+бәяле:adjective:паха:дорогой
+ачык:adjective:куçăн:открыто
+ачык:adjective:уçăмлă:открыто
+ачык:adjective:уçă:открыто
+ачык:adjective:тÿрех:открыто
+ачык:adjective:кĕрет:открыто
+ачык:adjective:уççăн:открыто
+атлы:adjective:ут:конный
+астыртын:adjective:вăрттăн:скрытный
+түбәнге:adjective:аялти:нижний
+түбәнге:adjective:анатри:нижний
+аскы:adjective:аялти:нижний
+аскы:adjective:анатри:нижний
+пакъ:adjective:таса:чистый
+пакъ:adjective:тирпейлĕ:чистый
+пакъ:adjective:тăрă:чистый
+пакъ:adjective:çара:чистый
+пакъ:adjective:янкăр:чистый
+ару:adjective:таса:чистый
+ару:adjective:тирпейлĕ:чистый
+ару:adjective:тăрă:чистый
+ару:adjective:çара:чистый
+ару:adjective:янкăр:чистый
+чиста:adjective:таса:чистый
+чиста:adjective:тирпейлĕ:чистый
+чиста:adjective:тăрă:чистый
+чиста:adjective:çара:чистый
+чиста:adjective:янкăр:чистый
+таза:adjective:таса:чистый
+таза:adjective:тирпейлĕ:чистый
+таза:adjective:тăрă:чистый
+таза:adjective:çара:чистый
+таза:adjective:янкăр:чистый
+саф:adjective:таса:чистый
+саф:adjective:тирпейлĕ:чистый
+саф:adjective:тăрă:чистый
+саф:adjective:çара:чистый
+саф:adjective:янкăр:чистый
+арзан:adjective:йӳнӗ:дешёвый
+аяз:adjective:уяр:ясно
+аяз:adjective:паллах:ясно
+аяз:adjective:уççăн:ясно
+аяз:adjective:янкăр:ясно
+аяз:adjective:янк:ясно
+анык:adjective:уяр:ясно
+анык:adjective:паллах:ясно
+анык:adjective:уççăн:ясно
+анык:adjective:янкăр:ясно
+анык:adjective:янк:ясно
+ашыгыч:adjective:васкавлă:спешный
+ябык:adjective:ырхан:тощий
+ябык:adjective:япăх:тощий
+ябык:adjective:начар:тощий
+ябык:adjective:кăрачă:тощий
+арык:adjective:ырхан:тощий
+арык:adjective:япăх:тощий
+арык:adjective:начар:тощий
+арык:adjective:кăрачă:тощий
+артык:adjective:ытла:лишний
+артык:adjective:ытлашши:лишний
+ансат:adjective:ансат:нетрудный
+атаклы:adjective:чаплă:знаменитый
+атаклы:adjective:мухтавлă:знаменитый
+әкрен:adjective:вăрах:медленный
+салмак:nonetype:вăрах:медленный
+акрын:adjective:вăрах:медленный
+хосусый:adjective:ятарласа:особо
+хосусый:adjective:ăрасна:особо
+аерым:adjective:ятарласа:особо
+аерым:adjective:ăрасна:особо
+арткы:adjective:кайри:задний
+арткы:adjective:кай:задний
+арткы:adjective:хыçалти:задний
+арткы:adjective:хыçал:задний
+ала:adjective:ула:пегий
+айлы:adjective:уйăх:лунный
+аерым:adjective:ăрасна:отдельно
+аерым:adjective:уйрăм:отдельно
+иркен:nonetype:ирĕклĕ:свободно
+иркен:nonetype:ирĕк:свободно
+иркен:nonetype:уççăн:свободно
+иркен:nonetype:çăмăллăн:свободно
+азат:adjective:ирĕклĕ:свободно
+азат:adjective:ирĕк:свободно
+азат:adjective:уççăн:свободно
+азат:adjective:çăмăллăн:свободно
+аерым:adjective:ăрасна:отдельный
+аерым:adjective:уйрăм:отдельный
+якты:nonetype:уяр:ясный
+якты:nonetype:тăрă:ясный
+якты:nonetype:янкăр:ясный
+якты:nonetype:çутă:ясный
+аяз:adjective:уяр:ясный
+аяз:adjective:тăрă:ясный
+аяз:adjective:янкăр:ясный
+аяз:adjective:çутă:ясный
+ачык:adjective:уяр:ясный
+ачык:adjective:тăрă:ясный
+ачык:adjective:янкăр:ясный
+ачык:adjective:çутă:ясный
+анык:adjective:уяр:ясный
+анык:adjective:тăрă:ясный
+анык:adjective:янкăр:ясный
+анык:adjective:çутă:ясный
+таза:adjective:сывлăхлă:здоровый
+таза:adjective:усăллă:здоровый
+таза:adjective:сывлăхшăн лайăх:здоровый
+таза:adjective:вăйлă:здоровый
+таза:adjective:парка:здоровый
+таза:adjective:сывă:здоровый
+таза:adjective:тĕреклĕ:здоровый
+таза:adjective:сиплĕ:здоровый
+таза:adjective:патвар:здоровый
+сәламәт:adjective:сывлăхлă:здоровый
+сәламәт:adjective:усăллă:здоровый
+сәламәт:adjective:сывлăхшăн лайăх:здоровый
+сәламәт:adjective:вăйлă:здоровый
+сәламәт:adjective:парка:здоровый
+сәламәт:adjective:сывă:здоровый
+сәламәт:adjective:тĕреклĕ:здоровый
+сәламәт:adjective:сиплĕ:здоровый
+сәламәт:adjective:патвар:здоровый
+сау:adjective:сывлăхлă:здоровый
+сау:adjective:усăллă:здоровый
+сау:adjective:сывлăхшăн лайăх:здоровый
+сау:adjective:вăйлă:здоровый
+сау:adjective:парка:здоровый
+сау:adjective:сывă:здоровый
+сау:adjective:тĕреклĕ:здоровый
+сау:adjective:сиплĕ:здоровый
+сау:adjective:патвар:здоровый
+аман:adjective:сывлăхлă:здоровый
+аман:adjective:усăллă:здоровый
+аман:adjective:сывлăхшăн лайăх:здоровый
+аман:adjective:вăйлă:здоровый
+аман:adjective:парка:здоровый
+аман:adjective:сывă:здоровый
+аман:adjective:тĕреклĕ:здоровый
+аман:adjective:сиплĕ:здоровый
+аман:adjective:патвар:здоровый
+кызыл:adjective:хĕрлĕ:алый
+аллы:adjective:хĕрлĕ:алый
+ал:adjective:хĕрлĕ:алый
+башлы:adjective:ӑслӑ:умный
+башлы:adjective:ăслă:умный
+башлы:adjective:тăнлă:умный
+акыллы:adjective:ӑслӑ:умный
+акыллы:adjective:ăслă:умный
+акыллы:adjective:тăнлă:умный
+хосусый:adjective:ăрасна:особый
+аерым:adjective:ăрасна:особый
+көнлек:adjective:кăнтăрла:дневной
+көнлек:adjective:кăнтăрлахи:дневной
+көнлек:adjective:кун:дневной
+көндез:adverb:кăнтăрла:дневной
+көндез:adverb:кăнтăрлахи:дневной
+көнге:adjective:кăнтăрла:дневной
+көнге:adjective:кăнтăрлахи:дневной
+көнге:adjective:кун:дневной
+кичә:adverb:ĕнерхи:вчерашний
+кич:adverb:каçхи:вечерний
+кич:adverb:каç:вечерний
+былтыр:adverb:пĕлтĕрхи:прошлогодний
+хәзерге:adjective:хальхи:нынешний
+хәзер:adverb:хальхи:нынешний
+бүгенге:nonetype:хальхи:нынешний
+быел:adverb:хальхи:нынешний
+борынгы:nonetype:авалхи:древний
+борынгы:nonetype:тахçанхи:древний
+борын:adverb:авалхи:древний
+борын:adverb:тахçанхи:древний
+башта:adverb:пуçламăш:начальный
+башта:adverb:малтанхи:начальный
+башлангыч:adjective:пуçламăш:начальный
+башлангыч:adjective:малтанхи:начальный
+бая:adverb:пĕркунхи:недавний
+тиз:nonetype:хăвăрттăн:скоро
+тиз:nonetype:час:скоро
+тиз:nonetype:кĕç-вĕç:скоро
+тиз:nonetype:кĕç:скоро
+кискен:adjective:палт:резко
+искитәрлек:adjective:тĕлĕнмелле:удивительно
+искитмәле:adjective:тĕлĕнмелле:удивительно
+искиткеч:adjective:тĕлĕнмелле:удивительно
+гаҗәп:adjective:тĕлĕнмелле:удивительно
+сирәк:adjective:сайраран:изредка
+сирәк:adjective:хутран-ситрен:изредка
+сирәк:adjective:хушăран:изредка
+иртә:adjective:ĕлĕк:раньше
+иртә:adjective:халиччен:раньше
+иртә:adjective:маларах:раньше
+иртә:adjective:унччен:раньше
+иртә:adjective:малтан:раньше
+сиксәненче:nonetype:сакăрвуннăмĕш:восьмидесятый
+мөмкин кадәр:nonetype:тен:возможно
+мөмкин кадәр:nonetype:пулĕ:возможно
+бәлки:nonetype:тен:возможно
+бәлки:nonetype:пулĕ:возможно
+yarıy:nonetype:тен:возможно
+yarıy:nonetype:пулĕ:возможно
+ixtimal:nonetype:тен:возможно
+ixtimal:nonetype:пулĕ:возможно
+bälki:nonetype:тен:возможно
+bälki:nonetype:пулĕ:возможно
+коңгырт:adjective:хăмăр:коричневый
+көрән:adjective:хăмăр:коричневый
+чал:adjective:кăвак:седой
+чал:adjective:шурă:седой
+чал:adjective:сăрă:седой
+соры:adjective:кăвак:седой
+соры:adjective:шурă:седой
+соры:adjective:сăрă:седой
+агарган:nonetype:кăвак:седой
+агарган:nonetype:шурă:седой
+агарган:nonetype:сăрă:седой
+тырышучан:nonetype:тимлĕ:старательный
+хәзерге:nonetype:хальхи:современный
+заманча:adjective:хальхи:современный
+замана:nonetype:хальхи:современный
+нык:nonetype:вирлĕ:сильный
+нык:nonetype:вăйлă:сильный
+нык:nonetype:патвар:сильный
+нык:nonetype:шартлама:сильный
+нык:nonetype:кăра:сильный
+каты:nonetype:вирлĕ:сильный
+каты:nonetype:вăйлă:сильный
+каты:nonetype:патвар:сильный
+каты:nonetype:шартлама:сильный
+каты:nonetype:кăра:сильный
+куәтле:nonetype:вирлĕ:сильный
+куәтле:nonetype:вăйлă:сильный
+куәтле:nonetype:патвар:сильный
+куәтле:nonetype:шартлама:сильный
+куәтле:nonetype:кăра:сильный
+көчле:adjective:вирлĕ:сильный
+көчле:adjective:вăйлă:сильный
+көчле:adjective:патвар:сильный
+көчле:adjective:шартлама:сильный
+көчле:adjective:кăра:сильный
+озынча:adjective:тăрăхла:продолговатый
+үлек:adjective:вилĕ:покойник
+үлек:adjective:виле:покойник
+ялгышлы:nonetype:йăнăшлă:ошибочный
+ялгышлы:nonetype:йăнăш:ошибочный
+хаталы:nonetype:йăнăшлă:ошибочный
+хаталы:nonetype:йăнăш:ошибочный
+хата:noun:йăнăшлă:ошибочный
+хата:noun:йăнăш:ошибочный
+ялгыш:adjective:йăнăшлă:ошибочный
+ялгыш:adjective:йăнăш:ошибочный
+рәсми:adjective:официаллă:официальный
+төп:adjective:мăнă:основной
+төп:adjective:тĕп:основной
+гъирмизи:nonetype:хĕрлĕ:красный
+ягымлы:nonetype:кăсăк:интересный
+сөйкемле:nonetype:кăсăк:интересный
+кызыгырлык:nonetype:кăсăк:интересный
+кызыклы:adjective:кăсăк:интересный
+кызык:adjective:кăсăк:интересный
+дымлы:adjective:йĕпе:влажный
+дымлы:adjective:сăпрам:влажный
+дымлы:adjective:нÿрĕк:влажный
+дымлы:adjective:нÿрĕ:влажный
+дымлы:adjective:чĕрĕ:влажный
+дымлы:adjective:тачка:влажный
+яшь:adjective:ҫамрӑк:юный
+еш:adjective:çăра:часто
+еш:adjective:йăвă:часто
+еш:adjective:тăтăш:часто
+еш:adjective:çине-çине:часто
+aç:nonetype:выçă:голодный
+aç:nonetype:выçлăх:голодный
+ачлык:nonetype:выçă:голодный
+ачлык:nonetype:выçлăх:голодный
+дошман:noun:тăшман:вражеский
+талаучылар:nonetype:бандит:бандитский
+талаучылар:nonetype:вăрă-хурахла:бандитский
+талаучылар:nonetype:хурахла:бандитский
+талаучылар:nonetype:бандитла:бандитский
+талаучылар:nonetype:хурах:бандитский
+бандитлар:nonetype:бандит:бандитский
+бандитлар:nonetype:вăрă-хурахла:бандитский
+бандитлар:nonetype:хурахла:бандитский
+бандитлар:nonetype:бандитла:бандитский
+бандитлар:nonetype:хурах:бандитский
+сөтле:nonetype:сĕт:молочный
+сөтле:nonetype:сĕтлĕ:молочный
+сөтләч:nonetype:сĕт:молочный
+сөтләч:nonetype:сĕтлĕ:молочный
+сөт:noun:сĕт:молочный
+сөт:noun:сĕтлĕ:молочный
+сылу:nonetype:чечен:изящный
+нәзакәтле:nonetype:чечен:изящный
+матур:adjective:чечен:изящный
+нәфис:adjective:чечен:изящный
+гүзәл:adjective:чечен:изящный
+тапкыр:nonetype:йĕтĕс:изворотливый
+тапкыр:nonetype:çаврăнăçуллă:изворотливый
+тапкыр:nonetype:ăслайлă:изворотливый
+тапкыр:nonetype:япăлти:изворотливый
+җитез:adjective:йĕтĕс:изворотливый
+җитез:adjective:çаврăнăçуллă:изворотливый
+җитез:adjective:ăслайлă:изворотливый
+җитез:adjective:япăлти:изворотливый
+зирәк:adjective:йĕтĕс:изворотливый
+зирәк:adjective:çаврăнăçуллă:изворотливый
+зирәк:adjective:ăслайлă:изворотливый
+зирәк:adjective:япăлти:изворотливый
+елгыр:nonetype:йĕтĕс:изворотливый
+елгыр:nonetype:çаврăнăçуллă:изворотливый
+елгыр:nonetype:ăслайлă:изворотливый
+елгыр:nonetype:япăлти:изворотливый
+җир:noun:çĕр:земляной
+җир:noun:тăпра:земляной
+үзара:adjective:хире-хирĕç:взаимный
+горур:adjective:мăнаçлă:гордый
+иртән:adverb:ирхи:утренний
+иртәнге:adjective:ирхи:утренний
+иртә:nonetype:ирхи:утренний
+нуьгьимуьн:nonetype:тӑххӑрмӗш:девятый
+әле:adverb:паянхи:сегодняшний
+әле:adverb:паян:сегодняшний
+бүген:adverb:паянхи:сегодняшний
+бүген:adverb:паян:сегодняшний
+бүгенге:adjective:паянхи:сегодняшний
+бүгенге:adjective:паян:сегодняшний
+югары:adjective:çÿлте:высоко
+биек:adjective:çÿлте:высоко
+сан:noun:хисеп:количественный
+сан:noun:шут:количественный
+иске:adjective:ĕлĕкхи:давний
+иске:adjective:тахçанхи:давний
+сакчыл:nonetype:перекетлĕ:экономный
+бәрәкәтле:nonetype:перекетлĕ:экономный
+дуьйуьмуьн:nonetype:иккӗмӗш:второй
+хәрби:adjective:вăрçă:военный
+сугышчы:noun:вăрçă:военный
+солдат:noun:вăрçă:военный
+сугыш:nonetype:вăрçă:военный
+жовон:nonetype:ҫамрӑк:молодой
+жовон:nonetype:яш:молодой
+жовон:nonetype:çамрăк:молодой
+жовон:nonetype:çĕнĕ:молодой
+жовон:nonetype:хунав:молодой
+фәкыйрь:adjective:пурлă-çуклă:бедный
+фәкыйрь:adjective:апăрша:бедный
+фәкыйрь:adjective:чухăн:бедный
+фәкыйрь:adjective:мĕскĕн:бедный
+фәкыйрь:adjective:кăрăс:бедный
+фәкыйрь:adjective:мăнтарăн:бедный
+фәкыйрь:adjective:начар:бедный
+фәкыйрь:adjective:шеремет:бедный
+фәкыйрь:adjective:кăрачă:бедный
+ярлы:adjective:пурлă-çуклă:бедный
+ярлы:adjective:апăрша:бедный
+ярлы:adjective:чухăн:бедный
+ярлы:adjective:мĕскĕн:бедный
+ярлы:adjective:кăрăс:бедный
+ярлы:adjective:мăнтарăн:бедный
+ярлы:adjective:начар:бедный
+ярлы:adjective:шеремет:бедный
+ярлы:adjective:кăрачă:бедный
+мохтаҗ:nonetype:пурлă-çуклă:бедный
+мохтаҗ:nonetype:апăрша:бедный
+мохтаҗ:nonetype:чухăн:бедный
+мохтаҗ:nonetype:мĕскĕн:бедный
+мохтаҗ:nonetype:кăрăс:бедный
+мохтаҗ:nonetype:мăнтарăн:бедный
+мохтаҗ:nonetype:начар:бедный
+мохтаҗ:nonetype:шеремет:бедный
+мохтаҗ:nonetype:кăрачă:бедный
+мескен:adjective:пурлă-çуклă:бедный
+мескен:adjective:апăрша:бедный
+мескен:adjective:чухăн:бедный
+мескен:adjective:мĕскĕн:бедный
+мескен:adjective:кăрăс:бедный
+мескен:adjective:мăнтарăн:бедный
+мескен:adjective:начар:бедный
+мескен:adjective:шеремет:бедный
+мескен:adjective:кăрачă:бедный
+гыйнвар:noun:кăрлач:январский
+караңгы:adjective:тӗттӗм:тёмный
+караңгы:adjective:сӗм:тёмный
+shikle:nonetype:тӗттӗм:тёмный
+shikle:nonetype:сӗм:тёмный
+эвэли:nonetype:пирвайхи:первый
+эвэли:nonetype:малтанхи:первый
+сие:nonetype:хура:чёрный
+юләр:adjective:ухмах:глупый
+тиле:adjective:ухмах:глупый
+акылсыз:adjective:ухмах:глупый
+ару:adjective:лайӑх:хороший
+ару:adjective:юрăхлă:хороший
+ару:adjective:аван:хороший
+ару:adjective:лайăх:хороший
+ару:adjective:чипер:хороший
+ару:adjective:путлĕ:хороший
+ару:adjective:ырă:хороший
+ару:adjective:паха:хороший
+әйбәт:adjective:лайӑх:хороший
+әйбәт:adjective:юрăхлă:хороший
+әйбәт:adjective:аван:хороший
+әйбәт:adjective:лайăх:хороший
+әйбәт:adjective:чипер:хороший
+әйбәт:adjective:путлĕ:хороший
+әйбәт:adjective:ырă:хороший
+әйбәт:adjective:паха:хороший
+яхшы:adjective:лайӑх:хороший
+яхшы:adjective:юрăхлă:хороший
+яхшы:adjective:аван:хороший
+яхшы:adjective:лайăх:хороший
+яхшы:adjective:чипер:хороший
+яхшы:adjective:путлĕ:хороший
+яхшы:adjective:ырă:хороший
+яхшы:adjective:паха:хороший
+агулы:adjective:наркăмăшлă:ядовитый
+ağulı:nonetype:наркăмăшлă:ядовитый
+әдәпсез:adjective:чăртмах:невежливый
+әдәпсез:adjective:тÿрккес:невежливый
+ädäpsez:nonetype:чăртмах:невежливый
+ädäpsez:nonetype:тÿрккес:невежливый
+төссез:nonetype:шупка:серый
+төссез:nonetype:чакăр:серый
+соры:adjective:кăвак:серый
+соры:adjective:шупка:серый
+соры:adjective:чакăр:серый
+соры:adjective:сăрă:серый
+ala:nonetype:шупка:серый
+ala:nonetype:чакăр:серый
+тәкәббер:nonetype:мăн кăмăллă:высокомерный
+тәкәббер:nonetype:мăнаçлă:высокомерный
+тугызынчы:adjective:тӑххӑрмӗш:девятый
+тәүге:adjective:пирвайхи:первый
+тәүге:adjective:малтанхи:первый
+беренче:adjective:пирвайхи:первый
+беренче:adjective:малтанхи:первый
+татлы:nonetype:тутлă:сладкий
+татлы:nonetype:пылак:сладкий
+татлы:nonetype:тутлӑ:сладкий
+сары:adjective:сарӑ:жёлтый
+сары:adjective:сарă:жёлтый
+икенче:adjective:иккӗмӗш:второй
+зур:adjective:анлă:широко
+зур:adjective:сарлака:широко
+киң:adjective:анлă:широко
+киң:adjective:сарлака:широко
+кара:adjective:хура:черный
+тулы:nonetype:тĕрĕс-тĕкел:целый
+тулы:nonetype:пĕр:целый
+тулы:nonetype:пĕтĕм:целый
+бөтен:adjective:тĕрĕс-тĕкел:целый
+бөтен:adjective:пĕр:целый
+бөтен:adjective:пĕтĕм:целый
+әйбәт:adjective:юрăхлă:хорошо
+әйбәт:adjective:аван:хорошо
+әйбәт:adjective:привет:хорошо
+әйбәт:adjective:лайăх:хорошо
+әйбәт:adjective:чипер:хорошо
+әйбәт:adjective:путлĕ:хорошо
+әйбәт:adjective:ырă:хорошо
+әйбәт:adjective:юрать:хорошо
+ярар:nonetype:юрăхлă:хорошо
+ярар:nonetype:привет:хорошо
+ярар:nonetype:чипер:хорошо
+ярар:nonetype:путлĕ:хорошо
+ярар:nonetype:ырă:хорошо
+ярар:nonetype:юрать:хорошо
+яхшы:adjective:юрăхлă:хорошо
+яхшы:adjective:аван:хорошо
+яхшы:adjective:привет:хорошо
+яхшы:adjective:лайăх:хорошо
+яхшы:adjective:чипер:хорошо
+яхшы:adjective:путлĕ:хорошо
+яхшы:adjective:ырă:хорошо
+яхшы:adjective:юрать:хорошо
+суык:adjective:сиввĕн:холодно
+суык:adjective:сивлек:холодно
+суык:adjective:сивĕ:холодно
+салкын:adjective:сиввĕн:холодно
+салкын:adjective:сивлек:холодно
+салкын:adjective:сивĕ:холодно
+читен:nonetype:кăткăс:трудный
+читен:nonetype:кансĕр:трудный
+читен:nonetype:нушаллă:трудный
+читен:nonetype:йывăр:трудный
+читен:nonetype:тертлĕ:трудный
+читен:nonetype:хĕсĕк:трудный
+кыен:adjective:кăткăс:трудный
+кыен:adjective:кансĕр:трудный
+кыен:adjective:нушаллă:трудный
+кыен:adjective:йывăр:трудный
+кыен:adjective:тертлĕ:трудный
+кыен:adjective:хĕсĕк:трудный
+авыр:adjective:кăткăс:трудный
+авыр:adjective:кансĕр:трудный
+авыр:adjective:нушаллă:трудный
+авыр:adjective:йывăр:трудный
+авыр:adjective:тертлĕ:трудный
+авыр:adjective:хĕсĕк:трудный
+читен:nonetype:кансĕр:трудно
+читен:nonetype:тертлĕ:трудно
+читен:nonetype:хĕсĕк:трудно
+кыен:adjective:кансĕр:трудно
+кыен:adjective:йывăр:трудно
+кыен:adjective:тертлĕ:трудно
+кыен:adjective:хĕсĕк:трудно
+кыен:adjective:ассăн:тяжело
+кыен:adjective:лÿппер:тяжело
+кыен:adjective:сулмаклă:тяжело
+кыен:adjective:йывăр:тяжело
+кыен:adjective:тертлĕ:тяжело
+кыен:adjective:хĕсĕк:тяжело
+авыр:adjective:ассăн:тяжело
+авыр:adjective:лÿппер:тяжело
+авыр:adjective:сулмаклă:тяжело
+авыр:adjective:йывăр:тяжело
+авыр:adjective:тертлĕ:тяжело
+авыр:adjective:хĕсĕк:тяжело
+каты:nonetype:йывăр:тяжелый
+авыр:adjective:лÿппер:тяжелый
+авыр:adjective:нушаллă:тяжелый
+авыр:adjective:сулмаклă:тяжелый
+авыр:adjective:йывăр:тяжелый
+авыр:adjective:тертлĕ:тяжелый
+авыр:adjective:хĕсĕк:тяжелый
+тыгыз:nonetype:тăвăр:тесно
+тыгыз:nonetype:хĕсĕк:тесно
+тыгыз:nonetype:тачă:тесно
+тар:adjective:ансăр:тесно
+тар:adjective:тăвăр:тесно
+тар:adjective:хĕсĕк:тесно
+тар:adjective:тачă:тесно
+җылы:adjective:ăшă:теплый
+кояшлы:adjective:хĕвел:солнечный
+күптәнге:nonetype:ĕлĕкхи:старинный
+күптәнге:nonetype:авалхи:старинный
+күптәнге:nonetype:тахçанхи:старинный
+борынгы:nonetype:ĕлĕкхи:старинный
+борынгы:nonetype:авалхи:старинный
+борынгы:nonetype:тахçанхи:старинный
+иске:adjective:ĕлĕкхи:старинный
+иске:adjective:авалхи:старинный
+иске:adjective:тахçанхи:старинный
+хаклы:nonetype:тĕрĕс:справедливый
+гадел:adjective:тĕрĕс:справедливый
+туры:nonetype:тĕрĕс:справедливый
+карлы:nonetype:юр:снежный
+кар:noun:юр:снежный
+иркен:nonetype:ирĕклĕ:свободный
+иркен:nonetype:ирĕк:свободный
+иркен:nonetype:пушă:свободный
+азат:adjective:ирĕклĕ:свободный
+азат:adjective:ирĕк:свободный
+азат:adjective:пушă:свободный
+буш:adjective:ирĕклĕ:свободный
+буш:adjective:ирĕк:свободный
+буш:adjective:пушă:свободный
+саф:nonetype:çемçе:свежий
+саф:nonetype:çĕнĕ:свежий
+саф:nonetype:сулхăн:свежий
+яңа:adjective:çемçе:свежий
+яңа:adjective:çĕнĕ:свежий
+яңа:adjective:сулхăн:свежий
+атаклы:adjective:лайăх:славный
+яхшы:nonetype:лайăх:славный
+авыл:noun:ял:сельский
+төньяк:noun:çурçĕр:северный
+тиң:adjective:тан:равный
+тигез:adjective:тан:равный
+тиңдәш:adjective:тан:равный
+буш:adjective:пушă:пустой
+буш:adjective:çара:пустой
+туп-туры:nonetype:йăрст:прямо
+туп-туры:nonetype:йăрăс:прямо
+туп-туры:nonetype:яштак:прямо
+туп-туры:nonetype:тÿрех:прямо
+туп-туры:nonetype:тÿрĕ:прямо
+туры:adjective:йăрст:прямо
+туры:adjective:йăрăс:прямо
+туры:adjective:яштак:прямо
+туры:adjective:тÿрех:прямо
+туры:adjective:тÿрĕ:прямо
+башка:nonetype:ытти:прочий
+иркен:adjective:анлă:просторный
+иркен:adjective:аслă:просторный
+иркен:adjective:шалпар:просторный
+киң:adjective:анлă:просторный
+киң:adjective:аслă:просторный
+киң:adjective:шалпар:просторный
+соң:adverb:кайри:последний
+соң:adverb:кайранхи:последний
+соң:adverb:юлашки:последний
+ахыргы:adjective:кайри:последний
+ахыргы:adjective:кайранхи:последний
+ахыргы:adjective:юлашки:последний
+соңгы:adjective:кайри:последний
+соңгы:adjective:кайранхи:последний
+соңгы:adjective:юлашки:последний
+яман:adjective:йăх-ях:плохо
+яман:adjective:япăх:плохо
+яман:adjective:начар:плохо
+начар:adjective:йăх-ях:плохо
+начар:adjective:япăх:плохо
+начар:adjective:начар:плохо
+әүвәл:adverb:халичченхи:прежний
+әүвәл:adverb:унчченхи:прежний
+үткән:nonetype:халичченхи:прежний
+үткән:nonetype:унчченхи:прежний
+борын:adverb:халичченхи:прежний
+борын:adverb:унчченхи:прежний
+элекке:nonetype:халичченхи:прежний
+элекке:nonetype:унчченхи:прежний
+кыр:nonetype:уй:полевой
+кыр:nonetype:хирти:полевой
+кыр:nonetype:хир:полевой
+кыр:nonetype:уй-хир:полевой
+дөрес:adjective:тĕрĕс:правильно
+төнге:adjective:каçхи:ночной
+төнге:adjective:каç:ночной
+төнге:adjective:çĕрлехи:ночной
+төнге:adjective:çĕр:ночной
+төн:nonetype:каçхи:ночной
+төн:nonetype:каç:ночной
+төн:nonetype:çĕрлехи:ночной
+төн:nonetype:çĕр:ночной
+уртак:adjective:пĕрлехи:общий
+күмәк:adjective:пĕрлехи:общий
+бөтен:nonetype:пĕрлехи:общий
+гомуми:adjective:пĕрлехи:общий
+әле:adverb:хальхи:настоящий
+чын:adjective:хальхи:настоящий
+хәзерге:adjective:хальхи:настоящий
+бу:nonetype:хальхи:настоящий
+халык:noun:халăх:народный
+диңгез:noun:тинĕс:морской
+сай:nonetype:ӑшӑх:мелкий
+сай:nonetype:вӗтӗ:мелкий
+сай:nonetype:вĕтĕ:мелкий
+сай:nonetype:вак:мелкий
+сай:nonetype:ванчăк:мелкий
+сай:nonetype:тĕвек:мелкий
+сай:nonetype:ăшăх:мелкий
+сай:nonetype:шăкар-макăр:мелкий
+сай:nonetype:хунав:мелкий
+вак:adjective:ӑшӑх:мелкий
+вак:adjective:вӗтӗ:мелкий
+вак:adjective:вĕтĕ:мелкий
+вак:adjective:вак:мелкий
+вак:adjective:ванчăк:мелкий
+вак:adjective:тĕвек:мелкий
+вак:adjective:ăшăх:мелкий
+вак:adjective:шăкар-макăр:мелкий
+вак:adjective:хунав:мелкий
+кечкенә:adjective:ӑшӑх:мелкий
+кечкенә:adjective:вӗтӗ:мелкий
+кечкенә:adjective:вĕтĕ:мелкий
+кечкенә:adjective:вак:мелкий
+кечкенә:adjective:ванчăк:мелкий
+кечкенә:adjective:тĕвек:мелкий
+кечкенә:adjective:ăшăх:мелкий
+кечкенә:adjective:шăкар-макăр:мелкий
+кечкенә:adjective:хунав:мелкий
+акрын:adjective:вăраххăн:медленно
+акрын:adjective:вăрах:медленно
+акрын:adjective:хуллен:медленно
+әкрен:adjective:вăраххăн:медленно
+әкрен:adjective:вăрах:медленно
+әкрен:adjective:хуллен:медленно
+урман:noun:вăрман:лесной
+җиңел:adjective:ансат:легкий
+җиңел:adjective:çăмăл:легкий
+җиңел:adjective:çÿхе:легкий
+боз:noun:пăр:ледяной
+китап:noun:кĕнеке:книжный
+таш:noun:чул:каменный
+яшел:adjective:ешĕл:зеленый
+яшел:adjective:симĕс:зеленый
+җир:noun:çĕр:земной
+сары:adjective:сарă:желтый
+ерак:adjective:катара:далеко
+ерак:adjective:катана:далеко
+ерак:adjective:инçе:далеко
+тау:noun:ту:горный
+тау:noun:сăрт-ту:горный
+дәүләти:adjective:патшалăх:государственный
+дәүләт:noun:патшалăх:государственный
+дөрес:nonetype:шанчăклă:верно
+кәгазь:noun:хут:бумажный
+якын:adjective:çывăх:ближний
+зәңгәр:adjective:кăвак:синий
+зәңгәр:adjective:кӑвак:синий
+күк:adjective:кăвак:синий
+күк:adjective:кӑвак:синий
+кыска:adjective:кӗске:короткий
+кыска:adjective:кĕске:короткий
+ерак:adjective:инçе:далёкий
+ерак:adjective:инче:далёкий
+озак:adjective:вăрăм:долгий
+озын:adjective:вăрăм:долгий
+сирәк:adjective:сайра:редкий
+сирәк:adjective:шалатка:редкий
+сирәк:adjective:шĕвĕ:редкий
+сирәк:adjective:чĕлтĕрти:редкий
+siräk:nonetype:сайра:редкий
+siräk:nonetype:шалатка:редкий
+siräk:nonetype:шĕвĕ:редкий
+siräk:nonetype:чĕлтĕрти:редкий
+бүтән:adjective:тепри:другой
+бүтән:adjective:ытти:другой
+бүтән:adjective:леш:другой
+бүтән:adjective:урăхла:другой
+бүтән:adjective:тепĕр:другой
+бүтән:adjective:хирĕç:другой
+башка:adjective:тепри:другой
+башка:adjective:ытти:другой
+башка:adjective:леш:другой
+башка:adjective:урăхла:другой
+башка:adjective:тепĕр:другой
+башка:adjective:хирĕç:другой
+каты:nonetype:йывӑр:тяжёлый
+авыр:adjective:йывӑр:тяжёлый
+авыр:adjective:йывăр:тяжёлый
+кыен:adjective:йывӑр:тяжёлый
+кыен:adjective:йывăр:тяжёлый
+hableha:nonetype:ҫӳхе:тонкий
+hableha:nonetype:ҫинҫе:тонкий
+hableha:nonetype:çинçе:тонкий
+hableha:nonetype:çӳхе:тонкий
+hableha:nonetype:çинче:тонкий
+hableha:nonetype:çӱхе:тонкий
+hableha:nonetype:çÿхе:тонкий
+тулы:adjective:самăр:полный
+тулы:adjective:кÿпшек:полный
+тулы:adjective:тулли:полный
+тулы:adjective:тулăх:полный
+тулы:adjective:тапчам:полный
+тулы:adjective:туллы:полный
+тулы:adjective:тутă хырăмпа:полный
+тулы:adjective:пĕр:полный
+тулы:adjective:чăмăр:полный
+тулы:adjective:мăнтăр:полный
+тулы:adjective:ÿтлĕ:полный
+аудио:nonetype:сасă:звуковой
+күк:adjective:кăвак:голубой
+зәңгәр:adjective:кăвак:голубой
+henem:nonetype:катари:дальний
+henem:nonetype:инçет:дальний
+henem:nonetype:аякри:дальний
+җиңел:adjective:ансат:легко
+җиңел:adjective:çăмăл:легко
+җиңел:adjective:уççăн:легко
+җиңел:adjective:çăмăллăн:легко
+җиңел:adjective:çÿхе:легко
+sani:nonetype:сивӗ:холодный
+хәерле:adjective:ырӑ:добрый
+хәерле:adjective:лайăх:добрый
+хәерле:adjective:ырă:добрый
+игелекле:nonetype:ырӑ:добрый
+игелекле:nonetype:лайăх:добрый
+игелекле:nonetype:ырă:добрый
+яхшы:adjective:ырӑ:добрый
+яхшы:adjective:лайăх:добрый
+яхшы:adjective:ырă:добрый
+җылы:adjective:ăшă:тёплый
+малай:nonetype:малай:малайский
+малайча:nonetype:малай:малайский
+айнык:nonetype:урă:трезвый
+сул:adjective:сулахайри:левый
+сул:adjective:сулахай:левый
+sani:nonetype:сивӗ:студёный
+sani:nonetype:сивĕ:студёный
+гадел:nonetype:сылтăм:правый
+уң:adjective:сылтăм:правый
+бүтән:adjective:хăш-пĕр:иной
+бүтән:adjective:тепри:иной
+бүтән:adjective:урăхла:иной
+калын:adjective:хулăн:дебелый
+аңлаешлы:nonetype:уçăмлă:понятный
+tan:nonetype:пысӑк:большой
+tan:nonetype:йышлă:большой
+tan:nonetype:аслă:большой
+tan:nonetype:мăн:большой
+tan:nonetype:шултра:большой
+tan:nonetype:мăнă:большой
+tan:nonetype:кервен:большой
+tan:nonetype:мăнттай:большой
+tan:nonetype:пысăк:большой
+niskaʼ:nonetype:пӗчӗк:маленький
+niskaʼ:nonetype:пĕчĕк:маленький
+kutska:nonetype:пӗчӗк:маленький
+kutska:nonetype:пĕчĕк:маленький
+niskaʼ:nonetype:пӗчӗк:малый
+niskaʼ:nonetype:сахал:малый
+niskaʼ:nonetype:пĕчĕк:малый
+kutska:nonetype:пӗчӗк:малый
+kutska:nonetype:сахал:малый
+kutska:nonetype:пĕчĕк:малый
+эффектив:nonetype:ÿсĕмлĕ:эффективный
+тәэсирле:nonetype:ÿсĕмлĕ:эффективный
+нәтиҗәле:adjective:ÿсĕмлĕ:эффективный
+тиле:adjective:тункăлтăк:дурак
+тиле:adjective:тăнсăр:дурак
+тиле:adjective:йӳлер:дурак
+тиле:adjective:ухмах:дурак
+achutʼ:nonetype:хĕрлĕ:красный
+achuti:nonetype:хĕрлĕ:красный
+тигез:nonetype:кал-кал:ровный
+тигез:nonetype:йăпшака:ровный
+тигез:nonetype:тикĕс:ровный
+тигез:nonetype:лаптак:ровный
+шома:nonetype:кал-кал:ровный
+шома:nonetype:йăпшака:ровный
+шома:nonetype:тикĕс:ровный
+шома:nonetype:лаптак:ровный
+тигес:nonetype:кал-кал:ровный
+тигес:nonetype:йăпшака:ровный
+тигес:nonetype:тикĕс:ровный
+тигес:nonetype:лаптак:ровный
+кызыл:adjective:хĕрлĕ:червонный
+черек:adjective:çĕрĕк:гнилой
+үткер:adjective:шӗвӗр:острый
+үткер:adjective:ҫивӗч:острый
+үткер:adjective:вичкĕн:острый
+үткер:adjective:çивĕч:острый
+үткер:adjective:хаяр:острый
+үткер:adjective:шĕвĕр:острый
+очлы:adjective:шӗвӗр:острый
+очлы:adjective:ҫивӗч:острый
+очлы:adjective:вичкĕн:острый
+очлы:adjective:çивĕч:острый
+очлы:adjective:хаяр:острый
+очлы:adjective:шĕвĕр:острый
+үткен:adjective:шӗвӗр:острый
+үткен:adjective:ҫивӗч:острый
+үткен:adjective:вичкĕн:острый
+үткен:adjective:çивĕч:острый
+үткен:adjective:хаяр:острый
+үткен:adjective:шĕвĕр:острый
+тыгыз:nonetype:тӑвӑр:узкий
+тыгыз:nonetype:ансăр:узкий
+тыгыз:nonetype:çинçе:узкий
+тыгыз:nonetype:тǎвǎр:узкий
+тыгыз:nonetype:тăвăр:узкий
+тыгыз:nonetype:ансӑр:узкий
+тыгыз:nonetype:хĕсĕк:узкий
+тар:adjective:тӑвӑр:узкий
+тар:adjective:ансăр:узкий
+тар:adjective:çинçе:узкий
+тар:adjective:тǎвǎр:узкий
+тар:adjective:тăвăр:узкий
+тар:adjective:ансӑр:узкий
+тар:adjective:хĕсĕк:узкий
+якты:adjective:тĕнче:свет
+якты:adjective:çутă:свет
+intkus:nonetype:кал-кал:ровный
+intkus:nonetype:йăпшака:ровный
+intkus:nonetype:тикĕс:ровный
+intkus:nonetype:лаптак:ровный
+kızıl:nonetype:хĕрлĕ:красный
+кызыл:adjective:хĕрлĕ:красный
+кара:adjective:хура:чёрный
+kara:nonetype:хура:чёрный
+qara:adjective:хура:чёрный
+зур:adjective:мăн:великий
+зур:adjective:пысăк:великий
+бөек:adjective:мăн:великий
+бөек:adjective:пысăк:великий
+яман:adjective:вĕчĕх:злой
+яман:adjective:çиллес:злой
+яман:adjective:япăх:злой
+яман:adjective:начар:злой
+яман:adjective:хаяр:злой
+яман:adjective:усал:злой
+начар:adjective:вĕчĕх:злой
+начар:adjective:çиллес:злой
+начар:adjective:япăх:злой
+начар:adjective:начар:злой
+начар:adjective:хаяр:злой
+начар:adjective:усал:злой
+усал:adjective:вĕчĕх:злой
+усал:adjective:çиллес:злой
+усал:adjective:япăх:злой
+усал:adjective:начар:злой
+усал:adjective:хаяр:злой
+усал:adjective:усал:злой
+okayek:nonetype:вĕчĕх:злой
+okayek:nonetype:çиллес:злой
+okayek:nonetype:япăх:злой
+okayek:nonetype:начар:злой
+okayek:nonetype:хаяр:злой
+okayek:nonetype:усал:злой
+kayik:nonetype:вĕчĕх:злой
+kayik:nonetype:çиллес:злой
+kayik:nonetype:япăх:злой
+kayik:nonetype:начар:злой
+kayik:nonetype:хаяр:злой
+kayik:nonetype:усал:злой
+*isiʼ:nonetype:вĕчĕх:злой
+*isiʼ:nonetype:çиллес:злой
+*isiʼ:nonetype:япăх:злой
+*isiʼ:nonetype:начар:злой
+*isiʼ:nonetype:хаяр:злой
+*isiʼ:nonetype:усал:злой
+ozın:adjective:вӑрӑм:длинный
+ozın:adjective:вăрăм:длинный
+ozın:adjective:тăрăхла:длинный
+озын:adjective:вӑрӑм:длинный
+озын:adjective:вăрăм:длинный
+озын:adjective:тăрăхла:длинный
+якын:adjective:çывăх:близкий
+якын:adjective:çывахри:близкий
+inkte:nonetype:çывахри:близкий
+aska:nonetype:çывахри:близкий
+инглиз теле:nonetype:акăлчан:английский
+англия:nonetype:акăлчан:английский
+иңле:adjective:анлă:широкий
+иңле:adjective:аслă:широкий
+иңле:adjective:шалпар:широкий
+иңле:adjective:сарлака:широкий
+иңле:adjective:лаптак:широкий
+иңле:adjective:анлǎ:широкий
+иркен:nonetype:анлă:широкий
+иркен:nonetype:аслă:широкий
+иркен:nonetype:сарлака:широкий
+иркен:nonetype:лаптак:широкий
+зур:adjective:анлă:широкий
+зур:adjective:аслă:широкий
+зур:adjective:шалпар:широкий
+зур:adjective:сарлака:широкий
+зур:adjective:лаптак:широкий
+зур:adjective:анлǎ:широкий
+киң:adjective:анлă:широкий
+киң:adjective:аслă:широкий
+киң:adjective:шалпар:широкий
+киң:adjective:сарлака:широкий
+киң:adjective:лаптак:широкий
+киң:adjective:анлǎ:широкий
+аз:adjective:пăртак:немного
+achutʼ:nonetype:хĕрлĕ:червонный
+achuti:nonetype:хĕрлĕ:червонный
+йомры:nonetype:ҫаврака:круглый
+йомры:nonetype:чǎмǎр:круглый
+йомры:nonetype:çаврака:круглый
+йомры:nonetype:чăмăр:круглый
+йомры:nonetype:çаврашка:круглый
+түгәрәк:adjective:ҫаврака:круглый
+түгәрәк:adjective:чǎмǎр:круглый
+түгәрәк:adjective:çаврака:круглый
+түгәрәк:adjective:чăмăр:круглый
+түгәрәк:adjective:çаврашка:круглый
+yaña:adjective:шӗнӗ:новый
+yaña:adjective:ҫӗнӗ:новый
+yaña:adjective:çĕнĕ:новый
+яңа:adjective:шӗнӗ:новый
+яңа:adjective:ҫӗнӗ:новый
+яңа:adjective:çĕнĕ:новый
+тыныч:adjective:канлĕ:спокойный
+тыныч:adjective:канăçлă:спокойный
+тыныч:adjective:канăç:спокойный
+тыныч:adjective:канас:спокойный
+тыныч:adjective:тÿлек:спокойный
+тыныч:adjective:тăнăç:спокойный
+калим:noun:канлĕ:спокойный
+калим:noun:канăçлă:спокойный
+калим:noun:канăç:спокойный
+калим:noun:канас:спокойный
+калим:noun:тÿлек:спокойный
+калим:noun:тăнăç:спокойный
+туры:adjective:тӱрĕ:прямой
+туры:adjective:тӳрĕ:прямой
+туры:adjective:тикĕс:прямой
+суык:adjective:сивӗ:студёный
+суык:adjective:сивĕ:студёный
+салкын:noun:сивӗ:студёный
+салкын:noun:сивĕ:студёный
+юан:adjective:самăр:толстый
+юан:adjective:кÿпшек:толстый
+юан:adjective:тулли:толстый
+юан:adjective:тапчам:толстый
+юан:adjective:парка:толстый
+юан:adjective:хулӑн:толстый
+юан:adjective:хулăн:толстый
+юан:adjective:шыçмак:толстый
+юан:adjective:тачка:толстый
+юан:adjective:мăнтăр:толстый
+таза:adjective:самăр:толстый
+таза:adjective:кÿпшек:толстый
+таза:adjective:тулли:толстый
+таза:adjective:тапчам:толстый
+таза:adjective:парка:толстый
+таза:adjective:хулӑн:толстый
+таза:adjective:хулăн:толстый
+таза:adjective:шыçмак:толстый
+таза:adjective:тачка:толстый
+таза:adjective:мăнтăр:толстый
+калын:adjective:самăр:толстый
+калын:adjective:кÿпшек:толстый
+калын:adjective:тулли:толстый
+калын:adjective:тапчам:толстый
+калын:adjective:парка:толстый
+калын:adjective:хулӑн:толстый
+калын:adjective:хулăн:толстый
+калын:adjective:шыçмак:толстый
+калын:adjective:тачка:толстый
+калын:adjective:мăнтăр:толстый
+walikaskunq:nonetype:ҫаврака:круглый
+walikaskunq:nonetype:чǎмǎр:круглый
+walikaskunq:nonetype:çаврака:круглый
+walikaskunq:nonetype:чăмăр:круглый
+walikaskunq:nonetype:çаврашка:круглый
+bush:nonetype:ҫаврака:круглый
+bush:nonetype:чǎмǎр:круглый
+bush:nonetype:çаврака:круглый
+bush:nonetype:чăмăр:круглый
+bush:nonetype:çаврашка:круглый
+үтмәс:nonetype:мӑка:тупой
+үтмәс:nonetype:мăка:тупой
+үтмәс:nonetype:пуклак:тупой
+үтмәс:nonetype:ухмах:тупой
+начарлык:noun:япӑх:плохой
+начарлык:noun:йăх-ях:плохой
+начарлык:noun:пули-пулми:плохой
+начарлык:noun:япăх:плохой
+начарлык:noun:начар:плохой
+яман:adjective:япӑх:плохой
+яман:adjective:йăх-ях:плохой
+яман:adjective:пули-пулми:плохой
+яман:adjective:япăх:плохой
+яман:adjective:начар:плохой
+начар:adjective:япӑх:плохой
+начар:adjective:йăх-ях:плохой
+начар:adjective:пули-пулми:плохой
+начар:adjective:япăх:плохой
+начар:adjective:начар:плохой
+азербайджан:nonetype:азербайджан чĕлхи:азербайджанский
+азербайджан теле:nonetype:азербайджан чĕлхи:азербайджанский
+azerbaycan:nonetype:азербайджан чĕлхи:азербайджанский
+юеш:adjective:йӗпе:мокрый
+юеш:adjective:йĕпе:мокрый
+юеш:adjective:нÿрĕ:мокрый
+юеш:adjective:сĕлкĕш:мокрый
+юеш:adjective:исленчĕк:мокрый
+дымлы:adjective:йӗпе:мокрый
+дымлы:adjective:йĕпе:мокрый
+дымлы:adjective:нÿрĕ:мокрый
+дымлы:adjective:сĕлкĕш:мокрый
+дымлы:adjective:исленчĕк:мокрый
+кыска:adjective:кĕске:краткий
+кечек:adjective:пӗчӗк:маленький
+кечек:adjective:пĕчĕк:маленький
+бәләкәй:adjective:пӗчӗк:маленький
+бәләкәй:adjective:пĕчĕк:маленький
+кечкенә:adjective:пӗчӗк:маленький
+кечкенә:adjective:пĕчĕк:маленький
+кече:adjective:пӗчӗк:маленький
+кече:adjective:пĕчĕк:маленький
+keçkenä:nonetype:пӗчӗк:маленький
+keçkenä:nonetype:пĕчĕк:маленький
+akatiya:nonetype:ăшă:тёплый
+akateka:nonetype:ăшă:тёплый
+келе:nonetype:пысӑк:большой
+келе:nonetype:йышлă:большой
+келе:nonetype:аслă:большой
+келе:nonetype:мăн:большой
+келе:nonetype:шултра:большой
+келе:nonetype:мăнă:большой
+келе:nonetype:кервен:большой
+келе:nonetype:мăнттай:большой
+келе:nonetype:пысăк:большой
+henem:nonetype:вӑрӑм:длинный
+henem:nonetype:вăрăм:длинный
+henem:nonetype:тăрăхла:длинный
+*stetka:nonetype:вӑрӑм:длинный
+*stetka:nonetype:вăрăм:длинный
+*stetka:nonetype:тăрăхла:длинный
+si:nonetype:сарӑ:жёлтый
+si:nonetype:сарă:жёлтый
+коры:adjective:типӗ:сухой
+коры:adjective:типĕ:сухой
+коры:adjective:хăрăк:сухой
+hohka:nonetype:кив:старый
+hohka:nonetype:ватӑ:старый
+hohka:nonetype:ĕлĕкхи:старый
+hohka:nonetype:тахçанхи:старый
+суык:adjective:сивӗ:холодный
+суык:adjective:сивĕ:холодный
+салкын:adjective:сивӗ:холодный
+салкын:adjective:сивĕ:холодный
+карт:adjective:кив:старый
+карт:adjective:ватӑ:старый
+карт:adjective:ĕлĕкхи:старый
+карт:adjective:ватă:старый
+карт:adjective:тахçанхи:старый
+карт:adjective:кивĕ:старый
+иске:adjective:кив:старый
+иске:adjective:ватӑ:старый
+иске:adjective:ĕлĕкхи:старый
+иске:adjective:ватă:старый
+иске:adjective:тахçанхи:старый
+иске:adjective:кивĕ:старый
+үтә күренмәле:adjective:тăрă:прозрачный
+тонык:adjective:тăрă:прозрачный
+пыяла:noun:тăрă:прозрачный
+okayek:nonetype:япӑх:плохой
+okayek:nonetype:йăх-ях:плохой
+okayek:nonetype:пули-пулми:плохой
+okayek:nonetype:япăх:плохой
+okayek:nonetype:начар:плохой
+kayik:nonetype:япӑх:плохой
+kayik:nonetype:йăх-ях:плохой
+kayik:nonetype:пули-пулми:плохой
+kayik:nonetype:япăх:плохой
+kayik:nonetype:начар:плохой
+*isiʼ:nonetype:япӑх:плохой
+*isiʼ:nonetype:йăх-ях:плохой
+*isiʼ:nonetype:пули-пулми:плохой
+*isiʼ:nonetype:япăх:плохой
+*isiʼ:nonetype:начар:плохой
+rahoni:nonetype:хура:чёрный
+asepʼ:nonetype:хура:чёрный
+урыслар:nonetype:вырӑсла:русский
+урыслар:nonetype:вырӑс:русский
+урыс теле:nonetype:вырӑсла:русский
+урыс теле:nonetype:вырӑс:русский
+informal урыс:nonetype:вырӑсла:русский
+informal урыс:nonetype:вырӑс:русский
+informal urıs:nonetype:вырӑсла:русский
+informal urıs:nonetype:вырӑс:русский
+räsäyle:nonetype:вырӑсла:русский
+räsäyle:nonetype:вырӑс:русский
+шома:nonetype:такăр:гладкий
+шома:nonetype:йăпшака:гладкий
+шома:nonetype:яка:гладкий
+шома:nonetype:такǎр:гладкий
+шома:nonetype:тикĕс:гладкий
+шома:nonetype:тÿрĕ:гладкий
+тигес:nonetype:такăр:гладкий
+тигес:nonetype:йăпшака:гладкий
+тигес:nonetype:яка:гладкий
+тигес:nonetype:такǎр:гладкий
+тигес:nonetype:тикĕс:гладкий
+тигес:nonetype:тÿрĕ:гладкий
+çuaş tele:nonetype:чӑвашла:чувашский
+çuaş tele:nonetype:чӑваш:чувашский
+çuaş tele:nonetype:чăвашла:чувашский
+çuaş tele:nonetype:чăваш:чувашский
+төп бүлеккә:nonetype:кил:домашний
+төп:nonetype:кил:домашний
+алгы бит:nonetype:кил:домашний
+югары:adjective:ҫӳллӗ:высокий
+югары:adjective:вăрăм:высокий
+югары:adjective:çÿллĕ:высокий
+югары:adjective:пысăк:высокий
+югары:adjective:çÿл:высокий
+югары:adjective:мухтавлă:высокий
+озын:nonetype:ҫӳллӗ:высокий
+озын:nonetype:вăрăм:высокий
+озын:nonetype:çÿллĕ:высокий
+озын:nonetype:пысăк:высокий
+озын:nonetype:çÿл:высокий
+озын:nonetype:мухтавлă:высокий
+биек:adjective:ҫӳллӗ:высокий
+биек:adjective:вăрăм:высокий
+биек:adjective:çÿллĕ:высокий
+биек:adjective:пысăк:высокий
+биек:adjective:çÿл:высокий
+биек:adjective:мухтавлă:высокий
+юка:adjective:ҫӳхе:тонкий
+юка:adjective:ҫинҫе:тонкий
+юка:adjective:çинçе:тонкий
+юка:adjective:çӳхе:тонкий
+юка:adjective:çинче:тонкий
+юка:adjective:çӱхе:тонкий
+юка:adjective:çÿхе:тонкий
+нәфис:nonetype:ҫӳхе:тонкий
+нәфис:nonetype:ҫинҫе:тонкий
+нәфис:nonetype:çинçе:тонкий
+нәфис:nonetype:çӳхе:тонкий
+нәфис:nonetype:çинче:тонкий
+нәфис:nonetype:çӱхе:тонкий
+нәфис:nonetype:çÿхе:тонкий
+нәзек:adjective:ҫӳхе:тонкий
+нәзек:adjective:ҫинҫе:тонкий
+нәзек:adjective:çинçе:тонкий
+нәзек:adjective:çӳхе:тонкий
+нәзек:adjective:çинче:тонкий
+нәзек:adjective:çӱхе:тонкий
+нәзек:adjective:çÿхе:тонкий
+нечкә:adjective:ҫӳхе:тонкий
+нечкә:adjective:ҫинҫе:тонкий
+нечкә:adjective:çинçе:тонкий
+нечкә:adjective:çӳхе:тонкий
+нечкә:adjective:çинче:тонкий
+нечкә:adjective:çӱхе:тонкий
+нечкә:adjective:çÿхе:тонкий
+күп:adjective:пайтах:много
+pi:nonetype:ырӑ:добрый
+pi:nonetype:лайăх:добрый
+pi:nonetype:ырă:добрый
+ipi:nonetype:ырӑ:добрый
+ipi:nonetype:лайăх:добрый
+ipi:nonetype:ырă:добрый
+biken:nonetype:ырӑ:добрый
+biken:nonetype:лайăх:добрый
+biken:nonetype:ырă:добрый
+bi:nonetype:ырӑ:добрый
+bi:nonetype:лайăх:добрый
+bi:nonetype:ырă:добрый
+api:nonetype:ырӑ:добрый
+api:nonetype:лайăх:добрый
+api:nonetype:ырă:добрый
+кәфер:noun:суя:неверный
+дөрес булмаган:nonetype:суя:неверный
+intkus:nonetype:такăр:гладкий
+intkus:nonetype:йăпшака:гладкий
+intkus:nonetype:яка:гладкий
+intkus:nonetype:такǎр:гладкий
+intkus:nonetype:тикĕс:гладкий
+intkus:nonetype:тÿрĕ:гладкий
+аргы:adjective:катари:дальний
+аргы:adjective:инçет:дальний
+аргы:adjective:аякри:дальний
+аргы:adjective:инçе:дальний
+аргы:adjective:инче:дальний
+ерак:adjective:катари:дальний
+ерак:adjective:инçет:дальний
+ерак:adjective:аякри:дальний
+ерак:adjective:инçе:дальний
+ерак:adjective:инче:дальний
+pi:nonetype:лайӑх:хороший
+pi:nonetype:юрăхлă:хороший
+pi:nonetype:аван:хороший
+pi:nonetype:лайăх:хороший
+pi:nonetype:чипер:хороший
+pi:nonetype:путлĕ:хороший
+pi:nonetype:ырă:хороший
+pi:nonetype:паха:хороший
+ipi:nonetype:лайӑх:хороший
+ipi:nonetype:юрăхлă:хороший
+ipi:nonetype:аван:хороший
+ipi:nonetype:лайăх:хороший
+ipi:nonetype:чипер:хороший
+ipi:nonetype:путлĕ:хороший
+ipi:nonetype:ырă:хороший
+ipi:nonetype:паха:хороший
+biken:nonetype:лайӑх:хороший
+biken:nonetype:юрăхлă:хороший
+biken:nonetype:аван:хороший
+biken:nonetype:лайăх:хороший
+biken:nonetype:чипер:хороший
+biken:nonetype:путлĕ:хороший
+biken:nonetype:ырă:хороший
+biken:nonetype:паха:хороший
+bi:nonetype:лайӑх:хороший
+bi:nonetype:юрăхлă:хороший
+bi:nonetype:аван:хороший
+bi:nonetype:лайăх:хороший
+bi:nonetype:чипер:хороший
+bi:nonetype:путлĕ:хороший
+bi:nonetype:ырă:хороший
+bi:nonetype:паха:хороший
+api:nonetype:лайӑх:хороший
+api:nonetype:юрăхлă:хороший
+api:nonetype:аван:хороший
+api:nonetype:лайăх:хороший
+api:nonetype:чипер:хороший
+api:nonetype:путлĕ:хороший
+api:nonetype:ырă:хороший
+api:nonetype:паха:хороший
+вәхши:adjective:выльăх:скотский
+мухши:nonetype:мăкшă:мокшанский
+бәләкәй:adjective:пӗчӗк:малый
+бәләкәй:adjective:сахал:малый
+бәләкәй:adjective:пĕчĕк:малый
+кечкенә:adjective:пӗчӗк:малый
+кечкенә:adjective:сахал:малый
+кечкенә:adjective:пĕчĕк:малый
+кечек:adjective:пӗчӗк:малый
+кечек:adjective:сахал:малый
+кечек:adjective:пĕчĕк:малый
+кече:adjective:пӗчӗк:малый
+кече:adjective:сахал:малый
+кече:adjective:пĕчĕк:малый
+олы:adjective:пысӑк:большой
+олы:adjective:йышлă:большой
+олы:adjective:аслă:большой
+олы:adjective:мăн:большой
+олы:adjective:шултра:большой
+олы:adjective:мăнă:большой
+олы:adjective:кервен:большой
+олы:adjective:мăнттай:большой
+олы:adjective:пысăк:большой
+дәү:adjective:пысӑк:большой
+дәү:adjective:йышлă:большой
+дәү:adjective:аслă:большой
+дәү:adjective:мăн:большой
+дәү:adjective:шултра:большой
+дәү:adjective:мăнă:большой
+дәү:adjective:кервен:большой
+дәү:adjective:мăнттай:большой
+дәү:adjective:пысăк:большой
+зур:adjective:пысӑк:большой
+зур:adjective:йышлă:большой
+зур:adjective:аслă:большой
+зур:adjective:мăн:большой
+зур:adjective:шултра:большой
+зур:adjective:мăнă:большой
+зур:adjective:кервен:большой
+зур:adjective:мăнттай:большой
+зур:adjective:пысăк:большой
+кечек:adjective:сахал:мало
+кечек:adjective:кăшт:мало
+аз:adjective:сахал:мало
+аз:adjective:кăшт:мало
+otoʼlakon:nonetype:симӗс:зелёный
+яшел:adjective:симӗс:зелёный
+яшел:adjective:симĕс:зелёный
+яшел:adjective:ешĕль:зелёный
+яшель:nonetype:симӗс:зелёный
+керле:adjective:вараланчăк:грязный
+керле:adjective:лапăркка:грязный
+керле:adjective:пыльчăклă:грязный
+керле:adjective:лапраллă:грязный
+керле:adjective:хура:грязный
+керле:adjective:çăрăлчăк:грязный
+керле:adjective:лапра:грязный
+керле:adjective:çÿплĕ:грязный
+пычрак:adjective:вараланчăк:грязный
+пычрак:adjective:лапăркка:грязный
+пычрак:adjective:пыльчăклă:грязный
+пычрак:adjective:лапраллă:грязный
+пычрак:adjective:хура:грязный
+пычрак:adjective:çăрăлчăк:грязный
+пычрак:adjective:лапра:грязный
+пычрак:adjective:çÿплĕ:грязный

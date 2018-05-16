@@ -1,0 +1,265 @@
+ул:pronoun:вĕсем:они
+ул:pronoun:вӗсем:они
+ул:pronoun masculine:леш:тот
+ул:pronoun masculine:вǎл:тот
+ул:pronoun neuter:леш:то
+ул:pronoun neuter:вǎл:то
+ул:pronoun:вӑл:оно
+ул:pronoun:вӑл:она
+ул:pronoun:у:он
+ул:pronoun:вăл:он
+ул:pronoun:вӑл:он
+дип:pronoun:мĕскер:что
+дип:pronoun:мĕн:что
+дип:pronoun:мӗн:что
+һичкем:pronoun:нихăш:никто
+һичкем:pronoun:никам:никто
+безнең:pronoun:пирӗн:наш
+кемдер:pronoun:такам:некто
+кемдер:pronoun masculine:такам:кто-то
+барча:pronoun:нормально:все
+барча:pronoun:мĕнпур:все
+барча:pronoun:пĕтĕм:все
+минем:pronoun masculine:манăн:мой
+минем:pronoun masculine:ман:мой
+алла:pronoun:турă:божий
+тәңре:pronoun:турă:божий
+ялгыз:pronoun masculine:хăрах:один
+ялгыз:pronoun masculine:пĕччен:один
+ялгыз:pronoun masculine:пĕр:один
+нинди:pronoun:хăш:какой
+нинди:pronoun:мĕнле:какой
+нинди:pronoun:мĕн:какой
+бөтенесе:pronoun:мĕнпур:весь
+бөтенесе:pronoun:пĕтĕм:весь
+сез:pronoun p:эс:вы
+сез:pronoun p:эсĕр:вы
+сез:pronoun:эсĕр:вы
+сез:pronoun:эсир:вы
+сез:pronoun:эсӗ:вы
+сез:pronoun:эс:вы
+күпме:pronoun:чухлĕ:сколько
+күпме:pronoun:миçе:сколько
+һәр:pronoun:такам:всякий
+һәр:pronoun:тĕрлĕ:всякий
+юк:pronoun:ним:нечего
+куй:pronoun:сурăх:овечий
+өченче:pronoun:виççĕмĕш:третий
+кем:pronoun:кам:кто
+alar:pronoun:вĕсем:они
+alar:pronoun:вӗсем:они
+син:pronoun:эсĕр:вы
+син:pronoun:эсир:вы
+син:pronoun:эсӗ:вы
+син:pronoun:эс:вы
+сарык:pronoun:сурăх:овечий
+мин:pronoun neuter:эпĕ:я
+мин:nonetype:эпӗ:я
+ни:pronoun:мĕскер:что
+ни:pronoun:мĕн:что
+ни:pronoun:мӗн:что
+без:pronoun:эпĕр:мы
+без:pronoun:эпир:мы
+нәрсә:pronoun:мĕскер:что
+нәрсә:pronoun:мĕн:что
+нәрсә:pronoun:мӗн:что
+алар:pronoun:вĕсем:они
+алар:pronoun:вӗсем:они
+бу:pronoun neuter:это:это
+син:nonetype:эсӗ:ты
+сез:nonetype:эсӗ:вы
+сез:nonetype:эсир:вы
+бөтен:pronoun p:нормально:все
+бөтен:pronoun p:мĕнпур:все
+бөтен:pronoun p:пĕтĕм:все
+бөтен:pronoun masculine:мĕнпур:весь
+бөтен:pronoun masculine:пĕтĕм:весь
+без:nonetype:эпир:мы
+теге:pronoun neuter:леш:то
+теге:pronoun neuter:вǎл:то
+алар:nonetype:вӗсем:они
+шул:pronoun neuter:это:это
+шул:pronoun neuter:леш:то
+шул:pronoun neuter:вǎл:то
+күп:pronoun p:чылайăш:многие
+күп:pronoun p:нумайăшĕ:многие
+бары:pronoun p:нормально:все
+бары:pronoun p:мĕнпур:все
+бары:pronoun p:пĕтĕм:все
+бары:pronoun masculine:мĕнпур:весь
+бары:pronoun masculine:пĕтĕм:весь
+һәммә:pronoun p:нормально:все
+һәммә:pronoun p:мĕнпур:все
+һәммә:pronoun p:пĕтĕм:все
+һәммә:pronoun masculine:мĕнпур:весь
+һәммә:pronoun masculine:пĕтĕм:весь
+һичкем:pronoun:нихăш:никто
+һичкем:pronoun:никам:никто
+кемдер:nonetype:такам:кто-то
+ул:pronoun:вĕсене:их
+ул:pronoun:аслашшĕ:его
+ул:pronoun:асламăшĕ:его
+ул:pronoun:амăшĕ:его
+ул:pronoun:ашшe:его
+ул:pronoun:аппăшĕ:его
+ул:pronoun:кукамăшĕ:его
+ул:pronoun:куккăшĕ:его
+ул:pronoun:кукашшĕ:его
+безнең:nonetype:пирӗн:наш
+без:pronoun:пирӗн:наш
+һәркем:pronoun:пур:каждый
+һичнәрсә:nonetype:ним:ничто
+бернәрсә:pronoun:ним:ничто
+сез:pronoun:эс:вы
+сез:pronoun:эсӗ:вы
+син:pronoun:эс:вы
+син:pronoun:эсӗ:вы
+ек:nonetype:пӗрре:один
+ек:nonetype:пӗр:один
+ек:nonetype:пĕр:один
+ек:nonetype:пĕрре:один
+тәңре:nonetype:турă:божий
+алла:nonetype:турă:божий
+сеимуьн:nonetype:виççĕмĕш:третий
+кем:pronoun:кам:кто
+куй:nonetype:сурăх:овечий
+иму:nonetype:эпир:мы
+иму:nonetype:эпĕр:мы
+ул:pronoun:вӑл:оно
+ул:pronoun:вӑл:она
+күп:nonetype:нумай:многие
+син:pronoun:эсĕр:вы
+сез:pronoun:эсĕр:вы
+кемдер:nonetype:такам:некто
+без:pronoun:эпир:мы
+без:pronoun:эпĕр:мы
+дип:nonetype:мӗн:что
+дип:nonetype:мĕн:что
+нәрсә:pronoun:мӗн:что
+нәрсә:pronoun:мĕн:что
+ни:pronoun:мӗн:что
+ни:pronoun:мĕн:что
+он:nonetype:вӑл:он
+он:nonetype:у:он
+он:nonetype:вăл:он
+ул:pronoun:вӑл:он
+ул:pronoun:у:он
+ул:pronoun:вăл:он
+nons:nonetype:пӗрре:один
+nons:nonetype:пӗр:один
+nons:nonetype:пĕр:один
+nons:nonetype:пĕрре:один
+huk:nonetype:пĕтĕм:весь
+huk:nonetype:пурте:весь
+huk:nonetype:пур:весь
+hok:nonetype:пĕтĕм:весь
+hok:nonetype:пурте:весь
+hok:nonetype:пур:весь
+imahese:nonetype:вĕсем:они
+imahese:nonetype:вӗсем:они
+-hne:nonetype:вĕсем:они
+-hne:nonetype:вӗсем:они
+-hle:nonetype:вĕсем:они
+-hle:nonetype:вӗсем:они
+-hla:nonetype:вĕсем:они
+-hla:nonetype:вӗсем:они
+nekin:nonetype:ку:это
+neke:nonetype:ку:это
+lewa:nonetype:ку:это
+ул:pronoun:вĕсем:они
+ул:pronoun:вӗсем:они
+alar:nonetype:вĕсем:они
+alar:nonetype:вӗсем:они
+алар:pronoun:вĕсем:они
+алар:pronoun:вӗсем:они
+бусы:nonetype:вǎл:тот
+бусы:nonetype:леш:тот
+waʼe-:nonetype:эпир:мы
+waʼe-:nonetype:эпĕр:мы
+mimahuk:nonetype:эпир:мы
+mimahuk:nonetype:эпĕр:мы
+maʼe-:nonetype:эпир:мы
+maʼe-:nonetype:эпĕр:мы
+man:nonetype:эпир:мы
+man:nonetype:эпĕр:мы
+im:nonetype:вӑл:он
+im:nonetype:у:он
+im:nonetype:вăл:он
+yimahuk:nonetype:эсĕр:вы
+yimahuk:nonetype:эсир:вы
+-pui:nonetype:эсĕр:вы
+-pui:nonetype:эсир:вы
+-pua:nonetype:эсĕр:вы
+-pua:nonetype:эсир:вы
+aken:nonetype:мӗн:что
+aken:nonetype:мĕн:что
+yukan:nonetype:вǎл:тот
+yukan:nonetype:леш:тот
+hekin:nonetype:вǎл:тот
+hekin:nonetype:леш:тот
+heke:nonetype:вǎл:тот
+heke:nonetype:леш:тот
+ena:nonetype:вǎл:тот
+ena:nonetype:леш:тот
+nekin:nonetype:ку:этот
+neke:nonetype:ку:этот
+lewa:nonetype:ку:этот
+yukan:nonetype:вǎл:то
+yukan:nonetype:леш:то
+hekin:nonetype:вǎл:то
+hekin:nonetype:леш:то
+heke:nonetype:вǎл:то
+heke:nonetype:леш:то
+ena:nonetype:вǎл:то
+ena:nonetype:леш:то
+huk:nonetype:нормально:все
+huk:nonetype:мĕнпур:все
+huk:nonetype:пĕтĕм:все
+huk:nonetype:пурте:все
+huk:nonetype:пур:все
+hok:nonetype:нормально:все
+hok:nonetype:мĕнпур:все
+hok:nonetype:пĕтĕм:все
+hok:nonetype:пурте:все
+hok:nonetype:пур:все
+бөтенесе:pronoun:пĕтĕм кун:весь
+бөтенесе:pronoun:яра куна:весь
+һәммә:nonetype:пĕтĕм:весь
+һәммә:nonetype:пурте:весь
+һәммә:nonetype:пур:весь
+бөтен:nonetype:пĕтĕм:весь
+бөтен:nonetype:пурте:весь
+бөтен:nonetype:пур:весь
+бары:pronoun:пĕтĕм кун:весь
+бары:pronoun:яра куна:весь
+ketowa:nonetype:кам:кто
+etowa:nonetype:кам:кто
+барча:nonetype:нормально:все
+барча:nonetype:мĕнпур:все
+барча:nonetype:пĕтĕм:все
+барча:nonetype:пурте:все
+барча:nonetype:пур:все
+барлык:nonetype:нормально:все
+барлык:nonetype:мĕнпур:все
+барлык:nonetype:пĕтĕм:все
+барлык:nonetype:пурте:все
+барлык:nonetype:пур:все
+һәммә:nonetype:нормально:все
+һәммә:nonetype:мĕнпур:все
+һәммә:nonetype:пĕтĕм:все
+һәммә:nonetype:пурте:все
+һәммә:nonetype:пур:все
+бөтен:nonetype:нормально:все
+бөтен:nonetype:мĕнпур:все
+бөтен:nonetype:пĕтĕм:все
+бөтен:nonetype:пурте:все
+бөтен:nonetype:пур:все
+бары:nonetype:нормально:все
+бары:nonetype:мĕнпур:все
+бары:nonetype:пĕтĕм:все
+бары:nonetype:пурте:все
+бары:nonetype:пур:все
+шул:nonetype:вǎл:то
+шул:nonetype:леш:то
+теге:nonetype:вǎл:то
+теге:nonetype:леш:то
